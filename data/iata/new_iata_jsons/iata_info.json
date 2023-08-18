@@ -1,0 +1,9842 @@
+{
+  "AAL": {
+    "country": "Denmark",
+    "city": "Aalborg"
+  },
+  "ZID": {
+    "country": "Denmark",
+    "city": "Aarhus"
+  },
+  "AAR": {
+    "country": "Denmark",
+    "city": "Aarhus"
+  },
+  "BLL": {
+    "country": "Denmark",
+    "city": "Billund"
+  },
+  "RNN": {
+    "country": "Denmark",
+    "city": "Bornholm"
+  },
+  "BWE": {
+    "country": "Denmark",
+    "city": "Braunschweig"
+  },
+  "CPH": {
+    "country": "Denmark",
+    "city": "Copenhagen"
+  },
+  "EBJ": {
+    "country": "Denmark",
+    "city": "Esbjerg"
+  },
+  "ZBB": {
+    "country": "Denmark",
+    "city": "Esbjerg"
+  },
+  "ZBJ": {
+    "country": "Denmark",
+    "city": "Fredericia"
+  },
+  "XAK": {
+    "country": "Denmark",
+    "city": "Herning"
+  },
+  "MJD": {
+    "country": "Denmark",
+    "city": "Mohenjodaro"
+  },
+  "ZBQ": {
+    "country": "Denmark",
+    "city": "Odense"
+  },
+  "AES": {
+    "country": "Norway",
+    "city": "Aalesund"
+  },
+  "ALF": {
+    "country": "Norway",
+    "city": "Alta"
+  },
+  "ANX": {
+    "country": "Norway",
+    "city": "Andenes"
+  },
+  "BDU": {
+    "country": "Norway",
+    "city": "Bardufoss"
+  },
+  "BJF": {
+    "country": "Norway",
+    "city": "Batsfijord"
+  },
+  "BGO": {
+    "country": "Norway",
+    "city": "Bergen"
+  },
+  "BVG": {
+    "country": "Norway",
+    "city": "Berlevag"
+  },
+  "BOO": {
+    "country": "Norway",
+    "city": "Bodo"
+  },
+  "BNN": {
+    "country": "Norway",
+    "city": "Bronnoysund"
+  },
+  "VDB": {
+    "country": "Norway",
+    "city": "Fagernes"
+  },
+  "FRO": {
+    "country": "Norway",
+    "city": "Floro"
+  },
+  "FDE": {
+    "country": "Norway",
+    "city": "Forde"
+  },
+  "HFT": {
+    "country": "Norway",
+    "city": "Hammerfest"
+  },
+  "EVE": {
+    "country": "Norway",
+    "city": "Harstad-Narvik"
+  },
+  "HAA": {
+    "country": "Norway",
+    "city": "Hasvik"
+  },
+  "HAU": {
+    "country": "Norway",
+    "city": "Haugesund"
+  },
+  "HVG": {
+    "country": "Norway",
+    "city": "Honningsvag"
+  },
+  "LKL": {
+    "country": "Norway",
+    "city": "Lakselv"
+  },
+  "LKN": {
+    "country": "Norway",
+    "city": "Leknes"
+  },
+  "MEH": {
+    "country": "Norway",
+    "city": "Mehamn"
+  },
+  "MQN": {
+    "country": "Norway",
+    "city": "Mo I Rana"
+  },
+  "MOL": {
+    "country": "Norway",
+    "city": "Molde"
+  },
+  "MJF": {
+    "country": "Norway",
+    "city": "Mosjoen"
+  },
+  "OSY": {
+    "country": "Norway",
+    "city": "Namsos"
+  },
+  "NVK": {
+    "country": "Norway",
+    "city": "Narvik"
+  },
+  "HOV": {
+    "country": "Norway",
+    "city": "Orsta-Volda"
+  },
+  "OSL": {
+    "country": "Norway",
+    "city": "Oslo"
+  },
+  "TRF": {
+    "country": "Norway",
+    "city": "Oslo"
+  },
+  "RVK": {
+    "country": "Norway",
+    "city": "Roervik"
+  },
+  "ZXM": {
+    "country": "Norway",
+    "city": "Rognan"
+  },
+  "RRS": {
+    "country": "Norway",
+    "city": "Roros"
+  },
+  "RET": {
+    "country": "Norway",
+    "city": "Rost"
+  },
+  "QFK": {
+    "country": "Norway",
+    "city": "Selje"
+  },
+  "SOG": {
+    "country": "Norway",
+    "city": "Sognolal"
+  },
+  "SOJ": {
+    "country": "Norway",
+    "city": "Sorkjosen"
+  },
+  "SVG": {
+    "country": "Norway",
+    "city": "Stavanger"
+  },
+  "SVJ": {
+    "country": "Norway",
+    "city": "Svolvaer"
+  },
+  "TOS": {
+    "country": "Norway",
+    "city": "Tromso"
+  },
+  "TRD": {
+    "country": "Norway",
+    "city": "Trondheim"
+  },
+  "VDS": {
+    "country": "Norway",
+    "city": "Vadso"
+  },
+  "VAW": {
+    "country": "Norway",
+    "city": "Vardoe"
+  },
+  "JEG": {
+    "country": "Greenland",
+    "city": "Aasiaat"
+  },
+  "JGR": {
+    "country": "Greenland",
+    "city": "Groennedal"
+  },
+  "JAV": {
+    "country": "Greenland",
+    "city": "Ilulissat"
+  },
+  "KUS": {
+    "country": "Greenland",
+    "city": "Kulusuk"
+  },
+  "JSU": {
+    "country": "Greenland",
+    "city": "Mariitsoq"
+  },
+  "JNN": {
+    "country": "Greenland",
+    "city": "Nanortalik"
+  },
+  "JNS": {
+    "country": "Greenland",
+    "city": "Narsaq"
+  },
+  "UAK": {
+    "country": "Greenland",
+    "city": "Narsarsuaq"
+  },
+  "CNP": {
+    "country": "Greenland",
+    "city": "Neerlerit Inaat"
+  },
+  "GOH": {
+    "country": "Greenland",
+    "city": "Nuuk"
+  },
+  "JFR": {
+    "country": "Greenland",
+    "city": "Paamiut"
+  },
+  "THU": {
+    "country": "Greenland",
+    "city": "Pituffik"
+  },
+  "JJU": {
+    "country": "Greenland",
+    "city": "Qaqortoq"
+  },
+  "JHS": {
+    "country": "Greenland",
+    "city": "Sisimiut"
+  },
+  "JUV": {
+    "country": "Greenland",
+    "city": "Upernavik"
+  },
+  "ABD": {
+    "country": "Iran",
+    "city": "Abadan"
+  },
+  "AWZ": {
+    "country": "Iran",
+    "city": "Ahwaz"
+  },
+  "ADU": {
+    "country": "Iran",
+    "city": "Ardabil"
+  },
+  "BXR": {
+    "country": "Iran",
+    "city": "Bam"
+  },
+  "BND": {
+    "country": "Iran",
+    "city": "Bandar Abbas"
+  },
+  "BDH": {
+    "country": "Iran",
+    "city": "Bandar Lengeh"
+  },
+  "BUZ": {
+    "country": "Iran",
+    "city": "Bashehr"
+  },
+  "BJB": {
+    "country": "Iran",
+    "city": "Bojnord"
+  },
+  "ZBR": {
+    "country": "Iran",
+    "city": "Chah-Bahar"
+  },
+  "IFN": {
+    "country": "Iran",
+    "city": "Isfahan"
+  },
+  "MHD": {
+    "country": "Iran",
+    "city": "Mashad"
+  },
+  "RJN": {
+    "country": "Iran",
+    "city": "Rafsanjan"
+  },
+  "RAS": {
+    "country": "Iran",
+    "city": "Rasht"
+  },
+  "SYZ": {
+    "country": "Iran",
+    "city": "Shiraz"
+  },
+  "TBZ": {
+    "country": "Iran",
+    "city": "Tabriz"
+  },
+  "THR": {
+    "country": "Iran",
+    "city": "Tehran"
+  },
+  "OMH": {
+    "country": "Iran",
+    "city": "Urmieh"
+  },
+  "AZD": {
+    "country": "Iran",
+    "city": "Yazd"
+  },
+  "ZAH": {
+    "country": "Iran",
+    "city": "Zahedan"
+  },
+  "ABA": {
+    "country": "Russia",
+    "city": "Abakan"
+  },
+  "AER": {
+    "country": "Russia",
+    "city": "Adler/Sochi"
+  },
+  "AMV": {
+    "country": "Russia",
+    "city": "Amderma"
+  },
+  "DYR": {
+    "country": "Russia",
+    "city": "Anadyr"
+  },
+  "AAQ": {
+    "country": "Russia",
+    "city": "Anapa"
+  },
+  "ARH": {
+    "country": "Russia",
+    "city": "Arkangelsk"
+  },
+  "ASF": {
+    "country": "Russia",
+    "city": "Astrakhan"
+  },
+  "BAX": {
+    "country": "Russia",
+    "city": "Barnaul"
+  },
+  "EGO": {
+    "country": "Russia",
+    "city": "Belgorod"
+  },
+  "BQS": {
+    "country": "Russia",
+    "city": "Blagoveschensk"
+  },
+  "BTK": {
+    "country": "Russia",
+    "city": "Bratsk"
+  },
+  "UUA": {
+    "country": "Russia",
+    "city": "Bulgulma"
+  },
+  "CSY": {
+    "country": "Russia",
+    "city": "Cheboksary"
+  },
+  "CEK": {
+    "country": "Russia",
+    "city": "Chelybinsk"
+  },
+  "CEE": {
+    "country": "Russia",
+    "city": "Chevepovets"
+  },
+  "HTA": {
+    "country": "Russia",
+    "city": "Chita"
+  },
+  "SVX": {
+    "country": "Russia",
+    "city": "Ekaterinburg"
+  },
+  "ESL": {
+    "country": "Russia",
+    "city": "Elista"
+  },
+  "GDZ": {
+    "country": "Russia",
+    "city": "Gelendzik"
+  },
+  "IAA": {
+    "country": "Russia",
+    "city": "Igarka"
+  },
+  "INA": {
+    "country": "Russia",
+    "city": "Inta"
+  },
+  "IKT": {
+    "country": "Russia",
+    "city": "Irkutsk"
+  },
+  "KGD": {
+    "country": "Russia",
+    "city": "Kaliningrad"
+  },
+  "KZN": {
+    "country": "Russia",
+    "city": "Kazan"
+  },
+  "KXK": {
+    "country": "Russia",
+    "city": "Komsomolsk Na Amure"
+  },
+  "KYZ": {
+    "country": "Russia",
+    "city": "Kyzyl"
+  },
+  "GDX": {
+    "country": "Russia",
+    "city": "Magadan"
+  },
+  "MQF": {
+    "country": "Russia",
+    "city": "Magnitogorsk"
+  },
+  "MCX": {
+    "country": "Russia",
+    "city": "Makhachkala"
+  },
+  "MRV": {
+    "country": "Russia",
+    "city": "Mineralnye Vody"
+  },
+  "MJZ": {
+    "country": "Russia",
+    "city": "Mirnyj"
+  },
+  "MOW": {
+    "country": "Russia",
+    "city": "Moscow"
+  },
+  "BKA": {
+    "country": "Russia",
+    "city": "Moscow"
+  },
+  "DME": {
+    "country": "Russia",
+    "city": "Moscow"
+  },
+  "SVO": {
+    "country": "Russia",
+    "city": "Moscow"
+  },
+  "VKO": {
+    "country": "Russia",
+    "city": "Moscow"
+  },
+  "MMK": {
+    "country": "Russia",
+    "city": "Murmansk"
+  },
+  "NYM": {
+    "country": "Russia",
+    "city": "Nadym"
+  },
+  "NAL": {
+    "country": "Russia",
+    "city": "Nalchik"
+  },
+  "NNM": {
+    "country": "Russia",
+    "city": "Naryan-Mar"
+  },
+  "NUX": {
+    "country": "Russia",
+    "city": "NayUrengoy"
+  },
+  "NFG": {
+    "country": "Russia",
+    "city": "Nefteyugansk"
+  },
+  "NER": {
+    "country": "Russia",
+    "city": "Neryjungri"
+  },
+  "NJC": {
+    "country": "Russia",
+    "city": "Nizhnevartovsk"
+  },
+  "GOJ": {
+    "country": "Russia",
+    "city": "Nizhniy Novgorod"
+  },
+  "NOJ": {
+    "country": "Russia",
+    "city": "Nojabrxsk"
+  },
+  "NSK": {
+    "country": "Russia",
+    "city": "Noril'sk"
+  },
+  "NVR": {
+    "country": "Russia",
+    "city": "Novgorod"
+  },
+  "NOZ": {
+    "country": "Russia",
+    "city": "Novokuznetsk"
+  },
+  "OVB": {
+    "country": "Russia",
+    "city": "Novosibirsk"
+  },
+  "OHO": {
+    "country": "Russia",
+    "city": "Okhotsk"
+  },
+  "OMS": {
+    "country": "Russia",
+    "city": "Omsk"
+  },
+  "REN": {
+    "country": "Russia",
+    "city": "Orenburg"
+  },
+  "OSW": {
+    "country": "Russia",
+    "city": "Orsk"
+  },
+  "PEX": {
+    "country": "Russia",
+    "city": "Pechora"
+  },
+  "PEE": {
+    "country": "Russia",
+    "city": "Perm"
+  },
+  "PKC": {
+    "country": "Russia",
+    "city": "Petropaulousk-Kamchats"
+  },
+  "PES": {
+    "country": "Russia",
+    "city": "Petrozavodsk"
+  },
+  "PYJ": {
+    "country": "Russia",
+    "city": "Polyarnyj"
+  },
+  "RAT": {
+    "country": "Russia",
+    "city": "Raduzhnyi"
+  },
+  "ROV": {
+    "country": "Russia",
+    "city": "Rostov"
+  },
+  "LED": {
+    "country": "Russia",
+    "city": "St. Petersburg"
+  },
+  "SLY": {
+    "country": "Russia",
+    "city": "Salehard"
+  },
+  "KUF": {
+    "country": "Russia",
+    "city": "Samara"
+  },
+  "RTW": {
+    "country": "Russia",
+    "city": "Saratov"
+  },
+  "STW": {
+    "country": "Russia",
+    "city": "Stavropol"
+  },
+  "IKS": {
+    "country": "Russia",
+    "city": "Tiksi"
+  },
+  "TOF": {
+    "country": "Russia",
+    "city": "Tomsk"
+  },
+  "TJM": {
+    "country": "Russia",
+    "city": "Tyumen"
+  },
+  "UFA": {
+    "country": "Russia",
+    "city": "Ufa"
+  },
+  "UCT": {
+    "country": "Russia",
+    "city": "Ukhta"
+  },
+  "UUD": {
+    "country": "Russia",
+    "city": "Ulan-Ude"
+  },
+  "URJ": {
+    "country": "Russia",
+    "city": "Uraj"
+  },
+  "USK": {
+    "country": "Russia",
+    "city": "Usinsk"
+  },
+  "UIK": {
+    "country": "Russia",
+    "city": "Ust-Ilimsk"
+  },
+  "OGZ": {
+    "country": "Russia",
+    "city": "Vladikavkaz"
+  },
+  "VVO": {
+    "country": "Russia",
+    "city": "Vladivostok"
+  },
+  "VLK": {
+    "country": "Russia",
+    "city": "Volgodonsk"
+  },
+  "VOG": {
+    "country": "Russia",
+    "city": "Volgograd"
+  },
+  "VKT": {
+    "country": "Russia",
+    "city": "Vorkuta"
+  },
+  "VOZ": {
+    "country": "Russia",
+    "city": "Voronezh"
+  },
+  "YKS": {
+    "country": "Russia",
+    "city": "Yakutsk"
+  },
+  "IAR": {
+    "country": "Russia",
+    "city": "Yaroslavl"
+  },
+  "UUS": {
+    "country": "Russia",
+    "city": "Yuzhno-Sakhalinsk"
+  },
+  "ABZ": {
+    "country": "United Kingdom",
+    "city": "Aberdeen"
+  },
+  "ACI": {
+    "country": "United Kingdom",
+    "city": "Alderney"
+  },
+  "BRR": {
+    "country": "United Kingdom",
+    "city": "Barra"
+  },
+  "BFS": {
+    "country": "United Kingdom",
+    "city": "Belfast"
+  },
+  "BHD": {
+    "country": "United Kingdom",
+    "city": "Belfast"
+  },
+  "BEB": {
+    "country": "United Kingdom",
+    "city": "Benbecula"
+  },
+  "BHX": {
+    "country": "United Kingdom",
+    "city": "Birmingham"
+  },
+  "BLK": {
+    "country": "United Kingdom",
+    "city": "Blackpool"
+  },
+  "BOH": {
+    "country": "United Kingdom",
+    "city": "Bournemouth"
+  },
+  "BRS": {
+    "country": "United Kingdom",
+    "city": "Bristol"
+  },
+  "CBG": {
+    "country": "United Kingdom",
+    "city": "Cambridge"
+  },
+  "CAL": {
+    "country": "United Kingdom",
+    "city": "Campbeltown"
+  },
+  "CWL": {
+    "country": "United Kingdom",
+    "city": "Cardiff"
+  },
+  "CEG": {
+    "country": "United Kingdom",
+    "city": "Chester"
+  },
+  "DND": {
+    "country": "United Kingdom",
+    "city": "Dundee"
+  },
+  "EOI": {
+    "country": "United Kingdom",
+    "city": "Eday"
+  },
+  "EDI": {
+    "country": "United Kingdom",
+    "city": "Edinburgh"
+  },
+  "EXT": {
+    "country": "United Kingdom",
+    "city": "Eveter"
+  },
+  "FIE": {
+    "country": "United Kingdom",
+    "city": "Fair Isle"
+  },
+  "FZO": {
+    "country": "United Kingdom",
+    "city": "Filton"
+  },
+  "GLA": {
+    "country": "United Kingdom",
+    "city": "Glasgow"
+  },
+  "PIK": {
+    "country": "United Kingdom",
+    "city": "Glasgow"
+  },
+  "GCI": {
+    "country": "United Kingdom",
+    "city": "Guernsey"
+  },
+  "HUY": {
+    "country": "United Kingdom",
+    "city": "Humberside"
+  },
+  "INV": {
+    "country": "United Kingdom",
+    "city": "Inverness"
+  },
+  "ILY": {
+    "country": "United Kingdom",
+    "city": "Islay"
+  },
+  "IOM": {
+    "country": "United Kingdom",
+    "city": "Isle of Man"
+  },
+  "ISC": {
+    "country": "United Kingdom",
+    "city": "Isles of Scilly"
+  },
+  "TSO": {
+    "country": "United Kingdom",
+    "city": "Isles of Scilly"
+  },
+  "JER": {
+    "country": "United Kingdom",
+    "city": "Jersey"
+  },
+  "LEQ": {
+    "country": "United Kingdom",
+    "city": "Lands End"
+  },
+  "LBA": {
+    "country": "United Kingdom",
+    "city": "Leeds"
+  },
+  "LPL": {
+    "country": "United Kingdom",
+    "city": "Liverpool"
+  },
+  "LON": {
+    "country": "United Kingdom",
+    "city": "London"
+  },
+  "BQH": {
+    "country": "United Kingdom",
+    "city": "London"
+  },
+  "LGW": {
+    "country": "United Kingdom",
+    "city": "London"
+  },
+  "LHR": {
+    "country": "United Kingdom",
+    "city": "London"
+  },
+  "LCY": {
+    "country": "United Kingdom",
+    "city": "London"
+  },
+  "LTN": {
+    "country": "United Kingdom",
+    "city": "London"
+  },
+  "STN": {
+    "country": "United Kingdom",
+    "city": "London"
+  },
+  "LDY": {
+    "country": "United Kingdom",
+    "city": "Londonderry"
+  },
+  "QQP": {
+    "country": "United Kingdom",
+    "city": "London-Paddington"
+  },
+  "MAN": {
+    "country": "United Kingdom",
+    "city": "Manchester"
+  },
+  "MSE": {
+    "country": "United Kingdom",
+    "city": "Manston"
+  },
+  "NCL": {
+    "country": "United Kingdom",
+    "city": "Newcastle"
+  },
+  "NQY": {
+    "country": "United Kingdom",
+    "city": "Newquay"
+  },
+  "NRL": {
+    "country": "United Kingdom",
+    "city": "North Ronaldsay"
+  },
+  "NWI": {
+    "country": "United Kingdom",
+    "city": "Norwich"
+  },
+  "EMA": {
+    "country": "United Kingdom",
+    "city": "Nottingham"
+  },
+  "PPW": {
+    "country": "United Kingdom",
+    "city": "Papa Westray"
+  },
+  "PZE": {
+    "country": "United Kingdom",
+    "city": "Penzance"
+  },
+  "PLH": {
+    "country": "United Kingdom",
+    "city": "Plymouth"
+  },
+  "NDY": {
+    "country": "United Kingdom",
+    "city": "Sanday"
+  },
+  "SZD": {
+    "country": "United Kingdom",
+    "city": "Sheffield"
+  },
+  "LWK": {
+    "country": "United Kingdom",
+    "city": "Shetland Islands"
+  },
+  "LSI": {
+    "country": "United Kingdom",
+    "city": "Shetland Islands"
+  },
+  "SOU": {
+    "country": "United Kingdom",
+    "city": "South Hampton"
+  },
+  "SYY": {
+    "country": "United Kingdom",
+    "city": "Stornoway"
+  },
+  "SOY": {
+    "country": "United Kingdom",
+    "city": "Stronsay"
+  },
+  "MME": {
+    "country": "United Kingdom",
+    "city": "Teesside"
+  },
+  "TRE": {
+    "country": "United Kingdom",
+    "city": "Tiree"
+  },
+  "WRY": {
+    "country": "United Kingdom",
+    "city": "Westray"
+  },
+  "WIC": {
+    "country": "United Kingdom",
+    "city": "Wick"
+  },
+  "AHB": {
+    "country": "Saudi Arabia",
+    "city": "Abha"
+  },
+  "ABT": {
+    "country": "Saudi Arabia",
+    "city": "Al-Baha"
+  },
+  "RAE": {
+    "country": "Saudi Arabia",
+    "city": "Arar"
+  },
+  "BHH": {
+    "country": "Saudi Arabia",
+    "city": "Bisha"
+  },
+  "DMM": {
+    "country": "Saudi Arabia",
+    "city": "Dammam"
+  },
+  "ELQ": {
+    "country": "Saudi Arabia",
+    "city": "Gassim"
+  },
+  "GIZ": {
+    "country": "Saudi Arabia",
+    "city": "Gizan"
+  },
+  "URY": {
+    "country": "Saudi Arabia",
+    "city": "Gurayat"
+  },
+  "HAS": {
+    "country": "Saudi Arabia",
+    "city": "Hail"
+  },
+  "HOF": {
+    "country": "Saudi Arabia",
+    "city": "Hofuf"
+  },
+  "JED": {
+    "country": "Saudi Arabia",
+    "city": "Jeddah"
+  },
+  "AJF": {
+    "country": "Saudi Arabia",
+    "city": "Jouf"
+  },
+  "MED": {
+    "country": "Saudi Arabia",
+    "city": "Madinah"
+  },
+  "EAM": {
+    "country": "Saudi Arabia",
+    "city": "Nejran"
+  },
+  "AQI": {
+    "country": "Saudi Arabia",
+    "city": "Qaisumah"
+  },
+  "RAH": {
+    "country": "Saudi Arabia",
+    "city": "Rafha"
+  },
+  "RUH": {
+    "country": "Saudi Arabia",
+    "city": "Riyadh"
+  },
+  "TUU": {
+    "country": "Saudi Arabia",
+    "city": "Tabuk"
+  },
+  "TIF": {
+    "country": "Saudi Arabia",
+    "city": "Taif"
+  },
+  "TUI": {
+    "country": "Saudi Arabia",
+    "city": "Turaif"
+  },
+  "WAE": {
+    "country": "Saudi Arabia",
+    "city": "Wadi Ad Dawasir"
+  },
+  "EJH": {
+    "country": "Saudi Arabia",
+    "city": "Wedjh"
+  },
+  "YNB": {
+    "country": "Saudi Arabia",
+    "city": "Yanbu"
+  },
+  "ABJ": {
+    "country": "Cote d'Ivoire",
+    "city": "Abidjan"
+  },
+  "AUH": {
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi"
+  },
+  "AAN": {
+    "country": "United Arab Emirates",
+    "city": "Al Ain"
+  },
+  "FJR": {
+    "country": "United Arab Emirates",
+    "city": "Al-Fujairah"
+  },
+  "DXB": {
+    "country": "United Arab Emirates",
+    "city": "Dubai"
+  },
+  "RKT": {
+    "country": "United Arab Emirates",
+    "city": "Ras Al Khaimah"
+  },
+  "ABS": {
+    "country": "Egypt",
+    "city": "Abu Simbel"
+  },
+  "AAC": {
+    "country": "Egypt",
+    "city": "Al Arish"
+  },
+  "ALY": {
+    "country": "Egypt",
+    "city": "Alexandria"
+  },
+  "ATZ": {
+    "country": "Egypt",
+    "city": "Assiut"
+  },
+  "ASW": {
+    "country": "Egypt",
+    "city": "Aswan"
+  },
+  "HBE": {
+    "country": "Egypt",
+    "city": "Borg El Arab"
+  },
+  "CAI": {
+    "country": "Egypt",
+    "city": "Cairo"
+  },
+  "HRG": {
+    "country": "Egypt",
+    "city": "Hurghada"
+  },
+  "UVL": {
+    "country": "Egypt",
+    "city": "Kharga"
+  },
+  "LXR": {
+    "country": "Egypt",
+    "city": "Luxor"
+  },
+  "MUH": {
+    "country": "Egypt",
+    "city": "Mersa Matruh"
+  },
+  "SSH": {
+    "country": "Egypt",
+    "city": "Sharm El Sheikh"
+  },
+  "TCP": {
+    "country": "Egypt",
+    "city": "Taba"
+  },
+  "ABV": {
+    "country": "Nigeria",
+    "city": "Abuja"
+  },
+  "CBQ": {
+    "country": "Nigeria",
+    "city": "Calabar"
+  },
+  "ENU": {
+    "country": "Nigeria",
+    "city": "Enugu"
+  },
+  "KAN": {
+    "country": "Nigeria",
+    "city": "Kano"
+  },
+  "LOS": {
+    "country": "Nigeria",
+    "city": "Lagos"
+  },
+  "PHC": {
+    "country": "Nigeria",
+    "city": "Port Harcourt"
+  },
+  "ACA": {
+    "country": "Mexico",
+    "city": "Acapulco"
+  },
+  "AGU": {
+    "country": "Mexico",
+    "city": "Aguascalientes"
+  },
+  "SJD": {
+    "country": "Mexico",
+    "city": "Los Cabos"
+  },
+  "CPE": {
+    "country": "Mexico",
+    "city": "Campeche"
+  },
+  "CUN": {
+    "country": "Mexico",
+    "city": "Cancun"
+  },
+  "CTM": {
+    "country": "Mexico",
+    "city": "Chetumal"
+  },
+  "CUU": {
+    "country": "Mexico",
+    "city": "Chihuahua"
+  },
+  "CME": {
+    "country": "Mexico",
+    "city": "Ciudad Del Carmen"
+  },
+  "CJS": {
+    "country": "Mexico",
+    "city": "Ciudad Juarez"
+  },
+  "CEN": {
+    "country": "Mexico",
+    "city": "Ciudad Obregon"
+  },
+  "CVM": {
+    "country": "Mexico",
+    "city": "Ciudad Victoria"
+  },
+  "CLQ": {
+    "country": "Mexico",
+    "city": "Colima"
+  },
+  "CZM": {
+    "country": "Mexico",
+    "city": "Cozumel"
+  },
+  "CVJ": {
+    "country": "Mexico",
+    "city": "Cuernavaca"
+  },
+  "CUL": {
+    "country": "Mexico",
+    "city": "Culiacan"
+  },
+  "DGO": {
+    "country": "Mexico",
+    "city": "Durango"
+  },
+  "GDL": {
+    "country": "Mexico",
+    "city": "Guadalajara"
+  },
+  "BJX": {
+    "country": "Mexico",
+    "city": "Leon"
+  },
+  "GYM": {
+    "country": "Mexico",
+    "city": "Guaymas"
+  },
+  "GUB": {
+    "country": "Mexico",
+    "city": "Guerrero Negro"
+  },
+  "HMO": {
+    "country": "Mexico",
+    "city": "Hermosillo"
+  },
+  "HUX": {
+    "country": "Mexico",
+    "city": "Huatulco"
+  },
+  "ZIH": {
+    "country": "Mexico",
+    "city": "Zihuatanejo/Ixtapa"
+  },
+  "IZT": {
+    "country": "Mexico",
+    "city": "Ixtepec"
+  },
+  "JAL": {
+    "country": "Mexico",
+    "city": "Jalapa"
+  },
+  "LAP": {
+    "country": "Mexico",
+    "city": "La Paz"
+  },
+  "LTO": {
+    "country": "Mexico",
+    "city": "Loreto"
+  },
+  "LMM": {
+    "country": "Mexico",
+    "city": "Los Mochis"
+  },
+  "LZC": {
+    "country": "Mexico",
+    "city": "Lozaro Cardenas"
+  },
+  "ZLO": {
+    "country": "Mexico",
+    "city": "Manzanillo"
+  },
+  "MAM": {
+    "country": "Mexico",
+    "city": "Matamoros"
+  },
+  "MZT": {
+    "country": "Mexico",
+    "city": "Mazatlan"
+  },
+  "MID": {
+    "country": "Mexico",
+    "city": "Merida"
+  },
+  "MXL": {
+    "country": "Mexico",
+    "city": "Mexicali"
+  },
+  "MEX": {
+    "country": "Mexico",
+    "city": "Mexico City"
+  },
+  "MTT": {
+    "country": "Mexico",
+    "city": "Minatitla"
+  },
+  "LOV": {
+    "country": "Mexico",
+    "city": "Monclova"
+  },
+  "MTY": {
+    "country": "Mexico",
+    "city": "Monterrey"
+  },
+  "MLM": {
+    "country": "Mexico",
+    "city": "Morelia"
+  },
+  "NLD": {
+    "country": "Mexico",
+    "city": "Nuevo Laredo"
+  },
+  "OAX": {
+    "country": "Mexico",
+    "city": "Oaxaca"
+  },
+  "PQM": {
+    "country": "Mexico",
+    "city": "Palenque"
+  },
+  "PDS": {
+    "country": "Mexico",
+    "city": "Piedras Negras"
+  },
+  "PAZ": {
+    "country": "Mexico",
+    "city": "Poza Rico"
+  },
+  "PBC": {
+    "country": "Mexico",
+    "city": "Puebla"
+  },
+  "PXM": {
+    "country": "Mexico",
+    "city": "Puerto Escondido"
+  },
+  "PVR": {
+    "country": "Mexico",
+    "city": "Puerto Vallarta"
+  },
+  "QRO": {
+    "country": "Mexico",
+    "city": "Queretaro"
+  },
+  "REX": {
+    "country": "Mexico",
+    "city": "Reynossa"
+  },
+  "SZT": {
+    "country": "Mexico",
+    "city": "S. Cristobal del Casas"
+  },
+  "SLW": {
+    "country": "Mexico",
+    "city": "Saltillo"
+  },
+  "SLP": {
+    "country": "Mexico",
+    "city": "San Luis Potosi"
+  },
+  "TAM": {
+    "country": "Mexico",
+    "city": "Tampico"
+  },
+  "TAP": {
+    "country": "Mexico",
+    "city": "Tapachula"
+  },
+  "TPQ": {
+    "country": "Mexico",
+    "city": "Tepic"
+  },
+  "TIJ": {
+    "country": "Mexico",
+    "city": "Tijuana"
+  },
+  "TLC": {
+    "country": "Mexico",
+    "city": "Toluco"
+  },
+  "TRC": {
+    "country": "Mexico",
+    "city": "Torreon"
+  },
+  "TGZ": {
+    "country": "Mexico",
+    "city": "Tuxtla Gutierrez"
+  },
+  "UPN": {
+    "country": "Mexico",
+    "city": "Uruapan"
+  },
+  "VER": {
+    "country": "Mexico",
+    "city": "Veracruz"
+  },
+  "VSA": {
+    "country": "Mexico",
+    "city": "Villahermosa"
+  },
+  "AGV": {
+    "country": "Venezuela",
+    "city": "Acarigua"
+  },
+  "BLA": {
+    "country": "Venezuela",
+    "city": "Barcelona"
+  },
+  "BNS": {
+    "country": "Venezuela",
+    "city": "Barinas"
+  },
+  "BRM": {
+    "country": "Venezuela",
+    "city": "Barquisimeto"
+  },
+  "CAS": {
+    "country": "Morocco",
+    "city": "Casablanca"
+  },
+  "CCS": {
+    "country": "Venezuela",
+    "city": "Caracas"
+  },
+  "CUP": {
+    "country": "Venezuela",
+    "city": "Carupani"
+  },
+  "CBL": {
+    "country": "Venezuela",
+    "city": "Ciudad Bolivar"
+  },
+  "CZE": {
+    "country": "Venezuela",
+    "city": "Coro"
+  },
+  "CUM": {
+    "country": "Venezuela",
+    "city": "Cumana"
+  },
+  "VIG": {
+    "country": "Venezuela",
+    "city": "El Vigia"
+  },
+  "GUI": {
+    "country": "Venezuela",
+    "city": "Guiria"
+  },
+  "LSP": {
+    "country": "Venezuela",
+    "city": "Las Piedras"
+  },
+  "MAR": {
+    "country": "Venezuela",
+    "city": "Maracaibo"
+  },
+  "MYC": {
+    "country": "Venezuela",
+    "city": "Maracay"
+  },
+  "MUN": {
+    "country": "Venezuela",
+    "city": "Maturin"
+  },
+  "MRD": {
+    "country": "Venezuela",
+    "city": "Merida"
+  },
+  "PMV": {
+    "country": "Venezuela",
+    "city": "Porlamar"
+  },
+  "PYH": {
+    "country": "Venezuela",
+    "city": "Puerto Ayacucha"
+  },
+  "PZO": {
+    "country": "Venezuela",
+    "city": "Puerto Ordaz"
+  },
+  "SVZ": {
+    "country": "Venezuela",
+    "city": "San Antonio"
+  },
+  "STB": {
+    "country": "Venezuela",
+    "city": "Santa Barbara"
+  },
+  "STD": {
+    "country": "Venezuela",
+    "city": "Santo Domingo"
+  },
+  "TUV": {
+    "country": "Venezuela",
+    "city": "Tucupita"
+  },
+  "VLN": {
+    "country": "Venezuela",
+    "city": "Valencia"
+  },
+  "VLV": {
+    "country": "Venezuela",
+    "city": "Valera"
+  },
+  "ACC": {
+    "country": "Ghana",
+    "city": "Accra"
+  },
+  "ADA": {
+    "country": "Turkey",
+    "city": "Adana"
+  },
+  "AJI": {
+    "country": "Turkey",
+    "city": "Agri"
+  },
+  "ESB": {
+    "country": "Turkey",
+    "city": "Ankara"
+  },
+  "ANK": {
+    "country": "Turkey",
+    "city": "Ankara"
+  },
+  "AYT": {
+    "country": "Turkey",
+    "city": "Antalya"
+  },
+  "BZI": {
+    "country": "Turkey",
+    "city": "Balikesir"
+  },
+  "BAL": {
+    "country": "Turkey",
+    "city": "Batman"
+  },
+  "BJV": {
+    "country": "Turkey",
+    "city": "Bodrum"
+  },
+  "DLM": {
+    "country": "Turkey",
+    "city": "Dalaman"
+  },
+  "DNZ": {
+    "country": "Turkey",
+    "city": "Denizli"
+  },
+  "DIY": {
+    "country": "Turkey",
+    "city": "Diyarbakir"
+  },
+  "EDO": {
+    "country": "Turkey",
+    "city": "Edremit"
+  },
+  "EZS": {
+    "country": "Turkey",
+    "city": "Elazig"
+  },
+  "ERC": {
+    "country": "Turkey",
+    "city": "Erzincan"
+  },
+  "ERZ": {
+    "country": "Turkey",
+    "city": "Erzurum"
+  },
+  "GZT": {
+    "country": "Turkey",
+    "city": "Gaziatep"
+  },
+  "IST": {
+    "country": "Turkey",
+    "city": "Istanbul"
+  },
+  "ADB": {
+    "country": "Turkey",
+    "city": "Izmir"
+  },
+  "ASR": {
+    "country": "Turkey",
+    "city": "Kayseri"
+  },
+  "KYA": {
+    "country": "Turkey",
+    "city": "Konya"
+  },
+  "KCM": {
+    "country": "Turkey",
+    "city": "Kahramanmaras"
+  },
+  "MLX": {
+    "country": "Turkey",
+    "city": "Malatya"
+  },
+  "MSR": {
+    "country": "Turkey",
+    "city": "Mus"
+  },
+  "VAS": {
+    "country": "Turkey",
+    "city": "Sivas"
+  },
+  "TZX": {
+    "country": "Turkey",
+    "city": "Trabzon"
+  },
+  "VAN": {
+    "country": "Turkey",
+    "city": "Van"
+  },
+  "ADD": {
+    "country": "Ethopia",
+    "city": "Addis Ababa"
+  },
+  "ASO": {
+    "country": "Ethopia",
+    "city": "Asosa"
+  },
+  "GDE": {
+    "country": "Ethopia",
+    "city": "Gode/Iddidole"
+  },
+  "ADL": {
+    "country": "Australia",
+    "city": "Adelaide"
+  },
+  "ABX": {
+    "country": "Australia",
+    "city": "Albury"
+  },
+  "ASP": {
+    "country": "Australia",
+    "city": "Alice Springs"
+  },
+  "GYL": {
+    "country": "Australia",
+    "city": "Argyle"
+  },
+  "ARM": {
+    "country": "Australia",
+    "city": "Armidale"
+  },
+  "AUU": {
+    "country": "Australia",
+    "city": "Aurukun"
+  },
+  "AYQ": {
+    "country": "Australia",
+    "city": "Ayers Rock"
+  },
+  "BDD": {
+    "country": "Australia",
+    "city": "Badu Island"
+  },
+  "BNK": {
+    "country": "Australia",
+    "city": "Ballina"
+  },
+  "ABM": {
+    "country": "Australia",
+    "city": "Bamaga"
+  },
+  "BCI": {
+    "country": "Australia",
+    "city": "Barcaldine"
+  },
+  "BRT": {
+    "country": "Australia",
+    "city": "Bathurst Island"
+  },
+  "BHS": {
+    "country": "Australia",
+    "city": "Bathurst"
+  },
+  "BEU": {
+    "country": "Australia",
+    "city": "Bedourie"
+  },
+  "BVI": {
+    "country": "Australia",
+    "city": "Birdsville"
+  },
+  "BKQ": {
+    "country": "Australia",
+    "city": "Blackall"
+  },
+  "BLT": {
+    "country": "Australia",
+    "city": "Blackwater"
+  },
+  "GIC": {
+    "country": "Australia",
+    "city": "Boiju Island"
+  },
+  "BOX": {
+    "country": "Australia",
+    "city": "Borroloola"
+  },
+  "BQL": {
+    "country": "Australia",
+    "city": "Boulia"
+  },
+  "BRK": {
+    "country": "Australia",
+    "city": "Bourke"
+  },
+  "BMP": {
+    "country": "Australia",
+    "city": "Brampton Island"
+  },
+  "BWQ": {
+    "country": "Australia",
+    "city": "Brewarrina"
+  },
+  "BNE": {
+    "country": "Australia",
+    "city": "Brisbane"
+  },
+  "BHQ": {
+    "country": "Australia",
+    "city": "Broken Hill"
+  },
+  "BME": {
+    "country": "Australia",
+    "city": "Broome"
+  },
+  "BDB": {
+    "country": "Australia",
+    "city": "Bundaberg"
+  },
+  "BUC": {
+    "country": "Australia",
+    "city": "Burketown"
+  },
+  "BWT": {
+    "country": "Australia",
+    "city": "Burnie"
+  },
+  "CNS": {
+    "country": "Australia",
+    "city": "Cairns"
+  },
+  "CBR": {
+    "country": "Australia",
+    "city": "Canberra"
+  },
+  "CVQ": {
+    "country": "Australia",
+    "city": "Carnarvon"
+  },
+  "CSI": {
+    "country": "Australia",
+    "city": "Casino"
+  },
+  "CED": {
+    "country": "Australia",
+    "city": "Cedun"
+  },
+  "CTL": {
+    "country": "Australia",
+    "city": "Charleville"
+  },
+  "CVC": {
+    "country": "Australia",
+    "city": "Cleve"
+  },
+  "CNJ": {
+    "country": "Australia",
+    "city": "Cloncurry"
+  },
+  "CAZ": {
+    "country": "Australia",
+    "city": "Cobar"
+  },
+  "CNC": {
+    "country": "Australia",
+    "city": "Coconut Island"
+  },
+  "CUQ": {
+    "country": "Australia",
+    "city": "Coen"
+  },
+  "CFS": {
+    "country": "Australia",
+    "city": "Coffs Harbor"
+  },
+  "CPD": {
+    "country": "Australia",
+    "city": "Coober Pedy"
+  },
+  "CTN": {
+    "country": "Australia",
+    "city": "Cooktown"
+  },
+  "OOM": {
+    "country": "Australia",
+    "city": "Cooma"
+  },
+  "CNB": {
+    "country": "Australia",
+    "city": "Coonamble"
+  },
+  "CKI": {
+    "country": "Australia",
+    "city": "Croker Island"
+  },
+  "CMA": {
+    "country": "Australia",
+    "city": "Cunnamulla"
+  },
+  "NLF": {
+    "country": "Australia",
+    "city": "Darnley Island"
+  },
+  "DRW": {
+    "country": "Australia",
+    "city": "Darwin"
+  },
+  "DDI": {
+    "country": "Australia",
+    "city": "Daydream Is"
+  },
+  "DNM": {
+    "country": "Australia",
+    "city": "Denham"
+  },
+  "DRB": {
+    "country": "Australia",
+    "city": "Derby"
+  },
+  "DPO": {
+    "country": "Australia",
+    "city": "Devonport"
+  },
+  "DMD": {
+    "country": "Australia",
+    "city": "Doomadgee"
+  },
+  "DBO": {
+    "country": "Australia",
+    "city": "Dubbo"
+  },
+  "DKI": {
+    "country": "Australia",
+    "city": "Dunk Island"
+  },
+  "EDR": {
+    "country": "Australia",
+    "city": "Edward River"
+  },
+  "ELC": {
+    "country": "Australia",
+    "city": "Elcho Island"
+  },
+  "EMD": {
+    "country": "Australia",
+    "city": "Emerald"
+  },
+  "EPR": {
+    "country": "Australia",
+    "city": "Esperance"
+  },
+  "EXM": {
+    "country": "Australia",
+    "city": "Exmouth Gulf"
+  },
+  "FIZ": {
+    "country": "Australia",
+    "city": "Fitzroy Crossing"
+  },
+  "GPN": {
+    "country": "Australia",
+    "city": "Garden Point"
+  },
+  "GLT": {
+    "country": "Australia",
+    "city": "Gladstone"
+  },
+  "GLI": {
+    "country": "Australia",
+    "city": "Glen Innes"
+  },
+  "OOL": {
+    "country": "Australia",
+    "city": "Gold Coast"
+  },
+  "GBL": {
+    "country": "Australia",
+    "city": "Goulburn Island"
+  },
+  "GOV": {
+    "country": "Cameroon",
+    "city": "Garoua"
+  },
+  "GFN": {
+    "country": "Australia",
+    "city": "Grafton"
+  },
+  "GFF": {
+    "country": "Australia",
+    "city": "Griffith"
+  },
+  "GTE": {
+    "country": "Australia",
+    "city": "Groofe Eylandt"
+  },
+  "HCQ": {
+    "country": "Australia",
+    "city": "Halls Creek"
+  },
+  "HTI": {
+    "country": "Australia",
+    "city": "Hamilton Island"
+  },
+  "HIS": {
+    "country": "Australia",
+    "city": "Hayman Island"
+  },
+  "HVB": {
+    "country": "Australia",
+    "city": "Hervey Bay"
+  },
+  "HBA": {
+    "country": "Australia",
+    "city": "Hobart"
+  },
+  "HOK": {
+    "country": "Australia",
+    "city": "Hooker"
+  },
+  "HGD": {
+    "country": "Australia",
+    "city": "Hughenden"
+  },
+  "IVR": {
+    "country": "Australia",
+    "city": "Inverell"
+  },
+  "JCK": {
+    "country": "Australia",
+    "city": "Julia Creek"
+  },
+  "KAX": {
+    "country": "Australia",
+    "city": "Kalbarri"
+  },
+  "KTR": {
+    "country": "Australia",
+    "city": "Katherine"
+  },
+  "KWM": {
+    "country": "Australia",
+    "city": "Kowanyama"
+  },
+  "KUG": {
+    "country": "Australia",
+    "city": "Kubin Island"
+  },
+  "LST": {
+    "country": "Australia",
+    "city": "Launceston"
+  },
+  "LVO": {
+    "country": "Australia",
+    "city": "Laverton"
+  },
+  "LEA": {
+    "country": "Australia",
+    "city": "Learmonth"
+  },
+  "LER": {
+    "country": "Australia",
+    "city": "Leinster"
+  },
+  "LNO": {
+    "country": "Australia",
+    "city": "Leonora"
+  },
+  "LHG": {
+    "country": "Australia",
+    "city": "Lightning Ridge"
+  },
+  "LDC": {
+    "country": "Australia",
+    "city": "Lindeman Island"
+  },
+  "LSY": {
+    "country": "Australia",
+    "city": "Lismore"
+  },
+  "LZR": {
+    "country": "Australia",
+    "city": "Lizard Island"
+  },
+  "IRG": {
+    "country": "Australia",
+    "city": "Lockhart River"
+  },
+  "HAP": {
+    "country": "Australia",
+    "city": "Long Island"
+  },
+  "LRE": {
+    "country": "Australia",
+    "city": "Longreach"
+  },
+  "LDH": {
+    "country": "Australia",
+    "city": "Lord Howe Island"
+  },
+  "UBB": {
+    "country": "Australia",
+    "city": "Mabuiag Island"
+  },
+  "MKY": {
+    "country": "Australia",
+    "city": "Mackay"
+  },
+  "MNG": {
+    "country": "Australia",
+    "city": "Maningrioa"
+  },
+  "MBH": {
+    "country": "Australia",
+    "city": "Maryborough"
+  },
+  "MCV": {
+    "country": "Australia",
+    "city": "Mcarthur River"
+  },
+  "MKR": {
+    "country": "Australia",
+    "city": "Meekatharra"
+  },
+  "MEL": {
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  "MIM": {
+    "country": "Australia",
+    "city": "Merimbula"
+  },
+  "MQL": {
+    "country": "Australia",
+    "city": "Mildura"
+  },
+  "MGT": {
+    "country": "Australia",
+    "city": "Milingimbi"
+  },
+  "MJK": {
+    "country": "Australia",
+    "city": "Monkey Mia"
+  },
+  "MOV": {
+    "country": "Australia",
+    "city": "Moranbah"
+  },
+  "MRZ": {
+    "country": "Australia",
+    "city": "Moree"
+  },
+  "ONG": {
+    "country": "Australia",
+    "city": "Mornington"
+  },
+  "MYA": {
+    "country": "Australia",
+    "city": "Moruya"
+  },
+  "MGB": {
+    "country": "Australia",
+    "city": "Mount Gambier"
+  },
+  "MHU": {
+    "country": "Australia",
+    "city": "Mount Hotham"
+  },
+  "ISA": {
+    "country": "Australia",
+    "city": "Mount Isa"
+  },
+  "WME": {
+    "country": "Australia",
+    "city": "Mount Keith"
+  },
+  "MMG": {
+    "country": "Australia",
+    "city": "Mount Magnet"
+  },
+  "DGE": {
+    "country": "Australia",
+    "city": "Mudgee"
+  },
+  "MYI": {
+    "country": "Australia",
+    "city": "Murray Island"
+  },
+  "NAA": {
+    "country": "Australia",
+    "city": "Narrabri"
+  },
+  "NTL": {
+    "country": "Australia",
+    "city": "Newcastle"
+  },
+  "ZNE": {
+    "country": "Australia",
+    "city": "Newman"
+  },
+  "RPM": {
+    "country": "Australia",
+    "city": "Ngukurr"
+  },
+  "NTN": {
+    "country": "Australia",
+    "city": "Normanton"
+  },
+  "NUB": {
+    "country": "Australia",
+    "city": "Numbulwar"
+  },
+  "NYN": {
+    "country": "Australia",
+    "city": "Nyngan"
+  },
+  "OLP": {
+    "country": "Australia",
+    "city": "Olympic Dam"
+  },
+  "OAG": {
+    "country": "Australia",
+    "city": "Orange"
+  },
+  "PBO": {
+    "country": "Australia",
+    "city": "Paraburdoo"
+  },
+  "PER": {
+    "country": "Australia",
+    "city": "Perth"
+  },
+  "PUG": {
+    "country": "Australia",
+    "city": "Port Augusta"
+  },
+  "PHE": {
+    "country": "Australia",
+    "city": "Port Headland"
+  },
+  "PLO": {
+    "country": "Australia",
+    "city": "Port Lincoln"
+  },
+  "PQQ": {
+    "country": "Australia",
+    "city": "Port Macquarie"
+  },
+  "PTJ": {
+    "country": "Australia",
+    "city": "Portland"
+  },
+  "PPP": {
+    "country": "Australia",
+    "city": "Proserpine"
+  },
+  "ULP": {
+    "country": "Australia",
+    "city": "Quipi"
+  },
+  "RAM": {
+    "country": "Australia",
+    "city": "Ramingining"
+  },
+  "RCM": {
+    "country": "Australia",
+    "city": "Richmond"
+  },
+  "ROK": {
+    "country": "Australia",
+    "city": "Rockhampton"
+  },
+  "RMA": {
+    "country": "Australia",
+    "city": "Roma"
+  },
+  "JHQ": {
+    "country": "Australia",
+    "city": "Shute Harbor"
+  },
+  "SOI": {
+    "country": "Australia",
+    "city": "South Molle Island"
+  },
+  "SYU": {
+    "country": "Australia",
+    "city": "Sue Island"
+  },
+  "MCY": {
+    "country": "Australia",
+    "city": "Sunshine Coast"
+  },
+  "SYD": {
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  "TMW": {
+    "country": "Australia",
+    "city": "Tamworth"
+  },
+  "TRO": {
+    "country": "Australia",
+    "city": "Taree"
+  },
+  "TCA": {
+    "country": "Australia",
+    "city": "Tennant Creek"
+  },
+  "THG": {
+    "country": "Australia",
+    "city": "Thangool"
+  },
+  "XTG": {
+    "country": "Australia",
+    "city": "Thargomindah"
+  },
+  "TIS": {
+    "country": "Australia",
+    "city": "Thursday Island"
+  },
+  "TPR": {
+    "country": "Australia",
+    "city": "Tom Price"
+  },
+  "TWB": {
+    "country": "Australia",
+    "city": "Toowoomba"
+  },
+  "TSV": {
+    "country": "Australia",
+    "city": "Townsville"
+  },
+  "TGN": {
+    "country": "Australia",
+    "city": "Traralgon"
+  },
+  "USL": {
+    "country": "Australia",
+    "city": "Useless Loop"
+  },
+  "VCD": {
+    "country": "Australia",
+    "city": "Victoria River Downs"
+  },
+  "WGA": {
+    "country": "Australia",
+    "city": "Wagga Wagga"
+  },
+  "WGE": {
+    "country": "Australia",
+    "city": "Walgett"
+  },
+  "WEI": {
+    "country": "Australia",
+    "city": "Weipa"
+  },
+  "WYA": {
+    "country": "Australia",
+    "city": "Whyalla"
+  },
+  "WUN": {
+    "country": "Australia",
+    "city": "Wiluna"
+  },
+  "WNR": {
+    "country": "Australia",
+    "city": "Windarra"
+  },
+  "WIN": {
+    "country": "Australia",
+    "city": "Winton"
+  },
+  "WUD": {
+    "country": "Australia",
+    "city": "Wudinna"
+  },
+  "WYN": {
+    "country": "Australia",
+    "city": "Wyndham"
+  },
+  "XMY": {
+    "country": "Australia",
+    "city": "Yam Island"
+  },
+  "OKR": {
+    "country": "Australia",
+    "city": "Yorke Island"
+  },
+  "ADE": {
+    "country": "Yemen",
+    "city": "Aden"
+  },
+  "AAY": {
+    "country": "Yemen",
+    "city": "Al Ghaydah"
+  },
+  "AXK": {
+    "country": "Yemen",
+    "city": "Ataq"
+  },
+  "HOD": {
+    "country": "Yemen",
+    "city": "Hodeidah"
+  },
+  "RIY": {
+    "country": "Yemen",
+    "city": "Riyan Mukalla"
+  },
+  "SAH": {
+    "country": "Yemen",
+    "city": "Sana'a"
+  },
+  "GXF": {
+    "country": "Yemen",
+    "city": "Seiyun"
+  },
+  "TAI": {
+    "country": "Yemen",
+    "city": "Taiz"
+  },
+  "AZR": {
+    "country": "Algeria",
+    "city": "Adrar"
+  },
+  "ALG": {
+    "country": "Algeria",
+    "city": "Algiers"
+  },
+  "AAE": {
+    "country": "Algeria",
+    "city": "Annaba"
+  },
+  "BLJ": {
+    "country": "Algeria",
+    "city": "Batna"
+  },
+  "CBH": {
+    "country": "Algeria",
+    "city": "Bechar"
+  },
+  "BJA": {
+    "country": "Algeria",
+    "city": "Bejaia"
+  },
+  "BSK": {
+    "country": "Algeria",
+    "city": "Biskra"
+  },
+  "CZL": {
+    "country": "Algeria",
+    "city": "Constantine"
+  },
+  "DJG": {
+    "country": "Algeria",
+    "city": "Djanet"
+  },
+  "ELU": {
+    "country": "Algeria",
+    "city": "El Oved"
+  },
+  "GHA": {
+    "country": "Algeria",
+    "city": "Ghardala"
+  },
+  "HME": {
+    "country": "Algeria",
+    "city": "Hassi Messaoud"
+  },
+  "IAM": {
+    "country": "Algeria",
+    "city": "In Amenas"
+  },
+  "GJL": {
+    "country": "Algeria",
+    "city": "Jijel"
+  },
+  "ORN": {
+    "country": "Algeria",
+    "city": "Oran"
+  },
+  "OGX": {
+    "country": "Algeria",
+    "city": "Ouargla"
+  },
+  "TMR": {
+    "country": "Algeria",
+    "city": "Tamanrasset"
+  },
+  "TEE": {
+    "country": "Algeria",
+    "city": "Tbessa"
+  },
+  "TID": {
+    "country": "Algeria",
+    "city": "Tiaret"
+  },
+  "TMX": {
+    "country": "Algeria",
+    "city": "Timimoun"
+  },
+  "TIN": {
+    "country": "Algeria",
+    "city": "Tindouf"
+  },
+  "TLM": {
+    "country": "Algeria",
+    "city": "Tlemcen"
+  },
+  "AFT": {
+    "country": "Soloman Islands",
+    "city": "Afutara"
+  },
+  "AGA": {
+    "country": "Morocco",
+    "city": "Agadir"
+  },
+  "AHU": {
+    "country": "Morocco",
+    "city": "Al Hoceima"
+  },
+  "CMN": {
+    "country": "Morocco",
+    "city": "Casablanca"
+  },
+  "VIL": {
+    "country": "Morocco",
+    "city": "Dakhla"
+  },
+  "FEZ": {
+    "country": "Morocco",
+    "city": "Fez"
+  },
+  "EUN": {
+    "country": "Morocco",
+    "city": "Laayoune"
+  },
+  "NDR": {
+    "country": "Morocco",
+    "city": "Nadar"
+  },
+  "OZZ": {
+    "country": "Morocco",
+    "city": "Ouarzazate"
+  },
+  "OUD": {
+    "country": "Morocco",
+    "city": "Oujda"
+  },
+  "RBA": {
+    "country": "Morocco",
+    "city": "Rabat"
+  },
+  "TNG": {
+    "country": "Morocco",
+    "city": "Tangier"
+  },
+  "TTU": {
+    "country": "Morocco",
+    "city": "Tetuan"
+  },
+  "IXA": {
+    "country": "India",
+    "city": "Agartala"
+  },
+  "AGR": {
+    "country": "India",
+    "city": "Agra"
+  },
+  "AMD": {
+    "country": "India",
+    "city": "Ahmedabad"
+  },
+  "AJL": {
+    "country": "India",
+    "city": "Aizawl"
+  },
+  "ATQ": {
+    "country": "India",
+    "city": "Amritsar"
+  },
+  "IXU": {
+    "country": "India",
+    "city": "Aurangabad"
+  },
+  "IXB": {
+    "country": "India",
+    "city": "Bagdogra"
+  },
+  "BLR": {
+    "country": "India",
+    "city": "Bangalore"
+  },
+  "BHU": {
+    "country": "India",
+    "city": "Bhavnagar"
+  },
+  "BHO": {
+    "country": "India",
+    "city": "Bhopal"
+  },
+  "BBI": {
+    "country": "India",
+    "city": "Bhubaneswar"
+  },
+  "BHJ": {
+    "country": "India",
+    "city": "Bhuj"
+  },
+  "BOM": {
+    "country": "India",
+    "city": "Mumbai"
+  },
+  "CCU": {
+    "country": "India",
+    "city": "Kolkata"
+  },
+  "IXC": {
+    "country": "India",
+    "city": "Chandigarh"
+  },
+  "MAA": {
+    "country": "India",
+    "city": "Chennai"
+  },
+  "COK": {
+    "country": "India",
+    "city": "Cochin"
+  },
+  "CJB": {
+    "country": "India",
+    "city": "Coimbatore"
+  },
+  "DEL": {
+    "country": "India",
+    "city": "Delhi"
+  },
+  "DIB": {
+    "country": "India",
+    "city": "Dibrugarn"
+  },
+  "DMU": {
+    "country": "India",
+    "city": "Dimapur"
+  },
+  "DIU": {
+    "country": "India",
+    "city": "Div"
+  },
+  "GAU": {
+    "country": "India",
+    "city": "Gawahati"
+  },
+  "GOI": {
+    "country": "India",
+    "city": "Goa"
+  },
+  "GWL": {
+    "country": "India",
+    "city": "Gwalior"
+  },
+  "HYD": {
+    "country": "India",
+    "city": "Hyderabad"
+  },
+  "IMF": {
+    "country": "India",
+    "city": "Imphal"
+  },
+  "IDR": {
+    "country": "India",
+    "city": "Indore"
+  },
+  "JAI": {
+    "country": "India",
+    "city": "Jaipur"
+  },
+  "JGA": {
+    "country": "India",
+    "city": "Jamnagar"
+  },
+  "JDH": {
+    "country": "India",
+    "city": "Jodhpur"
+  },
+  "IXJ": {
+    "country": "India",
+    "city": "Jommu"
+  },
+  "JRH": {
+    "country": "India",
+    "city": "Jorhat"
+  },
+  "HJR": {
+    "country": "India",
+    "city": "Khajuraho"
+  },
+  "CCJ": {
+    "country": "India",
+    "city": "Kozhikode"
+  },
+  "IXL": {
+    "country": "India",
+    "city": "Leh"
+  },
+  "LKO": {
+    "country": "India",
+    "city": "Lucknow"
+  },
+  "IXM": {
+    "country": "India",
+    "city": "Madurai"
+  },
+  "IXE": {
+    "country": "India",
+    "city": "Mangalore"
+  },
+  "NAG": {
+    "country": "India",
+    "city": "Nagpur"
+  },
+  "PAT": {
+    "country": "India",
+    "city": "Patna"
+  },
+  "PBD": {
+    "country": "India",
+    "city": "Porbandar"
+  },
+  "IXZ": {
+    "country": "India",
+    "city": "Port Blair"
+  },
+  "PNQ": {
+    "country": "India",
+    "city": "Pune"
+  },
+  "PUT": {
+    "country": "India",
+    "city": "Puttaparthi"
+  },
+  "RAJ": {
+    "country": "India",
+    "city": "Rajkot"
+  },
+  "IXR": {
+    "country": "India",
+    "city": "Ranchi"
+  },
+  "IXS": {
+    "country": "India",
+    "city": "Silchar"
+  },
+  "SXR": {
+    "country": "India",
+    "city": "Srinagar"
+  },
+  "TEZ": {
+    "country": "India",
+    "city": "Tezpur"
+  },
+  "TRV": {
+    "country": "India",
+    "city": "Thiruvananthapuram"
+  },
+  "TRZ": {
+    "country": "India",
+    "city": "Tiruchirapally"
+  },
+  "TIR": {
+    "country": "India",
+    "city": "Tirupati"
+  },
+  "BDQ": {
+    "country": "India",
+    "city": "Vadodara"
+  },
+  "VNS": {
+    "country": "India",
+    "city": "Varanasi"
+  },
+  "VTZ": {
+    "country": "India",
+    "city": "Vishakhapatnam"
+  },
+  "AUP": {
+    "country": "Papua New Guinea",
+    "city": "Agaun"
+  },
+  "GUR": {
+    "country": "Papua New Guinea",
+    "city": "Alotau"
+  },
+  "AZB": {
+    "country": "Papua New Guinea",
+    "city": "Amazon Bay"
+  },
+  "ARP": {
+    "country": "Papua New Guinea",
+    "city": "Aragip"
+  },
+  "VMU": {
+    "country": "Papua New Guinea",
+    "city": "Baimuru"
+  },
+  "OPU": {
+    "country": "Papua New Guinea",
+    "city": "Balimo"
+  },
+  "BOV": {
+    "country": "Papua New Guinea",
+    "city": "Boang"
+  },
+  "BUA": {
+    "country": "Papua New Guinea",
+    "city": "Buka"
+  },
+  "BXZ": {
+    "country": "Papua New Guinea",
+    "city": "Bunsil"
+  },
+  "CPI": {
+    "country": "Papua New Guinea",
+    "city": "Cape Orford"
+  },
+  "CVL": {
+    "country": "Papua New Guinea",
+    "city": "Cape Vogel"
+  },
+  "DAU": {
+    "country": "Papua New Guinea",
+    "city": "Daru"
+  },
+  "DER": {
+    "country": "Papua New Guinea",
+    "city": "Derim"
+  },
+  "DDM": {
+    "country": "Papua New Guinea",
+    "city": "Dodoima"
+  },
+  "EMS": {
+    "country": "Papua New Guinea",
+    "city": "Embessa"
+  },
+  "EMO": {
+    "country": "Papua New Guinea",
+    "city": "Emo"
+  },
+  "GAR": {
+    "country": "Papua New Guinea",
+    "city": "Garaina"
+  },
+  "GRL": {
+    "country": "Papua New Guinea",
+    "city": "Garasa"
+  },
+  "GOE": {
+    "country": "Papua New Guinea",
+    "city": "Gonalia"
+  },
+  "GKA": {
+    "country": "Papua New Guinea",
+    "city": "Goroka"
+  },
+  "HIT": {
+    "country": "Papua New Guinea",
+    "city": "Hivaro"
+  },
+  "HKN": {
+    "country": "Papua New Guinea",
+    "city": "Hoskins"
+  },
+  "IHU": {
+    "country": "Papua New Guinea",
+    "city": "Ihu"
+  },
+  "IDN": {
+    "country": "Papua New Guinea",
+    "city": "Indagen"
+  },
+  "IOP": {
+    "country": "Papua New Guinea",
+    "city": "Ioma"
+  },
+  "ITK": {
+    "country": "Papua New Guinea",
+    "city": "Itokama"
+  },
+  "JAQ": {
+    "country": "Papua New Guinea",
+    "city": "Jacquinot Bay"
+  },
+  "KBM": {
+    "country": "Papua New Guinea",
+    "city": "Kabwun"
+  },
+  "KZF": {
+    "country": "Papua New Guinea",
+    "city": "Kaintiba"
+  },
+  "KUY": {
+    "country": "Papua New Guinea",
+    "city": "Kamusi"
+  },
+  "KVG": {
+    "country": "Papua New Guinea",
+    "city": "Kavieng"
+  },
+  "UNG": {
+    "country": "Papua New Guinea",
+    "city": "Kiunga"
+  },
+  "KUQ": {
+    "country": "Papua New Guinea",
+    "city": "Kuri"
+  },
+  "LAB": {
+    "country": "Papua New Guinea",
+    "city": "Lablab"
+  },
+  "LAE": {
+    "country": "Papua New Guinea",
+    "city": "Lae"
+  },
+  "LNV": {
+    "country": "Papua New Guinea",
+    "city": "Lihir Island"
+  },
+  "LSA": {
+    "country": "Papua New Guinea",
+    "city": "Losuia"
+  },
+  "MAG": {
+    "country": "Papua New Guinea",
+    "city": "Madang"
+  },
+  "MFO": {
+    "country": "Papua New Guinea",
+    "city": "Manguna"
+  },
+  "MAS": {
+    "country": "Papua New Guinea",
+    "city": "Manus Island"
+  },
+  "MDU": {
+    "country": "Papua New Guinea",
+    "city": "Mendi"
+  },
+  "MYX": {
+    "country": "Papua New Guinea",
+    "city": "Menyamya"
+  },
+  "MIS": {
+    "country": "Papua New Guinea",
+    "city": "Misima Island"
+  },
+  "MXH": {
+    "country": "Papua New Guinea",
+    "city": "Moro"
+  },
+  "HGU": {
+    "country": "Papua New Guinea",
+    "city": "Mount Hagen"
+  },
+  "ATN": {
+    "country": "Papua New Guinea",
+    "city": "Namatana"
+  },
+  "NDI": {
+    "country": "Papua New Guinea",
+    "city": "Namudi"
+  },
+  "PNP": {
+    "country": "Papua New Guinea",
+    "city": "Popondetta"
+  },
+  "POM": {
+    "country": "Papua New Guinea",
+    "city": "Port Moresby"
+  },
+  "RBP": {
+    "country": "Papua New Guinea",
+    "city": "Rabaraba"
+  },
+  "RAB": {
+    "country": "Papua New Guinea",
+    "city": "Rabaul"
+  },
+  "SWG": {
+    "country": "Papua New Guinea",
+    "city": "Satwag"
+  },
+  "TBG": {
+    "country": "Papua New Guinea",
+    "city": "Tabubil"
+  },
+  "TIZ": {
+    "country": "Papua New Guinea",
+    "city": "Tari"
+  },
+  "TKB": {
+    "country": "Papua New Guinea",
+    "city": "Tekadu"
+  },
+  "TDB": {
+    "country": "Papua New Guinea",
+    "city": "Tetabedi"
+  },
+  "TFI": {
+    "country": "Papua New Guinea",
+    "city": "Tufi"
+  },
+  "URU": {
+    "country": "Papua New Guinea",
+    "city": "Uroubi"
+  },
+  "VAI": {
+    "country": "Papua New Guinea",
+    "city": "Vanimo"
+  },
+  "VIV": {
+    "country": "Papua New Guinea",
+    "city": "Vivigani"
+  },
+  "AGL": {
+    "country": "Papua New Guinea",
+    "city": "Wanigela"
+  },
+  "WSU": {
+    "country": "Papua New Guinea",
+    "city": "Wasu"
+  },
+  "WUG": {
+    "country": "Papua New Guinea",
+    "city": "Wau"
+  },
+  "WED": {
+    "country": "Papua New Guinea",
+    "city": "Wedau"
+  },
+  "WWK": {
+    "country": "Papua New Guinea",
+    "city": "Wewak"
+  },
+  "KYX": {
+    "country": "Papua New Guinea",
+    "city": "Yalumet"
+  },
+  "AGF": {
+    "country": "France",
+    "city": "Agen"
+  },
+  "AJA": {
+    "country": "France",
+    "city": "Ajaccio"
+  },
+  "ANE": {
+    "country": "France",
+    "city": "Angers"
+  },
+  "QXG": {
+    "country": "France",
+    "city": "Angers"
+  },
+  "ANG": {
+    "country": "France",
+    "city": "Angouleme"
+  },
+  "NCY": {
+    "country": "France",
+    "city": "Annecy"
+  },
+  "AUR": {
+    "country": "France",
+    "city": "Aurillac"
+  },
+  "AVN": {
+    "country": "France",
+    "city": "Avignon"
+  },
+  "BIA": {
+    "country": "France",
+    "city": "Bastia"
+  },
+  "EGC": {
+    "country": "France",
+    "city": "Bergerac"
+  },
+  "BZR": {
+    "country": "France",
+    "city": "Beziers"
+  },
+  "BIQ": {
+    "country": "France",
+    "city": "Biarritz"
+  },
+  "BOD": {
+    "country": "France",
+    "city": "Bordeaux"
+  },
+  "BES": {
+    "country": "France",
+    "city": "Brest"
+  },
+  "BVE": {
+    "country": "France",
+    "city": "Brive-La-Gaillarde"
+  },
+  "CFR": {
+    "country": "France",
+    "city": "Caen"
+  },
+  "CLY": {
+    "country": "France",
+    "city": "Calvi"
+  },
+  "CEQ": {
+    "country": "France",
+    "city": "Cannes"
+  },
+  "JCA": {
+    "country": "France",
+    "city": "Cannes"
+  },
+  "QYW": {
+    "country": "France",
+    "city": "Cannes"
+  },
+  "CCF": {
+    "country": "France",
+    "city": "Carcassonne"
+  },
+  "DCM": {
+    "country": "France",
+    "city": "Castres"
+  },
+  "CMF": {
+    "country": "France",
+    "city": "Chambery"
+  },
+  "CFE": {
+    "country": "France",
+    "city": "Clermont-ferrand"
+  },
+  "DOL": {
+    "country": "France",
+    "city": "Deauville"
+  },
+  "DIJ": {
+    "country": "France",
+    "city": "Dijon"
+  },
+  "DNR": {
+    "country": "France",
+    "city": "Dinard"
+  },
+  "EPL": {
+    "country": "France",
+    "city": "Epinal"
+  },
+  "FSC": {
+    "country": "France",
+    "city": "Figari"
+  },
+  "GNB": {
+    "country": "France",
+    "city": "Grenoble"
+  },
+  "LAI": {
+    "country": "France",
+    "city": "Lannion"
+  },
+  "LRH": {
+    "country": "France",
+    "city": "Larochelle"
+  },
+  "LEH": {
+    "country": "France",
+    "city": "Le Havre"
+  },
+  "ZLN": {
+    "country": "France",
+    "city": "Le Mans"
+  },
+  "LPY": {
+    "country": "France",
+    "city": "Le Puy"
+  },
+  "LTQ": {
+    "country": "France",
+    "city": "Le Touquet"
+  },
+  "LIL": {
+    "country": "France",
+    "city": "Lille"
+  },
+  "XDB": {
+    "country": "France",
+    "city": "Lille"
+  },
+  "LIG": {
+    "country": "France",
+    "city": "Limoges"
+  },
+  "LRT": {
+    "country": "France",
+    "city": "Lorient"
+  },
+  "LDE": {
+    "country": "France",
+    "city": "Lourdes/Tarbes"
+  },
+  "LYS": {
+    "country": "France",
+    "city": "Lyon"
+  },
+  "XYD": {
+    "country": "France",
+    "city": "Lyon"
+  },
+  "MRS": {
+    "country": "France",
+    "city": "Marseille"
+  },
+  "ETZ": {
+    "country": "France",
+    "city": "Metz/Nancy"
+  },
+  "MPL": {
+    "country": "France",
+    "city": "Montpellier"
+  },
+  "MLH": {
+    "country": "France",
+    "city": "Mulhouse"
+  },
+  "NTE": {
+    "country": "France",
+    "city": "Nantes"
+  },
+  "QJZ": {
+    "country": "France",
+    "city": "Nantes"
+  },
+  "NCE": {
+    "country": "France",
+    "city": "Nice"
+  },
+  "FNI": {
+    "country": "France",
+    "city": "Nimes"
+  },
+  "PAR": {
+    "country": "France",
+    "city": "Paris"
+  },
+  "CDG": {
+    "country": "France",
+    "city": "Paris"
+  },
+  "ORY": {
+    "country": "France",
+    "city": "Paris"
+  },
+  "BVA": {
+    "country": "France",
+    "city": "Paris"
+  },
+  "PUF": {
+    "country": "France",
+    "city": "Pau"
+  },
+  "PGX": {
+    "country": "France",
+    "city": "Perigueux"
+  },
+  "PGF": {
+    "country": "France",
+    "city": "Perpignan"
+  },
+  "PIS": {
+    "country": "France",
+    "city": "Poitiers"
+  },
+  "XOP": {
+    "country": "France",
+    "city": "Poitiers"
+  },
+  "UIP": {
+    "country": "France",
+    "city": "Quimper"
+  },
+  "RNS": {
+    "country": "France",
+    "city": "Rennes"
+  },
+  "RNE": {
+    "country": "France",
+    "city": "Roane"
+  },
+  "RDZ": {
+    "country": "France",
+    "city": "Rodez"
+  },
+  "URO": {
+    "country": "France",
+    "city": "Rouen"
+  },
+  "LTT": {
+    "country": "France",
+    "city": "Saint Tropez"
+  },
+  "XPZ": {
+    "country": "France",
+    "city": "Saint Tropez"
+  },
+  "EBU": {
+    "country": "France",
+    "city": "St. Etienne"
+  },
+  "XER": {
+    "country": "France",
+    "city": "Strasbourg"
+  },
+  "SXB": {
+    "country": "France",
+    "city": "Strasbourg"
+  },
+  "TLN": {
+    "country": "France",
+    "city": "Toulon"
+  },
+  "TLS": {
+    "country": "France",
+    "city": "Toulouse"
+  },
+  "TUF": {
+    "country": "France",
+    "city": "Tours"
+  },
+  "XSH": {
+    "country": "France",
+    "city": "Tours"
+  },
+  "XVS": {
+    "country": "France",
+    "city": "Valenciennes"
+  },
+  "BQN": {
+    "country": "Puerto Rico",
+    "city": "Aguadilla"
+  },
+  "FAJ": {
+    "country": "Puerto Rico",
+    "city": "Fajard"
+  },
+  "MAZ": {
+    "country": "Puerto Rico",
+    "city": "Mayaguez"
+  },
+  "PSE": {
+    "country": "Puerto Rico",
+    "city": "Ponce"
+  },
+  "SJU": {
+    "country": "Puerto Rico",
+    "city": "San Juan"
+  },
+  "VQS": {
+    "country": "Puerto Rico",
+    "city": "Vieques"
+  },
+  "AGJ": {
+    "country": "Japan",
+    "city": "Aguni"
+  },
+  "AXT": {
+    "country": "Japan",
+    "city": "Akita"
+  },
+  "ASJ": {
+    "country": "Japan",
+    "city": "Amami O Shima"
+  },
+  "AOJ": {
+    "country": "Japan",
+    "city": "Aomori"
+  },
+  "AKJ": {
+    "country": "Japan",
+    "city": "Asahikawa"
+  },
+  "FUK": {
+    "country": "Japan",
+    "city": "Fukuoka"
+  },
+  "FUJ": {
+    "country": "Japan",
+    "city": "Fukue"
+  },
+  "FKS": {
+    "country": "Japan",
+    "city": "Fukushima"
+  },
+  "HAC": {
+    "country": "Japan",
+    "city": "Hachijo Jima"
+  },
+  "HKD": {
+    "country": "Japan",
+    "city": "Hakodate"
+  },
+  "HTR": {
+    "country": "Japan",
+    "city": "Hateruma"
+  },
+  "HIJ": {
+    "country": "Japan",
+    "city": "Hiroshima"
+  },
+  "HIW": {
+    "country": "Japan",
+    "city": "Hiroshima"
+  },
+  "ISG": {
+    "country": "Japan",
+    "city": "Ishigakij"
+  },
+  "IWJ": {
+    "country": "Japan",
+    "city": "Iwami"
+  },
+  "IZO": {
+    "country": "Japan",
+    "city": "Izumo"
+  },
+  "KTD": {
+    "country": "Japan",
+    "city": "Kitadaito"
+  },
+  "KCZ": {
+    "country": "Japan",
+    "city": "Kochi"
+  },
+  "UEO": {
+    "country": "Japan",
+    "city": "Kumejima"
+  },
+  "KUH": {
+    "country": "Japan",
+    "city": "Kushiro"
+  },
+  "MMJ": {
+    "country": "Japan",
+    "city": "Matsumoto"
+  },
+  "MYJ": {
+    "country": "Japan",
+    "city": "Matsuyama"
+  },
+  "MMB": {
+    "country": "Japan",
+    "city": "Memanbetsu"
+  },
+  "MMD": {
+    "country": "Japan",
+    "city": "Minami Daito"
+  },
+  "MSJ": {
+    "country": "Japan",
+    "city": "Misawa"
+  },
+  "MYE": {
+    "country": "Japan",
+    "city": "MiyakeJima"
+  },
+  "MMY": {
+    "country": "Japan",
+    "city": "Miyako Jima"
+  },
+  "MBE": {
+    "country": "Japan",
+    "city": "Monbetsu"
+  },
+  "HNA": {
+    "country": "Japan",
+    "city": "Morioka"
+  },
+  "NGS": {
+    "country": "Japan",
+    "city": "Nagasaki"
+  },
+  "NGO": {
+    "country": "Japan",
+    "city": "Nagoya"
+  },
+  "OBO": {
+    "country": "Japan",
+    "city": "Obihiro"
+  },
+  "OIT": {
+    "country": "Japan",
+    "city": "Oita"
+  },
+  "OKJ": {
+    "country": "Japan",
+    "city": "Okayama"
+  },
+  "OKA": {
+    "country": "Japan",
+    "city": "Okinawa"
+  },
+  "OIR": {
+    "country": "Japan",
+    "city": "Okoshiri"
+  },
+  "OSA": {
+    "country": "Japan",
+    "city": "Osaka"
+  },
+  "ITM": {
+    "country": "Japan",
+    "city": "Osaka"
+  },
+  "KIX": {
+    "country": "Japan",
+    "city": "Osaka"
+  },
+  "OIM": {
+    "country": "Japan",
+    "city": "Oshima"
+  },
+  "RBJ": {
+    "country": "Japan",
+    "city": "Rebun"
+  },
+  "RIS": {
+    "country": "Japan",
+    "city": "Rishiri"
+  },
+  "CTS": {
+    "country": "Japan",
+    "city": "Sapporo"
+  },
+  "OKD": {
+    "country": "Japan",
+    "city": "Sapporo"
+  },
+  "SYO": {
+    "country": "Japan",
+    "city": "Shonai"
+  },
+  "TRA": {
+    "country": "Japan",
+    "city": "Taramajma"
+  },
+  "TKN": {
+    "country": "Japan",
+    "city": "Tokunoshima"
+  },
+  "TKS": {
+    "country": "Japan",
+    "city": "Tokushima"
+  },
+  "TYO": {
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  "HND": {
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  "NRT": {
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  "TTJ": {
+    "country": "Japan",
+    "city": "Tottori"
+  },
+  "TOY": {
+    "country": "Japan",
+    "city": "Toyama"
+  },
+  "TSJ": {
+    "country": "Japan",
+    "city": "Tsushima"
+  },
+  "UBJ": {
+    "country": "Japan",
+    "city": "Ube"
+  },
+  "WKJ": {
+    "country": "Japan",
+    "city": "Wakkanai"
+  },
+  "GAJ": {
+    "country": "Japan",
+    "city": "Yamagata"
+  },
+  "YGJ": {
+    "country": "Japan",
+    "city": "Yonago"
+  },
+  "OGN": {
+    "country": "Japan",
+    "city": "Yonaguni Jima"
+  },
+  "RNJ": {
+    "country": "Japan",
+    "city": "Yoronjima"
+  },
+  "AIM": {
+    "country": "Marshall Islands",
+    "city": "Ailuk Island"
+  },
+  "AIC": {
+    "country": "Marshall Islands",
+    "city": "Airok"
+  },
+  "AUL": {
+    "country": "Marshall Islands",
+    "city": "Aur Island"
+  },
+  "BII": {
+    "country": "Marshall Islands",
+    "city": "Bikini Atoll"
+  },
+  "EBO": {
+    "country": "Marshall Islands",
+    "city": "Ebon"
+  },
+  "ENT": {
+    "country": "Marshall Islands",
+    "city": "Enewetak Island"
+  },
+  "JAT": {
+    "country": "Marshall Islands",
+    "city": "Jabor"
+  },
+  "UIT": {
+    "country": "Marshall Islands",
+    "city": "Jaluit Island"
+  },
+  "JEJ": {
+    "country": "Marshall Islands",
+    "city": "Jeh"
+  },
+  "KBT": {
+    "country": "Marshall Islands",
+    "city": "Kaben"
+  },
+  "KWA": {
+    "country": "Marshall Islands",
+    "city": "Kwajalein"
+  },
+  "LML": {
+    "country": "Marshall Islands",
+    "city": "Lae Island"
+  },
+  "LIK": {
+    "country": "Marshall Islands",
+    "city": "Likiep Island"
+  },
+  "LOF": {
+    "country": "Marshall Islands",
+    "city": "Loen"
+  },
+  "MJE": {
+    "country": "Marshall Islands",
+    "city": "Majkin"
+  },
+  "MAJ": {
+    "country": "Marshall Islands",
+    "city": "Majuro"
+  },
+  "MAV": {
+    "country": "Marshall Islands",
+    "city": "Maloelap Island"
+  },
+  "MJB": {
+    "country": "Marshall Islands",
+    "city": "Mejit Island"
+  },
+  "MIJ": {
+    "country": "Marshall Islands",
+    "city": "Mili Island"
+  },
+  "NDK": {
+    "country": "Marshall Islands",
+    "city": "Namorik Island"
+  },
+  "RNP": {
+    "country": "Marshall Islands",
+    "city": "Rongelap Island"
+  },
+  "UJE": {
+    "country": "Marshall Islands",
+    "city": "Ujae Island"
+  },
+  "UTK": {
+    "country": "Marshall Islands",
+    "city": "Utirik Island"
+  },
+  "WJA": {
+    "country": "Marshall Islands",
+    "city": "Woja"
+  },
+  "WTO": {
+    "country": "Marshall Islands",
+    "city": "Wotho Island"
+  },
+  "WTE": {
+    "country": "Marshall Islands",
+    "city": "Wotje Island"
+  },
+  "AEO": {
+    "country": "Mauritania",
+    "city": "Aioun El Atrouss"
+  },
+  "EMN": {
+    "country": "Mauritania",
+    "city": "Nema"
+  },
+  "NDB": {
+    "country": "Mauritania",
+    "city": "Nouadhiba"
+  },
+  "NKC": {
+    "country": "Mauritania",
+    "city": "Nouakchott"
+  },
+  "TIY": {
+    "country": "Mauritania",
+    "city": "Tioljikja"
+  },
+  "OUZ": {
+    "country": "Mauritania",
+    "city": "Zouerate"
+  },
+  "AIT": {
+    "country": "Cook Islands",
+    "city": "Aitutaki"
+  },
+  "AIU": {
+    "country": "Cook Islands",
+    "city": "Atiu Island"
+  },
+  "MGS": {
+    "country": "Cook Islands",
+    "city": "Mangaia Island"
+  },
+  "MHX": {
+    "country": "Cook Islands",
+    "city": "Manihiki Island"
+  },
+  "MUK": {
+    "country": "Cook Islands",
+    "city": "Mauke Island"
+  },
+  "MOI": {
+    "country": "Cook Islands",
+    "city": "Mitiaro Island"
+  },
+  "PYE": {
+    "country": "Cook Islands",
+    "city": "Penrhyn Island"
+  },
+  "RAR": {
+    "country": "Cook Islands",
+    "city": "Rarotonga"
+  },
+  "AKU": {
+    "country": "China",
+    "city": "Aksu"
+  },
+  "AAT": {
+    "country": "China",
+    "city": "Altay"
+  },
+  "AQG": {
+    "country": "China",
+    "city": "Anging"
+  },
+  "AKA": {
+    "country": "China",
+    "city": "Ankang"
+  },
+  "BPX": {
+    "country": "China",
+    "city": "Bangda"
+  },
+  "BSD": {
+    "country": "China",
+    "city": "Baoshan"
+  },
+  "BAV": {
+    "country": "China",
+    "city": "Baotou"
+  },
+  "BHY": {
+    "country": "China",
+    "city": "Beihai"
+  },
+  "PEK": {
+    "country": "China",
+    "city": "Beijing"
+  },
+  "CGQ": {
+    "country": "China",
+    "city": "Changchun"
+  },
+  "CGD": {
+    "country": "China",
+    "city": "Changde"
+  },
+  "CZX": {
+    "country": "China",
+    "city": "Changzhou"
+  },
+  "CHG": {
+    "country": "China",
+    "city": "Chaoyang"
+  },
+  "CTU": {
+    "country": "China",
+    "city": "Chergdu"
+  },
+  "CIF": {
+    "country": "China",
+    "city": "Chifeng"
+  },
+  "CKG": {
+    "country": "China",
+    "city": "Chongqing"
+  },
+  "DLU": {
+    "country": "China",
+    "city": "Dali City"
+  },
+  "DLC": {
+    "country": "China",
+    "city": "Dalian"
+  },
+  "DAX": {
+    "country": "China",
+    "city": "Daxian"
+  },
+  "DYG": {
+    "country": "China",
+    "city": "Dayang"
+  },
+  "DNH": {
+    "country": "China",
+    "city": "Dunhuang"
+  },
+  "ENH": {
+    "country": "China",
+    "city": "Enshi"
+  },
+  "FUG": {
+    "country": "China",
+    "city": "Fuyang"
+  },
+  "FOC": {
+    "country": "China",
+    "city": "Fuzhou"
+  },
+  "GOQ": {
+    "country": "China",
+    "city": "Golmud"
+  },
+  "CAN": {
+    "country": "China",
+    "city": "Guangzhou"
+  },
+  "KWL": {
+    "country": "China",
+    "city": "Guilin"
+  },
+  "KWE": {
+    "country": "China",
+    "city": "Gulyang"
+  },
+  "HAK": {
+    "country": "China",
+    "city": "Haikou"
+  },
+  "HLD": {
+    "country": "China",
+    "city": "Hailar"
+  },
+  "HGH": {
+    "country": "China",
+    "city": "Hangzhou"
+  },
+  "HZG": {
+    "country": "China",
+    "city": "Hanzhang"
+  },
+  "HRB": {
+    "country": "China",
+    "city": "Harbin"
+  },
+  "HFE": {
+    "country": "China",
+    "city": "Hefei"
+  },
+  "HET": {
+    "country": "China",
+    "city": "Hohhot"
+  },
+  "HTN": {
+    "country": "China",
+    "city": "Hotan"
+  },
+  "HYN": {
+    "country": "China",
+    "city": "Huargyan"
+  },
+  "JMU": {
+    "country": "China",
+    "city": "Jiamusi"
+  },
+  "JGN": {
+    "country": "China",
+    "city": "Jiayuguan"
+  },
+  "TNA": {
+    "country": "China",
+    "city": "Jinan"
+  },
+  "JDZ": {
+    "country": "China",
+    "city": "Jingdezhen"
+  },
+  "JHG": {
+    "country": "China",
+    "city": "Jinghong"
+  },
+  "JJN": {
+    "country": "China",
+    "city": "Jinjiang"
+  },
+  "JNZ": {
+    "country": "China",
+    "city": "Jinzhou"
+  },
+  "JUZ": {
+    "country": "China",
+    "city": "Juzha"
+  },
+  "ZGC": {
+    "country": "China",
+    "city": "Lanzhou"
+  },
+  "LXA": {
+    "country": "China",
+    "city": "Lhasa"
+  },
+  "LYG": {
+    "country": "China",
+    "city": "Lianyungang"
+  },
+  "LJG": {
+    "country": "China",
+    "city": "Lijiang City"
+  },
+  "LYI": {
+    "country": "China",
+    "city": "Linyi"
+  },
+  "LZH": {
+    "country": "China",
+    "city": "Liuzhou"
+  },
+  "LYA": {
+    "country": "China",
+    "city": "Luoyang"
+  },
+  "LUM": {
+    "country": "China",
+    "city": "Luxi"
+  },
+  "LZO": {
+    "country": "China",
+    "city": "Luzhou"
+  },
+  "MFM": {
+    "country": "China",
+    "city": "Macau"
+  },
+  "MXZ": {
+    "country": "China",
+    "city": "Meixian"
+  },
+  "MDG": {
+    "country": "China",
+    "city": "Mudanjiang"
+  },
+  "NAO": {
+    "country": "China",
+    "city": "Nanchong"
+  },
+  "NKG": {
+    "country": "China",
+    "city": "Nanking/Nanjing"
+  },
+  "NNG": {
+    "country": "China",
+    "city": "Nanning"
+  },
+  "NTG": {
+    "country": "China",
+    "city": "Nantong"
+  },
+  "NNY": {
+    "country": "China",
+    "city": "Nanyang"
+  },
+  "NGB": {
+    "country": "China",
+    "city": "Ningbo"
+  },
+  "IQM": {
+    "country": "China",
+    "city": "Qiemo"
+  },
+  "TAO": {
+    "country": "China",
+    "city": "Qingdao"
+  },
+  "NDG": {
+    "country": "China",
+    "city": "Qiqihar"
+  },
+  "SYX": {
+    "country": "China",
+    "city": "Sanya"
+  },
+  "PVG": {
+    "country": "China",
+    "city": "Shanghai"
+  },
+  "SWA": {
+    "country": "China",
+    "city": "Shantou"
+  },
+  "SZX": {
+    "country": "China",
+    "city": "Shenzhen"
+  },
+  "SYM": {
+    "country": "China",
+    "city": "Simao"
+  },
+  "TCG": {
+    "country": "China",
+    "city": "Tacheng"
+  },
+  "TYN": {
+    "country": "China",
+    "city": "Taiyuan"
+  },
+  "TSN": {
+    "country": "China",
+    "city": "Tianjn"
+  },
+  "TGO": {
+    "country": "China",
+    "city": "Tongliao"
+  },
+  "TXN": {
+    "country": "China",
+    "city": "Tunxi"
+  },
+  "HLH": {
+    "country": "China",
+    "city": "Ulanhot"
+  },
+  "URC": {
+    "country": "China",
+    "city": "Urumqi"
+  },
+  "WXN": {
+    "country": "China",
+    "city": "Wanxian"
+  },
+  "WEH": {
+    "country": "China",
+    "city": "Weihai"
+  },
+  "WNZ": {
+    "country": "China",
+    "city": "Wenzhou"
+  },
+  "WUH": {
+    "country": "China",
+    "city": "Wuhan"
+  },
+  "WUS": {
+    "country": "China",
+    "city": "Wuyishan"
+  },
+  "XMN": {
+    "country": "China",
+    "city": "Xiamen"
+  },
+  "XIY": {
+    "country": "China",
+    "city": "Xi An"
+  },
+  "XFN": {
+    "country": "China",
+    "city": "Xiangfan"
+  },
+  "XIC": {
+    "country": "China",
+    "city": "Xichang"
+  },
+  "XIL": {
+    "country": "China",
+    "city": "Xilinhot"
+  },
+  "XNN": {
+    "country": "China",
+    "city": "Xining"
+  },
+  "XUZ": {
+    "country": "China",
+    "city": "Xuzhou"
+  },
+  "ENY": {
+    "country": "China",
+    "city": "Yan'an"
+  },
+  "YNZ": {
+    "country": "China",
+    "city": "Yancheng"
+  },
+  "YNJ": {
+    "country": "China",
+    "city": "Yanji"
+  },
+  "YNT": {
+    "country": "China",
+    "city": "Yantai"
+  },
+  "YBP": {
+    "country": "China",
+    "city": "Yibin"
+  },
+  "YIH": {
+    "country": "China",
+    "city": "Yichang"
+  },
+  "INC": {
+    "country": "China",
+    "city": "Yinchuan"
+  },
+  "YIN": {
+    "country": "China",
+    "city": "Yining"
+  },
+  "YIW": {
+    "country": "China",
+    "city": "Yiwu"
+  },
+  "UYN": {
+    "country": "China",
+    "city": "Yulin"
+  },
+  "ZHA": {
+    "country": "China",
+    "city": "Zhanjiang"
+  },
+  "ZAT": {
+    "country": "China",
+    "city": "Zhaotong"
+  },
+  "CGO": {
+    "country": "China",
+    "city": "Zhengzha"
+  },
+  "HSN": {
+    "country": "China",
+    "city": "Zhoushan"
+  },
+  "ZUH": {
+    "country": "China",
+    "city": "Zhuhai"
+  },
+  "AKX": {
+    "country": "Kazakhstan",
+    "city": "Almaty"
+  },
+  "TSE": {
+    "country": "Kazakhstan",
+    "city": "Astana"
+  },
+  "GUW": {
+    "country": "Kazakhstan",
+    "city": "Atyrau"
+  },
+  "PWQ": {
+    "country": "Kazakhstan",
+    "city": "Pavlodar"
+  },
+  "CIT": {
+    "country": "Kazakhstan",
+    "city": "Shimkent"
+  },
+  "URA": {
+    "country": "Kazakhstan",
+    "city": "Uralsk"
+  },
+  "UKK": {
+    "country": "Kazakhstan",
+    "city": "Ust-Kamenogorsk"
+  },
+  "AEY": {
+    "country": "Iceland",
+    "city": "Akureyri"
+  },
+  "EGS": {
+    "country": "Iceland",
+    "city": "Egilsstadir"
+  },
+  "GRY": {
+    "country": "Iceland",
+    "city": "Grimsey"
+  },
+  "HFN": {
+    "country": "Iceland",
+    "city": "Hornafjordur"
+  },
+  "IFJ": {
+    "country": "Iceland",
+    "city": "Isafjordur"
+  },
+  "KEF": {
+    "country": "Iceland",
+    "city": "Reykjavik"
+  },
+  "RPN": {
+    "country": "Iceland",
+    "city": "Rosh Pina"
+  },
+  "THO": {
+    "country": "Iceland",
+    "city": "Thorshofn"
+  },
+  "VEY": {
+    "country": "Iceland",
+    "city": "Vestmannaeyjar"
+  },
+  "VPN": {
+    "country": "Iceland",
+    "city": "Vopnafjordur"
+  },
+  "ALP": {
+    "country": "Syrian Arab Republic",
+    "city": "Aleppo"
+  },
+  "DAM": {
+    "country": "Syrian Arab Republic",
+    "city": "Damascus"
+  },
+  "KAC": {
+    "country": "Syrian Arab Republic",
+    "city": "Kameshli"
+  },
+  "ALJ": {
+    "country": "South Africa",
+    "city": "Alexander Bay"
+  },
+  "BFN": {
+    "country": "South Africa",
+    "city": "Bloemfontein"
+  },
+  "CPT": {
+    "country": "South Africa",
+    "city": "Cape Town"
+  },
+  "DUR": {
+    "country": "South Africa",
+    "city": "Durban"
+  },
+  "ELS": {
+    "country": "South Africa",
+    "city": "East London"
+  },
+  "GRJ": {
+    "country": "South Africa",
+    "city": "George"
+  },
+  "HDS": {
+    "country": "South Africa",
+    "city": "Hoedspruit"
+  },
+  "JNB": {
+    "country": "South Africa",
+    "city": "Johannesburg"
+  },
+  "MGH": {
+    "country": "South Africa",
+    "city": "Margate"
+  },
+  "NLP": {
+    "country": "South Africa",
+    "city": "Nelspruit"
+  },
+  "PHW": {
+    "country": "South Africa",
+    "city": "Phalaborwa"
+  },
+  "PZB": {
+    "country": "South Africa",
+    "city": "Pietermaritzburg"
+  },
+  "PTG": {
+    "country": "South Africa",
+    "city": "Pietersburb"
+  },
+  "PBZ": {
+    "country": "South Africa",
+    "city": "Plettenburg Bay"
+  },
+  "PLZ": {
+    "country": "South Africa",
+    "city": "Port Elizabeth"
+  },
+  "RCB": {
+    "country": "South Africa",
+    "city": "Richards Bay"
+  },
+  "SZK": {
+    "country": "South Africa",
+    "city": "Skukuza"
+  },
+  "NTY": {
+    "country": "South Africa",
+    "city": "Sun City"
+  },
+  "ULD": {
+    "country": "South Africa",
+    "city": "Ulundi"
+  },
+  "UTT": {
+    "country": "South Africa",
+    "city": "Umtata"
+  },
+  "UTN": {
+    "country": "South Africa",
+    "city": "Upington"
+  },
+  "AXD": {
+    "country": "Greece",
+    "city": "Alexandroupolis"
+  },
+  "ATH": {
+    "country": "Greece",
+    "city": "Athens"
+  },
+  "CHQ": {
+    "country": "Greece",
+    "city": "Chania"
+  },
+  "HER": {
+    "country": "Greece",
+    "city": "Heraklian"
+  },
+  "AOK": {
+    "country": "Greece",
+    "city": "Karpathos"
+  },
+  "KVA": {
+    "country": "Greece",
+    "city": "Kavala"
+  },
+  "EFL": {
+    "country": "Greece",
+    "city": "Kefallinia"
+  },
+  "CFU": {
+    "country": "Greece",
+    "city": "Kerkyra"
+  },
+  "LXS": {
+    "country": "Greece",
+    "city": "Lemnos"
+  },
+  "JMK": {
+    "country": "Greece",
+    "city": "Mikonos"
+  },
+  "MJT": {
+    "country": "Greece",
+    "city": "Mytilene"
+  },
+  "GPA": {
+    "country": "Greece",
+    "city": "Patras"
+  },
+  "PVK": {
+    "country": "Greece",
+    "city": "Preveza/Lefkas"
+  },
+  "SMI": {
+    "country": "Greece",
+    "city": "Samos"
+  },
+  "JSI": {
+    "country": "Greece",
+    "city": "Skiathos"
+  },
+  "SKG": {
+    "country": "Greece",
+    "city": "Thessaloniki"
+  },
+  "JTR": {
+    "country": "Greece",
+    "city": "Thira"
+  },
+  "ZTH": {
+    "country": "Greece",
+    "city": "Zakinthos Island"
+  },
+  "AHO": {
+    "country": "Italy",
+    "city": "Alghero"
+  },
+  "AOI": {
+    "country": "Italy",
+    "city": "Ancona"
+  },
+  "AOT": {
+    "country": "Italy",
+    "city": "Aosta"
+  },
+  "BRI": {
+    "country": "Italy",
+    "city": "Bari"
+  },
+  "BZO": {
+    "country": "Italy",
+    "city": "Bolzano"
+  },
+  "BDS": {
+    "country": "Italy",
+    "city": "Brindisi"
+  },
+  "CAG": {
+    "country": "Italy",
+    "city": "Cagliari"
+  },
+  "CTA": {
+    "country": "Italy",
+    "city": "Catania"
+  },
+  "CRV": {
+    "country": "Italy",
+    "city": "Crotone"
+  },
+  "ETH": {
+    "country": "Italy",
+    "city": "Elat"
+  },
+  "EBA": {
+    "country": "Italy",
+    "city": "Elba Island"
+  },
+  "PSA": {
+    "country": "Italy",
+    "city": "Pisa"
+  },
+  "FLR": {
+    "country": "Italy",
+    "city": "Florence"
+  },
+  "FOG": {
+    "country": "Italy",
+    "city": "Foggia"
+  },
+  "GOA": {
+    "country": "Italy",
+    "city": "Genoa"
+  },
+  "SUF": {
+    "country": "Italy",
+    "city": "Lamezia-Terme"
+  },
+  "LMP": {
+    "country": "Italy",
+    "city": "Lampedusa"
+  },
+  "BGY": {
+    "country": "Italy",
+    "city": "Milan"
+  },
+  "LIN": {
+    "country": "Italy",
+    "city": "Milan"
+  },
+  "MXP": {
+    "country": "Italy",
+    "city": "Milan"
+  },
+  "PMF": {
+    "country": "Italy",
+    "city": "Parma/Milan"
+  },
+  "NAP": {
+    "country": "Italy",
+    "city": "Naples"
+  },
+  "OLB": {
+    "country": "Italy",
+    "city": "Olbia"
+  },
+  "PMO": {
+    "country": "Italy",
+    "city": "Palermo"
+  },
+  "PNL": {
+    "country": "Italy",
+    "city": "Pantelleria"
+  },
+  "PEG": {
+    "country": "Italy",
+    "city": "Perugia"
+  },
+  "PSR": {
+    "country": "Italy",
+    "city": "Pescara"
+  },
+  "REG": {
+    "country": "Italy",
+    "city": "Reggio Calabria"
+  },
+  "RMI": {
+    "country": "Italy",
+    "city": "Rimini"
+  },
+  "ROM": {
+    "country": "Italy",
+    "city": "Rome"
+  },
+  "CIA": {
+    "country": "Italy",
+    "city": "Rome"
+  },
+  "FCO": {
+    "country": "Italy",
+    "city": "Rome"
+  },
+  "TAR": {
+    "country": "Italy",
+    "city": "Taranto"
+  },
+  "TTB": {
+    "country": "Italy",
+    "city": "Tortoli"
+  },
+  "TPS": {
+    "country": "Italy",
+    "city": "Trapani"
+  },
+  "TRS": {
+    "country": "Italy",
+    "city": "Trieste"
+  },
+  "TRN": {
+    "country": "Italy",
+    "city": "Turin"
+  },
+  "VCE": {
+    "country": "Italy",
+    "city": "Venice"
+  },
+  "TSF": {
+    "country": "Italy",
+    "city": "Venice"
+  },
+  "VRN": {
+    "country": "Italy",
+    "city": "Verona"
+  },
+  "ALC": {
+    "country": "Spain",
+    "city": "Alicante"
+  },
+  "LEI": {
+    "country": "Spain",
+    "city": "Almeria"
+  },
+  "BJZ": {
+    "country": "Spain",
+    "city": "Badajcz"
+  },
+  "BCN": {
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  "BIO": {
+    "country": "Spain",
+    "city": "Bilbao"
+  },
+  "FUE": {
+    "country": "Spain",
+    "city": "Puerto del Rosario"
+  },
+  "GRO": {
+    "country": "Spain",
+    "city": "Gerona"
+  },
+  "GRX": {
+    "country": "Spain",
+    "city": "Granada"
+  },
+  "IBZ": {
+    "country": "Spain",
+    "city": "Ibiza"
+  },
+  "XRY": {
+    "country": "Spain",
+    "city": "Jerez De La Frontere"
+  },
+  "LCG": {
+    "country": "Spain",
+    "city": "La Coruna"
+  },
+  "ACE": {
+    "country": "Spain",
+    "city": "Lanzarote"
+  },
+  "LPA": {
+    "country": "Spain",
+    "city": "Las Palmas"
+  },
+  "MAD": {
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  "AGP": {
+    "country": "Spain",
+    "city": "Malaga"
+  },
+  "MLN": {
+    "country": "Spain",
+    "city": "Melilla"
+  },
+  "MAH": {
+    "country": "Spain",
+    "city": "Menorca"
+  },
+  "MJV": {
+    "country": "Spain",
+    "city": "Murcia"
+  },
+  "PNA": {
+    "country": "Spain",
+    "city": "Pamplona"
+  },
+  "EAS": {
+    "country": "Spain",
+    "city": "San Sebastian"
+  },
+  "VLC": {
+    "country": "Spain",
+    "city": "Valencia"
+  },
+  "VGO": {
+    "country": "Spain",
+    "city": "Vigo"
+  },
+  "ARD": {
+    "country": "Indonesia",
+    "city": "Alor Island"
+  },
+  "AMQ": {
+    "country": "Indonesia",
+    "city": "Ambon"
+  },
+  "AGD": {
+    "country": "Indonesia",
+    "city": "Anggi"
+  },
+  "AYW": {
+    "country": "Indonesia",
+    "city": "Ayawaki"
+  },
+  "BXB": {
+    "country": "Indonesia",
+    "city": "Babo"
+  },
+  "BXD": {
+    "country": "Indonesia",
+    "city": "Bade"
+  },
+  "BPN": {
+    "country": "Indonesia",
+    "city": "Balikpapan"
+  },
+  "BTJ": {
+    "country": "Indonesia",
+    "city": "Banda Aceh"
+  },
+  "TKG": {
+    "country": "Indonesia",
+    "city": "Bandar Lampung"
+  },
+  "BDO": {
+    "country": "Indonesia",
+    "city": "Bandung"
+  },
+  "BDJ": {
+    "country": "Indonesia",
+    "city": "Banjarmasin"
+  },
+  "BTH": {
+    "country": "Indonesia",
+    "city": "Batam"
+  },
+  "BXM": {
+    "country": "Indonesia",
+    "city": "Batom"
+  },
+  "BKS": {
+    "country": "Indonesia",
+    "city": "Bengkulu"
+  },
+  "BEJ": {
+    "country": "Indonesia",
+    "city": "Berau"
+  },
+  "BIK": {
+    "country": "Indonesia",
+    "city": "Biak"
+  },
+  "BMU": {
+    "country": "Indonesia",
+    "city": "Bima"
+  },
+  "NTI": {
+    "country": "Indonesia",
+    "city": "Bintuni"
+  },
+  "BUI": {
+    "country": "Indonesia",
+    "city": "Bokondini"
+  },
+  "DRH": {
+    "country": "Indonesia",
+    "city": "Dabra"
+  },
+  "DTD": {
+    "country": "Indonesia",
+    "city": "Datadawai"
+  },
+  "DPS": {
+    "country": "Indonesia",
+    "city": "Denpasar Bali"
+  },
+  "DIL": {
+    "country": "Indonesia",
+    "city": "Dili"
+  },
+  "DOB": {
+    "country": "Indonesia",
+    "city": "Dobo"
+  },
+  "DUM": {
+    "country": "Indonesia",
+    "city": "Dumai"
+  },
+  "EWI": {
+    "country": "Indonesia",
+    "city": "Enarotali"
+  },
+  "ENE": {
+    "country": "Indonesia",
+    "city": "Ende"
+  },
+  "EWE": {
+    "country": "Indonesia",
+    "city": "Ewer"
+  },
+  "FKQ": {
+    "country": "Indonesia",
+    "city": "Fak Fak"
+  },
+  "GEB": {
+    "country": "Indonesia",
+    "city": "Gebe"
+  },
+  "GTO": {
+    "country": "Indonesia",
+    "city": "Gorontalo"
+  },
+  "ILA": {
+    "country": "Indonesia",
+    "city": "Illaga"
+  },
+  "IUL": {
+    "country": "Indonesia",
+    "city": "Ilu"
+  },
+  "INX": {
+    "country": "Indonesia",
+    "city": "Inanwatan"
+  },
+  "CGK": {
+    "country": "Indonesia",
+    "city": "Jakarta"
+  },
+  "DJJ": {
+    "country": "Indonesia",
+    "city": "Jayapura"
+  },
+  "KBX": {
+    "country": "Indonesia",
+    "city": "Kambuaya"
+  },
+  "KCD": {
+    "country": "Indonesia",
+    "city": "Kamur"
+  },
+  "KBF": {
+    "country": "Indonesia",
+    "city": "Karubaga"
+  },
+  "KDI": {
+    "country": "Indonesia",
+    "city": "Kendari"
+  },
+  "LBJ": {
+    "country": "Indonesia",
+    "city": "Labuan Bajo"
+  },
+  "LUV": {
+    "country": "Indonesia",
+    "city": "Langguri"
+  },
+  "LKA": {
+    "country": "Indonesia",
+    "city": "Larantuka"
+  },
+  "LPU": {
+    "country": "Indonesia",
+    "city": "Long Apung"
+  },
+  "LBW": {
+    "country": "Indonesia",
+    "city": "Long Bawan"
+  },
+  "LUW": {
+    "country": "Indonesia",
+    "city": "Luwuk"
+  },
+  "MDC": {
+    "country": "Indonesia",
+    "city": "Manado"
+  },
+  "MKW": {
+    "country": "Indonesia",
+    "city": "Manokwari"
+  },
+  "AMI": {
+    "country": "Indonesia",
+    "city": "Mataram"
+  },
+  "MOF": {
+    "country": "Indonesia",
+    "city": "Maumere"
+  },
+  "MES": {
+    "country": "Indonesia",
+    "city": "Medan"
+  },
+  "MKQ": {
+    "country": "Indonesia",
+    "city": "Merauke"
+  },
+  "RDE": {
+    "country": "Indonesia",
+    "city": "Merdey"
+  },
+  "MDP": {
+    "country": "Indonesia",
+    "city": "Mindiptana"
+  },
+  "ONI": {
+    "country": "Indonesia",
+    "city": "Moanamani"
+  },
+  "LII": {
+    "country": "Indonesia",
+    "city": "Mulia"
+  },
+  "NBX": {
+    "country": "Indonesia",
+    "city": "Nabire"
+  },
+  "NNX": {
+    "country": "Indonesia",
+    "city": "Nunukan"
+  },
+  "OBD": {
+    "country": "Indonesia",
+    "city": "Obano"
+  },
+  "OKL": {
+    "country": "Indonesia",
+    "city": "Oksibil"
+  },
+  "PDG": {
+    "country": "Indonesia",
+    "city": "Padang"
+  },
+  "PKY": {
+    "country": "Indonesia",
+    "city": "Palang Karaya"
+  },
+  "PLM": {
+    "country": "Indonesia",
+    "city": "Palembang"
+  },
+  "PLW": {
+    "country": "Indonesia",
+    "city": "Palu"
+  },
+  "PKN": {
+    "country": "Indonesia",
+    "city": "Pangkalanboun"
+  },
+  "PGK": {
+    "country": "Indonesia",
+    "city": "Pangkalpinang"
+  },
+  "PKU": {
+    "country": "Indonesia",
+    "city": "Pekanbaru"
+  },
+  "PNK": {
+    "country": "Indonesia",
+    "city": "Pontianak"
+  },
+  "PSU": {
+    "country": "Indonesia",
+    "city": "Putussibau"
+  },
+  "ZRM": {
+    "country": "Indonesia",
+    "city": "Sarmi"
+  },
+  "SXK": {
+    "country": "Indonesia",
+    "city": "Saumlaki"
+  },
+  "SRG": {
+    "country": "Indonesia",
+    "city": "Semarang"
+  },
+  "ZEG": {
+    "country": "Indonesia",
+    "city": "Senggo"
+  },
+  "ZRI": {
+    "country": "Indonesia",
+    "city": "Servi"
+  },
+  "NKD": {
+    "country": "Indonesia",
+    "city": "Sinak"
+  },
+  "SQG": {
+    "country": "Indonesia",
+    "city": "Sintang"
+  },
+  "SOC": {
+    "country": "Indonesia",
+    "city": "Solo City"
+  },
+  "SUB": {
+    "country": "Indonesia",
+    "city": "Surabaya"
+  },
+  "TMC": {
+    "country": "Indonesia",
+    "city": "Tambolaka"
+  },
+  "TMH": {
+    "country": "Indonesia",
+    "city": "Tanahmerah"
+  },
+  "TJQ": {
+    "country": "Indonesia",
+    "city": "Tanjung Pandan"
+  },
+  "TJS": {
+    "country": "Indonesia",
+    "city": "Tanjung Selor"
+  },
+  "TRK": {
+    "country": "Indonesia",
+    "city": "Tarakan"
+  },
+  "TIM": {
+    "country": "Indonesia",
+    "city": "Tembagapura"
+  },
+  "TXM": {
+    "country": "Indonesia",
+    "city": "Teminabuan"
+  },
+  "TTE": {
+    "country": "Indonesia",
+    "city": "Ternate"
+  },
+  "UDR": {
+    "country": "Indonesia",
+    "city": "Udaipur"
+  },
+  "UPG": {
+    "country": "Indonesia",
+    "city": "Ujung Pandang"
+  },
+  "WET": {
+    "country": "Indonesia",
+    "city": "Wagethe"
+  },
+  "WBA": {
+    "country": "Indonesia",
+    "city": "Wahai"
+  },
+  "WGP": {
+    "country": "Indonesia",
+    "city": "Waingapo"
+  },
+  "WMX": {
+    "country": "Indonesia",
+    "city": "Wamena"
+  },
+  "WSR": {
+    "country": "Indonesia",
+    "city": "Wasior"
+  },
+  "JOG": {
+    "country": "Indonesia",
+    "city": "Yogyakarta"
+  },
+  "UGU": {
+    "country": "Indonesia",
+    "city": "Zugapa"
+  },
+  "AOR": {
+    "country": "Malaysia",
+    "city": "Alorsetar"
+  },
+  "BBN": {
+    "country": "Malaysia",
+    "city": "Bario"
+  },
+  "BTU": {
+    "country": "Malaysia",
+    "city": "Bintulu"
+  },
+  "BKZ": {
+    "country": "Malaysia",
+    "city": "Bukoba"
+  },
+  "IPH": {
+    "country": "Malaysia",
+    "city": "Ipoh"
+  },
+  "JHB": {
+    "country": "Malaysia",
+    "city": "Johor"
+  },
+  "KBR": {
+    "country": "Malaysia",
+    "city": "Kota Bharu"
+  },
+  "BKI": {
+    "country": "Malaysia",
+    "city": "Kota Kinabalu"
+  },
+  "KUL": {
+    "country": "Malaysia",
+    "city": "Kuala Lumpur"
+  },
+  "TGG": {
+    "country": "Malaysia",
+    "city": "Kuala Terengganu"
+  },
+  "KUA": {
+    "country": "Malaysia",
+    "city": "Kuantan"
+  },
+  "KCH": {
+    "country": "Malaysia",
+    "city": "Kuching"
+  },
+  "KUD": {
+    "country": "Malaysia",
+    "city": "Kudat"
+  },
+  "LBU": {
+    "country": "Malaysia",
+    "city": "Labuan"
+  },
+  "LDU": {
+    "country": "Malaysia",
+    "city": "Lahadbatu"
+  },
+  "LGK": {
+    "country": "Malaysia",
+    "city": "Langkawi"
+  },
+  "LWY": {
+    "country": "Malaysia",
+    "city": "Lawas"
+  },
+  "LMN": {
+    "country": "Malaysia",
+    "city": "Limbang"
+  },
+  "LBP": {
+    "country": "Malaysia",
+    "city": "Long Banga"
+  },
+  "LGL": {
+    "country": "Malaysia",
+    "city": "Long Lellang"
+  },
+  "ODN": {
+    "country": "Malaysia",
+    "city": "Long Seridan"
+  },
+  "MKZ": {
+    "country": "Malaysia",
+    "city": "Malacca"
+  },
+  "MUR": {
+    "country": "Malaysia",
+    "city": "Marudi"
+  },
+  "MYY": {
+    "country": "Malaysia",
+    "city": "Miri"
+  },
+  "MKM": {
+    "country": "Malaysia",
+    "city": "Mukan"
+  },
+  "MZV": {
+    "country": "Malaysia",
+    "city": "Mulu"
+  },
+  "PEN": {
+    "country": "Malaysia",
+    "city": "Penang"
+  },
+  "TWU": {
+    "country": "Malaysia",
+    "city": "Tawau"
+  },
+  "TOD": {
+    "country": "Malaysia",
+    "city": "Tioman"
+  },
+  "TMG": {
+    "country": "Malaysia",
+    "city": "Tomanggong"
+  },
+  "ATM": {
+    "country": "Brazil",
+    "city": "Altamira"
+  },
+  "AJU": {
+    "country": "Brazil",
+    "city": "Araca"
+  },
+  "ARU": {
+    "country": "Brazil",
+    "city": "Aracatuba"
+  },
+  "AUX": {
+    "country": "Brazil",
+    "city": "Araguaina"
+  },
+  "AAG": {
+    "country": "Brazil",
+    "city": "Arapoti"
+  },
+  "BRA": {
+    "country": "Brazil",
+    "city": "Barreiras"
+  },
+  "BAU": {
+    "country": "Brazil",
+    "city": "Bauru"
+  },
+  "BEL": {
+    "country": "Brazil",
+    "city": "Belem"
+  },
+  "CNF": {
+    "country": "Brazil",
+    "city": "Blo Horizonte"
+  },
+  "PLU": {
+    "country": "Brazil",
+    "city": "Belo Horizonte"
+  },
+  "BVB": {
+    "country": "Brazil",
+    "city": "Boavista"
+  },
+  "BSB": {
+    "country": "Brazil",
+    "city": "Brasilia"
+  },
+  "CPV": {
+    "country": "Brazil",
+    "city": "Campina Grande"
+  },
+  "CPQ": {
+    "country": "Brazil",
+    "city": "Campinas"
+  },
+  "CGR": {
+    "country": "Brazil",
+    "city": "Campo Grande"
+  },
+  "CAW": {
+    "country": "Brazil",
+    "city": "Campos"
+  },
+  "CKS": {
+    "country": "Brazil",
+    "city": "Carajas"
+  },
+  "CAC": {
+    "country": "Brazil",
+    "city": "Cascavel"
+  },
+  "CXJ": {
+    "country": "Brazil",
+    "city": "Caxias Do Sul"
+  },
+  "XAP": {
+    "country": "Brazil",
+    "city": "Chapeco"
+  },
+  "CMG": {
+    "country": "Brazil",
+    "city": "Corumba"
+  },
+  "CCM": {
+    "country": "Brazil",
+    "city": "Criciuma"
+  },
+  "CZS": {
+    "country": "Brazil",
+    "city": "Cruzeiro Do Sul"
+  },
+  "CGB": {
+    "country": "Brazil",
+    "city": "Cuiaba"
+  },
+  "CWB": {
+    "country": "Brazil",
+    "city": "Curitiba"
+  },
+  "DOU": {
+    "country": "Brazil",
+    "city": "Dourados"
+  },
+  "FEN": {
+    "country": "Brazil",
+    "city": "Fernando De Noronha"
+  },
+  "FLN": {
+    "country": "Brazil",
+    "city": "Florianopolis"
+  },
+  "FOR": {
+    "country": "Brazil",
+    "city": "Fortaleza"
+  },
+  "FRC": {
+    "country": "Brazil",
+    "city": "Franca"
+  },
+  "GYN": {
+    "country": "Brazil",
+    "city": "Goiania"
+  },
+  "GVR": {
+    "country": "Brazil",
+    "city": "Governador Valadares"
+  },
+  "IGU": {
+    "country": "Brazil",
+    "city": "Iguassu Falls"
+  },
+  "IOS": {
+    "country": "Brazil",
+    "city": "Ilheus"
+  },
+  "IMP": {
+    "country": "Brazil",
+    "city": "Imperatriz"
+  },
+  "IPN": {
+    "country": "Brazil",
+    "city": "Ipatinga"
+  },
+  "ITB": {
+    "country": "Brazil",
+    "city": "Itaituba"
+  },
+  "JCR": {
+    "country": "Brazil",
+    "city": "Jacareacanga"
+  },
+  "JPR": {
+    "country": "Brazil",
+    "city": "Ji-Parana"
+  },
+  "JPA": {
+    "country": "Brazil",
+    "city": "Joao Pessoa"
+  },
+  "JOI": {
+    "country": "Brazil",
+    "city": "Joinville"
+  },
+  "JDO": {
+    "country": "Brazil",
+    "city": "Juazeiro Do Norte"
+  },
+  "JDF": {
+    "country": "Brazil",
+    "city": "Juiz De Fora"
+  },
+  "LAJ": {
+    "country": "Brazil",
+    "city": "Lages"
+  },
+  "LDB": {
+    "country": "Brazil",
+    "city": "Londrina"
+  },
+  "MCP": {
+    "country": "Brazil",
+    "city": "Macapa"
+  },
+  "MCZ": {
+    "country": "Brazil",
+    "city": "Maceio"
+  },
+  "MAO": {
+    "country": "Brazil",
+    "city": "Manaus"
+  },
+  "MAB": {
+    "country": "Brazil",
+    "city": "Maraba"
+  },
+  "MII": {
+    "country": "Brazil",
+    "city": "Marilia"
+  },
+  "MGF": {
+    "country": "Brazil",
+    "city": "Maringa"
+  },
+  "MEU": {
+    "country": "Brazil",
+    "city": "Monte Dourado"
+  },
+  "MOC": {
+    "country": "Brazil",
+    "city": "Montes Claros"
+  },
+  "MVS": {
+    "country": "Brazil",
+    "city": "Mucuri"
+  },
+  "NAT": {
+    "country": "Brazil",
+    "city": "Natal"
+  },
+  "NVT": {
+    "country": "Brazil",
+    "city": "Navegantes"
+  },
+  "PMW": {
+    "country": "Brazil",
+    "city": "Palmas"
+  },
+  "PHB": {
+    "country": "Brazil",
+    "city": "Parnaiba"
+  },
+  "PFB": {
+    "country": "Brazil",
+    "city": "Passo Fundo"
+  },
+  "PET": {
+    "country": "Brazil",
+    "city": "Pelotas"
+  },
+  "PNZ": {
+    "country": "Brazil",
+    "city": "Petrolina"
+  },
+  "PMG": {
+    "country": "Brazil",
+    "city": "Ponta Pora"
+  },
+  "POA": {
+    "country": "Brazil",
+    "city": "Porto Alegre"
+  },
+  "BPS": {
+    "country": "Brazil",
+    "city": "Porto Seguro"
+  },
+  "PVH": {
+    "country": "Brazil",
+    "city": "Porto Velho"
+  },
+  "PPB": {
+    "country": "Brazil",
+    "city": "Presidente Prudente"
+  },
+  "REC": {
+    "country": "Brazil",
+    "city": "Recife"
+  },
+  "RAO": {
+    "country": "Brazil",
+    "city": "Ribeirao Preto"
+  },
+  "RBR": {
+    "country": "Brazil",
+    "city": "Rio Branco"
+  },
+  "GIG": {
+    "country": "Brazil",
+    "city": "Rio De Janeiro"
+  },
+  "RIG": {
+    "country": "Brazil",
+    "city": "Rio Grande"
+  },
+  "RVD": {
+    "country": "Brazil",
+    "city": "Rio Verde"
+  },
+  "SSA": {
+    "country": "Brazil",
+    "city": "Salvadore"
+  },
+  "RIA": {
+    "country": "Brazil",
+    "city": "Santa Maria"
+  },
+  "STM": {
+    "country": "Brazil",
+    "city": "Santarem"
+  },
+  "GEL": {
+    "country": "Brazil",
+    "city": "Santo Angelo"
+  },
+  "CGH": {
+    "country": "Brazil",
+    "city": "Sao Paulo"
+  },
+  "VCP": {
+    "country": "Brazil",
+    "city": "Sao Paulo"
+  },
+  "GRU": {
+    "country": "Brazil",
+    "city": "Sao Paulo"
+  },
+  "SLZ": {
+    "country": "Brazil",
+    "city": "Sau Luiz"
+  },
+  "SOD": {
+    "country": "Brazil",
+    "city": "Sorocaba"
+  },
+  "TBT": {
+    "country": "Brazil",
+    "city": "Tabatinga"
+  },
+  "TFF": {
+    "country": "Brazil",
+    "city": "Tefe"
+  },
+  "THE": {
+    "country": "Brazil",
+    "city": "Teresina"
+  },
+  "TOW": {
+    "country": "Brazil",
+    "city": "Toledo"
+  },
+  "TMT": {
+    "country": "Brazil",
+    "city": "Trombetas"
+  },
+  "TUR": {
+    "country": "Brazil",
+    "city": "Tucurui"
+  },
+  "UBA": {
+    "country": "Brazil",
+    "city": "Uberaba"
+  },
+  "UDI": {
+    "country": "Brazil",
+    "city": "Uberlandia"
+  },
+  "URG": {
+    "country": "Brazil",
+    "city": "Uruguaiana"
+  },
+  "VAG": {
+    "country": "Brazil",
+    "city": "Varginha"
+  },
+  "BVH": {
+    "country": "Brazil",
+    "city": "Vilhena"
+  },
+  "VDC": {
+    "country": "Brazil",
+    "city": "Vitoria da Conquista"
+  },
+  "ACH": {
+    "country": "Switzerland",
+    "city": "Altenrhein"
+  },
+  "BSL": {
+    "country": "Switzerland",
+    "city": "Basel"
+  },
+  "ZDH": {
+    "country": "Switzerland",
+    "city": "Basel/Mulhouse Railway Station"
+  },
+  "BRN": {
+    "country": "Switzerland",
+    "city": "Berne"
+  },
+  "ZDJ": {
+    "country": "Switzerland",
+    "city": "Berne"
+  },
+  "GVA": {
+    "country": "Switzerland",
+    "city": "Geneva"
+  },
+  "LUG": {
+    "country": "Switzerland",
+    "city": "Lugano"
+  },
+  "ZRH": {
+    "country": "Switzerland",
+    "city": "Zurich"
+  },
+  "ARR": {
+    "country": "Argentina",
+    "city": "Alto Rio Senguerr"
+  },
+  "BHI": {
+    "country": "Argentina",
+    "city": "Bahia Blanca"
+  },
+  "AEP": {
+    "country": "Argentina",
+    "city": "Buenos Aires"
+  },
+  "EZE": {
+    "country": "Argentina",
+    "city": "Buenos Aires"
+  },
+  "CRD": {
+    "country": "Argentina",
+    "city": "Camodoro"
+  },
+  "CTC": {
+    "country": "Argentina",
+    "city": "Catamarca"
+  },
+  "COC": {
+    "country": "Benin",
+    "city": "Cotarou"
+  },
+  "COR": {
+    "country": "Argentina",
+    "city": "Cordoba"
+  },
+  "CNQ": {
+    "country": "Argentina",
+    "city": "Corrientes"
+  },
+  "EHL": {
+    "country": "Argentina",
+    "city": "El Bolsan"
+  },
+  "EMX": {
+    "country": "Argentina",
+    "city": "El Maiten"
+  },
+  "EQS": {
+    "country": "Argentina",
+    "city": "Esquel"
+  },
+  "FMA": {
+    "country": "Argentina",
+    "city": "Formosa"
+  },
+  "GGS": {
+    "country": "Argentina",
+    "city": "Gobernador Gregores"
+  },
+  "OYA": {
+    "country": "Argentina",
+    "city": "Goya"
+  },
+  "IGR": {
+    "country": "Argentina",
+    "city": "Iguazu"
+  },
+  "JSM": {
+    "country": "Argentina",
+    "city": "Jose De San Martin"
+  },
+  "JUJ": {
+    "country": "Argentina",
+    "city": "Jujuy"
+  },
+  "IRJ": {
+    "country": "Argentina",
+    "city": "La Rioja"
+  },
+  "ING": {
+    "country": "Argentina",
+    "city": "Lago Argentina"
+  },
+  "LGS": {
+    "country": "Argentina",
+    "city": "Malargue"
+  },
+  "MDQ": {
+    "country": "Argentina",
+    "city": "Mar Del Plata"
+  },
+  "MDZ": {
+    "country": "Argentina",
+    "city": "Mendoza"
+  },
+  "NQN": {
+    "country": "Argentina",
+    "city": "Neuquen"
+  },
+  "PRA": {
+    "country": "Argentina",
+    "city": "Parana"
+  },
+  "AOL": {
+    "country": "Argentina",
+    "city": "Paso de Los Libres"
+  },
+  "PMQ": {
+    "country": "Argentina",
+    "city": "Perito Moreno"
+  },
+  "PSS": {
+    "country": "Argentina",
+    "city": "Posadas"
+  },
+  "PRQ": {
+    "country": "Argentina",
+    "city": "Pres. Roque Saenz Pena"
+  },
+  "PUD": {
+    "country": "Argentina",
+    "city": "Puerto Deseado"
+  },
+  "PMY": {
+    "country": "Argentina",
+    "city": "Puerto Madryn"
+  },
+  "RCQ": {
+    "country": "Argentina",
+    "city": "Reconquista"
+  },
+  "RES": {
+    "country": "Argentina",
+    "city": "Resistencia"
+  },
+  "RCU": {
+    "country": "Argentina",
+    "city": "Rio Cuarto"
+  },
+  "RGL": {
+    "country": "Argentina",
+    "city": "Rio Gallegos"
+  },
+  "RGA": {
+    "country": "Argentina",
+    "city": "Rio Grande"
+  },
+  "ROY": {
+    "country": "Argentina",
+    "city": "Rio Mayo"
+  },
+  "ROS": {
+    "country": "Argentina",
+    "city": "Rosario"
+  },
+  "OES": {
+    "country": "Argentina",
+    "city": "San Antonio Oesta"
+  },
+  "BRC": {
+    "country": "Argentina",
+    "city": "San Carlos"
+  },
+  "UAQ": {
+    "country": "Argentina",
+    "city": "San Juan"
+  },
+  "ULA": {
+    "country": "Argentina",
+    "city": "San Julian"
+  },
+  "LUQ": {
+    "country": "Argentina",
+    "city": "San Luis"
+  },
+  "CPC": {
+    "country": "Argentina",
+    "city": "San Martin De Los Andes"
+  },
+  "AFA": {
+    "country": "Argentina",
+    "city": "San Rafael"
+  },
+  "RSA": {
+    "country": "Argentina",
+    "city": "Santa Rosa"
+  },
+  "REL": {
+    "country": "Argentina",
+    "city": "Trelew"
+  },
+  "TUC": {
+    "country": "Argentina",
+    "city": "Tucuman"
+  },
+  "USH": {
+    "country": "Argentina",
+    "city": "Ushuaia"
+  },
+  "VDM": {
+    "country": "Argentina",
+    "city": "Viedma"
+  },
+  "VLG": {
+    "country": "Argentina",
+    "city": "Villa Gesell"
+  },
+  "VME": {
+    "country": "Argentina",
+    "city": "Villa Mercedes"
+  },
+  "IVA": {
+    "country": "Madagascar",
+    "city": "Ambanja"
+  },
+  "AMY": {
+    "country": "Madagascar",
+    "city": "Ambatomainty"
+  },
+  "WAM": {
+    "country": "Madagascar",
+    "city": "Ambatondrazaka"
+  },
+  "HVA": {
+    "country": "Madagascar",
+    "city": "Analalava"
+  },
+  "JVA": {
+    "country": "Madagascar",
+    "city": "Ankavandra"
+  },
+  "ANM": {
+    "country": "Madagascar",
+    "city": "Antalaha"
+  },
+  "WAQ": {
+    "country": "Madagascar",
+    "city": "Antsalova"
+  },
+  "DIE": {
+    "country": "Madagascar",
+    "city": "Antsiranana"
+  },
+  "WAI": {
+    "country": "Madagascar",
+    "city": "Antsohihy"
+  },
+  "BMD": {
+    "country": "Madagascar",
+    "city": "Belo"
+  },
+  "BPY": {
+    "country": "Madagascar",
+    "city": "Besalampy"
+  },
+  "RVA": {
+    "country": "Madagascar",
+    "city": "Farafangana"
+  },
+  "WFI": {
+    "country": "Madagascar",
+    "city": "Fianarantsoa"
+  },
+  "FTU": {
+    "country": "Madagascar",
+    "city": "Fort Dauphin"
+  },
+  "VVB": {
+    "country": "Madagascar",
+    "city": "Mahanoro"
+  },
+  "MXT": {
+    "country": "Madagascar",
+    "city": "Maintirano"
+  },
+  "MJN": {
+    "country": "Madagascar",
+    "city": "Majunga"
+  },
+  "WMP": {
+    "country": "Madagascar",
+    "city": "Mampikony"
+  },
+  "WVK": {
+    "country": "Madagascar",
+    "city": "Manakara"
+  },
+  "WMR": {
+    "country": "Madagascar",
+    "city": "Mananara"
+  },
+  "MNJ": {
+    "country": "Madagascar",
+    "city": "Mananjary"
+  },
+  "WMA": {
+    "country": "Madagascar",
+    "city": "Mandritsara"
+  },
+  "MJA": {
+    "country": "Madagascar",
+    "city": "Manja"
+  },
+  "WMN": {
+    "country": "Madagascar",
+    "city": "Maroantsetra"
+  },
+  "ZVA": {
+    "country": "Madagascar",
+    "city": "Miandrivazo"
+  },
+  "TVA": {
+    "country": "Madagascar",
+    "city": "Morafenobe"
+  },
+  "MXM": {
+    "country": "Madagascar",
+    "city": "Morambe"
+  },
+  "MOQ": {
+    "country": "Madagascar",
+    "city": "Morondava"
+  },
+  "NOS": {
+    "country": "Madagascar",
+    "city": "Nossi-be"
+  },
+  "WPB": {
+    "country": "Madagascar",
+    "city": "Port Berge"
+  },
+  "SVB": {
+    "country": "Madagascar",
+    "city": "Sambaua"
+  },
+  "SMS": {
+    "country": "Madagascar",
+    "city": "Sante Marie"
+  },
+  "DWB": {
+    "country": "Madagascar",
+    "city": "Soalala"
+  },
+  "TMM": {
+    "country": "Madagascar",
+    "city": "Tamatave"
+  },
+  "TTS": {
+    "country": "Madagascar",
+    "city": "Tsaratanana"
+  },
+  "WTS": {
+    "country": "Madagascar",
+    "city": "Tsiroanomandidy"
+  },
+  "TLE": {
+    "country": "Madagascar",
+    "city": "Tulear"
+  },
+  "VAT": {
+    "country": "Madagascar",
+    "city": "Vatomatry"
+  },
+  "VOH": {
+    "country": "Madagascar",
+    "city": "Vohemar"
+  },
+  "ASV": {
+    "country": "Kenya",
+    "city": "Amboseli"
+  },
+  "EDL": {
+    "country": "Kenya",
+    "city": "Eldoret"
+  },
+  "KWY": {
+    "country": "Kenya",
+    "city": "Kiwayu"
+  },
+  "LAU": {
+    "country": "Kenya",
+    "city": "Lamu"
+  },
+  "MYD": {
+    "country": "Kenya",
+    "city": "Malindi"
+  },
+  "MRE": {
+    "country": "Kenya",
+    "city": "Mara Lodges"
+  },
+  "MBA": {
+    "country": "Kenya",
+    "city": "Mombasa"
+  },
+  "NBO": {
+    "country": "Kenya",
+    "city": "Nairobi"
+  },
+  "WIL": {
+    "country": "Kenya",
+    "city": "Nairobi"
+  },
+  "NYK": {
+    "country": "Kenya",
+    "city": "Nanyuki"
+  },
+  "UAS": {
+    "country": "Kenya",
+    "city": "Samburu"
+  },
+  "AMM": {
+    "country": "Jordan",
+    "city": "Amman"
+  },
+  "ADJ": {
+    "country": "Jordan",
+    "city": "Amman"
+  },
+  "AQJ": {
+    "country": "Jordan",
+    "city": "Aqaba"
+  },
+  "AMS": {
+    "country": "Netherlands",
+    "city": "Amsterdam"
+  },
+  "EIN": {
+    "country": "Netherlands",
+    "city": "Eindhoven"
+  },
+  "GRQ": {
+    "country": "Netherlands",
+    "city": "Groningen"
+  },
+  "MST": {
+    "country": "Netherlands",
+    "city": "Maastricht"
+  },
+  "RTM": {
+    "country": "Netherlands",
+    "city": "Rotterdam"
+  },
+  "AZN": {
+    "country": "Uzbekistan",
+    "city": "Andizhan"
+  },
+  "BHK": {
+    "country": "Uzbekistan",
+    "city": "Bukhara"
+  },
+  "FEG": {
+    "country": "Uzbekistan",
+    "city": "Fergana"
+  },
+  "NMA": {
+    "country": "Uzbekistan",
+    "city": "Namangan"
+  },
+  "NCU": {
+    "country": "Uzbekistan",
+    "city": "Nukus"
+  },
+  "TAS": {
+    "country": "Uzbekistan",
+    "city": "Tashkent"
+  },
+  "TMJ": {
+    "country": "Uzbekistan",
+    "city": "Termez"
+  },
+  "UGC": {
+    "country": "Uzbekistan",
+    "city": "Urgench"
+  },
+  "ASD": {
+    "country": "Bahamas",
+    "city": "Andros"
+  },
+  "ATC": {
+    "country": "Bahamas",
+    "city": "Arthur's Town"
+  },
+  "BIM": {
+    "country": "Bahamas",
+    "city": "Bimini"
+  },
+  "NSB": {
+    "country": "Bahamas",
+    "city": "Bimini"
+  },
+  "CRI": {
+    "country": "Bahamas",
+    "city": "Crooked Island"
+  },
+  "ELH": {
+    "country": "Bahamas",
+    "city": "North Eleuthera"
+  },
+  "FPO": {
+    "country": "Bahamas",
+    "city": "Freeport"
+  },
+  "GGT": {
+    "country": "Bahamas",
+    "city": "George Town"
+  },
+  "GHB": {
+    "country": "Bahamas",
+    "city": "Governors Harbour"
+  },
+  "IGA": {
+    "country": "Bahamas",
+    "city": "Inagua"
+  },
+  "LGI": {
+    "country": "Bahamas",
+    "city": "Long Island/Deadmans Cay"
+  },
+  "MAY": {
+    "country": "Bahamas",
+    "city": "Mangrove Cay"
+  },
+  "MHH": {
+    "country": "Bahamas",
+    "city": "Marsh Harbour"
+  },
+  "MYG": {
+    "country": "Bahamas",
+    "city": "Mayaguana"
+  },
+  "NAS": {
+    "country": "Bahamas",
+    "city": "Nassau"
+  },
+  "PID": {
+    "country": "Bahamas",
+    "city": "Paradise Island"
+  },
+  "RSD": {
+    "country": "Bahamas",
+    "city": "Rock Sound"
+  },
+  "ZSA": {
+    "country": "Bahamas",
+    "city": "San Salvador"
+  },
+  "TZN": {
+    "country": "Bahamas",
+    "city": "South Andros"
+  },
+  "AXP": {
+    "country": "Bahamas",
+    "city": "Spring Point"
+  },
+  "SML": {
+    "country": "Bahamas",
+    "city": "Stella Maris"
+  },
+  "TBI": {
+    "country": "Bahamas",
+    "city": "The Bight"
+  },
+  "TCB": {
+    "country": "Bahamas",
+    "city": "Treasure Cay"
+  },
+  "AUY": {
+    "country": "Vanuatu",
+    "city": "Aneityum"
+  },
+  "AWD": {
+    "country": "Vanuatu",
+    "city": "Aniwa"
+  },
+  "CCV": {
+    "country": "Vanuatu",
+    "city": "Craig Cove"
+  },
+  "SON": {
+    "country": "Vanuatu",
+    "city": "Espiritu Santo"
+  },
+  "FTA": {
+    "country": "Vanuatu",
+    "city": "Futuna Island"
+  },
+  "ZGU": {
+    "country": "Vanuatu",
+    "city": "Gaua"
+  },
+  "IPA": {
+    "country": "Vanuatu",
+    "city": "Ipota"
+  },
+  "LPM": {
+    "country": "Vanuatu",
+    "city": "Lamap"
+  },
+  "LNB": {
+    "country": "Vanuatu",
+    "city": "Lamen Bay"
+  },
+  "LOD": {
+    "country": "Vanuatu",
+    "city": "Longana"
+  },
+  "LNE": {
+    "country": "Vanuatu",
+    "city": "Lonorore"
+  },
+  "MWF": {
+    "country": "Vanuatu",
+    "city": "Maewo"
+  },
+  "MTV": {
+    "country": "Vanuatu",
+    "city": "Mota Lava"
+  },
+  "NUS": {
+    "country": "Vanuatu",
+    "city": "Norsup"
+  },
+  "OLJ": {
+    "country": "Vanuatu",
+    "city": "Olpoi"
+  },
+  "PBJ": {
+    "country": "Vanuatu",
+    "city": "Paama"
+  },
+  "VLI": {
+    "country": "Vanuatu",
+    "city": "Port Vila"
+  },
+  "SSR": {
+    "country": "Vanuatu",
+    "city": "Sara"
+  },
+  "TAH": {
+    "country": "Vanuatu",
+    "city": "Tanna"
+  },
+  "TGH": {
+    "country": "Vanuatu",
+    "city": "Tongoa"
+  },
+  "TOH": {
+    "country": "Vanuatu",
+    "city": "Torres"
+  },
+  "ULB": {
+    "country": "Vanuatu",
+    "city": "Ulei"
+  },
+  "VLS": {
+    "country": "Vanuatu",
+    "city": "Valesdir"
+  },
+  "WLH": {
+    "country": "Vanuatu",
+    "city": "Walaha"
+  },
+  "JHE": {
+    "country": "Sweden",
+    "city": "Angelholm/Helsingborg"
+  },
+  "AGH": {
+    "country": "Sweden",
+    "city": "Argelholm/Helsingborg"
+  },
+  "AJR": {
+    "country": "Sweden",
+    "city": "Arvidsjaur"
+  },
+  "BLE": {
+    "country": "Sweden",
+    "city": "Borlange"
+  },
+  "GEV": {
+    "country": "Sweden",
+    "city": "Gallivare"
+  },
+  "GOT": {
+    "country": "Sweden",
+    "city": "Gothenburg"
+  },
+  "GSE": {
+    "country": "Sweden",
+    "city": "Gothenburg"
+  },
+  "HFS": {
+    "country": "Sweden",
+    "city": "Hagfors"
+  },
+  "HAD": {
+    "country": "Sweden",
+    "city": "Halmstad"
+  },
+  "HMV": {
+    "country": "Sweden",
+    "city": "Hermavan"
+  },
+  "HUV": {
+    "country": "Sweden",
+    "city": "Hudiksvall"
+  },
+  "HLF": {
+    "country": "Sweden",
+    "city": "Hultsfred"
+  },
+  "JKG": {
+    "country": "Sweden",
+    "city": "Jonkoping"
+  },
+  "LPI": {
+    "country": "Thailand",
+    "city": "Lampang"
+  },
+  "LLA": {
+    "country": "Sweden",
+    "city": "Lulea"
+  },
+  "LYC": {
+    "country": "Sweden",
+    "city": "Lyoksele"
+  },
+  "MMX": {
+    "country": "Sweden",
+    "city": "Malmo"
+  },
+  "MXX": {
+    "country": "Sweden",
+    "city": "Mora"
+  },
+  "NRK": {
+    "country": "Sweden",
+    "city": "Norrkoping"
+  },
+  "OER": {
+    "country": "Sweden",
+    "city": "Ornskoldsvik"
+  },
+  "OSK": {
+    "country": "Sweden",
+    "city": "Oskarshamn"
+  },
+  "OSD": {
+    "country": "Sweden",
+    "city": "Ostersund"
+  },
+  "RNB": {
+    "country": "Sweden",
+    "city": "Ronneby"
+  },
+  "KVB": {
+    "country": "Sweden",
+    "city": "Skovde"
+  },
+  "SOO": {
+    "country": "Sweden",
+    "city": "Soderham"
+  },
+  "STO": {
+    "country": "Sweden",
+    "city": "Stockholm"
+  },
+  "ARN": {
+    "country": "Sweden",
+    "city": "Stockholm"
+  },
+  "BMA": {
+    "country": "Sweden",
+    "city": "Stockholm"
+  },
+  "SQO": {
+    "country": "Sweden",
+    "city": "Storuman"
+  },
+  "EVG": {
+    "country": "Sweden",
+    "city": "Sveg"
+  },
+  "TYF": {
+    "country": "Sweden",
+    "city": "Torsby"
+  },
+  "THN": {
+    "country": "Sweden",
+    "city": "Trollhattan"
+  },
+  "UME": {
+    "country": "Sweden",
+    "city": "Umea"
+  },
+  "VST": {
+    "country": "Sweden",
+    "city": "Vasteras"
+  },
+  "VXO": {
+    "country": "Sweden",
+    "city": "Vaxjo"
+  },
+  "VHM": {
+    "country": "Sweden",
+    "city": "Vilhelmina"
+  },
+  "VBY": {
+    "country": "Sweden",
+    "city": "Visby"
+  },
+  "AXA": {
+    "country": "Anguilla",
+    "city": "Anguilla"
+  },
+  "TNR": {
+    "country": "Madgascar",
+    "city": "Antaninvarivo"
+  },
+  "ANU": {
+    "country": "Antigua & Barbuda",
+    "city": "V.C. Bird International"
+  },
+  "ANF": {
+    "country": "Chile",
+    "city": "Antofagasta"
+  },
+  "ARI": {
+    "country": "Chile",
+    "city": "Arica"
+  },
+  "BBA": {
+    "country": "Chile",
+    "city": "Balmaceda"
+  },
+  "CJC": {
+    "country": "Chile",
+    "city": "Calama"
+  },
+  "YAI": {
+    "country": "Chile",
+    "city": "Chillan"
+  },
+  "CCP": {
+    "country": "Chile",
+    "city": "Concepcion"
+  },
+  "CPO": {
+    "country": "Chile",
+    "city": "Copiapo"
+  },
+  "ESR": {
+    "country": "Chile",
+    "city": "El Salvador"
+  },
+  "IQQ": {
+    "country": "Chile",
+    "city": "Iquique"
+  },
+  "LSC": {
+    "country": "Chile",
+    "city": "La Serena"
+  },
+  "PMC": {
+    "country": "Chile",
+    "city": "Puerto Montt"
+  },
+  "PUQ": {
+    "country": "Chile",
+    "city": "Punta Arenas"
+  },
+  "SCL": {
+    "country": "Chile",
+    "city": "Santiago"
+  },
+  "ZCO": {
+    "country": "Chile",
+    "city": "Temuco"
+  },
+  "ZAL": {
+    "country": "Chile",
+    "city": "Valdivia"
+  },
+  "ANR": {
+    "country": "Belgium",
+    "city": "Antwerp"
+  },
+  "ZAY": {
+    "country": "Belgium",
+    "city": "Antwerp"
+  },
+  "BRU": {
+    "country": "Belgium",
+    "city": "Brussels"
+  },
+  "ZYR": {
+    "country": "Belgium",
+    "city": "Brussels"
+  },
+  "LGG": {
+    "country": "Belgium",
+    "city": "Liege"
+  },
+  "APO": {
+    "country": "Colombia",
+    "city": "Apartado"
+  },
+  "AUC": {
+    "country": "Colombia",
+    "city": "Arauca"
+  },
+  "AXM": {
+    "country": "Colombia",
+    "city": "Armenia"
+  },
+  "BSC": {
+    "country": "Colombia",
+    "city": "Bahia Solano"
+  },
+  "EJA": {
+    "country": "Colombia",
+    "city": "Barran Cabermeja"
+  },
+  "BAQ": {
+    "country": "Colombia",
+    "city": "Barranquilla"
+  },
+  "BOG": {
+    "country": "Colombia",
+    "city": "Bogota"
+  },
+  "BGA": {
+    "country": "Colombia",
+    "city": "Bucaramanga"
+  },
+  "CLO": {
+    "country": "Colombia",
+    "city": "Cali"
+  },
+  "CTG": {
+    "country": "Colombia",
+    "city": "Cartagena"
+  },
+  "CAQ": {
+    "country": "Colombia",
+    "city": "Caucasia"
+  },
+  "COG": {
+    "country": "Colombia",
+    "city": "Condoto"
+  },
+  "CUC": {
+    "country": "Colombia",
+    "city": "Cucata"
+  },
+  "EYP": {
+    "country": "Colombia",
+    "city": "El Yopal"
+  },
+  "FLA": {
+    "country": "Colombia",
+    "city": "Florencia"
+  },
+  "IBE": {
+    "country": "Colombia",
+    "city": "Ibague"
+  },
+  "IPI": {
+    "country": "Colombia",
+    "city": "Ipiales"
+  },
+  "LET": {
+    "country": "Colombia",
+    "city": "Leticia"
+  },
+  "MZL": {
+    "country": "Colombia",
+    "city": "Manizales"
+  },
+  "EOH": {
+    "country": "Colombia",
+    "city": "Medellin"
+  },
+  "MDE": {
+    "country": "Colombia",
+    "city": "Medellin"
+  },
+  "MTR": {
+    "country": "Colombia",
+    "city": "Monteria"
+  },
+  "NVA": {
+    "country": "Colombia",
+    "city": "Neiva"
+  },
+  "OTU": {
+    "country": "Colombia",
+    "city": "Otu"
+  },
+  "PSO": {
+    "country": "Colombia",
+    "city": "Pasto"
+  },
+  "PEI": {
+    "country": "Colombia",
+    "city": "Pereira"
+  },
+  "PBE": {
+    "country": "Colombia",
+    "city": "Puerto Berria"
+  },
+  "UIB": {
+    "country": "Colombia",
+    "city": "Quibdo"
+  },
+  "RCH": {
+    "country": "Colombia",
+    "city": "Riohacha"
+  },
+  "ADZ": {
+    "country": "Colombia",
+    "city": "San Andres Island"
+  },
+  "SMR": {
+    "country": "Colombia",
+    "city": "Santa Marta"
+  },
+  "TCO": {
+    "country": "Colombia",
+    "city": "Tumaco"
+  },
+  "VUP": {
+    "country": "Colombia",
+    "city": "Valledupar"
+  },
+  "APW": {
+    "country": "Western Samoa",
+    "city": "Apia"
+  },
+  "FGI": {
+    "country": "Western Samoa",
+    "city": "Apia"
+  },
+  "MXS": {
+    "country": "Western Samoa",
+    "city": "Maota Savaii Is"
+  },
+  "ARW": {
+    "country": "Romania",
+    "city": "Arad"
+  },
+  "BAY": {
+    "country": "Romania",
+    "city": "Baia Mare"
+  },
+  "BBU": {
+    "country": "Romania",
+    "city": "Bucharest"
+  },
+  "OTP": {
+    "country": "Romania",
+    "city": "Bucharest"
+  },
+  "CLJ": {
+    "country": "Romania",
+    "city": "Cluj"
+  },
+  "CND": {
+    "country": "Romania",
+    "city": "Constanta"
+  },
+  "IAS": {
+    "country": "Romania",
+    "city": "Iasi"
+  },
+  "OMR": {
+    "country": "Romania",
+    "city": "Oradea"
+  },
+  "SUJ": {
+    "country": "Romania",
+    "city": "Satu Mare"
+  },
+  "TSR": {
+    "country": "Romania",
+    "city": "Timosoara"
+  },
+  "TGM": {
+    "country": "Romania",
+    "city": "Tirgu Mures"
+  },
+  "AMH": {
+    "country": "Ethiopia",
+    "city": "Arba Mintch"
+  },
+  "BJR": {
+    "country": "Ethiopia",
+    "city": "Baharpar"
+  },
+  "BEI": {
+    "country": "Ethiopia",
+    "city": "Beica"
+  },
+  "DBM": {
+    "country": "Ethiopia",
+    "city": "Debra Marcos"
+  },
+  "DBT": {
+    "country": "Ethiopia",
+    "city": "Debra Tabor"
+  },
+  "DEM": {
+    "country": "Ethiopia",
+    "city": "Dembidollo"
+  },
+  "DSE": {
+    "country": "Ethiopia",
+    "city": "Dessie"
+  },
+  "DIR": {
+    "country": "Ethiopia",
+    "city": "Dire Dawa"
+  },
+  "GMB": {
+    "country": "Ethiopia",
+    "city": "Gambela"
+  },
+  "GOB": {
+    "country": "Ethiopia",
+    "city": "Goba"
+  },
+  "GDQ": {
+    "country": "Ethiopia",
+    "city": "Gondari"
+  },
+  "GOR": {
+    "country": "Ethiopia",
+    "city": "Gore"
+  },
+  "JIJ": {
+    "country": "Ethiopia",
+    "city": "Jijiga"
+  },
+  "JIM": {
+    "country": "Ethiopia",
+    "city": "Jimma"
+  },
+  "BCO": {
+    "country": "Ethiopia",
+    "city": "Jinka"
+  },
+  "ABK": {
+    "country": "Ethiopia",
+    "city": "Kabri Dar"
+  },
+  "LLI": {
+    "country": "Ethiopia",
+    "city": "Lalibela"
+  },
+  "MQX": {
+    "country": "Ethiopia",
+    "city": "Makale"
+  },
+  "MKS": {
+    "country": "Ethiopia",
+    "city": "Mekane Selam"
+  },
+  "NDM": {
+    "country": "Ethiopia",
+    "city": "Mendi"
+  },
+  "MTF": {
+    "country": "Ethiopia",
+    "city": "Mizan Teferi"
+  },
+  "EGL": {
+    "country": "Ethiopia",
+    "city": "Neghelli"
+  },
+  "HIL": {
+    "country": "Ethiopia",
+    "city": "Shillavo"
+  },
+  "TIE": {
+    "country": "Ethiopia",
+    "city": "Tippi"
+  },
+  "TUJ": {
+    "country": "Ethiopia",
+    "city": "Tum"
+  },
+  "AQP": {
+    "country": "Peru",
+    "city": "Arequipa"
+  },
+  "CJA": {
+    "country": "Peru",
+    "city": "Cajamarca"
+  },
+  "CIX": {
+    "country": "Peru",
+    "city": "Chicayo"
+  },
+  "CUZ": {
+    "country": "Peru",
+    "city": "Cuzco"
+  },
+  "IQT": {
+    "country": "Peru",
+    "city": "Iquitos"
+  },
+  "JUL": {
+    "country": "Peru",
+    "city": "Juliaca"
+  },
+  "LIM": {
+    "country": "Peru",
+    "city": "Lima"
+  },
+  "PIU": {
+    "country": "Peru",
+    "city": "Piura"
+  },
+  "PCL": {
+    "country": "Peru",
+    "city": "Pucallpa"
+  },
+  "PEM": {
+    "country": "Peru",
+    "city": "Puerto Maldonado"
+  },
+  "TCQ": {
+    "country": "Peru",
+    "city": "Tacna"
+  },
+  "TPP": {
+    "country": "Peru",
+    "city": "Tarapoto"
+  },
+  "TRU": {
+    "country": "Peru",
+    "city": "Trujillo"
+  },
+  "TBP": {
+    "country": "Peru",
+    "city": "Tumbes"
+  },
+  "RUA": {
+    "country": "Uganda",
+    "city": "Arua"
+  },
+  "EBB": {
+    "country": "Uganda",
+    "city": "Entebbe"
+  },
+  "ULU": {
+    "country": "Uganda",
+    "city": "Gulu"
+  },
+  "JIN": {
+    "country": "Uganda",
+    "city": "Jinja"
+  },
+  "VSG": {
+    "country": "Uganda",
+    "city": "Lugansk"
+  },
+  "PAF": {
+    "country": "Uganda",
+    "city": "Pakuba"
+  },
+  "AUA": {
+    "country": "Aruba",
+    "city": "Aruba"
+  },
+  "ARK": {
+    "country": "Tanzania",
+    "city": "Arusha"
+  },
+  "DAR": {
+    "country": "Tanzania",
+    "city": "Dar Es Salaam"
+  },
+  "DOD": {
+    "country": "Tanzania",
+    "city": "Dodoma"
+  },
+  "TKQ": {
+    "country": "Tanzania",
+    "city": "Kigoma"
+  },
+  "JRO": {
+    "country": "Tanzania",
+    "city": "Kilimanjaro"
+  },
+  "LDI": {
+    "country": "Tanzania",
+    "city": "Lindi"
+  },
+  "MFA": {
+    "country": "Tanzania",
+    "city": "Mafia"
+  },
+  "MYW": {
+    "country": "Tanzania",
+    "city": "Mtwara"
+  },
+  "MUZ": {
+    "country": "Tanzania",
+    "city": "Musoma"
+  },
+  "MWZ": {
+    "country": "Tanzania",
+    "city": "Mwanza"
+  },
+  "PMA": {
+    "country": "Tanzania",
+    "city": "Pemba"
+  },
+  "TBO": {
+    "country": "Tanzania",
+    "city": "Tabora"
+  },
+  "ZNZ": {
+    "country": "Tanzania",
+    "city": "Zanzibar"
+  },
+  "ASB": {
+    "country": "Turkmenistan",
+    "city": "Ashgabat"
+  },
+  "ASM": {
+    "country": "Eritrea",
+    "city": "Asmara"
+  },
+  "OVD": {
+    "country": "Spain and Canary Islands",
+    "city": "Asturias"
+  },
+  "JCU": {
+    "country": "Spain and Canary Islands",
+    "city": "Ceuta"
+  },
+  "PMI": {
+    "country": "Spain and Canary Islands",
+    "city": "Palma Mallorca"
+  },
+  "REU": {
+    "country": "Spain and Canary Islands",
+    "city": "Reus"
+  },
+  "SPC": {
+    "country": "Spain and Canary Islands",
+    "city": "Santa Cruz De La Palma"
+  },
+  "SVQ": {
+    "country": "Spain and Canary Islands",
+    "city": "Sevilla"
+  },
+  "TFN": {
+    "country": "Spain and Canary Islands",
+    "city": "Tenerife"
+  },
+  "VLL": {
+    "country": "Spain and Canary Islands",
+    "city": "Valladolid"
+  },
+  "VDE": {
+    "country": "Spain and Canary Islands",
+    "city": "Valverde"
+  },
+  "VIT": {
+    "country": "Spain and Canary Islands",
+    "city": "Vitoria"
+  },
+  "ZAZ": {
+    "country": "Spain and Canary Islands",
+    "city": "Zaragoza"
+  },
+  "ASU": {
+    "country": "Paraguay",
+    "city": "Asuncion"
+  },
+  "AGT": {
+    "country": "Paraguay",
+    "city": "Ciudad del Este"
+  },
+  "ATD": {
+    "country": "Solomon Islands",
+    "city": "Atoifi"
+  },
+  "AKS": {
+    "country": "Solomon Islands",
+    "city": "Auki"
+  },
+  "BAS": {
+    "country": "Solomon Islands",
+    "city": "Balalae"
+  },
+  "BPF": {
+    "country": "Solomon Islands",
+    "city": "Batuna"
+  },
+  "BNY": {
+    "country": "Solomon Islands",
+    "city": "Bellona"
+  },
+  "CHY": {
+    "country": "Solomon Islands",
+    "city": "Choiseul Bay"
+  },
+  "FRE": {
+    "country": "Solomon Islands",
+    "city": "Fera Island"
+  },
+  "GZO": {
+    "country": "Solomon Islands",
+    "city": "Gizo"
+  },
+  "HIR": {
+    "country": "Solomon Islands",
+    "city": "Honiara"
+  },
+  "IRA": {
+    "country": "Solomon Islands",
+    "city": "Kirakira"
+  },
+  "MNY": {
+    "country": "Solomon Islands",
+    "city": "Mono"
+  },
+  "MUA": {
+    "country": "Solomon Islands",
+    "city": "Munda"
+  },
+  "PRS": {
+    "country": "Solomon Islands",
+    "city": "Parasi"
+  },
+  "RBV": {
+    "country": "Solomon Islands",
+    "city": "Ramato"
+  },
+  "RNL": {
+    "country": "Solomon Islands",
+    "city": "Rennell"
+  },
+  "NNB": {
+    "country": "Solomon Islands",
+    "city": "Santa Ana"
+  },
+  "EGM": {
+    "country": "Solomon Islands",
+    "city": "Sege"
+  },
+  "VAO": {
+    "country": "Solomon Islands",
+    "city": "Suavanao"
+  },
+  "XYA": {
+    "country": "Solomon Islands",
+    "city": "Yandina"
+  },
+  "AUQ": {
+    "country": "French Polynesia",
+    "city": "Atuona"
+  },
+  "BOB": {
+    "country": "French Polynesia",
+    "city": "Bora Bora"
+  },
+  "FAV": {
+    "country": "French Polynesia",
+    "city": "Fakarava"
+  },
+  "HUH": {
+    "country": "French Polynesia",
+    "city": "Huahine"
+  },
+  "HUU": {
+    "country": "French Polynesia",
+    "city": "Huanuco"
+  },
+  "XMH": {
+    "country": "French Polynesia",
+    "city": "Manihi"
+  },
+  "MAU": {
+    "country": "French Polynesia",
+    "city": "Maupiti"
+  },
+  "MOZ": {
+    "country": "French Polynesia",
+    "city": "Moorea"
+  },
+  "NHV": {
+    "country": "French Polynesia",
+    "city": "Nuku Hiva"
+  },
+  "PPT": {
+    "country": "French Polynesia",
+    "city": "Papeete"
+  },
+  "RFP": {
+    "country": "French Polynesia",
+    "city": "Raiatea"
+  },
+  "RUR": {
+    "country": "French Polynesia",
+    "city": "Rorutu"
+  },
+  "TIH": {
+    "country": "French Polynesia",
+    "city": "Tikehau Atoll"
+  },
+  "TUB": {
+    "country": "French Polynesia",
+    "city": "Tubuai"
+  },
+  "AKL": {
+    "country": "New Zealand",
+    "city": "Auckland"
+  },
+  "BHE": {
+    "country": "New Zealand",
+    "city": "Blenheim"
+  },
+  "CHT": {
+    "country": "New Zealand",
+    "city": "Chatham Island"
+  },
+  "CHC": {
+    "country": "New Zealand",
+    "city": "Christchurch"
+  },
+  "DUD": {
+    "country": "New Zealand",
+    "city": "Dunedin"
+  },
+  "GIS": {
+    "country": "New Zealand",
+    "city": "Gisborne"
+  },
+  "HLZ": {
+    "country": "New Zealand",
+    "city": "Hamilton"
+  },
+  "HKK": {
+    "country": "New Zealand",
+    "city": "Hokitika"
+  },
+  "IVC": {
+    "country": "New Zealand",
+    "city": "Invercargill"
+  },
+  "KAT": {
+    "country": "New Zealand",
+    "city": "Kaitaia"
+  },
+  "MON": {
+    "country": "New Zealand",
+    "city": "Mount Cook"
+  },
+  "NPE": {
+    "country": "New Zealand",
+    "city": "Napier-Hastings"
+  },
+  "NSN": {
+    "country": "New Zealand",
+    "city": "Nelso"
+  },
+  "NPL": {
+    "country": "New Zealand",
+    "city": "New Plymouth"
+  },
+  "PMR": {
+    "country": "New Zealand",
+    "city": "Palmerston North"
+  },
+  "ZQN": {
+    "country": "New Zealand",
+    "city": "Queenstown"
+  },
+  "ROT": {
+    "country": "New Zealand",
+    "city": "Rotorua"
+  },
+  "TUO": {
+    "country": "New Zealand",
+    "city": "Taupo"
+  },
+  "TRG": {
+    "country": "New Zealand",
+    "city": "Tauranga"
+  },
+  "TEU": {
+    "country": "New Zealand",
+    "city": "Te Anau"
+  },
+  "TIU": {
+    "country": "New Zealand",
+    "city": "Timaru"
+  },
+  "WKA": {
+    "country": "New Zealand",
+    "city": "Wanaka"
+  },
+  "WAG": {
+    "country": "New Zealand",
+    "city": "Wanganui"
+  },
+  "WLG": {
+    "country": "New Zealand",
+    "city": "Wellington"
+  },
+  "WSZ": {
+    "country": "New Zealand",
+    "city": "Westport"
+  },
+  "WHK": {
+    "country": "New Zealand",
+    "city": "Whakatane"
+  },
+  "WRE": {
+    "country": "New Zealand",
+    "city": "Whangarei"
+  },
+  "AGB": {
+    "country": "Germany",
+    "city": "Augsburg/Munich"
+  },
+  "BER": {
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  "TXL": {
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  "THF": {
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  "SXF": {
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  "BNJ": {
+    "country": "Germany",
+    "city": "Bonn"
+  },
+  "BRE": {
+    "country": "Germany",
+    "city": "Bremen"
+  },
+  "CGN": {
+    "country": "Germany",
+    "city": "Cologne"
+  },
+  "DTM": {
+    "country": "Germany",
+    "city": "Dortmund"
+  },
+  "DRS": {
+    "country": "Germany",
+    "city": "Dresden"
+  },
+  "DUS": {
+    "country": "Germany",
+    "city": "Dusseldorf"
+  },
+  "QDU": {
+    "country": "Germany",
+    "city": "Dusseldorf"
+  },
+  "ERF": {
+    "country": "Germany",
+    "city": "Erfurt"
+  },
+  "XFW": {
+    "country": "Germany",
+    "city": "Finkenwerder"
+  },
+  "HHN": {
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  "FRA": {
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  "FDH": {
+    "country": "Germany",
+    "city": "Friedrichshafer"
+  },
+  "ZHQ": {
+    "country": "Germany",
+    "city": "Halberstadt"
+  },
+  "HAM": {
+    "country": "Germany",
+    "city": "Hamburg"
+  },
+  "HAJ": {
+    "country": "Germany",
+    "city": "Hanover"
+  },
+  "FKB": {
+    "country": "Germany",
+    "city": "Karlsruhe/Badern Baden"
+  },
+  "LEJ": {
+    "country": "Germany",
+    "city": "Leipzig"
+  },
+  "MHG": {
+    "country": "Germany",
+    "city": "Mannheim"
+  },
+  "FMO": {
+    "country": "Germany",
+    "city": "Muenster"
+  },
+  "MUC": {
+    "country": "Germany",
+    "city": "Munich"
+  },
+  "NUE": {
+    "country": "Germany",
+    "city": "Nuremberg"
+  },
+  "PAD": {
+    "country": "Germany",
+    "city": "Paderborn"
+  },
+  "STR": {
+    "country": "Germany",
+    "city": "Stuttgart"
+  },
+  "BCD": {
+    "country": "Philippines",
+    "city": "Bacolod"
+  },
+  "BSO": {
+    "country": "Philippines",
+    "city": "Basco"
+  },
+  "BXU": {
+    "country": "Philippines",
+    "city": "Butuan"
+  },
+  "CGY": {
+    "country": "Philippines",
+    "city": "Cagayan De Oro"
+  },
+  "CEB": {
+    "country": "Philippines",
+    "city": "Cebu"
+  },
+  "CBO": {
+    "country": "Philippines",
+    "city": "Cotabato"
+  },
+  "DPL": {
+    "country": "Philippines",
+    "city": "Dipolog"
+  },
+  "DGT": {
+    "country": "Philippines",
+    "city": "Dumaguete"
+  },
+  "GES": {
+    "country": "Philippines",
+    "city": "General Santos"
+  },
+  "ILO": {
+    "country": "Philippines",
+    "city": "Iloilo"
+  },
+  "IPE": {
+    "country": "Philippines",
+    "city": "Ipil"
+  },
+  "LAO": {
+    "country": "Philippines",
+    "city": "Laoag"
+  },
+  "LGP": {
+    "country": "Philippines",
+    "city": "Legaspi"
+  },
+  "MNL": {
+    "country": "Philippines",
+    "city": "Manila"
+  },
+  "MBT": {
+    "country": "Philippines",
+    "city": "Masbate"
+  },
+  "WNP": {
+    "country": "Philippines",
+    "city": "Naga"
+  },
+  "PPS": {
+    "country": "Philippines",
+    "city": "Puerto Princesa"
+  },
+  "TAC": {
+    "country": "Philippines",
+    "city": "Tacloban"
+  },
+  "TUG": {
+    "country": "Philippines",
+    "city": "Tuguegarao"
+  },
+  "ZAM": {
+    "country": "Philippines",
+    "city": "Zamboanga"
+  },
+  "BHV": {
+    "country": "Pakistan",
+    "city": "Bahawalpur"
+  },
+  "BNP": {
+    "country": "Pakistan",
+    "city": "Bannu"
+  },
+  "CJL": {
+    "country": "Pakistan",
+    "city": "Chitral"
+  },
+  "DEA": {
+    "country": "Pakistan",
+    "city": "Dera Ghazi"
+  },
+  "DSK": {
+    "country": "Pakistan",
+    "city": "Dera Ismail Khan"
+  },
+  "LYP": {
+    "country": "Pakistan",
+    "city": "Faisalabad"
+  },
+  "GIL": {
+    "country": "Pakistan",
+    "city": "Gilgit"
+  },
+  "GWD": {
+    "country": "Pakistan",
+    "city": "Gwadar"
+  },
+  "ISB": {
+    "country": "Pakistan",
+    "city": "Islamabad"
+  },
+  "JAG": {
+    "country": "Pakistan",
+    "city": "Jacobabad"
+  },
+  "JIW": {
+    "country": "Pakistan",
+    "city": "Jiwani"
+  },
+  "KCF": {
+    "country": "Pakistan",
+    "city": "Kadanwari"
+  },
+  "KHI": {
+    "country": "Pakistan",
+    "city": "Karachi"
+  },
+  "KDD": {
+    "country": "Pakistan",
+    "city": "Khuzdar"
+  },
+  "LHE": {
+    "country": "Pakistan",
+    "city": "Lahore"
+  },
+  "MUX": {
+    "country": "Pakistan",
+    "city": "Multan"
+  },
+  "MFG": {
+    "country": "Pakistan",
+    "city": "Muzaffarabad"
+  },
+  "WNS": {
+    "country": "Pakistan",
+    "city": "Nawabshah"
+  },
+  "ORW": {
+    "country": "Pakistan",
+    "city": "Ormara"
+  },
+  "PJG": {
+    "country": "Pakistan",
+    "city": "Panjger"
+  },
+  "PAJ": {
+    "country": "Pakistan",
+    "city": "Para Chinar"
+  },
+  "PSI": {
+    "country": "Pakistan",
+    "city": "Pasni"
+  },
+  "PEW": {
+    "country": "Pakistan",
+    "city": "Peshawar"
+  },
+  "UET": {
+    "country": "Pakistan",
+    "city": "Quetta"
+  },
+  "RAZ": {
+    "country": "Pakistan",
+    "city": "Rawala Kot"
+  },
+  "SUL": {
+    "country": "Pakistan",
+    "city": "Sui"
+  },
+  "TUK": {
+    "country": "Pakistan",
+    "city": "Turbat"
+  },
+  "PZH": {
+    "country": "Pakistan",
+    "city": "Zhob"
+  },
+  "BFQ": {
+    "country": "Panama",
+    "city": "Bahia Pinas"
+  },
+  "BOC": {
+    "country": "Panama",
+    "city": "Bocas Del Toro"
+  },
+  "CHX": {
+    "country": "Panama",
+    "city": "Changuinda"
+  },
+  "CTD": {
+    "country": "Panama",
+    "city": "Chitre"
+  },
+  "ONX": {
+    "country": "Panama",
+    "city": "Colon"
+  },
+  "OTD": {
+    "country": "Panama",
+    "city": "Contadora"
+  },
+  "DAV": {
+    "country": "Panama",
+    "city": "David"
+  },
+  "ELE": {
+    "country": "Panama",
+    "city": "El Real"
+  },
+  "GHE": {
+    "country": "Panama",
+    "city": "Garachine"
+  },
+  "JQE": {
+    "country": "Panama",
+    "city": "Jaque"
+  },
+  "PLP": {
+    "country": "Panama",
+    "city": "La Palma"
+  },
+  "PTY": {
+    "country": "Panama",
+    "city": "Panama City"
+  },
+  "PAC": {
+    "country": "Panama",
+    "city": "Panama City"
+  },
+  "NMG": {
+    "country": "Panama",
+    "city": "San Miguel"
+  },
+  "BAH": {
+    "country": "Bahrain",
+    "city": "Bahrain"
+  },
+  "BAK": {
+    "country": "Azerbaijan",
+    "city": "Baku"
+  },
+  "KVD": {
+    "country": "Azerbaijan",
+    "city": "Gyandzha"
+  },
+  "NAJ": {
+    "country": "Azerbaijan",
+    "city": "Nakhichevan"
+  },
+  "BKO": {
+    "country": "Mali",
+    "city": "Bamako"
+  },
+  "GUD": {
+    "country": "Mali",
+    "city": "Goundam"
+  },
+  "MZI": {
+    "country": "Mali",
+    "city": "Mopti"
+  },
+  "TOM": {
+    "country": "Mali",
+    "city": "Tombouctou"
+  },
+  "EYL": {
+    "country": "Mali",
+    "city": "Yelimane"
+  },
+  "BWN": {
+    "country": "Brunei",
+    "city": "Bandar Seri Begawan"
+  },
+  "BKK": {
+    "country": "Thailand",
+    "city": "Bangkok"
+  },
+  "BFV": {
+    "country": "Thailand",
+    "city": "Buri Ram"
+  },
+  "CNX": {
+    "country": "Thailand",
+    "city": "Chiang Mai"
+  },
+  "CEI": {
+    "country": "Thailand",
+    "city": "Chiang Rai"
+  },
+  "HDY": {
+    "country": "Thailand",
+    "city": "Hat Yai"
+  },
+  "HHQ": {
+    "country": "Thailand",
+    "city": "Hualtin"
+  },
+  "USM": {
+    "country": "Thailand",
+    "city": "Koh Samui"
+  },
+  "KBV": {
+    "country": "Thailand",
+    "city": "Krabi"
+  },
+  "HGN": {
+    "country": "Thailand",
+    "city": "Mae Hong Son"
+  },
+  "MAQ": {
+    "country": "Thailand",
+    "city": "Mae Sot"
+  },
+  "NAK": {
+    "country": "Thailand",
+    "city": "Nakhon Ratchosima"
+  },
+  "NST": {
+    "country": "Thailand",
+    "city": "Nakhon Si Thammarat"
+  },
+  "NNT": {
+    "country": "Thailand",
+    "city": "Nan"
+  },
+  "NAW": {
+    "country": "Thailand",
+    "city": "Narathiwat"
+  },
+  "PHS": {
+    "country": "Thailand",
+    "city": "Phitsanulok"
+  },
+  "PRH": {
+    "country": "Thailand",
+    "city": "Phrae"
+  },
+  "HKT": {
+    "country": "Thailand",
+    "city": "Phuket"
+  },
+  "UNN": {
+    "country": "Thailand",
+    "city": "Ranong"
+  },
+  "SNO": {
+    "country": "Thailand",
+    "city": "Sakon Nakhon"
+  },
+  "THS": {
+    "country": "Thailand",
+    "city": "Sukhotthai"
+  },
+  "URT": {
+    "country": "Thailand",
+    "city": "Surat Thani"
+  },
+  "TST": {
+    "country": "Thailand",
+    "city": "Trang"
+  },
+  "UBP": {
+    "country": "Thailand",
+    "city": "Ubon Ratchathani"
+  },
+  "UTH": {
+    "country": "Thailand",
+    "city": "Udon Thani"
+  },
+  "UTP": {
+    "country": "Thailand",
+    "city": "Utapao"
+  },
+  "BNX": {
+    "country": "Bosnia Herzegovina",
+    "city": "Banja Luka"
+  },
+  "BJL": {
+    "country": "Gambia",
+    "city": "Banjul"
+  },
+  "BMV": {
+    "country": "Viet Nam",
+    "city": "Banmethuot"
+  },
+  "DAD": {
+    "country": "Viet Nam",
+    "city": "Da Nang"
+  },
+  "Dalat, Viet Nam - Lienkhang DLI": {
+    "country": "Viet Nam",
+    "city": "Dalat"
+  },
+  "DIN": {
+    "country": "Viet Nam",
+    "city": "Dien Bien Phu"
+  },
+  "HPH": {
+    "country": "Viet Nam",
+    "city": "Haiphong"
+  },
+  "HAN": {
+    "country": "Viet Nam",
+    "city": "Hanoi"
+  },
+  "SGN": {
+    "country": "Viet Nam",
+    "city": "Ho Chi Minh City"
+  },
+  "HUI": {
+    "country": "Viet Nam",
+    "city": "Hue"
+  },
+  "NHA": {
+    "country": "Viet Nam",
+    "city": "Nha Trang"
+  },
+  "PQC": {
+    "country": "Viet Nam",
+    "city": "Phu Quoc"
+  },
+  "PXU": {
+    "country": "Viet Nam",
+    "city": "Pleiku"
+  },
+  "UIH": {
+    "country": "Viet Nam",
+    "city": "Qui Nhon"
+  },
+  "VKG": {
+    "country": "Viet Nam",
+    "city": "Roch Gia"
+  },
+  "SQH": {
+    "country": "Viet Nam",
+    "city": "Son-La"
+  },
+  "VII": {
+    "country": "Viet Nam",
+    "city": "Vinh City"
+  },
+  "BGF": {
+    "country": "Central African Republic",
+    "city": "Banqui"
+  },
+  "BCA": {
+    "country": "Cuba",
+    "city": "Baracoa"
+  },
+  "BYM": {
+    "country": "Cuba",
+    "city": "Bayamo"
+  },
+  "CMW": {
+    "country": "Cuba",
+    "city": "Camaguey"
+  },
+  "CYO": {
+    "country": "Cuba",
+    "city": "Cayo Largo Del Sur"
+  },
+  "AVI": {
+    "country": "Cuba",
+    "city": "Ciego De Avila"
+  },
+  "GAO": {
+    "country": "Cuba",
+    "city": "Guantanamo"
+  },
+  "HAV": {
+    "country": "Cuba",
+    "city": "Havana"
+  },
+  "HOG": {
+    "country": "Cuba",
+    "city": "Holguin"
+  },
+  "MZO": {
+    "country": "Cuba",
+    "city": "Manzanillo"
+  },
+  "MOA": {
+    "country": "Cuba",
+    "city": "Moa"
+  },
+  "GER": {
+    "country": "Cuba",
+    "city": "Nueva Gerona"
+  },
+  "VRA": {
+    "country": "Cuba",
+    "city": "Varadero"
+  },
+  "BZL": {
+    "country": "Bangladesh",
+    "city": "Barisal"
+  },
+  "CGP": {
+    "country": "Bangladesh",
+    "city": "Chittagong"
+  },
+  "CXB": {
+    "country": "Bangladesh",
+    "city": "Cox's Bazar"
+  },
+  "JSR": {
+    "country": "Bangladesh",
+    "city": "Jessore"
+  },
+  "RJH": {
+    "country": "Bangladesh",
+    "city": "Rajshahi"
+  },
+  "ZYL": {
+    "country": "Bangladesh",
+    "city": "Sylhet"
+  },
+  "BCL": {
+    "country": "Costa Rica",
+    "city": "Barra Colorado"
+  },
+  "RIK": {
+    "country": "Costa Rica",
+    "city": "Carrillo"
+  },
+  "GLF": {
+    "country": "Costa Rica",
+    "city": "Golfito"
+  },
+  "LIR": {
+    "country": "Costa Rica",
+    "city": "Liberia"
+  },
+  "NOB": {
+    "country": "Costa Rica",
+    "city": "Nosara Beach"
+  },
+  "PMZ": {
+    "country": "Costa Rica",
+    "city": "Palmar"
+  },
+  "PJM": {
+    "country": "Costa Rica",
+    "city": "Puerto Jimenez"
+  },
+  "PBP": {
+    "country": "Costa Rica",
+    "city": "Punta Islita"
+  },
+  "XQP": {
+    "country": "Costa Rica",
+    "city": "Quepos"
+  },
+  "SJO": {
+    "country": "Costa Rica",
+    "city": "San Jose"
+  },
+  "SYQ": {
+    "country": "Costa Rica",
+    "city": "San Jose"
+  },
+  "TNO": {
+    "country": "Costa Rica",
+    "city": "Tamarindo"
+  },
+  "TMU": {
+    "country": "Costa Rica",
+    "city": "Tambor"
+  },
+  "TTQ": {
+    "country": "Costa Rica",
+    "city": "Tortuquero"
+  },
+  "BBM": {
+    "country": "Cambodia",
+    "city": "Battambang"
+  },
+  "CYB": {
+    "country": "Cambodia",
+    "city": "Cayman Brac Is"
+  },
+  "PNH": {
+    "country": "Cambodia",
+    "city": "Phnom Penh"
+  },
+  "RBE": {
+    "country": "Cambodia",
+    "city": "Ratanakiri"
+  },
+  "REP": {
+    "country": "Cambodia",
+    "city": "Siem Reap"
+  },
+  "TNX": {
+    "country": "Cambodia",
+    "city": "Stung Treng"
+  },
+  "BUS": {
+    "country": "Georgia",
+    "city": "Batumi"
+  },
+  "KUT": {
+    "country": "Georgia",
+    "city": "Kutaisi"
+  },
+  "TBS": {
+    "country": "Georgia",
+    "city": "Tbilisi"
+  },
+  "EIS": {
+    "country": "British Virgin Islands",
+    "city": "Beef Island"
+  },
+  "TOV": {
+    "country": "British Virgin Islands",
+    "city": "Tortola"
+  },
+  "VIJ": {
+    "country": "British Virgin Islands",
+    "city": "Virgin Gorda"
+  },
+  "LAQ": {
+    "country": "Libya",
+    "city": "Beida"
+  },
+  "BEN": {
+    "country": "Libya",
+    "city": "Benghazi"
+  },
+  "BCQ": {
+    "country": "Libya",
+    "city": "Brack"
+  },
+  "LTD": {
+    "country": "Libya",
+    "city": "Ghadames"
+  },
+  "GHT": {
+    "country": "Libya",
+    "city": "Ghat"
+  },
+  "HUQ": {
+    "country": "Libya",
+    "city": "Houn"
+  },
+  "AKF": {
+    "country": "Libya",
+    "city": "Kufrah"
+  },
+  "MRA": {
+    "country": "Libya",
+    "city": "Misurata"
+  },
+  "TOB": {
+    "country": "Libya",
+    "city": "Tobruk"
+  },
+  "BEW": {
+    "country": "Mozambique",
+    "city": "Beira"
+  },
+  "BLG": {
+    "country": "Mozambique",
+    "city": "Belaga"
+  },
+  "VXC": {
+    "country": "Mozambique",
+    "city": "Lichinga"
+  },
+  "MPM": {
+    "country": "Mozambique",
+    "city": "Maputo"
+  },
+  "MNC": {
+    "country": "Mozambique",
+    "city": "Nacala"
+  },
+  "APL": {
+    "country": "Mozambique",
+    "city": "Nampula"
+  },
+  "POL": {
+    "country": "Mozambique",
+    "city": "Pemba"
+  },
+  "UEL": {
+    "country": "Mozambique",
+    "city": "Quelimane"
+  },
+  "TET": {
+    "country": "Mozambique",
+    "city": "Tete"
+  },
+  "VNX": {
+    "country": "Mozambique",
+    "city": "Vilanculos"
+  },
+  "BEY": {
+    "country": "Lebanon",
+    "city": "Beirut"
+  },
+  "BMY": {
+    "country": "New Caledonia",
+    "city": "Belep Island"
+  },
+  "ILP": {
+    "country": "New Caledonia",
+    "city": "Ile Des Pins"
+  },
+  "LIF": {
+    "country": "New Caledonia",
+    "city": "Lifa"
+  },
+  "MEE": {
+    "country": "New Caledonia",
+    "city": "Mare"
+  },
+  "NOU": {
+    "country": "New Caledonia",
+    "city": "Noumea"
+  },
+  "GEA": {
+    "country": "New Caledonia",
+    "city": "Noumea"
+  },
+  "UVE": {
+    "country": "New Caledonia",
+    "city": "Ouvea"
+  },
+  "TGJ": {
+    "country": "New Caledonia",
+    "city": "Tiga"
+  },
+  "TOU": {
+    "country": "New Caledonia",
+    "city": "Touho"
+  },
+  "BEG": {
+    "country": "Serbia and Montenegro",
+    "city": "Belgrade"
+  },
+  "TGD": {
+    "country": "Serbia and Montenegro",
+    "city": "Podgoriea"
+  },
+  "PRN": {
+    "country": "Serbia and Montenegro",
+    "city": "Pristina"
+  },
+  "TIV": {
+    "country": "Serbia and Montenegro",
+    "city": "Tivat"
+  },
+  "BZE": {
+    "country": "Belize",
+    "city": "Belize City"
+  },
+  "TZA": {
+    "country": "Belize",
+    "city": "Belize City"
+  },
+  "CZH": {
+    "country": "Belize",
+    "city": "Corozal"
+  },
+  "DGA": {
+    "country": "Belize",
+    "city": "Dangriga"
+  },
+  "PLJ": {
+    "country": "Belize",
+    "city": "Placencia"
+  },
+  "PND": {
+    "country": "Belize",
+    "city": "Punta Gorda"
+  },
+  "BBO": {
+    "country": "Somalia",
+    "city": "Berbera"
+  },
+  "BSA": {
+    "country": "Somalia",
+    "city": "Bossaro"
+  },
+  "BUO": {
+    "country": "Somalia",
+    "city": "Burao"
+  },
+  "MGQ": {
+    "country": "Somalia",
+    "city": "Mogadishu"
+  },
+  "BDA": {
+    "country": "Bermuda",
+    "city": "Hamilton"
+  },
+  "BDP": {
+    "country": "Nepal",
+    "city": "Bhadrapur"
+  },
+  "BWA": {
+    "country": "Nepal",
+    "city": "Bhairawa"
+  },
+  "BHR": {
+    "country": "Nepal",
+    "city": "Bharatpur"
+  },
+  "BIR": {
+    "country": "Nepal",
+    "city": "Biratragar"
+  },
+  "JKR": {
+    "country": "Nepal",
+    "city": "Janakpur"
+  },
+  "JMO": {
+    "country": "Nepal",
+    "city": "Jomsom"
+  },
+  "KTM": {
+    "country": "Nepal",
+    "city": "Kathmandu"
+  },
+  "LUA": {
+    "country": "Nepal",
+    "city": "Lukla"
+  },
+  "NGX": {
+    "country": "Nepal",
+    "city": "Manang"
+  },
+  "PKR": {
+    "country": "Nepal",
+    "city": "Pokhara"
+  },
+  "BMO": {
+    "country": "Myanmar",
+    "city": "Bhamo"
+  },
+  "TVY": {
+    "country": "Myanmar",
+    "city": "Dawe"
+  },
+  "HEH": {
+    "country": "Myanmar",
+    "city": "Heno"
+  },
+  "KAW": {
+    "country": "Myanmar",
+    "city": "Kawthaung"
+  },
+  "MDL": {
+    "country": "Myanmar",
+    "city": "Mandalay"
+  },
+  "MNU": {
+    "country": "Myanmar",
+    "city": "Maulmyine"
+  },
+  "MGZ": {
+    "country": "Myanmar",
+    "city": "Myeik"
+  },
+  "MYT": {
+    "country": "Myanmar",
+    "city": "Myitkyina"
+  },
+  "NYU": {
+    "country": "Myanmar",
+    "city": "Nyaung"
+  },
+  "AKY": {
+    "country": "Myanmar",
+    "city": "Sittwe"
+  },
+  "THL": {
+    "country": "Myanmar",
+    "city": "Tachilek"
+  },
+  "SNW": {
+    "country": "Myanmar",
+    "city": "Thandwe"
+  },
+  "RGN": {
+    "country": "Myanmar",
+    "city": "Yangon"
+  },
+  "FRU": {
+    "country": "Kyrgyzstan",
+    "city": "Bishkek"
+  },
+  "OXB": {
+    "country": "Guinea-Bissau",
+    "city": "Bissau"
+  },
+  "BLZ": {
+    "country": "Malawi",
+    "city": "Blantyre"
+  },
+  "CMK": {
+    "country": "Malawi",
+    "city": "Club Makokola"
+  },
+  "LLW": {
+    "country": "Malawi",
+    "city": "Lilongwe"
+  },
+  "ZZU": {
+    "country": "Malawi",
+    "city": "Mzuzu"
+  },
+  "BVC": {
+    "country": "Cape Verde",
+    "city": "Boa Vista"
+  },
+  "MMO": {
+    "country": "Cape Verde",
+    "city": "Maio"
+  },
+  "RAI": {
+    "country": "Cape Verde",
+    "city": "Praia"
+  },
+  "NTO": {
+    "country": "Cape Verde",
+    "city": "Santo Antao"
+  },
+  "SNE": {
+    "country": "Cape Verde",
+    "city": "Sao Nicolau"
+  },
+  "VXE": {
+    "country": "Cape Verde",
+    "city": "Sao Vicente"
+  },
+  "BWK": {
+    "country": "Croatia",
+    "city": "Bol"
+  },
+  "DBV": {
+    "country": "Croatia",
+    "city": "Dubrovnik"
+  },
+  "OSI": {
+    "country": "Croatia",
+    "city": "Osijek"
+  },
+  "PUY": {
+    "country": "Croatia",
+    "city": "Pula"
+  },
+  "RJK": {
+    "country": "Croatia",
+    "city": "Rijeka"
+  },
+  "SPU": {
+    "country": "Croatia",
+    "city": "Split"
+  },
+  "ZAD": {
+    "country": "Croatia",
+    "city": "Zadar"
+  },
+  "ZAG": {
+    "country": "Croatia",
+    "city": "Zagreb"
+  },
+  "BOA": {
+    "country": "Congo",
+    "city": "Boma"
+  },
+  "BZV": {
+    "country": "Congo",
+    "city": "Brazzaville"
+  },
+  "FIH": {
+    "country": "Congo",
+    "city": "Kinshasa"
+  },
+  "FBM": {
+    "country": "Congo",
+    "city": "Lumbashi"
+  },
+  "MDK": {
+    "country": "Congo",
+    "city": "Mbandaka"
+  },
+  "MJM": {
+    "country": "Congo",
+    "city": "Mbuji Mayi"
+  },
+  "MNB": {
+    "country": "Congo",
+    "city": "Moanda"
+  },
+  "MAT": {
+    "country": "Congo",
+    "city": "Natadi"
+  },
+  "NIX": {
+    "country": "Congo",
+    "city": "Nioko"
+  },
+  "PNR": {
+    "country": "Congo",
+    "city": "Pointe Noire"
+  },
+  "BON": {
+    "country": "Netherlands Antilles",
+    "city": "Bonaire"
+  },
+  "CUR": {
+    "country": "Netherlands Antilles",
+    "city": "Curacao"
+  },
+  "SXM": {
+    "country": "Netherlands Antilles",
+    "city": "Saint Maarten"
+  },
+  "EUX": {
+    "country": "Netherlands Antilles",
+    "city": "St. Eustatius"
+  },
+  "BOJ": {
+    "country": "Bulgaria",
+    "city": "Bourgas"
+  },
+  "SOF": {
+    "country": "Bulgaria",
+    "city": "Sofia"
+  },
+  "VAR": {
+    "country": "Bulgaria",
+    "city": "Varna"
+  },
+  "BTS": {
+    "country": "Slovakia",
+    "city": "Bratislava"
+  },
+  "TAT": {
+    "country": "Slovakia",
+    "city": "Popraol/Tatry"
+  },
+  "BGI": {
+    "country": "Barbados",
+    "city": "Bridgetown"
+  },
+  "BRQ": {
+    "country": "Czech Republic",
+    "city": "Brno"
+  },
+  "ZDN": {
+    "country": "Czech Republic",
+    "city": "Brno"
+  },
+  "OSR": {
+    "country": "Czech Republic",
+    "city": "Ostrava"
+  },
+  "PRG": {
+    "country": "Czech Republic",
+    "city": "Prague"
+  },
+  "BHG": {
+    "country": "Honduras",
+    "city": "Brus Laguna"
+  },
+  "GJA": {
+    "country": "Honduras",
+    "city": "Guanaja"
+  },
+  "LCE": {
+    "country": "Honduras",
+    "city": "La Ceiba"
+  },
+  "PCH": {
+    "country": "Honduras",
+    "city": "Palacios"
+  },
+  "PEU": {
+    "country": "Honduras",
+    "city": "Puerto Lempira"
+  },
+  "RTB": {
+    "country": "Honduras",
+    "city": "Roatan"
+  },
+  "SAP": {
+    "country": "Honduras",
+    "city": "San Pedro Sula"
+  },
+  "TGU": {
+    "country": "Honduras",
+    "city": "Tegucigalpa"
+  },
+  "TJI": {
+    "country": "Honduras",
+    "city": "Trujillo"
+  },
+  "UII": {
+    "country": "Honduras",
+    "city": "Utila"
+  },
+  "CRL": {
+    "country": "Belguim",
+    "city": "Brussels"
+  },
+  "BUD": {
+    "country": "Hungary",
+    "city": "Budapest"
+  },
+  "BJM": {
+    "country": "Burundi",
+    "city": "Bujumbura"
+  },
+  "BUQ": {
+    "country": "Zimbabwe",
+    "city": "Bulawayo"
+  },
+  "HRE": {
+    "country": "Zimbabwe",
+    "city": "Harare"
+  },
+  "HWN": {
+    "country": "Zimbabwe",
+    "city": "Hwange Nat Park"
+  },
+  "KAB": {
+    "country": "Zimbabwe",
+    "city": "Kariba"
+  },
+  "VFA": {
+    "country": "Zimbabwe",
+    "city": "Victoria Falls"
+  },
+  "LEV": {
+    "country": "Fiji",
+    "city": "Bureta"
+  },
+  "CST": {
+    "country": "Fiji",
+    "city": "Castaway"
+  },
+  "ICI": {
+    "country": "Fiji",
+    "city": "Cicia"
+  },
+  "LBS": {
+    "country": "Fiji",
+    "city": "Labasa"
+  },
+  "LKB": {
+    "country": "Fiji",
+    "city": "Lakeba"
+  },
+  "LUC": {
+    "country": "Fiji",
+    "city": "Laucala Island"
+  },
+  "PTF": {
+    "country": "Fiji",
+    "city": "Malololailai"
+  },
+  "MNF": {
+    "country": "Fiji",
+    "city": "Mana Island"
+  },
+  "MFJ": {
+    "country": "Fiji",
+    "city": "Moala"
+  },
+  "NAN": {
+    "country": "Fiji",
+    "city": "Nadi"
+  },
+  "NGI": {
+    "country": "Fiji",
+    "city": "Ngau Island"
+  },
+  "SVU": {
+    "country": "Fiji",
+    "city": "Savusavu"
+  },
+  "SUV": {
+    "country": "Fiji",
+    "city": "Suva"
+  },
+  "TVU": {
+    "country": "Fiji",
+    "city": "Taveuni"
+  },
+  "VBV": {
+    "country": "Fiji",
+    "city": "Vanuabalavu"
+  },
+  "PUS": {
+    "country": "South Korea",
+    "city": "Busan"
+  },
+  "CJJ": {
+    "country": "South Korea",
+    "city": "Cheongju"
+  },
+  "TAE": {
+    "country": "South Korea",
+    "city": "Daegu"
+  },
+  "KAG": {
+    "country": "South Korea",
+    "city": "Gangneung"
+  },
+  "KUV": {
+    "country": "South Korea",
+    "city": "Gunsan"
+  },
+  "KWJ": {
+    "country": "South Korea",
+    "city": "Gwangju"
+  },
+  "HIN": {
+    "country": "South Korea",
+    "city": "Jinju"
+  },
+  "MPK": {
+    "country": "South Korea",
+    "city": "Mokpo"
+  },
+  "SEL": {
+    "country": "South Korea",
+    "city": "Seoul"
+  },
+  "GMP": {
+    "country": "South Korea",
+    "city": "Seoul"
+  },
+  "ICN": {
+    "country": "South Korea",
+    "city": "Seoul"
+  },
+  "USN": {
+    "country": "South Korea",
+    "city": "Ulsan"
+  },
+  "WJU": {
+    "country": "South Korea",
+    "city": "WonJu"
+  },
+  "RSU": {
+    "country": "South Korea",
+    "city": "Yeosu"
+  },
+  "BZG": {
+    "country": "Poland",
+    "city": "Bydgoszcz"
+  },
+  "GDN": {
+    "country": "Poland",
+    "city": "Gdansk"
+  },
+  "KTW": {
+    "country": "Poland",
+    "city": "Katowice"
+  },
+  "QJY": {
+    "country": "Poland",
+    "city": "Kolobrzeg"
+  },
+  "OSZ": {
+    "country": "Poland",
+    "city": "Koszalin"
+  },
+  "KRK": {
+    "country": "Poland",
+    "city": "Krakow"
+  },
+  "POZ": {
+    "country": "Poland",
+    "city": "Poznan"
+  },
+  "SZZ": {
+    "country": "Poland",
+    "city": "Szczecin"
+  },
+  "WAW": {
+    "country": "Poland",
+    "city": "Warsaw"
+  },
+  "WRO": {
+    "country": "Poland",
+    "city": "Wroclaw"
+  },
+  "IEG": {
+    "country": "Poland",
+    "city": "Zielana"
+  },
+  "CIW": {
+    "country": "Saint Vincent and the Grenadines",
+    "city": "Canouan"
+  },
+  "SVD": {
+    "country": "Saint Vincent and the Grenadines",
+    "city": "St Vincent"
+  },
+  "CAP": {
+    "country": "Haiti",
+    "city": "Cap Haitien"
+  },
+  "PAP": {
+    "country": "Haiti",
+    "city": "Port Au Prince"
+  },
+  "CAY": {
+    "country": "French Guiana",
+    "city": "Cayenne"
+  },
+  "CMJ": {
+    "country": "Taiwan",
+    "city": "Chi Mei"
+  },
+  "CYI": {
+    "country": "Taiwan",
+    "city": "Chiayi"
+  },
+  "HUN": {
+    "country": "Taiwan",
+    "city": "Hualien"
+  },
+  "MZG": {
+    "country": "Taiwan",
+    "city": "Makung"
+  },
+  "PIF": {
+    "country": "Taiwan",
+    "city": "Pingtung"
+  },
+  "TXG": {
+    "country": "Taiwan",
+    "city": "Taichung"
+  },
+  "TNN": {
+    "country": "Taiwan",
+    "city": "Tainan"
+  },
+  "TSA": {
+    "country": "Taiwan",
+    "city": "Taipei"
+  },
+  "TPE": {
+    "country": "Taiwan",
+    "city": "Taipei"
+  },
+  "TTT": {
+    "country": "Taiwan",
+    "city": "Taitung"
+  },
+  "WOT": {
+    "country": "Taiwan",
+    "city": "Wonan"
+  },
+  "CIP": {
+    "country": "Zambia",
+    "city": "Chipata"
+  },
+  "ZKB": {
+    "country": "Zambia",
+    "city": "Kasaba Bay"
+  },
+  "KAA": {
+    "country": "Zambia",
+    "city": "Kasama"
+  },
+  "LVI": {
+    "country": "Zambia",
+    "city": "Livingstone"
+  },
+  "LUN": {
+    "country": "Zambia",
+    "city": "Lusaka"
+  },
+  "MNR": {
+    "country": "Zambia",
+    "city": "Mangu"
+  },
+  "MFU": {
+    "country": "Zambia",
+    "city": "Mfume"
+  },
+  "NLA": {
+    "country": "Zambia",
+    "city": "Ndola"
+  },
+  "KIV": {
+    "country": "Republic of Moldova",
+    "city": "Chisinau"
+  },
+  "XCH": {
+    "country": "Christmas Island",
+    "city": "Christmas Island"
+  },
+  "CIJ": {
+    "country": "Bolivia",
+    "city": "Cobija"
+  },
+  "CBB": {
+    "country": "Bolivia",
+    "city": "Cochabamba"
+  },
+  "GYA": {
+    "country": "Bolivia",
+    "city": "Guayaramerin"
+  },
+  "LPB": {
+    "country": "Bolivia",
+    "city": "La Paz"
+  },
+  "PSZ": {
+    "country": "Bolivia",
+    "city": "Puerto Suarez"
+  },
+  "RIB": {
+    "country": "Bolivia",
+    "city": "Riberalta"
+  },
+  "VVI": {
+    "country": "Bolivia",
+    "city": "Santa Cruz"
+  },
+  "SRE": {
+    "country": "Bolivia",
+    "city": "Sucre"
+  },
+  "TJA": {
+    "country": "Bolivia",
+    "city": "Tarija"
+  },
+  "TDD": {
+    "country": "Bolivia",
+    "city": "Trinidad"
+  },
+  "Keeling": {
+    "country": "Cocos",
+    "city": "Cocos Islands"
+  },
+  "CMB": {
+    "country": "Sri Lanka",
+    "city": "Colombo"
+  },
+  "CKY": {
+    "country": "Guinea",
+    "city": "Conakry"
+  },
+  "LHW": {
+    "country": "Guinea",
+    "city": "Lanzhau"
+  },
+  "ORK": {
+    "country": "Ireland",
+    "city": "Cork"
+  },
+  "CFN": {
+    "country": "Ireland",
+    "city": "Donegal"
+  },
+  "DUB": {
+    "country": "Ireland",
+    "city": "Dublin"
+  },
+  "GWY": {
+    "country": "Ireland",
+    "city": "Galway"
+  },
+  "NOC": {
+    "country": "Ireland",
+    "city": "Knock"
+  },
+  "SNN": {
+    "country": "Ireland",
+    "city": "Shannon"
+  },
+  "SXL": {
+    "country": "Ireland",
+    "city": "Sligo"
+  },
+  "WAT": {
+    "country": "Ireland",
+    "city": "Waterford"
+  },
+  "CVU": {
+    "country": "Portugal",
+    "city": "Corvo Island"
+  },
+  "FAO": {
+    "country": "Portugal",
+    "city": "Faro"
+  },
+  "FLW": {
+    "country": "Portugal",
+    "city": "Flores Island"
+  },
+  "FNC": {
+    "country": "Portugal",
+    "city": "Funchal"
+  },
+  "GRW": {
+    "country": "Portugal",
+    "city": "Graciosa Island"
+  },
+  "HOR": {
+    "country": "Portugal",
+    "city": "Horta"
+  },
+  "LIS": {
+    "country": "Portugal",
+    "city": "Lisbon"
+  },
+  "PIX": {
+    "country": "Portugal",
+    "city": "Pico Island"
+  },
+  "PDL": {
+    "country": "Portugal",
+    "city": "Ponta Delgada"
+  },
+  "PXO": {
+    "country": "Portugal",
+    "city": "Porto Santo"
+  },
+  "OPO": {
+    "country": "Portugal",
+    "city": "Porto"
+  },
+  "SMA": {
+    "country": "Portugal",
+    "city": "Santa Maria"
+  },
+  "TER": {
+    "country": "Portugal",
+    "city": "Terceira Island"
+  },
+  "CUE": {
+    "country": "Ecuador",
+    "city": "Cuenca"
+  },
+  "ESM": {
+    "country": "Ecuador",
+    "city": "Esmeraldas"
+  },
+  "GPS": {
+    "country": "Ecuador",
+    "city": "Galapagos"
+  },
+  "GYE": {
+    "country": "Ecuador",
+    "city": "Guayaquil"
+  },
+  "LGQ": {
+    "country": "Ecuador",
+    "city": "Lago Agrio"
+  },
+  "LOH": {
+    "country": "Ecuador",
+    "city": "Loja"
+  },
+  "XMS": {
+    "country": "Ecuador",
+    "city": "Macas"
+  },
+  "MCH": {
+    "country": "Ecuador",
+    "city": "Machala"
+  },
+  "MEC": {
+    "country": "Ecuador",
+    "city": "Manta"
+  },
+  "PVO": {
+    "country": "Ecuador",
+    "city": "Portoviejo"
+  },
+  "UIO": {
+    "country": "Ecuador",
+    "city": "Quito"
+  },
+  "TUA": {
+    "country": "Ecuador",
+    "city": "Tulcan"
+  },
+  "DKR": {
+    "country": "Senegal",
+    "city": "Dakar"
+  },
+  "DVO": {
+    "country": "Philipines",
+    "city": "Davao"
+  },
+  "DEZ": {
+    "country": "Syria",
+    "city": "Deirezzor"
+  },
+  "LTK": {
+    "country": "Syria",
+    "city": "Latakia"
+  },
+  "DAC": {
+    "country": "Bangledesh",
+    "city": "Dhaka"
+  },
+  "DLY": {
+    "country": "Vanuata",
+    "city": "Dillons Bay"
+  },
+  "EAE": {
+    "country": "Vanuata",
+    "city": "Emae"
+  },
+  "DJE": {
+    "country": "Tunisia",
+    "city": "Djerba"
+  },
+  "GAF": {
+    "country": "Tunisia",
+    "city": "Gafsa"
+  },
+  "MIR": {
+    "country": "Tunisia",
+    "city": "Monastir"
+  },
+  "TBJ": {
+    "country": "Tunisia",
+    "city": "Tabarka"
+  },
+  "TOE": {
+    "country": "Tunisia",
+    "city": "Tozeur"
+  },
+  "TUN": {
+    "country": "Tunisia",
+    "city": "Tunis"
+  },
+  "JIB": {
+    "country": "Djibouti",
+    "city": "Djibouti"
+  },
+  "DNK": {
+    "country": "Ukraine",
+    "city": "Dnepropetrovsk"
+  },
+  "DOK": {
+    "country": "Ukraine",
+    "city": "Donetsk"
+  },
+  "IFO": {
+    "country": "Ukraine",
+    "city": "Ivano-Frankovsk"
+  },
+  "HRK": {
+    "country": "Ukraine",
+    "city": "Kharkov"
+  },
+  "IEV": {
+    "country": "Ukraine",
+    "city": "Kiev"
+  },
+  "KBP": {
+    "country": "Ukraine",
+    "city": "Kiev"
+  },
+  "KWG": {
+    "country": "Ukraine",
+    "city": "Krivoy Rog"
+  },
+  "LWO": {
+    "country": "Ukraine",
+    "city": "Lvov"
+  },
+  "MPW": {
+    "country": "Ukraine",
+    "city": "Mariupol"
+  },
+  "ODS": {
+    "country": "Ukraine",
+    "city": "Odessa"
+  },
+  "PLV": {
+    "country": "Ukraine",
+    "city": "Poltava"
+  },
+  "UDJ": {
+    "country": "Ukraine",
+    "city": "Uzhgorod"
+  },
+  "OZH": {
+    "country": "Ukraine",
+    "city": "Zaporozhye"
+  },
+  "DOH": {
+    "country": "Qatar",
+    "city": "Doha"
+  },
+  "DCF": {
+    "country": "Dominica",
+    "city": "Dominica"
+  },
+  "DOM": {
+    "country": "Dominica",
+    "city": "Dominica"
+  },
+  "DOG": {
+    "country": "Sudan",
+    "city": "Dongola"
+  },
+  "ELF": {
+    "country": "Sudan",
+    "city": "El Fasher"
+  },
+  "EBD": {
+    "country": "Sudan",
+    "city": "El Obeid"
+  },
+  "EGN": {
+    "country": "Sudan",
+    "city": "Geneina"
+  },
+  "MAK": {
+    "country": "Sudan",
+    "city": "Malakai"
+  },
+  "MWE": {
+    "country": "Sudan",
+    "city": "Merave"
+  },
+  "UYL": {
+    "country": "Sudan",
+    "city": "Nyala"
+  },
+  "PZU": {
+    "country": "Sudan",
+    "city": "Port Sudan"
+  },
+  "WHF": {
+    "country": "Sudan",
+    "city": "Wadi Halfa"
+  },
+  "WUU": {
+    "country": "Sudan",
+    "city": "Wau"
+  },
+  "DLA": {
+    "country": "Cameroon",
+    "city": "Dovala"
+  },
+  "MVR": {
+    "country": "Cameroon",
+    "city": "Marova"
+  },
+  "NGE": {
+    "country": "Cameroon",
+    "city": "Ngaoundere"
+  },
+  "YAO": {
+    "country": "Cameroon",
+    "city": "Yaounde"
+  },
+  "DYU": {
+    "country": "Tajikistan",
+    "city": "Dushanbe"
+  },
+  "LBD": {
+    "country": "Tajikistan",
+    "city": "Khudzhand"
+  },
+  "DZA": {
+    "country": "Mayotte",
+    "city": "Dzaoudzi"
+  },
+  "EPS": {
+    "country": "Dominician Republic",
+    "city": "El Portillo/Samana"
+  },
+  "ENF": {
+    "country": "Finland",
+    "city": "Enontekio"
+  },
+  "HEL": {
+    "country": "Finland",
+    "city": "Helsinki"
+  },
+  "IVL": {
+    "country": "Finland",
+    "city": "Ivalo"
+  },
+  "JOE": {
+    "country": "Finland",
+    "city": "Joensuu"
+  },
+  "JYV": {
+    "country": "Finland",
+    "city": "Jyvaskyla"
+  },
+  "KAJ": {
+    "country": "Finland",
+    "city": "Kajaani"
+  },
+  "KTT": {
+    "country": "Finland",
+    "city": "Kittila"
+  },
+  "KUO": {
+    "country": "Finland",
+    "city": "Kuopio"
+  },
+  "KAO": {
+    "country": "Finland",
+    "city": "Kuusamo"
+  },
+  "LPP": {
+    "country": "Finland",
+    "city": "Lappeenranta"
+  },
+  "MHQ": {
+    "country": "Finland",
+    "city": "Mariehamn"
+  },
+  "MIK": {
+    "country": "Finland",
+    "city": "Mikkeli"
+  },
+  "OUL": {
+    "country": "Finland",
+    "city": "Oulu"
+  },
+  "POR": {
+    "country": "Finland",
+    "city": "Pori"
+  },
+  "RVN": {
+    "country": "Finland",
+    "city": "Rovaniemi"
+  },
+  "SVL": {
+    "country": "Finland",
+    "city": "Savonlinna"
+  },
+  "TMP": {
+    "country": "Finland",
+    "city": "Tampere"
+  },
+  "TKU": {
+    "country": "Finland",
+    "city": "Turku"
+  },
+  "VAA": {
+    "country": "Finland",
+    "city": "Vaasa"
+  },
+  "VRK": {
+    "country": "Finland",
+    "city": "Varkaus"
+  },
+  "ECN": {
+    "country": "Cyprus",
+    "city": "Ercan"
+  },
+  "LCA": {
+    "country": "Cyprus",
+    "city": "Larnaca"
+  },
+  "NIC": {
+    "country": "Cyprus",
+    "city": "Nicosia"
+  },
+  "PFO": {
+    "country": "Cyprus",
+    "city": "Paphos"
+  },
+  "FAE": {
+    "country": "Faroe Islands",
+    "city": "Faroe Islands"
+  },
+  "FRS": {
+    "country": "Guatemala",
+    "city": "Flores"
+  },
+  "GUA": {
+    "country": "Guatemala",
+    "city": "Guatemala City"
+  },
+  "FDF": {
+    "country": "Martinique",
+    "city": "Fort De France"
+  },
+  "MVB": {
+    "country": "Gabon",
+    "city": "Franceville"
+  },
+  "GAX": {
+    "country": "Gabon",
+    "city": "Gamba"
+  },
+  "LBV": {
+    "country": "Gabon",
+    "city": "Libreville"
+  },
+  "MKU": {
+    "country": "Gabon",
+    "city": "Makokou"
+  },
+  "MFF": {
+    "country": "Gabon",
+    "city": "Moanda"
+  },
+  "MJL": {
+    "country": "Gabon",
+    "city": "Mouila"
+  },
+  "OMB": {
+    "country": "Gabon",
+    "city": "Omboue"
+  },
+  "OYE": {
+    "country": "Gabon",
+    "city": "Oyem"
+  },
+  "POG": {
+    "country": "Gabon",
+    "city": "Port Gentil"
+  },
+  "RHO": {
+    "country": "Gabon",
+    "city": "Rhodes"
+  },
+  "TCH": {
+    "country": "Gabon",
+    "city": "Tchibanga"
+  },
+  "FRW": {
+    "country": "Botswana",
+    "city": "Francistown"
+  },
+  "GBE": {
+    "country": "Botswana",
+    "city": "Gaborone"
+  },
+  "BBK": {
+    "country": "Botswana",
+    "city": "Kasane"
+  },
+  "MUB": {
+    "country": "Botswana",
+    "city": "Maun"
+  },
+  "FNA": {
+    "country": "Sierra Leone",
+    "city": "Freetown"
+  },
+  "FUN": {
+    "country": "Tuvalu",
+    "city": "Funafuti Atol"
+  },
+  "FUT": {
+    "country": "Wallis and Futuna Islands",
+    "city": "Futuna Island"
+  },
+  "WLS": {
+    "country": "Wallis and Futuna Islands",
+    "city": "Wallis Island"
+  },
+  "GGN": {
+    "country": "Cote D'Ivoire",
+    "city": "Gagnoa"
+  },
+  "GAN": {
+    "country": "Maldives",
+    "city": "Gan Island"
+  },
+  "HAQ": {
+    "country": "Maldives",
+    "city": "Hanimaadhoo"
+  },
+  "KDM": {
+    "country": "Maldives",
+    "city": "Kaadedhdhoo"
+  },
+  "KDO": {
+    "country": "Maldives",
+    "city": "Kadhonoo"
+  },
+  "MLE": {
+    "country": "Maldives",
+    "city": "Male"
+  },
+  "GZA": {
+    "country": "Occupied Palestinian Territory",
+    "city": "Gaza City"
+  },
+  "GEO": {
+    "country": "Guyana",
+    "city": "Georgetown"
+  },
+  "GET": {
+    "country": "(GET",
+    "city": "Geraldton"
+  },
+  "GIB": {
+    "country": "Gibraltar",
+    "city": "Gibraltar"
+  },
+  "GZM": {
+    "country": "Malta",
+    "city": "Gozo"
+  },
+  "MLA": {
+    "country": "Malta",
+    "city": "Malta"
+  },
+  "GCM": {
+    "country": "Cayman Islands",
+    "city": "Grand Cayman"
+  },
+  "GDT": {
+    "country": "Turks and Caicos Islands",
+    "city": "Grand Turk Island"
+  },
+  "NCA": {
+    "country": "Turks and Caicos Islands",
+    "city": "North Caicos"
+  },
+  "PLS": {
+    "country": "Turks and Caicos Islands",
+    "city": "Providenciales"
+  },
+  "SLX": {
+    "country": "Turks and Caicos Islands",
+    "city": "Salt Cay"
+  },
+  "XSC": {
+    "country": "Turks and Caicos Islands",
+    "city": "South Caicos"
+  },
+  "GRZ": {
+    "country": "Austria",
+    "city": "Graz"
+  },
+  "INN": {
+    "country": "Austria",
+    "city": "Innsbruck"
+  },
+  "LNZ": {
+    "country": "Austria",
+    "city": "Linz"
+  },
+  "SZG": {
+    "country": "Austria",
+    "city": "Salzburg"
+  },
+  "VIE": {
+    "country": "Austria",
+    "city": "Vienna"
+  },
+  "GND": {
+    "country": "(GND",
+    "city": "Grenada"
+  },
+  "GUM": {
+    "country": "Guam",
+    "city": "Guam (GUM"
+  },
+  "LWN": {
+    "country": "Armenia",
+    "city": "Gyourmri"
+  },
+  "EVN": {
+    "country": "Armenia",
+    "city": "Yerevan"
+  },
+  "HPA": {
+    "country": "Tonga",
+    "city": "HaApa"
+  },
+  "NFO": {
+    "country": "Tonga",
+    "city": "Niuafo'ou"
+  },
+  "NTT": {
+    "country": "Tonga",
+    "city": "Niuatoputapu"
+  },
+  "TBU": {
+    "country": "Tonga",
+    "city": "Nuku'Alofa"
+  },
+  "VAV": {
+    "country": "Tonga",
+    "city": "Vava'u"
+  },
+  "HFA": {
+    "country": "Israel",
+    "city": "Haifa"
+  },
+  "VDA": {
+    "country": "Israel",
+    "city": "Ovda"
+  },
+  "TLV": {
+    "country": "Israel",
+    "city": "Tel Aviv"
+  },
+  "HGA": {
+    "country": "Somolia",
+    "city": "Hargeisa"
+  },
+  "HKG": {
+    "country": "Hong Kong",
+    "city": "Hong Kong"
+  },
+  "HID": {
+    "country": "Horn",
+    "city": "Horn Island Australia (HID"
+  },
+  "HOE": {
+    "country": "Laos",
+    "city": "Houeisay"
+  },
+  "LXG": {
+    "country": "Laos",
+    "city": "Luang Namtha"
+  },
+  "LPQ": {
+    "country": "Laos",
+    "city": "Luang Prabang"
+  },
+  "ODY": {
+    "country": "Laos",
+    "city": "Oudomxay"
+  },
+  "PKZ": {
+    "country": "Laos",
+    "city": "Pakse"
+  },
+  "ZVK": {
+    "country": "Laos",
+    "city": "Savannakhet"
+  },
+  "ZBY": {
+    "country": "Laos",
+    "city": "Sayaboury"
+  },
+  "VTE": {
+    "country": "Laos",
+    "city": "Vientiane"
+  },
+  "XKH": {
+    "country": "Laos",
+    "city": "Xieng Khouang"
+  },
+  "YIV": {
+    "country": "Canada",
+    "city": "Island Lake/Garden Hill"
+  },
+  "YLC": {
+    "country": "Canada",
+    "city": "Kimmirut/Lake Harbour"
+  },
+  "DJB": {
+    "country": "Jambi.",
+    "city": "Jambi. Indonesia (DJB"
+  },
+  "CJU": {
+    "country": "metro area",
+    "city": "Jeju"
+  },
+  "JON": {
+    "country": "US Minor Outlying Islands",
+    "city": "Johnston Island"
+  },
+  "MDY": {
+    "country": "US Minor Outlying Islands",
+    "city": "Midway Island"
+  },
+  "KBL": {
+    "country": "Afghanistan",
+    "city": "Kabul"
+  },
+  "KDL": {
+    "country": "Estonia",
+    "city": "Kardia"
+  },
+  "TLL": {
+    "country": "Estonia",
+    "city": "Tallinn"
+  },
+  "KUN": {
+    "country": "Lithuania",
+    "city": "Kaunas"
+  },
+  "PLQ": {
+    "country": "Lithuania",
+    "city": "Palanga"
+  },
+  "VNO": {
+    "country": "Lithuania",
+    "city": "Vilnius"
+  },
+  "KGL": {
+    "country": "Rwanda",
+    "city": "Kigali"
+  },
+  "KIN": {
+    "country": "Jamaica",
+    "city": "Kingston"
+  },
+  "KTP": {
+    "country": "Jamaica",
+    "city": "Kingston"
+  },
+  "MBJ": {
+    "country": "Jamaica",
+    "city": "Montego Bay"
+  },
+  "NEG": {
+    "country": "Jamaica",
+    "city": "Negril"
+  },
+  "OCJ": {
+    "country": "Jamaica",
+    "city": "Ocho Rios"
+  },
+  "POT": {
+    "country": "Jamaica",
+    "city": "Port Antonio"
+  },
+  "ROR": {
+    "country": "Palau",
+    "city": "Koror"
+  },
+  "CMU": {
+    "country": "Papau New Guinea",
+    "city": "Kundiawa"
+  },
+  "KWI": {
+    "country": "Kuwait",
+    "city": "Kuwait"
+  },
+  "LRM": {
+    "country": "Dominican Republic",
+    "city": "La Romana"
+  },
+  "POP": {
+    "country": "Dominican Republic",
+    "city": "Puerto Plata"
+  },
+  "PUJ": {
+    "country": "Dominican Republic",
+    "city": "Punta Cana"
+  },
+  "STI": {
+    "country": "Dominican Republic",
+    "city": "Santiago"
+  },
+  "HEX": {
+    "country": "Dominican Republic",
+    "city": "Santo Domingo"
+  },
+  "SDQ": {
+    "country": "Dominican Republic",
+    "city": "Santo Domingo"
+  },
+  "LAD": {
+    "country": "Angola",
+    "city": "Luanda"
+  },
+  "LJU": {
+    "country": "Slovenia",
+    "city": "Ljubliana"
+  },
+  "MBX": {
+    "country": "Slovenia",
+    "city": "Maribor"
+  },
+  "LFW": {
+    "country": "Togo",
+    "city": "Lome"
+  },
+  "LYR": {
+    "country": "Svalbard & Jan Mayen Island",
+    "city": "Longyearbyen"
+  },
+  "LUD": {
+    "country": "Namibia",
+    "city": "Luderitz"
+  },
+  "OKU": {
+    "country": "Namibia",
+    "city": "Mokuti Lodge"
+  },
+  "MPA": {
+    "country": "Namibia",
+    "city": "Mpacha"
+  },
+  "OND": {
+    "country": "Namibia",
+    "city": "Ondangwa"
+  },
+  "OMD": {
+    "country": "Namibia",
+    "city": "Oranjemund"
+  },
+  "SZM": {
+    "country": "Namibia",
+    "city": "Sesriem"
+  },
+  "TSB": {
+    "country": "Namibia",
+    "city": "Tsumeb"
+  },
+  "WVB": {
+    "country": "Namibia",
+    "city": "Walvis Bay"
+  },
+  "LUX": {
+    "country": "Luxembourg",
+    "city": "Luxembourg"
+  },
+  "SEZ": {
+    "country": "Seychelles",
+    "city": "Mahe Island"
+  },
+  "SSG": {
+    "country": "Equatorial Guinea",
+    "city": "Malabo"
+  },
+  "MGA": {
+    "country": "Nicaragua",
+    "city": "Managua"
+  },
+  "MTS": {
+    "country": "Swaziland",
+    "city": "Manzini"
+  },
+  "AMO": {
+    "country": "Chad",
+    "city": "Mao"
+  },
+  "NDJ": {
+    "country": "Chad",
+    "city": "Ndjamena"
+  },
+  "MSU": {
+    "country": "Lesotho",
+    "city": "Maseru"
+  },
+  "MRU": {
+    "country": "Mauritius",
+    "city": "Mauritius"
+  },
+  "RRG": {
+    "country": "Mauritius",
+    "city": "Rodrigues Island"
+  },
+  "MDS": {
+    "country": "Turks and Caicos",
+    "city": "Middle Caicos"
+  },
+  "MHP": {
+    "country": "Belarus",
+    "city": "Minsk"
+  },
+  "MSQ": {
+    "country": "Belarus",
+    "city": "Minsk"
+  },
+  "VTB": {
+    "country": "Belarus",
+    "city": "Vitebsk"
+  },
+  "ROB": {
+    "country": "Liberia",
+    "city": "Monrovia"
+  },
+  "MCM": {
+    "country": "Monaco",
+    "city": "Monte Carlo"
+  },
+  "MVD": {
+    "country": "Uruguay",
+    "city": "Montevideo"
+  },
+  "PDP": {
+    "country": "Uruguay",
+    "city": "Punta Del Este"
+  },
+  "MNI": {
+    "country": "Montserrat",
+    "city": "Montserrat"
+  },
+  "HAH": {
+    "country": "Comoros",
+    "city": "Moroni"
+  },
+  "OMO": {
+    "country": "Bosnia and Herzegovina",
+    "city": "Mostar"
+  },
+  "MPN": {
+    "country": "Falkland Islands",
+    "city": "Mount Pleasant"
+  },
+  "PSY": {
+    "country": "Falkland Islands",
+    "city": "Port Stanley"
+  },
+  "MCT": {
+    "country": "Oman",
+    "city": "Muscat"
+  },
+  "INU": {
+    "country": "Nauru",
+    "city": "Nauru Island"
+  },
+  "NEV": {
+    "country": "St. Kitts and Nevis",
+    "city": "Nevis"
+  },
+  "GON": {
+    "country": "New",
+    "city": "New London/Groton (GON"
+  },
+  "BEO": {
+    "country": "Australia - Belmont",
+    "city": "Newcastle"
+  },
+  "NIM": {
+    "country": "Niger",
+    "city": "Niamey"
+  },
+  "IUE": {
+    "country": "Niue",
+    "city": "Niue Island"
+  },
+  "NLK": {
+    "country": "Norfolk Island",
+    "city": "Norfolk Island"
+  },
+  "OHD": {
+    "country": "Macedonia",
+    "city": "Ohrid"
+  },
+  "FYROM": {
+    "country": "Macedonia",
+    "city": "Skopie"
+  },
+  "OKQ": {
+    "country": "Indonedia",
+    "city": "Okaba"
+  },
+  "ORB": {
+    "country": "Sweeden",
+    "city": "Orebro"
+  },
+  "OUA": {
+    "country": "Burkina Faso",
+    "city": "Ouagadougou"
+  },
+  "PPG": {
+    "country": "American Samoa",
+    "city": "Pago Pago"
+  },
+  "PBM": {
+    "country": "Suriname",
+    "city": "Paramaribo"
+  },
+  "ORG": {
+    "country": "Suriname",
+    "city": "Paramaribo"
+  },
+  "PBH": {
+    "country": "Bhutan",
+    "city": "Paro"
+  },
+  "PNI": {
+    "country": "Micronesia",
+    "city": "Pohnpei"
+  },
+  "TKK": {
+    "country": "Micronesia",
+    "city": "Truk"
+  },
+  "ULI": {
+    "country": "Micronesia",
+    "city": "Ulithi"
+  },
+  "YAP": {
+    "country": "Micronesia",
+    "city": "Yap"
+  },
+  "PTP": {
+    "country": "Guadeloupe",
+    "city": "Pointe-a-Pitre"
+  },
+  "POS": {
+    "country": "Trinidad and Tobago",
+    "city": "Trinidad"
+  },
+  "FNJ": {
+    "country": "North Korea",
+    "city": "Pyongyang"
+  },
+  "RIX": {
+    "country": "Latvia",
+    "city": "Riga"
+  },
+  "TIP": {
+    "country": "Latvia",
+    "city": "Tripoli"
+  },
+  "ROP": {
+    "country": "Northern Mariana Islands",
+    "city": "Rota"
+  },
+  "SPN": {
+    "country": "Northern Mariana Islands",
+    "city": "Saipan"
+  },
+  "TIQ": {
+    "country": "Northern Mariana Islands",
+    "city": "Tinian"
+  },
+  "STX": {
+    "country": "U.S. Virgin Islands",
+    "city": "St. Croix Island"
+  },
+  "STT": {
+    "country": "U.S. Virgin Islands",
+    "city": "St. Thomas Island"
+  },
+  "SLU": {
+    "country": "ST. LUCIA",
+    "city": "Saint Lucia"
+  },
+  "SAI": {
+    "country": "San Marino",
+    "city": "San Marino"
+  },
+  "SAL": {
+    "country": "El Salvador",
+    "city": "San Salvador"
+  },
+  "TMS": {
+    "country": "Sao Tome and Principe",
+    "city": "Sao Tome Is."
+  },
+  "SIN": {
+    "country": "Singapore",
+    "city": "Singapore"
+  },
+  "XSP": {
+    "country": "Singapore",
+    "city": "Singapore"
+  },
+  "RUN": {
+    "country": "Reunion",
+    "city": "St Denis de la Reunion"
+  },
+  "ZSE": {
+    "country": "Reunion",
+    "city": "St. Pierre de la Reunion"
+  },
+  "SKB": {
+    "country": "St Kitts and Nevis",
+    "city": "St Kitts"
+  },
+  "FSP": {
+    "country": "St Pierre and Miquelon",
+    "city": "St Pierre"
+  },
+  "UVF": {
+    "country": "St. Lucia",
+    "city": "St. Lucia"
+  },
+  "WTA": {
+    "country": "Madagasca",
+    "city": "Tambohorano"
+  },
+  "TRW": {
+    "country": "Kiribati",
+    "city": "Tarawa"
+  },
+  "TFS": {
+    "country": "Spain and the Canary Islands",
+    "city": "Tenerife"
+  },
+  "TIA": {
+    "country": "Albania",
+    "city": "Tirana"
+  },
+  "TAB": {
+    "country": "Trinidad and Tobago",
+    "city": "Tobago"
+  },
+  "ULN": {
+    "country": "Mongolia",
+    "city": "Ulaanbaatar"
+  },
+  "ULY": {
+    "country": "Mongolia",
+    "city": "Uliastai"
+  },
+  "UMD": {
+    "country": "Greeland",
+    "city": "Uummannaq"
+  },
+  "YVR": {
+    "country": "BC",
+    "city": "Vancouver"
+  }
+}

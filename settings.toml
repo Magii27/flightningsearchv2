@@ -1,0 +1,84 @@
+[Configuration-Flightprice-Search]
+version = "1.0.0"
+
+[General-Information]
+start_date = "29.10.2023"
+# start_date is the start date range
+# format is DD.MM.YYYY
+
+startpoint = ["MUC", "NUE", "Hanover", "PAD"]
+# startpoint can be used for different options
+# "Germany" -> search for every airport in this Country
+# "Munich" -> search for corresponding airports
+# "NUE" -> search for this specific airport (IATA-Codes only)
+# ["NUE", "MUC", ... ] -> search for all the specific airpots (IATA-Codes only)
+# ["Munich", "Hanover", ...] -> search for all corresponding airports
+# for more Country/City/Iata-Codes information look at ./data/iata
+
+return_flight = 1
+# return_flight is the option for an trip to have a return flight
+# 0 -> no return (end_date and endpoint will be skipped)
+# 1 -> return flight
+
+end_date = "04.11.2023"
+# end_date is the end date range
+# information will be skipped, if return_flight above is set to 0 (no return)
+# format is DD.MM.YYYY
+
+endpoint = ["Manchester", "Liverpool"]
+# endpoint can be used for different options
+# "Germany" -> search for every airport in this Country
+# "Munich" -> search for corresponding airports
+# "NUE" -> search for this specific airport (IATA-Codes only)
+# ["NUE", "MUC", ... ] -> search for all the specific airpots (IATA-Codes only)
+# ["Munich", "Hanover", ...] -> search for all corresponding airports
+# for more Country/City/Iata-Codes information look at ./data/iata
+
+stay_range = [4, 6]
+# stay_range format [X, Y] or X | stay_range = [4, 6] | stay_range = 5
+# is optional if return flight is planned (return_flight = 1)
+# [X, Y] | X -> minimum days for stay
+# [X, Y] | Y -> maximum days for stay
+# X | X -> exact days for stay
+
+stops = [0]
+# stops during trip to destination
+# stops = 0 -> Nonstop
+# stops = 1 -> 1 Stop
+# stops = 2 -> 2+ Stops
+# stops = [0, 1] | stops = [1, 2] | stops = [0, 1, 2] ...
+
+
+transportation = [0]
+# transportation with oder without train and bus
+# 0 = only plane
+# 1 = plane and train
+# 2 = plane and bus
+# 3 = plane, train and bus
+# [0, 1] = plane, plane and train | [1, 2] = plane and train, plane and bus
+# [0, 2, 3] = plane, plane and bus, plane and train and bus
+
+[Passengers]
+adults_over18 = 2
+students_over18 = 0
+# adults sum number maximum 9
+children_age12-17 = 0
+children_age2-11 = 0
+children_seat_age0-2 = 0
+children_lap_age0-2 = 0
+# children sum number maximum 7
+# only children are not allowed
+# children_lap_age0-2 maximum sum number over18
+
+[Limitations]
+max_budget = 300
+# maximum budget per person
+# only integers (100, 123, 530)
+max_traveltime = "99:00"
+# maximum traveltime between the two destinations
+# only 24hrs clock
+# example -> 01:15 | 07:10 | 20:30 | 13:59
+max_entries = 0
+# maximum entries per created link (configuration)
+# 0 -> default = maximum amount of entries
+# 2 -> only 2 entries per generated url (possible outcome)

@@ -1,0 +1,9522 @@
+{
+  "Aalborg": {
+    "iata": "AAL",
+    "country": "Denmark"
+  },
+  "Aarhus": {
+    "iata": "AAR",
+    "country": "Denmark"
+  },
+  "Billund": {
+    "iata": "BLL",
+    "country": "Denmark"
+  },
+  "Bornholm": {
+    "iata": "RNN",
+    "country": "Denmark"
+  },
+  "Braunschweig": {
+    "iata": "BWE",
+    "country": "Denmark"
+  },
+  "Copenhagen": {
+    "iata": "CPH",
+    "country": "Denmark"
+  },
+  "Esbjerg": {
+    "iata": "ZBB",
+    "country": "Denmark"
+  },
+  "Fredericia": {
+    "iata": "ZBJ",
+    "country": "Denmark"
+  },
+  "Herning": {
+    "iata": "XAK",
+    "country": "Denmark"
+  },
+  "Mohenjodaro": {
+    "iata": "MJD",
+    "country": "Denmark"
+  },
+  "Odense": {
+    "iata": "ZBQ",
+    "country": "Denmark"
+  },
+  "Aalesund": {
+    "iata": "AES",
+    "country": "Norway"
+  },
+  "Alta": {
+    "iata": "ALF",
+    "country": "Norway"
+  },
+  "Andenes": {
+    "iata": "ANX",
+    "country": "Norway"
+  },
+  "Bardufoss": {
+    "iata": "BDU",
+    "country": "Norway"
+  },
+  "Batsfijord": {
+    "iata": "BJF",
+    "country": "Norway"
+  },
+  "Bergen": {
+    "iata": "BGO",
+    "country": "Norway"
+  },
+  "Berlevag": {
+    "iata": "BVG",
+    "country": "Norway"
+  },
+  "Bodo": {
+    "iata": "BOO",
+    "country": "Norway"
+  },
+  "Bronnoysund": {
+    "iata": "BNN",
+    "country": "Norway"
+  },
+  "Fagernes": {
+    "iata": "VDB",
+    "country": "Norway"
+  },
+  "Floro": {
+    "iata": "FRO",
+    "country": "Norway"
+  },
+  "Forde": {
+    "iata": "FDE",
+    "country": "Norway"
+  },
+  "Hammerfest": {
+    "iata": "HFT",
+    "country": "Norway"
+  },
+  "Harstad-Narvik": {
+    "iata": "EVE",
+    "country": "Norway"
+  },
+  "Hasvik": {
+    "iata": "HAA",
+    "country": "Norway"
+  },
+  "Haugesund": {
+    "iata": "HAU",
+    "country": "Norway"
+  },
+  "Honningsvag": {
+    "iata": "HVG",
+    "country": "Norway"
+  },
+  "Lakselv": {
+    "iata": "LKL",
+    "country": "Norway"
+  },
+  "Leknes": {
+    "iata": "LKN",
+    "country": "Norway"
+  },
+  "Mehamn": {
+    "iata": "MEH",
+    "country": "Norway"
+  },
+  "Mo I Rana": {
+    "iata": "MQN",
+    "country": "Norway"
+  },
+  "Molde": {
+    "iata": "MOL",
+    "country": "Norway"
+  },
+  "Mosjoen": {
+    "iata": "MJF",
+    "country": "Norway"
+  },
+  "Namsos": {
+    "iata": "OSY",
+    "country": "Norway"
+  },
+  "Narvik": {
+    "iata": "NVK",
+    "country": "Norway"
+  },
+  "Orsta-Volda": {
+    "iata": "HOV",
+    "country": "Norway"
+  },
+  "Oslo": {
+    "iata": "TRF",
+    "country": "Norway"
+  },
+  "Roervik": {
+    "iata": "RVK",
+    "country": "Norway"
+  },
+  "Rognan": {
+    "iata": "ZXM",
+    "country": "Norway"
+  },
+  "Roros": {
+    "iata": "RRS",
+    "country": "Norway"
+  },
+  "Rost": {
+    "iata": "RET",
+    "country": "Norway"
+  },
+  "Selje": {
+    "iata": "QFK",
+    "country": "Norway"
+  },
+  "Sognolal": {
+    "iata": "SOG",
+    "country": "Norway"
+  },
+  "Sorkjosen": {
+    "iata": "SOJ",
+    "country": "Norway"
+  },
+  "Stavanger": {
+    "iata": "SVG",
+    "country": "Norway"
+  },
+  "Svolvaer": {
+    "iata": "SVJ",
+    "country": "Norway"
+  },
+  "Tromso": {
+    "iata": "TOS",
+    "country": "Norway"
+  },
+  "Trondheim": {
+    "iata": "TRD",
+    "country": "Norway"
+  },
+  "Vadso": {
+    "iata": "VDS",
+    "country": "Norway"
+  },
+  "Vardoe": {
+    "iata": "VAW",
+    "country": "Norway"
+  },
+  "Aasiaat": {
+    "iata": "JEG",
+    "country": "Greenland"
+  },
+  "Groennedal": {
+    "iata": "JGR",
+    "country": "Greenland"
+  },
+  "Ilulissat": {
+    "iata": "JAV",
+    "country": "Greenland"
+  },
+  "Kulusuk": {
+    "iata": "KUS",
+    "country": "Greenland"
+  },
+  "Mariitsoq": {
+    "iata": "JSU",
+    "country": "Greenland"
+  },
+  "Nanortalik": {
+    "iata": "JNN",
+    "country": "Greenland"
+  },
+  "Narsaq": {
+    "iata": "JNS",
+    "country": "Greenland"
+  },
+  "Narsarsuaq": {
+    "iata": "UAK",
+    "country": "Greenland"
+  },
+  "Neerlerit Inaat": {
+    "iata": "CNP",
+    "country": "Greenland"
+  },
+  "Nuuk": {
+    "iata": "GOH",
+    "country": "Greenland"
+  },
+  "Paamiut": {
+    "iata": "JFR",
+    "country": "Greenland"
+  },
+  "Pituffik": {
+    "iata": "THU",
+    "country": "Greenland"
+  },
+  "Qaqortoq": {
+    "iata": "JJU",
+    "country": "Greenland"
+  },
+  "Sisimiut": {
+    "iata": "JHS",
+    "country": "Greenland"
+  },
+  "Upernavik": {
+    "iata": "JUV",
+    "country": "Greenland"
+  },
+  "Abadan": {
+    "iata": "ABD",
+    "country": "Iran"
+  },
+  "Ahwaz": {
+    "iata": "AWZ",
+    "country": "Iran"
+  },
+  "Ardabil": {
+    "iata": "ADU",
+    "country": "Iran"
+  },
+  "Bam": {
+    "iata": "BXR",
+    "country": "Iran"
+  },
+  "Bandar Abbas": {
+    "iata": "BND",
+    "country": "Iran"
+  },
+  "Bandar Lengeh": {
+    "iata": "BDH",
+    "country": "Iran"
+  },
+  "Bashehr": {
+    "iata": "BUZ",
+    "country": "Iran"
+  },
+  "Bojnord": {
+    "iata": "BJB",
+    "country": "Iran"
+  },
+  "Chah-Bahar": {
+    "iata": "ZBR",
+    "country": "Iran"
+  },
+  "Isfahan": {
+    "iata": "IFN",
+    "country": "Iran"
+  },
+  "Mashad": {
+    "iata": "MHD",
+    "country": "Iran"
+  },
+  "Rafsanjan": {
+    "iata": "RJN",
+    "country": "Iran"
+  },
+  "Rasht": {
+    "iata": "RAS",
+    "country": "Iran"
+  },
+  "Shiraz": {
+    "iata": "SYZ",
+    "country": "Iran"
+  },
+  "Tabriz": {
+    "iata": "TBZ",
+    "country": "Iran"
+  },
+  "Tehran": {
+    "iata": "THR",
+    "country": "Iran"
+  },
+  "Urmieh": {
+    "iata": "OMH",
+    "country": "Iran"
+  },
+  "Yazd": {
+    "iata": "AZD",
+    "country": "Iran"
+  },
+  "Zahedan": {
+    "iata": "ZAH",
+    "country": "Iran"
+  },
+  "Abakan": {
+    "iata": "ABA",
+    "country": "Russia"
+  },
+  "Adler/Sochi": {
+    "iata": "AER",
+    "country": "Russia"
+  },
+  "Amderma": {
+    "iata": "AMV",
+    "country": "Russia"
+  },
+  "Anadyr": {
+    "iata": "DYR",
+    "country": "Russia"
+  },
+  "Anapa": {
+    "iata": "AAQ",
+    "country": "Russia"
+  },
+  "Arkangelsk": {
+    "iata": "ARH",
+    "country": "Russia"
+  },
+  "Astrakhan": {
+    "iata": "ASF",
+    "country": "Russia"
+  },
+  "Barnaul": {
+    "iata": "BAX",
+    "country": "Russia"
+  },
+  "Belgorod": {
+    "iata": "EGO",
+    "country": "Russia"
+  },
+  "Blagoveschensk": {
+    "iata": "BQS",
+    "country": "Russia"
+  },
+  "Bratsk": {
+    "iata": "BTK",
+    "country": "Russia"
+  },
+  "Bugulma": {
+    "iata": "UUA",
+    "country": "Russia"
+  },
+  "Bulgulma": {
+    "iata": "UUA",
+    "country": "Russia"
+  },
+  "Cheboksary": {
+    "iata": "CSY",
+    "country": "Russia"
+  },
+  "Chelybinsk": {
+    "iata": "CEK",
+    "country": "Russia"
+  },
+  "Cherepovets": {
+    "iata": "CEE",
+    "country": "Russia"
+  },
+  "Chevepovets": {
+    "iata": "CEE",
+    "country": "Russia"
+  },
+  "Chita": {
+    "iata": "HTA",
+    "country": "Russia"
+  },
+  "Ekaterinburg": {
+    "iata": "SVX",
+    "country": "Russia"
+  },
+  "Elista": {
+    "iata": "ESL",
+    "country": "Russia"
+  },
+  "Gelendzik": {
+    "iata": "GDZ",
+    "country": "Russia"
+  },
+  "Igarka": {
+    "iata": "IAA",
+    "country": "Russia"
+  },
+  "Inta": {
+    "iata": "INA",
+    "country": "Russia"
+  },
+  "Irkutsk": {
+    "iata": "IKT",
+    "country": "Russia"
+  },
+  "Kaliningrad": {
+    "iata": "KGD",
+    "country": "Russia"
+  },
+  "Kazan": {
+    "iata": "KZN",
+    "country": "Russia"
+  },
+  "Komsomolsk Na Amure": {
+    "iata": "KXK",
+    "country": "Russia"
+  },
+  "Kyzyl": {
+    "iata": "KYZ",
+    "country": "Russia"
+  },
+  "Magadan": {
+    "iata": "GDX",
+    "country": "Russia"
+  },
+  "Magnitogorsk": {
+    "iata": "MQF",
+    "country": "Russia"
+  },
+  "Makhachkala": {
+    "iata": "MCX",
+    "country": "Russia"
+  },
+  "Mineralnye Vody": {
+    "iata": "MRV",
+    "country": "Russia"
+  },
+  "Mirnyj": {
+    "iata": "MJZ",
+    "country": "Russia"
+  },
+  "Moscow": {
+    "iata": "VKO",
+    "country": "Russia"
+  },
+  "Murmansk": {
+    "iata": "MMK",
+    "country": "Russia"
+  },
+  "Nadym": {
+    "iata": "NYM",
+    "country": "Russia"
+  },
+  "Nalchik": {
+    "iata": "NAL",
+    "country": "Russia"
+  },
+  "Naryan-Mar": {
+    "iata": "NNM",
+    "country": "Russia"
+  },
+  "NayUrengoy": {
+    "iata": "NUX",
+    "country": "Russia"
+  },
+  "Nefteyugansk": {
+    "iata": "NFG",
+    "country": "Russia"
+  },
+  "Neryjungri": {
+    "iata": "NER",
+    "country": "Russia"
+  },
+  "Nizhnevartovsk": {
+    "iata": "NJC",
+    "country": "Russia"
+  },
+  "Nizhniy Novgorod": {
+    "iata": "GOJ",
+    "country": "Russia"
+  },
+  "Nojabrxsk": {
+    "iata": "NOJ",
+    "country": "Russia"
+  },
+  "Noril'sk": {
+    "iata": "NSK",
+    "country": "Russia"
+  },
+  "Novgorod": {
+    "iata": "NVR",
+    "country": "Russia"
+  },
+  "Novokuznetsk": {
+    "iata": "NOZ",
+    "country": "Russia"
+  },
+  "Novosibirsk": {
+    "iata": "OVB",
+    "country": "Russia"
+  },
+  "Okhotsk": {
+    "iata": "OHO",
+    "country": "Russia"
+  },
+  "Omsk": {
+    "iata": "OMS",
+    "country": "Russia"
+  },
+  "Orenburg": {
+    "iata": "REN",
+    "country": "Russia"
+  },
+  "Orsk": {
+    "iata": "OSW",
+    "country": "Russia"
+  },
+  "Pechora": {
+    "iata": "PEX",
+    "country": "Russia"
+  },
+  "Perm": {
+    "iata": "PEE",
+    "country": "Russia"
+  },
+  "Petropaulousk-Kamchats": {
+    "iata": "PKC",
+    "country": "Russia"
+  },
+  "Petrozavodsk": {
+    "iata": "PES",
+    "country": "Russia"
+  },
+  "Polyarnyj": {
+    "iata": "PYJ",
+    "country": "Russia"
+  },
+  "Raduzhnyi": {
+    "iata": "RAT",
+    "country": "Russia"
+  },
+  "Rostov": {
+    "iata": "ROV",
+    "country": "Russia"
+  },
+  "Saint Petersburg": {
+    "iata": "LED",
+    "country": "Russia"
+  },
+  "Salehard": {
+    "iata": "SLY",
+    "country": "Russia"
+  },
+  "Samara": {
+    "iata": "KUF",
+    "country": "Russia"
+  },
+  "Saratov": {
+    "iata": "RTW",
+    "country": "Russia"
+  },
+  "St. Petersburg": {
+    "iata": "LED",
+    "country": "Russia"
+  },
+  "Stavropol": {
+    "iata": "STW",
+    "country": "Russia"
+  },
+  "Tiksi": {
+    "iata": "IKS",
+    "country": "Russia"
+  },
+  "Tomsk": {
+    "iata": "TOF",
+    "country": "Russia"
+  },
+  "Tyumen": {
+    "iata": "TJM",
+    "country": "Russia"
+  },
+  "Ufa": {
+    "iata": "UFA",
+    "country": "Russia"
+  },
+  "Ukhta": {
+    "iata": "UCT",
+    "country": "Russia"
+  },
+  "Ulan-Ude": {
+    "iata": "UUD",
+    "country": "Russia"
+  },
+  "Uraj": {
+    "iata": "URJ",
+    "country": "Russia"
+  },
+  "Usinsk": {
+    "iata": "USK",
+    "country": "Russia"
+  },
+  "Ust-Ilimsk": {
+    "iata": "UIK",
+    "country": "Russia"
+  },
+  "Vladikavkaz": {
+    "iata": "OGZ",
+    "country": "Russia"
+  },
+  "Vladivostok": {
+    "iata": "VVO",
+    "country": "Russia"
+  },
+  "Volgodonsk": {
+    "iata": "VLK",
+    "country": "Russia"
+  },
+  "Volgograd": {
+    "iata": "VOG",
+    "country": "Russia"
+  },
+  "Vorkuta": {
+    "iata": "VKT",
+    "country": "Russia"
+  },
+  "Voronezh": {
+    "iata": "VOZ",
+    "country": "Russia"
+  },
+  "Yakutsk": {
+    "iata": "YKS",
+    "country": "Russia"
+  },
+  "Yaroslavl": {
+    "iata": "IAR",
+    "country": "Russia"
+  },
+  "Yuzhno-Sakhalinsk": {
+    "iata": "UUS",
+    "country": "Russia"
+  },
+  "Aberdeen": {
+    "iata": "ABZ",
+    "country": "United Kingdom"
+  },
+  "Alderney": {
+    "iata": "ACI",
+    "country": "United Kingdom"
+  },
+  "Barra": {
+    "iata": "BRR",
+    "country": "United Kingdom"
+  },
+  "Belfast": {
+    "iata": "BHD",
+    "country": "United Kingdom"
+  },
+  "Benbecula": {
+    "iata": "BEB",
+    "country": "United Kingdom"
+  },
+  "Birmingham": {
+    "iata": "BHX",
+    "country": "United Kingdom"
+  },
+  "Blackpool": {
+    "iata": "BLK",
+    "country": "United Kingdom"
+  },
+  "Bournemouth": {
+    "iata": "BOH",
+    "country": "United Kingdom"
+  },
+  "Bristol": {
+    "iata": "BRS",
+    "country": "United Kingdom"
+  },
+  "Cambridge": {
+    "iata": "CBG",
+    "country": "United Kingdom"
+  },
+  "Campbeltown": {
+    "iata": "CAL",
+    "country": "United Kingdom"
+  },
+  "Cardiff": {
+    "iata": "CWL",
+    "country": "United Kingdom"
+  },
+  "Chester": {
+    "iata": "CEG",
+    "country": "United Kingdom"
+  },
+  "Dundee": {
+    "iata": "DND",
+    "country": "United Kingdom"
+  },
+  "Eday": {
+    "iata": "EOI",
+    "country": "United Kingdom"
+  },
+  "Edinburgh": {
+    "iata": "EDI",
+    "country": "United Kingdom"
+  },
+  "Eveter": {
+    "iata": "EXT",
+    "country": "United Kingdom"
+  },
+  "Fair Isle": {
+    "iata": "FIE",
+    "country": "United Kingdom"
+  },
+  "Filton": {
+    "iata": "FZO",
+    "country": "United Kingdom"
+  },
+  "Glasgow": {
+    "iata": "PIK",
+    "country": "United Kingdom"
+  },
+  "Guernsey": {
+    "iata": "GCI",
+    "country": "United Kingdom"
+  },
+  "Humberside": {
+    "iata": "HUY",
+    "country": "United Kingdom"
+  },
+  "Inverness": {
+    "iata": "INV",
+    "country": "United Kingdom"
+  },
+  "Islay": {
+    "iata": "ILY",
+    "country": "United Kingdom"
+  },
+  "Isle of Man": {
+    "iata": "IOM",
+    "country": "United Kingdom"
+  },
+  "Isles of Scilly": {
+    "iata": "TSO",
+    "country": "United Kingdom"
+  },
+  "Jersey": {
+    "iata": "JER",
+    "country": "United Kingdom"
+  },
+  "Lands End": {
+    "iata": "LEQ",
+    "country": "United Kingdom"
+  },
+  "Leeds": {
+    "iata": "LBA",
+    "country": "United Kingdom"
+  },
+  "Liverpool": {
+    "iata": "LPL",
+    "country": "United Kingdom"
+  },
+  "London": {
+    "iata": "STN",
+    "country": "United Kingdom"
+  },
+  "Londonderry": {
+    "iata": "LDY",
+    "country": "United Kingdom"
+  },
+  "London-Paddington": {
+    "iata": "QQP",
+    "country": "United Kingdom"
+  },
+  "Manchester": {
+    "iata": "MAN",
+    "country": "United Kingdom"
+  },
+  "Manston": {
+    "iata": "MSE",
+    "country": "United Kingdom"
+  },
+  "Newcastle": {
+    "iata": "BEO",
+    "country": "Australia - Belmont"
+  },
+  "Newquay": {
+    "iata": "NQY",
+    "country": "United Kingdom"
+  },
+  "North Ronaldsay": {
+    "iata": "NRL",
+    "country": "United Kingdom"
+  },
+  "Norwich": {
+    "iata": "NWI",
+    "country": "United Kingdom"
+  },
+  "Nottingham": {
+    "iata": "EMA",
+    "country": "United Kingdom"
+  },
+  "Papa Westray": {
+    "iata": "PPW",
+    "country": "United Kingdom"
+  },
+  "Penzance": {
+    "iata": "PZE",
+    "country": "United Kingdom"
+  },
+  "Plymouth": {
+    "iata": "PLH",
+    "country": "United Kingdom"
+  },
+  "Sanday": {
+    "iata": "NDY",
+    "country": "United Kingdom"
+  },
+  "Sheffield": {
+    "iata": "SZD",
+    "country": "United Kingdom"
+  },
+  "Shetland Islands": {
+    "iata": "LSI",
+    "country": "United Kingdom"
+  },
+  "South Hampton": {
+    "iata": "SOU",
+    "country": "United Kingdom"
+  },
+  "Stornoway": {
+    "iata": "SYY",
+    "country": "United Kingdom"
+  },
+  "Stronsay": {
+    "iata": "SOY",
+    "country": "United Kingdom"
+  },
+  "Teesside": {
+    "iata": "MME",
+    "country": "United Kingdom"
+  },
+  "Tiree": {
+    "iata": "TRE",
+    "country": "United Kingdom"
+  },
+  "Westray": {
+    "iata": "WRY",
+    "country": "United Kingdom"
+  },
+  "Wick": {
+    "iata": "WIC",
+    "country": "United Kingdom"
+  },
+  "Abha": {
+    "iata": "AHB",
+    "country": "Saudi Arabia"
+  },
+  "Al-Baha": {
+    "iata": "ABT",
+    "country": "Saudi Arabia"
+  },
+  "Arar": {
+    "iata": "RAE",
+    "country": "Saudi Arabia"
+  },
+  "Bisha": {
+    "iata": "BHH",
+    "country": "Saudi Arabia"
+  },
+  "Dammam": {
+    "iata": "DMM",
+    "country": "Saudi Arabia"
+  },
+  "Gassim": {
+    "iata": "ELQ",
+    "country": "Saudi Arabia"
+  },
+  "Gizan": {
+    "iata": "GIZ",
+    "country": "Saudi Arabia"
+  },
+  "Gurayat": {
+    "iata": "URY",
+    "country": "Saudi Arabia"
+  },
+  "Hail": {
+    "iata": "HAS",
+    "country": "Saudi Arabia"
+  },
+  "Hofuf": {
+    "iata": "HOF",
+    "country": "Saudi Arabia"
+  },
+  "Jeddah": {
+    "iata": "JED",
+    "country": "Saudi Arabia"
+  },
+  "Jouf": {
+    "iata": "AJF",
+    "country": "Saudi Arabia"
+  },
+  "Madinah": {
+    "iata": "MED",
+    "country": "Saudi Arabia"
+  },
+  "Nejran": {
+    "iata": "EAM",
+    "country": "Saudi Arabia"
+  },
+  "Qaisumah": {
+    "iata": "AQI",
+    "country": "Saudi Arabia"
+  },
+  "Rafha": {
+    "iata": "RAH",
+    "country": "Saudi Arabia"
+  },
+  "Riyadh": {
+    "iata": "RUH",
+    "country": "Saudi Arabia"
+  },
+  "Tabuk": {
+    "iata": "TUU",
+    "country": "Saudi Arabia"
+  },
+  "Taif": {
+    "iata": "TIF",
+    "country": "Saudi Arabia"
+  },
+  "Turaif": {
+    "iata": "TUI",
+    "country": "Saudi Arabia"
+  },
+  "Wadi Ad Dawasir": {
+    "iata": "WAE",
+    "country": "Saudi Arabia"
+  },
+  "Wedjh": {
+    "iata": "EJH",
+    "country": "Saudi Arabia"
+  },
+  "Yanbu": {
+    "iata": "YNB",
+    "country": "Saudi Arabia"
+  },
+  "Abidjan": {
+    "iata": "ABJ",
+    "country": "Cote d'Ivoire"
+  },
+  "Abu Dhabi": {
+    "iata": "AUH",
+    "country": "United Arab Emirates"
+  },
+  "Al Ain": {
+    "iata": "AAN",
+    "country": "United Arab Emirates"
+  },
+  "Al-Fujairah": {
+    "iata": "FJR",
+    "country": "United Arab Emirates"
+  },
+  "Dubai": {
+    "iata": "DXB",
+    "country": "United Arab Emirates"
+  },
+  "Ras Al Khaimah": {
+    "iata": "RKT",
+    "country": "United Arab Emirates"
+  },
+  "Abu Simbel": {
+    "iata": "ABS",
+    "country": "Egypt"
+  },
+  "Al Arish": {
+    "iata": "AAC",
+    "country": "Egypt"
+  },
+  "Alexandria": {
+    "iata": "ALY",
+    "country": "Egypt"
+  },
+  "Assiut": {
+    "iata": "ATZ",
+    "country": "Egypt"
+  },
+  "Aswan": {
+    "iata": "ASW",
+    "country": "Egypt"
+  },
+  "Borg El Arab": {
+    "iata": "HBE",
+    "country": "Egypt"
+  },
+  "Cairo": {
+    "iata": "CAI",
+    "country": "Egypt"
+  },
+  "Hurghada": {
+    "iata": "HRG",
+    "country": "Egypt"
+  },
+  "Kharga": {
+    "iata": "UVL",
+    "country": "Egypt"
+  },
+  "Luxor": {
+    "iata": "LXR",
+    "country": "Egypt"
+  },
+  "Mersa Matruh": {
+    "iata": "MUH",
+    "country": "Egypt"
+  },
+  "Sharm El Sheikh": {
+    "iata": "SSH",
+    "country": "Egypt"
+  },
+  "Taba": {
+    "iata": "TCP",
+    "country": "Egypt"
+  },
+  "Abuja": {
+    "iata": "ABV",
+    "country": "Nigeria"
+  },
+  "Calabar": {
+    "iata": "CBQ",
+    "country": "Nigeria"
+  },
+  "Enugu": {
+    "iata": "ENU",
+    "country": "Nigeria"
+  },
+  "Kano": {
+    "iata": "KAN",
+    "country": "Nigeria"
+  },
+  "Lagos": {
+    "iata": "LOS",
+    "country": "Nigeria"
+  },
+  "Port Harcourt": {
+    "iata": "PHC",
+    "country": "Nigeria"
+  },
+  "Acapulco": {
+    "iata": "ACA",
+    "country": "Mexico"
+  },
+  "Aguascalientes": {
+    "iata": "AGU",
+    "country": "Mexico"
+  },
+  "Cabo San Lucas": {
+    "iata": "SJD",
+    "country": "Mexico"
+  },
+  "Campeche": {
+    "iata": "CPE",
+    "country": "Mexico"
+  },
+  "Cancun": {
+    "iata": "CUN",
+    "country": "Mexico"
+  },
+  "Chetumal": {
+    "iata": "CTM",
+    "country": "Mexico"
+  },
+  "Chihuahua": {
+    "iata": "CUU",
+    "country": "Mexico"
+  },
+  "Ciudad Del Carmen": {
+    "iata": "CME",
+    "country": "Mexico"
+  },
+  "Ciudad Juarez": {
+    "iata": "CJS",
+    "country": "Mexico"
+  },
+  "Ciudad Obregon": {
+    "iata": "CEN",
+    "country": "Mexico"
+  },
+  "Ciudad Victoria": {
+    "iata": "CVM",
+    "country": "Mexico"
+  },
+  "Colima": {
+    "iata": "CLQ",
+    "country": "Mexico"
+  },
+  "Cozumel": {
+    "iata": "CZM",
+    "country": "Mexico"
+  },
+  "Cuernavaca": {
+    "iata": "CVJ",
+    "country": "Mexico"
+  },
+  "Culiacan": {
+    "iata": "CUL",
+    "country": "Mexico"
+  },
+  "Durango": {
+    "iata": "DGO",
+    "country": "Mexico"
+  },
+  "Guadalajara": {
+    "iata": "GDL",
+    "country": "Mexico"
+  },
+  "Guanajuato": {
+    "iata": "BJX",
+    "country": "Mexico"
+  },
+  "Guaymas": {
+    "iata": "GYM",
+    "country": "Mexico"
+  },
+  "Guerrero Negro": {
+    "iata": "GUB",
+    "country": "Mexico"
+  },
+  "Hermosillo": {
+    "iata": "HMO",
+    "country": "Mexico"
+  },
+  "Huatulco": {
+    "iata": "HUX",
+    "country": "Mexico"
+  },
+  "Ixtapa": {
+    "iata": "ZIH",
+    "country": "Mexico"
+  },
+  "Ixtepec": {
+    "iata": "IZT",
+    "country": "Mexico"
+  },
+  "Jalapa": {
+    "iata": "JAL",
+    "country": "Mexico"
+  },
+  "La Paz": {
+    "iata": "LPB",
+    "country": "Bolivia"
+  },
+  "Leon": {
+    "iata": "BJX",
+    "country": "Mexico"
+  },
+  "Loreto": {
+    "iata": "LTO",
+    "country": "Mexico"
+  },
+  "Los Cabos": {
+    "iata": "SJD",
+    "country": "Mexico"
+  },
+  "Los Mochis": {
+    "iata": "LMM",
+    "country": "Mexico"
+  },
+  "Lozaro Cardenas": {
+    "iata": "LZC",
+    "country": "Mexico"
+  },
+  "Manzanillo": {
+    "iata": "MZO",
+    "country": "Cuba"
+  },
+  "Matamoros": {
+    "iata": "MAM",
+    "country": "Mexico"
+  },
+  "Mazatlan": {
+    "iata": "MZT",
+    "country": "Mexico"
+  },
+  "Merida": {
+    "iata": "MRD",
+    "country": "Venezuela"
+  },
+  "Mexicali": {
+    "iata": "MXL",
+    "country": "Mexico"
+  },
+  "Mexico City": {
+    "iata": "MEX",
+    "country": "Mexico"
+  },
+  "Minatitla": {
+    "iata": "MTT",
+    "country": "Mexico"
+  },
+  "Monclova": {
+    "iata": "LOV",
+    "country": "Mexico"
+  },
+  "Monterrey": {
+    "iata": "MTY",
+    "country": "Mexico"
+  },
+  "Morelia": {
+    "iata": "MLM",
+    "country": "Mexico"
+  },
+  "Nuevo Laredo": {
+    "iata": "NLD",
+    "country": "Mexico"
+  },
+  "Oaxaca": {
+    "iata": "OAX",
+    "country": "Mexico"
+  },
+  "Palenque": {
+    "iata": "PQM",
+    "country": "Mexico"
+  },
+  "Piedras Negras": {
+    "iata": "PDS",
+    "country": "Mexico"
+  },
+  "Poza Rico": {
+    "iata": "PAZ",
+    "country": "Mexico"
+  },
+  "Puebla": {
+    "iata": "PBC",
+    "country": "Mexico"
+  },
+  "Puerto Escondido": {
+    "iata": "PXM",
+    "country": "Mexico"
+  },
+  "Puerto Vallarta": {
+    "iata": "PVR",
+    "country": "Mexico"
+  },
+  "Queretaro": {
+    "iata": "QRO",
+    "country": "Mexico"
+  },
+  "Reynossa": {
+    "iata": "REX",
+    "country": "Mexico"
+  },
+  "S. Cristobal del Casas": {
+    "iata": "SZT",
+    "country": "Mexico"
+  },
+  "Saltillo": {
+    "iata": "SLW",
+    "country": "Mexico"
+  },
+  "San Luis Potosi": {
+    "iata": "SLP",
+    "country": "Mexico"
+  },
+  "Tampico": {
+    "iata": "TAM",
+    "country": "Mexico"
+  },
+  "Tapachula": {
+    "iata": "TAP",
+    "country": "Mexico"
+  },
+  "Tepic": {
+    "iata": "TPQ",
+    "country": "Mexico"
+  },
+  "Tijuana": {
+    "iata": "TIJ",
+    "country": "Mexico"
+  },
+  "Toluco": {
+    "iata": "TLC",
+    "country": "Mexico"
+  },
+  "Torreon": {
+    "iata": "TRC",
+    "country": "Mexico"
+  },
+  "Tuxtla Gutierrez": {
+    "iata": "TGZ",
+    "country": "Mexico"
+  },
+  "Uruapan": {
+    "iata": "UPN",
+    "country": "Mexico"
+  },
+  "Veracruz": {
+    "iata": "VER",
+    "country": "Mexico"
+  },
+  "Villahermosa": {
+    "iata": "VSA",
+    "country": "Mexico"
+  },
+  "Zihuatanejo/Ixtapa": {
+    "iata": "ZIH",
+    "country": "Mexico"
+  },
+  "Acarigua": {
+    "iata": "AGV",
+    "country": "Venezuela"
+  },
+  "Barcelona": {
+    "iata": "BCN",
+    "country": "Spain"
+  },
+  "Barinas": {
+    "iata": "BNS",
+    "country": "Venezuela"
+  },
+  "Barquisimeto": {
+    "iata": "BRM",
+    "country": "Venezuela"
+  },
+  "Canaima": {
+    "iata": "CAS",
+    "country": "Venezuela"
+  },
+  "Caracas": {
+    "iata": "CCS",
+    "country": "Venezuela"
+  },
+  "Carupani": {
+    "iata": "CUP",
+    "country": "Venezuela"
+  },
+  "Ciudad Bolivar": {
+    "iata": "CBL",
+    "country": "Venezuela"
+  },
+  "Coro": {
+    "iata": "CZE",
+    "country": "Venezuela"
+  },
+  "Cumana": {
+    "iata": "CUM",
+    "country": "Venezuela"
+  },
+  "El Vigia": {
+    "iata": "VIG",
+    "country": "Venezuela"
+  },
+  "Guiria": {
+    "iata": "GUI",
+    "country": "Venezuela"
+  },
+  "Las Piedras": {
+    "iata": "LSP",
+    "country": "Venezuela"
+  },
+  "Maracaibo": {
+    "iata": "MAR",
+    "country": "Venezuela"
+  },
+  "Maracay": {
+    "iata": "MYC",
+    "country": "Venezuela"
+  },
+  "Maturin": {
+    "iata": "MUN",
+    "country": "Venezuela"
+  },
+  "Porlamar": {
+    "iata": "PMV",
+    "country": "Venezuela"
+  },
+  "Puerto Ayacucha": {
+    "iata": "PYH",
+    "country": "Venezuela"
+  },
+  "Puerto Ordaz": {
+    "iata": "PZO",
+    "country": "Venezuela"
+  },
+  "San Antonio": {
+    "iata": "SVZ",
+    "country": "Venezuela"
+  },
+  "Santa Barbara": {
+    "iata": "STB",
+    "country": "Venezuela"
+  },
+  "Santo Domingo": {
+    "iata": "SDQ",
+    "country": "Dominican Republic"
+  },
+  "Tucupita": {
+    "iata": "TUV",
+    "country": "Venezuela"
+  },
+  "Valencia": {
+    "iata": "VLC",
+    "country": "Spain"
+  },
+  "Valera": {
+    "iata": "VLV",
+    "country": "Venezuela"
+  },
+  "Accra": {
+    "iata": "ACC",
+    "country": "Ghana"
+  },
+  "Adana": {
+    "iata": "ADA",
+    "country": "Turkey"
+  },
+  "Agri": {
+    "iata": "AJI",
+    "country": "Turkey"
+  },
+  "Ankara": {
+    "iata": "ANK",
+    "country": "Turkey"
+  },
+  "Antalya": {
+    "iata": "AYT",
+    "country": "Turkey"
+  },
+  "Balikesir": {
+    "iata": "BZI",
+    "country": "Turkey"
+  },
+  "Batman": {
+    "iata": "BAL",
+    "country": "Turkey"
+  },
+  "Bodrum": {
+    "iata": "BJV",
+    "country": "Turkey"
+  },
+  "Dalaman": {
+    "iata": "DLM",
+    "country": "Turkey"
+  },
+  "Denizli": {
+    "iata": "DNZ",
+    "country": "Turkey"
+  },
+  "Diyarbakir": {
+    "iata": "DIY",
+    "country": "Turkey"
+  },
+  "Edremit": {
+    "iata": "EDO",
+    "country": "Turkey"
+  },
+  "Elazig": {
+    "iata": "EZS",
+    "country": "Turkey"
+  },
+  "Erzincan": {
+    "iata": "ERC",
+    "country": "Turkey"
+  },
+  "Erzurum": {
+    "iata": "ERZ",
+    "country": "Turkey"
+  },
+  "Gaziatep": {
+    "iata": "GZT",
+    "country": "Turkey"
+  },
+  "Istanbul": {
+    "iata": "IST",
+    "country": "Turkey"
+  },
+  "Izmir": {
+    "iata": "ADB",
+    "country": "Turkey"
+  },
+  "Kayseri": {
+    "iata": "ASR",
+    "country": "Turkey"
+  },
+  "Konya": {
+    "iata": "KYA",
+    "country": "Turkey"
+  },
+  "Kahramanmaras": {
+    "iata": "KCM",
+    "country": "Turkey"
+  },
+  "Malatya": {
+    "iata": "MLX",
+    "country": "Turkey"
+  },
+  "Mus": {
+    "iata": "MSR",
+    "country": "Turkey"
+  },
+  "Sivas": {
+    "iata": "VAS",
+    "country": "Turkey"
+  },
+  "Trabzon": {
+    "iata": "TZX",
+    "country": "Turkey"
+  },
+  "Van": {
+    "iata": "VAN",
+    "country": "Turkey"
+  },
+  "Addis Ababa": {
+    "iata": "ADD",
+    "country": "Ethopia"
+  },
+  "Asosa": {
+    "iata": "ASO",
+    "country": "Ethopia"
+  },
+  "Gode/Iddidole": {
+    "iata": "GDE",
+    "country": "Ethopia"
+  },
+  "Adelaide": {
+    "iata": "ADL",
+    "country": "Australia"
+  },
+  "Albury": {
+    "iata": "ABX",
+    "country": "Australia"
+  },
+  "Alice Springs": {
+    "iata": "ASP",
+    "country": "Australia"
+  },
+  "Argyle": {
+    "iata": "GYL",
+    "country": "Australia"
+  },
+  "Armidale": {
+    "iata": "ARM",
+    "country": "Australia"
+  },
+  "Aurukun": {
+    "iata": "AUU",
+    "country": "Australia"
+  },
+  "Ayers Rock": {
+    "iata": "AYQ",
+    "country": "Australia"
+  },
+  "Badu Island": {
+    "iata": "BDD",
+    "country": "Australia"
+  },
+  "Ballina": {
+    "iata": "BNK",
+    "country": "Australia"
+  },
+  "Bamaga": {
+    "iata": "ABM",
+    "country": "Australia"
+  },
+  "Barcaldine": {
+    "iata": "BCI",
+    "country": "Australia"
+  },
+  "Bathurst Island": {
+    "iata": "BRT",
+    "country": "Australia"
+  },
+  "Bathurst": {
+    "iata": "BHS",
+    "country": "Australia"
+  },
+  "Bedourie": {
+    "iata": "BEU",
+    "country": "Australia"
+  },
+  "Birdsville": {
+    "iata": "BVI",
+    "country": "Australia"
+  },
+  "Blackall": {
+    "iata": "BKQ",
+    "country": "Australia"
+  },
+  "Blackwater": {
+    "iata": "BLT",
+    "country": "Australia"
+  },
+  "Boiju Island": {
+    "iata": "GIC",
+    "country": "Australia"
+  },
+  "Borroloola": {
+    "iata": "BOX",
+    "country": "Australia"
+  },
+  "Boulia": {
+    "iata": "BQL",
+    "country": "Australia"
+  },
+  "Bourke": {
+    "iata": "BRK",
+    "country": "Australia"
+  },
+  "Brampton Island": {
+    "iata": "BMP",
+    "country": "Australia"
+  },
+  "Brewarrina": {
+    "iata": "BWQ",
+    "country": "Australia"
+  },
+  "Brisbane": {
+    "iata": "BNE",
+    "country": "Australia"
+  },
+  "Broken Hill": {
+    "iata": "BHQ",
+    "country": "Australia"
+  },
+  "Broome": {
+    "iata": "BME",
+    "country": "Australia"
+  },
+  "Bundaberg": {
+    "iata": "BDB",
+    "country": "Australia"
+  },
+  "Burketown": {
+    "iata": "BUC",
+    "country": "Australia"
+  },
+  "Burnie": {
+    "iata": "BWT",
+    "country": "Australia"
+  },
+  "Cairns": {
+    "iata": "CNS",
+    "country": "Australia"
+  },
+  "Canberra": {
+    "iata": "CBR",
+    "country": "Australia"
+  },
+  "Carnarvon": {
+    "iata": "CVQ",
+    "country": "Australia"
+  },
+  "Casino": {
+    "iata": "CSI",
+    "country": "Australia"
+  },
+  "Cedun": {
+    "iata": "CED",
+    "country": "Australia"
+  },
+  "Charleville": {
+    "iata": "CTL",
+    "country": "Australia"
+  },
+  "Cleve": {
+    "iata": "CVC",
+    "country": "Australia"
+  },
+  "Cloncurry": {
+    "iata": "CNJ",
+    "country": "Australia"
+  },
+  "Cobar": {
+    "iata": "CAZ",
+    "country": "Australia"
+  },
+  "Coconut Island": {
+    "iata": "CNC",
+    "country": "Australia"
+  },
+  "Coen": {
+    "iata": "CUQ",
+    "country": "Australia"
+  },
+  "Coffs Harbor": {
+    "iata": "CFS",
+    "country": "Australia"
+  },
+  "Coober Pedy": {
+    "iata": "CPD",
+    "country": "Australia"
+  },
+  "Cooktown": {
+    "iata": "CTN",
+    "country": "Australia"
+  },
+  "Cooma": {
+    "iata": "OOM",
+    "country": "Australia"
+  },
+  "Coonamble": {
+    "iata": "CNB",
+    "country": "Australia"
+  },
+  "Croker Island": {
+    "iata": "CKI",
+    "country": "Australia"
+  },
+  "Cunnamulla": {
+    "iata": "CMA",
+    "country": "Australia"
+  },
+  "Darnley Island": {
+    "iata": "NLF",
+    "country": "Australia"
+  },
+  "Darwin": {
+    "iata": "DRW",
+    "country": "Australia"
+  },
+  "Daydream Is": {
+    "iata": "DDI",
+    "country": "Australia"
+  },
+  "Denham": {
+    "iata": "DNM",
+    "country": "Australia"
+  },
+  "Derby": {
+    "iata": "DRB",
+    "country": "Australia"
+  },
+  "Devonport": {
+    "iata": "DPO",
+    "country": "Australia"
+  },
+  "Doomadgee": {
+    "iata": "DMD",
+    "country": "Australia"
+  },
+  "Dubbo": {
+    "iata": "DBO",
+    "country": "Australia"
+  },
+  "Dunk Island": {
+    "iata": "DKI",
+    "country": "Australia"
+  },
+  "Edward River": {
+    "iata": "EDR",
+    "country": "Australia"
+  },
+  "Elcho Island": {
+    "iata": "ELC",
+    "country": "Australia"
+  },
+  "Emerald": {
+    "iata": "EMD",
+    "country": "Australia"
+  },
+  "Esperance": {
+    "iata": "EPR",
+    "country": "Australia"
+  },
+  "Exmouth Gulf": {
+    "iata": "EXM",
+    "country": "Australia"
+  },
+  "Fitzroy Crossing": {
+    "iata": "FIZ",
+    "country": "Australia"
+  },
+  "Garden Point": {
+    "iata": "GPN",
+    "country": "Australia"
+  },
+  "Gladstone": {
+    "iata": "GLT",
+    "country": "Australia"
+  },
+  "Glen Innes": {
+    "iata": "GLI",
+    "country": "Australia"
+  },
+  "Gold Coast": {
+    "iata": "OOL",
+    "country": "Australia"
+  },
+  "Goulburn Island": {
+    "iata": "GBL",
+    "country": "Australia"
+  },
+  "Gove": {
+    "iata": "GOV",
+    "country": "Australia"
+  },
+  "Grafton": {
+    "iata": "GFN",
+    "country": "Australia"
+  },
+  "Griffith": {
+    "iata": "GFF",
+    "country": "Australia"
+  },
+  "Groofe Eylandt": {
+    "iata": "GTE",
+    "country": "Australia"
+  },
+  "Halls Creek": {
+    "iata": "HCQ",
+    "country": "Australia"
+  },
+  "Hamilton Island": {
+    "iata": "HTI",
+    "country": "Australia"
+  },
+  "Hayman Island": {
+    "iata": "HIS",
+    "country": "Australia"
+  },
+  "Hervey Bay": {
+    "iata": "HVB",
+    "country": "Australia"
+  },
+  "Hobart": {
+    "iata": "HBA",
+    "country": "Australia"
+  },
+  "Hooker": {
+    "iata": "HOK",
+    "country": "Australia"
+  },
+  "Hughenden": {
+    "iata": "HGD",
+    "country": "Australia"
+  },
+  "Inverell": {
+    "iata": "IVR",
+    "country": "Australia"
+  },
+  "Julia Creek": {
+    "iata": "JCK",
+    "country": "Australia"
+  },
+  "Kalbarri": {
+    "iata": "KAX",
+    "country": "Australia"
+  },
+  "Katherine": {
+    "iata": "KTR",
+    "country": "Australia"
+  },
+  "Kowanyama": {
+    "iata": "KWM",
+    "country": "Australia"
+  },
+  "Kubin Island": {
+    "iata": "KUG",
+    "country": "Australia"
+  },
+  "Launceston": {
+    "iata": "LST",
+    "country": "Australia"
+  },
+  "Laverton": {
+    "iata": "LVO",
+    "country": "Australia"
+  },
+  "Learmonth": {
+    "iata": "LEA",
+    "country": "Australia"
+  },
+  "Leinster": {
+    "iata": "LER",
+    "country": "Australia"
+  },
+  "Leonora": {
+    "iata": "LNO",
+    "country": "Australia"
+  },
+  "Lightning Ridge": {
+    "iata": "LHG",
+    "country": "Australia"
+  },
+  "Lindeman Island": {
+    "iata": "LDC",
+    "country": "Australia"
+  },
+  "Lismore": {
+    "iata": "LSY",
+    "country": "Australia"
+  },
+  "Lizard Island": {
+    "iata": "LZR",
+    "country": "Australia"
+  },
+  "Lockhart River": {
+    "iata": "IRG",
+    "country": "Australia"
+  },
+  "Long Island": {
+    "iata": "HAP",
+    "country": "Australia"
+  },
+  "Longreach": {
+    "iata": "LRE",
+    "country": "Australia"
+  },
+  "Lord Howe Island": {
+    "iata": "LDH",
+    "country": "Australia"
+  },
+  "Mabuiag Island": {
+    "iata": "UBB",
+    "country": "Australia"
+  },
+  "Mackay": {
+    "iata": "MKY",
+    "country": "Australia"
+  },
+  "Maningrioa": {
+    "iata": "MNG",
+    "country": "Australia"
+  },
+  "Maryborough": {
+    "iata": "MBH",
+    "country": "Australia"
+  },
+  "Mcarthur River": {
+    "iata": "MCV",
+    "country": "Australia"
+  },
+  "Meekatharra": {
+    "iata": "MKR",
+    "country": "Australia"
+  },
+  "Melbourne": {
+    "iata": "MEL",
+    "country": "Australia"
+  },
+  "Merimbula": {
+    "iata": "MIM",
+    "country": "Australia"
+  },
+  "Mildura": {
+    "iata": "MQL",
+    "country": "Australia"
+  },
+  "Milingimbi": {
+    "iata": "MGT",
+    "country": "Australia"
+  },
+  "Monkey Mia": {
+    "iata": "MJK",
+    "country": "Australia"
+  },
+  "Moranbah": {
+    "iata": "MOV",
+    "country": "Australia"
+  },
+  "Moree": {
+    "iata": "MRZ",
+    "country": "Australia"
+  },
+  "Mornington": {
+    "iata": "ONG",
+    "country": "Australia"
+  },
+  "Moruya": {
+    "iata": "MYA",
+    "country": "Australia"
+  },
+  "Mount Gambier": {
+    "iata": "MGB",
+    "country": "Australia"
+  },
+  "Mount Hotham": {
+    "iata": "MHU",
+    "country": "Australia"
+  },
+  "Mount Isa": {
+    "iata": "ISA",
+    "country": "Australia"
+  },
+  "Mount Keith": {
+    "iata": "WME",
+    "country": "Australia"
+  },
+  "Mount Magnet": {
+    "iata": "MMG",
+    "country": "Australia"
+  },
+  "Mudgee": {
+    "iata": "DGE",
+    "country": "Australia"
+  },
+  "Murray Island": {
+    "iata": "MYI",
+    "country": "Australia"
+  },
+  "Narrabri": {
+    "iata": "NAA",
+    "country": "Australia"
+  },
+  "Newman": {
+    "iata": "ZNE",
+    "country": "Australia"
+  },
+  "Ngukurr": {
+    "iata": "RPM",
+    "country": "Australia"
+  },
+  "Normanton": {
+    "iata": "NTN",
+    "country": "Australia"
+  },
+  "Numbulwar": {
+    "iata": "NUB",
+    "country": "Australia"
+  },
+  "Nyngan": {
+    "iata": "NYN",
+    "country": "Australia"
+  },
+  "Olympic Dam": {
+    "iata": "OLP",
+    "country": "Australia"
+  },
+  "Orange": {
+    "iata": "OAG",
+    "country": "Australia"
+  },
+  "Paraburdoo": {
+    "iata": "PBO",
+    "country": "Australia"
+  },
+  "Perth": {
+    "iata": "PER",
+    "country": "Australia"
+  },
+  "Port Augusta": {
+    "iata": "PUG",
+    "country": "Australia"
+  },
+  "Port Headland": {
+    "iata": "PHE",
+    "country": "Australia"
+  },
+  "Port Lincoln": {
+    "iata": "PLO",
+    "country": "Australia"
+  },
+  "Port Macquarie": {
+    "iata": "PQQ",
+    "country": "Australia"
+  },
+  "Portland": {
+    "iata": "PTJ",
+    "country": "Australia"
+  },
+  "Proserpine": {
+    "iata": "PPP",
+    "country": "Australia"
+  },
+  "Quipi": {
+    "iata": "ULP",
+    "country": "Australia"
+  },
+  "Ramingining": {
+    "iata": "RAM",
+    "country": "Australia"
+  },
+  "Richmond": {
+    "iata": "RCM",
+    "country": "Australia"
+  },
+  "Rockhampton": {
+    "iata": "ROK",
+    "country": "Australia"
+  },
+  "Roma": {
+    "iata": "RMA",
+    "country": "Australia"
+  },
+  "Shute Harbor": {
+    "iata": "JHQ",
+    "country": "Australia"
+  },
+  "South Molle Island": {
+    "iata": "SOI",
+    "country": "Australia"
+  },
+  "Sue Island": {
+    "iata": "SYU",
+    "country": "Australia"
+  },
+  "Sunshine Coast": {
+    "iata": "MCY",
+    "country": "Australia"
+  },
+  "Sydney": {
+    "iata": "SYD",
+    "country": "Australia"
+  },
+  "Tamworth": {
+    "iata": "TMW",
+    "country": "Australia"
+  },
+  "Taree": {
+    "iata": "TRO",
+    "country": "Australia"
+  },
+  "Tennant Creek": {
+    "iata": "TCA",
+    "country": "Australia"
+  },
+  "Thangool": {
+    "iata": "THG",
+    "country": "Australia"
+  },
+  "Thargomindah": {
+    "iata": "XTG",
+    "country": "Australia"
+  },
+  "Thursday Island": {
+    "iata": "TIS",
+    "country": "Australia"
+  },
+  "Tom Price": {
+    "iata": "TPR",
+    "country": "Australia"
+  },
+  "Toowoomba": {
+    "iata": "TWB",
+    "country": "Australia"
+  },
+  "Townsville": {
+    "iata": "TSV",
+    "country": "Australia"
+  },
+  "Traralgon": {
+    "iata": "TGN",
+    "country": "Australia"
+  },
+  "Useless Loop": {
+    "iata": "USL",
+    "country": "Australia"
+  },
+  "Victoria River Downs": {
+    "iata": "VCD",
+    "country": "Australia"
+  },
+  "Wagga Wagga": {
+    "iata": "WGA",
+    "country": "Australia"
+  },
+  "Walgett": {
+    "iata": "WGE",
+    "country": "Australia"
+  },
+  "Weipa": {
+    "iata": "WEI",
+    "country": "Australia"
+  },
+  "Whyalla": {
+    "iata": "WYA",
+    "country": "Australia"
+  },
+  "Wiluna": {
+    "iata": "WUN",
+    "country": "Australia"
+  },
+  "Windarra": {
+    "iata": "WNR",
+    "country": "Australia"
+  },
+  "Winton": {
+    "iata": "WIN",
+    "country": "Australia"
+  },
+  "Wudinna": {
+    "iata": "WUD",
+    "country": "Australia"
+  },
+  "Wyndham": {
+    "iata": "WYN",
+    "country": "Australia"
+  },
+  "Yam Island": {
+    "iata": "XMY",
+    "country": "Australia"
+  },
+  "Yorke Island": {
+    "iata": "OKR",
+    "country": "Australia"
+  },
+  "Aden": {
+    "iata": "ADE",
+    "country": "Yemen"
+  },
+  "Al Ghaydah": {
+    "iata": "AAY",
+    "country": "Yemen"
+  },
+  "Ataq": {
+    "iata": "AXK",
+    "country": "Yemen"
+  },
+  "Hodeidah": {
+    "iata": "HOD",
+    "country": "Yemen"
+  },
+  "Riyan Mukalla": {
+    "iata": "RIY",
+    "country": "Yemen"
+  },
+  "Sana'a": {
+    "iata": "SAH",
+    "country": "Yemen"
+  },
+  "Seiyun": {
+    "iata": "GXF",
+    "country": "Yemen"
+  },
+  "Taiz": {
+    "iata": "TAI",
+    "country": "Yemen"
+  },
+  "Adrar": {
+    "iata": "AZR",
+    "country": "Algeria"
+  },
+  "Algiers": {
+    "iata": "ALG",
+    "country": "Algeria"
+  },
+  "Annaba": {
+    "iata": "AAE",
+    "country": "Algeria"
+  },
+  "Batna": {
+    "iata": "BLJ",
+    "country": "Algeria"
+  },
+  "Bechar": {
+    "iata": "CBH",
+    "country": "Algeria"
+  },
+  "Bejaia": {
+    "iata": "BJA",
+    "country": "Algeria"
+  },
+  "Biskra": {
+    "iata": "BSK",
+    "country": "Algeria"
+  },
+  "Constantine": {
+    "iata": "CZL",
+    "country": "Algeria"
+  },
+  "Djanet": {
+    "iata": "DJG",
+    "country": "Algeria"
+  },
+  "El Oved": {
+    "iata": "ELU",
+    "country": "Algeria"
+  },
+  "Ghardala": {
+    "iata": "GHA",
+    "country": "Algeria"
+  },
+  "Hassi Messaoud": {
+    "iata": "HME",
+    "country": "Algeria"
+  },
+  "In Amenas": {
+    "iata": "IAM",
+    "country": "Algeria"
+  },
+  "Jijel": {
+    "iata": "GJL",
+    "country": "Algeria"
+  },
+  "Oran": {
+    "iata": "ORN",
+    "country": "Algeria"
+  },
+  "Ouargla": {
+    "iata": "OGX",
+    "country": "Algeria"
+  },
+  "Tamanrasset": {
+    "iata": "TMR",
+    "country": "Algeria"
+  },
+  "Tbessa": {
+    "iata": "TEE",
+    "country": "Algeria"
+  },
+  "Tiaret": {
+    "iata": "TID",
+    "country": "Algeria"
+  },
+  "Timimoun": {
+    "iata": "TMX",
+    "country": "Algeria"
+  },
+  "Tindouf": {
+    "iata": "TIN",
+    "country": "Algeria"
+  },
+  "Tlemcen": {
+    "iata": "TLM",
+    "country": "Algeria"
+  },
+  "Afutara": {
+    "iata": "AFT",
+    "country": "Soloman Islands"
+  },
+  "Agadir": {
+    "iata": "AGA",
+    "country": "Morocco"
+  },
+  "Al Hoceima": {
+    "iata": "AHU",
+    "country": "Morocco"
+  },
+  "Casablanca": {
+    "iata": "CMN",
+    "country": "Morocco"
+  },
+  "Dakhla": {
+    "iata": "VIL",
+    "country": "Morocco"
+  },
+  "Fez": {
+    "iata": "FEZ",
+    "country": "Morocco"
+  },
+  "Laayoune": {
+    "iata": "EUN",
+    "country": "Morocco"
+  },
+  "Nadar": {
+    "iata": "NDR",
+    "country": "Morocco"
+  },
+  "Ouarzazate": {
+    "iata": "OZZ",
+    "country": "Morocco"
+  },
+  "Oujda": {
+    "iata": "OUD",
+    "country": "Morocco"
+  },
+  "Rabat": {
+    "iata": "RBA",
+    "country": "Morocco"
+  },
+  "Tangier": {
+    "iata": "TNG",
+    "country": "Morocco"
+  },
+  "Tetuan": {
+    "iata": "TTU",
+    "country": "Morocco"
+  },
+  "Agartala": {
+    "iata": "IXA",
+    "country": "India"
+  },
+  "Agra": {
+    "iata": "AGR",
+    "country": "India"
+  },
+  "Ahmedabad": {
+    "iata": "AMD",
+    "country": "India"
+  },
+  "Aizawl": {
+    "iata": "AJL",
+    "country": "India"
+  },
+  "Amritsar": {
+    "iata": "ATQ",
+    "country": "India"
+  },
+  "Aurangabad": {
+    "iata": "IXU",
+    "country": "India"
+  },
+  "Bagdogra": {
+    "iata": "IXB",
+    "country": "India"
+  },
+  "Bangalore": {
+    "iata": "BLR",
+    "country": "India"
+  },
+  "Bhavnagar": {
+    "iata": "BHU",
+    "country": "India"
+  },
+  "Bhopal": {
+    "iata": "BHO",
+    "country": "India"
+  },
+  "Bhubaneswar": {
+    "iata": "BBI",
+    "country": "India"
+  },
+  "Bhuj": {
+    "iata": "BHJ",
+    "country": "India"
+  },
+  "Bombay": {
+    "iata": "BOM",
+    "country": "India"
+  },
+  "Calcutta": {
+    "iata": "CCU",
+    "country": "India"
+  },
+  "Chandigarh": {
+    "iata": "IXC",
+    "country": "India"
+  },
+  "Chennai": {
+    "iata": "MAA",
+    "country": "India"
+  },
+  "Cochin": {
+    "iata": "COK",
+    "country": "India"
+  },
+  "Coimbatore": {
+    "iata": "CJB",
+    "country": "India"
+  },
+  "Delhi": {
+    "iata": "DEL",
+    "country": "India"
+  },
+  "Dibrugarn": {
+    "iata": "DIB",
+    "country": "India"
+  },
+  "Dimapur": {
+    "iata": "DMU",
+    "country": "India"
+  },
+  "Div": {
+    "iata": "DIU",
+    "country": "India"
+  },
+  "Gawahati": {
+    "iata": "GAU",
+    "country": "India"
+  },
+  "Goa": {
+    "iata": "GOI",
+    "country": "India"
+  },
+  "Gwalior": {
+    "iata": "GWL",
+    "country": "India"
+  },
+  "Hyderabad": {
+    "iata": "HYD",
+    "country": "India"
+  },
+  "Imphal": {
+    "iata": "IMF",
+    "country": "India"
+  },
+  "Indore": {
+    "iata": "IDR",
+    "country": "India"
+  },
+  "Jaipur": {
+    "iata": "JAI",
+    "country": "India"
+  },
+  "Jamnagar": {
+    "iata": "JGA",
+    "country": "India"
+  },
+  "Jodhpur": {
+    "iata": "JDH",
+    "country": "India"
+  },
+  "Jommu": {
+    "iata": "IXJ",
+    "country": "India"
+  },
+  "Jorhat": {
+    "iata": "JRH",
+    "country": "India"
+  },
+  "Khajuraho": {
+    "iata": "HJR",
+    "country": "India"
+  },
+  "Kolkata": {
+    "iata": "CCU",
+    "country": "India"
+  },
+  "Kozhikode": {
+    "iata": "CCJ",
+    "country": "India"
+  },
+  "Leh": {
+    "iata": "IXL",
+    "country": "India"
+  },
+  "Lucknow": {
+    "iata": "LKO",
+    "country": "India"
+  },
+  "Madurai": {
+    "iata": "IXM",
+    "country": "India"
+  },
+  "Mangalore": {
+    "iata": "IXE",
+    "country": "India"
+  },
+  "Mumbai": {
+    "iata": "BOM",
+    "country": "India"
+  },
+  "Nagpur": {
+    "iata": "NAG",
+    "country": "India"
+  },
+  "Patna": {
+    "iata": "PAT",
+    "country": "India"
+  },
+  "Porbandar": {
+    "iata": "PBD",
+    "country": "India"
+  },
+  "Port Blair": {
+    "iata": "IXZ",
+    "country": "India"
+  },
+  "Pune": {
+    "iata": "PNQ",
+    "country": "India"
+  },
+  "Puttaparthi": {
+    "iata": "PUT",
+    "country": "India"
+  },
+  "Rajkot": {
+    "iata": "RAJ",
+    "country": "India"
+  },
+  "Ranchi": {
+    "iata": "IXR",
+    "country": "India"
+  },
+  "Silchar": {
+    "iata": "IXS",
+    "country": "India"
+  },
+  "Srinagar": {
+    "iata": "SXR",
+    "country": "India"
+  },
+  "Tezpur": {
+    "iata": "TEZ",
+    "country": "India"
+  },
+  "Thiruvananthapuram": {
+    "iata": "TRV",
+    "country": "India"
+  },
+  "Tiruchirapally": {
+    "iata": "TRZ",
+    "country": "India"
+  },
+  "Tirupati": {
+    "iata": "TIR",
+    "country": "India"
+  },
+  "Vadodara": {
+    "iata": "BDQ",
+    "country": "India"
+  },
+  "Varanasi": {
+    "iata": "VNS",
+    "country": "India"
+  },
+  "Vishakhapatnam": {
+    "iata": "VTZ",
+    "country": "India"
+  },
+  "Agaun": {
+    "iata": "AUP",
+    "country": "Papua New Guinea"
+  },
+  "Alotau": {
+    "iata": "GUR",
+    "country": "Papua New Guinea"
+  },
+  "Amazon Bay": {
+    "iata": "AZB",
+    "country": "Papua New Guinea"
+  },
+  "Aragip": {
+    "iata": "ARP",
+    "country": "Papua New Guinea"
+  },
+  "Baimuru": {
+    "iata": "VMU",
+    "country": "Papua New Guinea"
+  },
+  "Balimo": {
+    "iata": "OPU",
+    "country": "Papua New Guinea"
+  },
+  "Boang": {
+    "iata": "BOV",
+    "country": "Papua New Guinea"
+  },
+  "Buka": {
+    "iata": "BUA",
+    "country": "Papua New Guinea"
+  },
+  "Bunsil": {
+    "iata": "BXZ",
+    "country": "Papua New Guinea"
+  },
+  "Cape Orford": {
+    "iata": "CPI",
+    "country": "Papua New Guinea"
+  },
+  "Cape Vogel": {
+    "iata": "CVL",
+    "country": "Papua New Guinea"
+  },
+  "Daru": {
+    "iata": "DAU",
+    "country": "Papua New Guinea"
+  },
+  "Derim": {
+    "iata": "DER",
+    "country": "Papua New Guinea"
+  },
+  "Dodoima": {
+    "iata": "DDM",
+    "country": "Papua New Guinea"
+  },
+  "Embessa": {
+    "iata": "EMS",
+    "country": "Papua New Guinea"
+  },
+  "Emo": {
+    "iata": "EMO",
+    "country": "Papua New Guinea"
+  },
+  "Garaina": {
+    "iata": "GAR",
+    "country": "Papua New Guinea"
+  },
+  "Garasa": {
+    "iata": "GRL",
+    "country": "Papua New Guinea"
+  },
+  "Gonalia": {
+    "iata": "GOE",
+    "country": "Papua New Guinea"
+  },
+  "Goroka": {
+    "iata": "GKA",
+    "country": "Papua New Guinea"
+  },
+  "Hivaro": {
+    "iata": "HIT",
+    "country": "Papua New Guinea"
+  },
+  "Hoskins": {
+    "iata": "HKN",
+    "country": "Papua New Guinea"
+  },
+  "Ihu": {
+    "iata": "IHU",
+    "country": "Papua New Guinea"
+  },
+  "Indagen": {
+    "iata": "IDN",
+    "country": "Papua New Guinea"
+  },
+  "Ioma": {
+    "iata": "IOP",
+    "country": "Papua New Guinea"
+  },
+  "Itokama": {
+    "iata": "ITK",
+    "country": "Papua New Guinea"
+  },
+  "Jacquinot Bay": {
+    "iata": "JAQ",
+    "country": "Papua New Guinea"
+  },
+  "Kabwun": {
+    "iata": "KBM",
+    "country": "Papua New Guinea"
+  },
+  "Kaintiba": {
+    "iata": "KZF",
+    "country": "Papua New Guinea"
+  },
+  "Kamusi": {
+    "iata": "KUY",
+    "country": "Papua New Guinea"
+  },
+  "Kavieng": {
+    "iata": "KVG",
+    "country": "Papua New Guinea"
+  },
+  "Kiunga": {
+    "iata": "UNG",
+    "country": "Papua New Guinea"
+  },
+  "Kuri": {
+    "iata": "KUQ",
+    "country": "Papua New Guinea"
+  },
+  "Lablab": {
+    "iata": "LAB",
+    "country": "Papua New Guinea"
+  },
+  "Lae": {
+    "iata": "LAE",
+    "country": "Papua New Guinea"
+  },
+  "Lihir Island": {
+    "iata": "LNV",
+    "country": "Papua New Guinea"
+  },
+  "Losuia": {
+    "iata": "LSA",
+    "country": "Papua New Guinea"
+  },
+  "Madang": {
+    "iata": "MAG",
+    "country": "Papua New Guinea"
+  },
+  "Manguna": {
+    "iata": "MFO",
+    "country": "Papua New Guinea"
+  },
+  "Manus Island": {
+    "iata": "MAS",
+    "country": "Papua New Guinea"
+  },
+  "Mendi": {
+    "iata": "NDM",
+    "country": "Ethiopia"
+  },
+  "Menyamya": {
+    "iata": "MYX",
+    "country": "Papua New Guinea"
+  },
+  "Misima Island": {
+    "iata": "MIS",
+    "country": "Papua New Guinea"
+  },
+  "Moro": {
+    "iata": "MXH",
+    "country": "Papua New Guinea"
+  },
+  "Mount Hagen": {
+    "iata": "HGU",
+    "country": "Papua New Guinea"
+  },
+  "Namatana": {
+    "iata": "ATN",
+    "country": "Papua New Guinea"
+  },
+  "Namudi": {
+    "iata": "NDI",
+    "country": "Papua New Guinea"
+  },
+  "Popondetta": {
+    "iata": "PNP",
+    "country": "Papua New Guinea"
+  },
+  "Port Moresby": {
+    "iata": "POM",
+    "country": "Papua New Guinea"
+  },
+  "Rabaraba": {
+    "iata": "RBP",
+    "country": "Papua New Guinea"
+  },
+  "Rabaul": {
+    "iata": "RAB",
+    "country": "Papua New Guinea"
+  },
+  "Satwag": {
+    "iata": "SWG",
+    "country": "Papua New Guinea"
+  },
+  "Tabubil": {
+    "iata": "TBG",
+    "country": "Papua New Guinea"
+  },
+  "Tari": {
+    "iata": "TIZ",
+    "country": "Papua New Guinea"
+  },
+  "Tekadu": {
+    "iata": "TKB",
+    "country": "Papua New Guinea"
+  },
+  "Tetabedi": {
+    "iata": "TDB",
+    "country": "Papua New Guinea"
+  },
+  "Tufi": {
+    "iata": "TFI",
+    "country": "Papua New Guinea"
+  },
+  "Uroubi": {
+    "iata": "URU",
+    "country": "Papua New Guinea"
+  },
+  "Vanimo": {
+    "iata": "VAI",
+    "country": "Papua New Guinea"
+  },
+  "Vivigani": {
+    "iata": "VIV",
+    "country": "Papua New Guinea"
+  },
+  "Wanigela": {
+    "iata": "AGL",
+    "country": "Papua New Guinea"
+  },
+  "Wasu": {
+    "iata": "WSU",
+    "country": "Papua New Guinea"
+  },
+  "Wau": {
+    "iata": "WUU",
+    "country": "Sudan"
+  },
+  "Wedau": {
+    "iata": "WED",
+    "country": "Papua New Guinea"
+  },
+  "Wewak": {
+    "iata": "WWK",
+    "country": "Papua New Guinea"
+  },
+  "Yalumet": {
+    "iata": "KYX",
+    "country": "Papua New Guinea"
+  },
+  "Agen": {
+    "iata": "AGF",
+    "country": "France"
+  },
+  "Ajaccio": {
+    "iata": "AJA",
+    "country": "France"
+  },
+  "Angers": {
+    "iata": "QXG",
+    "country": "France"
+  },
+  "Angouleme": {
+    "iata": "ANG",
+    "country": "France"
+  },
+  "Annecy": {
+    "iata": "NCY",
+    "country": "France"
+  },
+  "Aurillac": {
+    "iata": "AUR",
+    "country": "France"
+  },
+  "Avignon": {
+    "iata": "AVN",
+    "country": "France"
+  },
+  "Bastia": {
+    "iata": "BIA",
+    "country": "France"
+  },
+  "Bergerac": {
+    "iata": "EGC",
+    "country": "France"
+  },
+  "Beziers": {
+    "iata": "BZR",
+    "country": "France"
+  },
+  "Biarritz": {
+    "iata": "BIQ",
+    "country": "France"
+  },
+  "Bordeaux": {
+    "iata": "BOD",
+    "country": "France"
+  },
+  "Brest": {
+    "iata": "BES",
+    "country": "France"
+  },
+  "Brive-La-Gaillarde": {
+    "iata": "BVE",
+    "country": "France"
+  },
+  "Caen": {
+    "iata": "CFR",
+    "country": "France"
+  },
+  "Calvi": {
+    "iata": "CLY",
+    "country": "France"
+  },
+  "Cannes": {
+    "iata": "QYW",
+    "country": "France"
+  },
+  "Carcassonne": {
+    "iata": "CCF",
+    "country": "France"
+  },
+  "Castres": {
+    "iata": "DCM",
+    "country": "France"
+  },
+  "Chambery": {
+    "iata": "CMF",
+    "country": "France"
+  },
+  "Clermont-ferrand": {
+    "iata": "CFE",
+    "country": "France"
+  },
+  "Deauville": {
+    "iata": "DOL",
+    "country": "France"
+  },
+  "Dijon": {
+    "iata": "DIJ",
+    "country": "France"
+  },
+  "Dinard": {
+    "iata": "DNR",
+    "country": "France"
+  },
+  "Epinal": {
+    "iata": "EPL",
+    "country": "France"
+  },
+  "Figari": {
+    "iata": "FSC",
+    "country": "France"
+  },
+  "Grenoble": {
+    "iata": "GNB",
+    "country": "France"
+  },
+  "Lannion": {
+    "iata": "LAI",
+    "country": "France"
+  },
+  "Larochelle": {
+    "iata": "LRH",
+    "country": "France"
+  },
+  "Le Havre": {
+    "iata": "LEH",
+    "country": "France"
+  },
+  "Le Mans": {
+    "iata": "ZLN",
+    "country": "France"
+  },
+  "Le Puy": {
+    "iata": "LPY",
+    "country": "France"
+  },
+  "Le Touquet": {
+    "iata": "LTQ",
+    "country": "France"
+  },
+  "Lille": {
+    "iata": "XDB",
+    "country": "France"
+  },
+  "Limoges": {
+    "iata": "LIG",
+    "country": "France"
+  },
+  "Lorient": {
+    "iata": "LRT",
+    "country": "France"
+  },
+  "Lourdes/Tarbes": {
+    "iata": "LDE",
+    "country": "France"
+  },
+  "Lyon": {
+    "iata": "XYD",
+    "country": "France"
+  },
+  "Marseille": {
+    "iata": "MRS",
+    "country": "France"
+  },
+  "Metz/Nancy": {
+    "iata": "ETZ",
+    "country": "France"
+  },
+  "Montpellier": {
+    "iata": "MPL",
+    "country": "France"
+  },
+  "Mulhouse": {
+    "iata": "MLH",
+    "country": "France"
+  },
+  "Nantes": {
+    "iata": "QJZ",
+    "country": "France"
+  },
+  "Nice": {
+    "iata": "NCE",
+    "country": "France"
+  },
+  "Nimes": {
+    "iata": "FNI",
+    "country": "France"
+  },
+  "Paris": {
+    "iata": "BVA",
+    "country": "France"
+  },
+  "Pau": {
+    "iata": "PUF",
+    "country": "France"
+  },
+  "Perigueux": {
+    "iata": "PGX",
+    "country": "France"
+  },
+  "Perpignan": {
+    "iata": "PGF",
+    "country": "France"
+  },
+  "Poitiers": {
+    "iata": "XOP",
+    "country": "France"
+  },
+  "Quimper": {
+    "iata": "UIP",
+    "country": "France"
+  },
+  "Rennes": {
+    "iata": "RNS",
+    "country": "France"
+  },
+  "Roane": {
+    "iata": "RNE",
+    "country": "France"
+  },
+  "Rodez": {
+    "iata": "RDZ",
+    "country": "France"
+  },
+  "Rouen": {
+    "iata": "URO",
+    "country": "France"
+  },
+  "Saint Tropez": {
+    "iata": "XPZ",
+    "country": "France"
+  },
+  "St. Etienne": {
+    "iata": "EBU",
+    "country": "France"
+  },
+  "Strasbourg": {
+    "iata": "SXB",
+    "country": "France"
+  },
+  "Toulon": {
+    "iata": "TLN",
+    "country": "France"
+  },
+  "Toulouse": {
+    "iata": "TLS",
+    "country": "France"
+  },
+  "Tours": {
+    "iata": "XSH",
+    "country": "France"
+  },
+  "Valenciennes": {
+    "iata": "XVS",
+    "country": "France"
+  },
+  "Aguadilla": {
+    "iata": "BQN",
+    "country": "Puerto Rico"
+  },
+  "Fajard": {
+    "iata": "FAJ",
+    "country": "Puerto Rico"
+  },
+  "Mayaguez": {
+    "iata": "MAZ",
+    "country": "Puerto Rico"
+  },
+  "Ponce": {
+    "iata": "PSE",
+    "country": "Puerto Rico"
+  },
+  "San Juan": {
+    "iata": "UAQ",
+    "country": "Argentina"
+  },
+  "Vieques": {
+    "iata": "VQS",
+    "country": "Puerto Rico"
+  },
+  "Aguni": {
+    "iata": "AGJ",
+    "country": "Japan"
+  },
+  "Akita": {
+    "iata": "AXT",
+    "country": "Japan"
+  },
+  "Amami O Shima": {
+    "iata": "ASJ",
+    "country": "Japan"
+  },
+  "Aomori": {
+    "iata": "AOJ",
+    "country": "Japan"
+  },
+  "Asahikawa": {
+    "iata": "AKJ",
+    "country": "Japan"
+  },
+  "Fukuoka": {
+    "iata": "FUK",
+    "country": "Japan"
+  },
+  "Fukue": {
+    "iata": "FUJ",
+    "country": "Japan"
+  },
+  "Fukushima": {
+    "iata": "FKS",
+    "country": "Japan"
+  },
+  "Hachijo Jima": {
+    "iata": "HAC",
+    "country": "Japan"
+  },
+  "Hakodate": {
+    "iata": "HKD",
+    "country": "Japan"
+  },
+  "Hateruma": {
+    "iata": "HTR",
+    "country": "Japan"
+  },
+  "Hiroshima": {
+    "iata": "HIW",
+    "country": "Japan"
+  },
+  "Ishigakij": {
+    "iata": "ISG",
+    "country": "Japan"
+  },
+  "Iwami": {
+    "iata": "IWJ",
+    "country": "Japan"
+  },
+  "Izumo": {
+    "iata": "IZO",
+    "country": "Japan"
+  },
+  "Kitadaito": {
+    "iata": "KTD",
+    "country": "Japan"
+  },
+  "Kochi": {
+    "iata": "KCZ",
+    "country": "Japan"
+  },
+  "Kumejima": {
+    "iata": "UEO",
+    "country": "Japan"
+  },
+  "Kushiro": {
+    "iata": "KUH",
+    "country": "Japan"
+  },
+  "Matsumoto": {
+    "iata": "MMJ",
+    "country": "Japan"
+  },
+  "Matsuyama": {
+    "iata": "MYJ",
+    "country": "Japan"
+  },
+  "Memanbetsu": {
+    "iata": "MMB",
+    "country": "Japan"
+  },
+  "Minami Daito": {
+    "iata": "MMD",
+    "country": "Japan"
+  },
+  "Misawa": {
+    "iata": "MSJ",
+    "country": "Japan"
+  },
+  "MiyakeJima": {
+    "iata": "MYE",
+    "country": "Japan"
+  },
+  "Miyako Jima": {
+    "iata": "MMY",
+    "country": "Japan"
+  },
+  "Monbetsu": {
+    "iata": "MBE",
+    "country": "Japan"
+  },
+  "Morioka": {
+    "iata": "HNA",
+    "country": "Japan"
+  },
+  "Nagasaki": {
+    "iata": "NGS",
+    "country": "Japan"
+  },
+  "Nagoya": {
+    "iata": "NGO",
+    "country": "Japan"
+  },
+  "Obihiro": {
+    "iata": "OBO",
+    "country": "Japan"
+  },
+  "Oita": {
+    "iata": "OIT",
+    "country": "Japan"
+  },
+  "Okayama": {
+    "iata": "OKJ",
+    "country": "Japan"
+  },
+  "Okinawa": {
+    "iata": "OKA",
+    "country": "Japan"
+  },
+  "Okoshiri": {
+    "iata": "OIR",
+    "country": "Japan"
+  },
+  "Osaka": {
+    "iata": "KIX",
+    "country": "Japan"
+  },
+  "Oshima": {
+    "iata": "OIM",
+    "country": "Japan"
+  },
+  "Rebun": {
+    "iata": "RBJ",
+    "country": "Japan"
+  },
+  "Rishiri": {
+    "iata": "RIS",
+    "country": "Japan"
+  },
+  "Sapporo": {
+    "iata": "OKD",
+    "country": "Japan"
+  },
+  "Shonai": {
+    "iata": "SYO",
+    "country": "Japan"
+  },
+  "Taramajma": {
+    "iata": "TRA",
+    "country": "Japan"
+  },
+  "Tokunoshima": {
+    "iata": "TKN",
+    "country": "Japan"
+  },
+  "Tokushima": {
+    "iata": "TKS",
+    "country": "Japan"
+  },
+  "Tokyo": {
+    "iata": "NRT",
+    "country": "Japan"
+  },
+  "Tottori": {
+    "iata": "TTJ",
+    "country": "Japan"
+  },
+  "Toyama": {
+    "iata": "TOY",
+    "country": "Japan"
+  },
+  "Tsushima": {
+    "iata": "TSJ",
+    "country": "Japan"
+  },
+  "Ube": {
+    "iata": "UBJ",
+    "country": "Japan"
+  },
+  "Wakkanai": {
+    "iata": "WKJ",
+    "country": "Japan"
+  },
+  "Yamagata": {
+    "iata": "GAJ",
+    "country": "Japan"
+  },
+  "Yonago": {
+    "iata": "YGJ",
+    "country": "Japan"
+  },
+  "Yonaguni Jima": {
+    "iata": "OGN",
+    "country": "Japan"
+  },
+  "Yoronjima": {
+    "iata": "RNJ",
+    "country": "Japan"
+  },
+  "Ailuk Island": {
+    "iata": "AIM",
+    "country": "Marshall Islands"
+  },
+  "Airok": {
+    "iata": "AIC",
+    "country": "Marshall Islands"
+  },
+  "Aur Island": {
+    "iata": "AUL",
+    "country": "Marshall Islands"
+  },
+  "Bikini Atoll": {
+    "iata": "BII",
+    "country": "Marshall Islands"
+  },
+  "Ebon": {
+    "iata": "EBO",
+    "country": "Marshall Islands"
+  },
+  "Enewetak Island": {
+    "iata": "ENT",
+    "country": "Marshall Islands"
+  },
+  "Jabor": {
+    "iata": "JAT",
+    "country": "Marshall Islands"
+  },
+  "Jaluit Island": {
+    "iata": "UIT",
+    "country": "Marshall Islands"
+  },
+  "Jeh": {
+    "iata": "JEJ",
+    "country": "Marshall Islands"
+  },
+  "Kaben": {
+    "iata": "KBT",
+    "country": "Marshall Islands"
+  },
+  "Kwajalein": {
+    "iata": "KWA",
+    "country": "Marshall Islands"
+  },
+  "Lae Island": {
+    "iata": "LML",
+    "country": "Marshall Islands"
+  },
+  "Likiep Island": {
+    "iata": "LIK",
+    "country": "Marshall Islands"
+  },
+  "Loen": {
+    "iata": "LOF",
+    "country": "Marshall Islands"
+  },
+  "Majkin": {
+    "iata": "MJE",
+    "country": "Marshall Islands"
+  },
+  "Majuro": {
+    "iata": "MAJ",
+    "country": "Marshall Islands"
+  },
+  "Maloelap Island": {
+    "iata": "MAV",
+    "country": "Marshall Islands"
+  },
+  "Mejit Island": {
+    "iata": "MJB",
+    "country": "Marshall Islands"
+  },
+  "Mili Island": {
+    "iata": "MIJ",
+    "country": "Marshall Islands"
+  },
+  "Namorik Island": {
+    "iata": "NDK",
+    "country": "Marshall Islands"
+  },
+  "Rongelap Island": {
+    "iata": "RNP",
+    "country": "Marshall Islands"
+  },
+  "Ujae Island": {
+    "iata": "UJE",
+    "country": "Marshall Islands"
+  },
+  "Utirik Island": {
+    "iata": "UTK",
+    "country": "Marshall Islands"
+  },
+  "Woja": {
+    "iata": "WJA",
+    "country": "Marshall Islands"
+  },
+  "Wotho Island": {
+    "iata": "WTO",
+    "country": "Marshall Islands"
+  },
+  "Wotje Island": {
+    "iata": "WTE",
+    "country": "Marshall Islands"
+  },
+  "Aioun El Atrouss": {
+    "iata": "AEO",
+    "country": "Mauritania"
+  },
+  "Nema": {
+    "iata": "EMN",
+    "country": "Mauritania"
+  },
+  "Nouadhiba": {
+    "iata": "NDB",
+    "country": "Mauritania"
+  },
+  "Nouakchott": {
+    "iata": "NKC",
+    "country": "Mauritania"
+  },
+  "Tioljikja": {
+    "iata": "TIY",
+    "country": "Mauritania"
+  },
+  "Zouerate": {
+    "iata": "OUZ",
+    "country": "Mauritania"
+  },
+  "Aitutaki": {
+    "iata": "AIT",
+    "country": "Cook Islands"
+  },
+  "Atiu Island": {
+    "iata": "AIU",
+    "country": "Cook Islands"
+  },
+  "Mangaia Island": {
+    "iata": "MGS",
+    "country": "Cook Islands"
+  },
+  "Manihiki Island": {
+    "iata": "MHX",
+    "country": "Cook Islands"
+  },
+  "Mauke Island": {
+    "iata": "MUK",
+    "country": "Cook Islands"
+  },
+  "Mitiaro Island": {
+    "iata": "MOI",
+    "country": "Cook Islands"
+  },
+  "Penrhyn Island": {
+    "iata": "PYE",
+    "country": "Cook Islands"
+  },
+  "Rarotonga": {
+    "iata": "RAR",
+    "country": "Cook Islands"
+  },
+  "Aksu": {
+    "iata": "AKU",
+    "country": "China"
+  },
+  "Altay": {
+    "iata": "AAT",
+    "country": "China"
+  },
+  "Anging": {
+    "iata": "AQG",
+    "country": "China"
+  },
+  "Ankang": {
+    "iata": "AKA",
+    "country": "China"
+  },
+  "Bangda": {
+    "iata": "BPX",
+    "country": "China"
+  },
+  "Baoshan": {
+    "iata": "BSD",
+    "country": "China"
+  },
+  "Baotou": {
+    "iata": "BAV",
+    "country": "China"
+  },
+  "Beihai": {
+    "iata": "BHY",
+    "country": "China"
+  },
+  "Beijing": {
+    "iata": "PEK",
+    "country": "China"
+  },
+  "Changchun": {
+    "iata": "CGQ",
+    "country": "China"
+  },
+  "Changde": {
+    "iata": "CGD",
+    "country": "China"
+  },
+  "Changzhou": {
+    "iata": "CZX",
+    "country": "China"
+  },
+  "Chaoyang": {
+    "iata": "CHG",
+    "country": "China"
+  },
+  "Chergdu": {
+    "iata": "CTU",
+    "country": "China"
+  },
+  "Chifeng": {
+    "iata": "CIF",
+    "country": "China"
+  },
+  "Chongqing": {
+    "iata": "CKG",
+    "country": "China"
+  },
+  "Dali City": {
+    "iata": "DLU",
+    "country": "China"
+  },
+  "Dalian": {
+    "iata": "DLC",
+    "country": "China"
+  },
+  "Daxian": {
+    "iata": "DAX",
+    "country": "China"
+  },
+  "Dayang": {
+    "iata": "DYG",
+    "country": "China"
+  },
+  "Dunhuang": {
+    "iata": "DNH",
+    "country": "China"
+  },
+  "Enshi": {
+    "iata": "ENH",
+    "country": "China"
+  },
+  "Fuyang": {
+    "iata": "FUG",
+    "country": "China"
+  },
+  "Fuzhou": {
+    "iata": "FOC",
+    "country": "China"
+  },
+  "Golmud": {
+    "iata": "GOQ",
+    "country": "China"
+  },
+  "Guangzhou": {
+    "iata": "CAN",
+    "country": "China"
+  },
+  "Guilin": {
+    "iata": "KWL",
+    "country": "China"
+  },
+  "Gulyang": {
+    "iata": "KWE",
+    "country": "China"
+  },
+  "Haikou": {
+    "iata": "HAK",
+    "country": "China"
+  },
+  "Hailar": {
+    "iata": "HLD",
+    "country": "China"
+  },
+  "Hangzhou": {
+    "iata": "HGH",
+    "country": "China"
+  },
+  "Hanzhang": {
+    "iata": "HZG",
+    "country": "China"
+  },
+  "Harbin": {
+    "iata": "HRB",
+    "country": "China"
+  },
+  "Hefei": {
+    "iata": "HFE",
+    "country": "China"
+  },
+  "Hohhot": {
+    "iata": "HET",
+    "country": "China"
+  },
+  "Hotan": {
+    "iata": "HTN",
+    "country": "China"
+  },
+  "Huargyan": {
+    "iata": "HYN",
+    "country": "China"
+  },
+  "Jiamusi": {
+    "iata": "JMU",
+    "country": "China"
+  },
+  "Jiayuguan": {
+    "iata": "JGN",
+    "country": "China"
+  },
+  "Jinan": {
+    "iata": "TNA",
+    "country": "China"
+  },
+  "Jingdezhen": {
+    "iata": "JDZ",
+    "country": "China"
+  },
+  "Jinghong": {
+    "iata": "JHG",
+    "country": "China"
+  },
+  "Jinjiang": {
+    "iata": "JJN",
+    "country": "China"
+  },
+  "Jinzhou": {
+    "iata": "JNZ",
+    "country": "China"
+  },
+  "Juzha": {
+    "iata": "JUZ",
+    "country": "China"
+  },
+  "Lanzhou": {
+    "iata": "ZGC",
+    "country": "China"
+  },
+  "Lhasa": {
+    "iata": "LXA",
+    "country": "China"
+  },
+  "Lianyungang": {
+    "iata": "LYG",
+    "country": "China"
+  },
+  "Lijiang City": {
+    "iata": "LJG",
+    "country": "China"
+  },
+  "Linyi": {
+    "iata": "LYI",
+    "country": "China"
+  },
+  "Liuzhou": {
+    "iata": "LZH",
+    "country": "China"
+  },
+  "Luoyang": {
+    "iata": "LYA",
+    "country": "China"
+  },
+  "Luxi": {
+    "iata": "LUM",
+    "country": "China"
+  },
+  "Luzhou": {
+    "iata": "LZO",
+    "country": "China"
+  },
+  "Macau": {
+    "iata": "MFM",
+    "country": "China"
+  },
+  "Meixian": {
+    "iata": "MXZ",
+    "country": "China"
+  },
+  "Mudanjiang": {
+    "iata": "MDG",
+    "country": "China"
+  },
+  "Nanchong": {
+    "iata": "NAO",
+    "country": "China"
+  },
+  "Nanking/Nanjing": {
+    "iata": "NKG",
+    "country": "China"
+  },
+  "Nanning": {
+    "iata": "NNG",
+    "country": "China"
+  },
+  "Nantong": {
+    "iata": "NTG",
+    "country": "China"
+  },
+  "Nanyang": {
+    "iata": "NNY",
+    "country": "China"
+  },
+  "Ningbo": {
+    "iata": "NGB",
+    "country": "China"
+  },
+  "Qiemo": {
+    "iata": "IQM",
+    "country": "China"
+  },
+  "Qingdao": {
+    "iata": "TAO",
+    "country": "China"
+  },
+  "Qiqihar": {
+    "iata": "NDG",
+    "country": "China"
+  },
+  "Sanya": {
+    "iata": "SYX",
+    "country": "China"
+  },
+  "Shanghai": {
+    "iata": "PVG",
+    "country": "China"
+  },
+  "Shantou": {
+    "iata": "SWA",
+    "country": "China"
+  },
+  "Shenzhen": {
+    "iata": "SZX",
+    "country": "China"
+  },
+  "Simao": {
+    "iata": "SYM",
+    "country": "China"
+  },
+  "Tacheng": {
+    "iata": "TCG",
+    "country": "China"
+  },
+  "Taiyuan": {
+    "iata": "TYN",
+    "country": "China"
+  },
+  "Tianjn": {
+    "iata": "TSN",
+    "country": "China"
+  },
+  "Tongliao": {
+    "iata": "TGO",
+    "country": "China"
+  },
+  "Tunxi": {
+    "iata": "TXN",
+    "country": "China"
+  },
+  "Ulanhot": {
+    "iata": "HLH",
+    "country": "China"
+  },
+  "Urumqi": {
+    "iata": "URC",
+    "country": "China"
+  },
+  "Wanxian": {
+    "iata": "WXN",
+    "country": "China"
+  },
+  "Weihai": {
+    "iata": "WEH",
+    "country": "China"
+  },
+  "Wenzhou": {
+    "iata": "WNZ",
+    "country": "China"
+  },
+  "Wuhan": {
+    "iata": "WUH",
+    "country": "China"
+  },
+  "Wuyishan": {
+    "iata": "WUS",
+    "country": "China"
+  },
+  "Xiamen": {
+    "iata": "XMN",
+    "country": "China"
+  },
+  "Xi An": {
+    "iata": "XIY",
+    "country": "China"
+  },
+  "Xiangfan": {
+    "iata": "XFN",
+    "country": "China"
+  },
+  "Xichang": {
+    "iata": "XIC",
+    "country": "China"
+  },
+  "Xilinhot": {
+    "iata": "XIL",
+    "country": "China"
+  },
+  "Xining": {
+    "iata": "XNN",
+    "country": "China"
+  },
+  "Xuzhou": {
+    "iata": "XUZ",
+    "country": "China"
+  },
+  "Yan'an": {
+    "iata": "ENY",
+    "country": "China"
+  },
+  "Yancheng": {
+    "iata": "YNZ",
+    "country": "China"
+  },
+  "Yanji": {
+    "iata": "YNJ",
+    "country": "China"
+  },
+  "Yantai": {
+    "iata": "YNT",
+    "country": "China"
+  },
+  "Yibin": {
+    "iata": "YBP",
+    "country": "China"
+  },
+  "Yichang": {
+    "iata": "YIH",
+    "country": "China"
+  },
+  "Yinchuan": {
+    "iata": "INC",
+    "country": "China"
+  },
+  "Yining": {
+    "iata": "YIN",
+    "country": "China"
+  },
+  "Yiwu": {
+    "iata": "YIW",
+    "country": "China"
+  },
+  "Yulin": {
+    "iata": "UYN",
+    "country": "China"
+  },
+  "Zhanjiang": {
+    "iata": "ZHA",
+    "country": "China"
+  },
+  "Zhaotong": {
+    "iata": "ZAT",
+    "country": "China"
+  },
+  "Zhengzha": {
+    "iata": "CGO",
+    "country": "China"
+  },
+  "Zhoushan": {
+    "iata": "HSN",
+    "country": "China"
+  },
+  "Zhuhai": {
+    "iata": "ZUH",
+    "country": "China"
+  },
+  "Aktyubinsk": {
+    "iata": "AKX",
+    "country": "Kazakhstan"
+  },
+  "Almaty": {
+    "iata": "AKX",
+    "country": "Kazakhstan"
+  },
+  "Astana": {
+    "iata": "TSE",
+    "country": "Kazakhstan"
+  },
+  "Atyrau": {
+    "iata": "GUW",
+    "country": "Kazakhstan"
+  },
+  "Pavlodar": {
+    "iata": "PWQ",
+    "country": "Kazakhstan"
+  },
+  "Shimkent": {
+    "iata": "CIT",
+    "country": "Kazakhstan"
+  },
+  "Uralsk": {
+    "iata": "URA",
+    "country": "Kazakhstan"
+  },
+  "Ust-Kamenogorsk": {
+    "iata": "UKK",
+    "country": "Kazakhstan"
+  },
+  "Akureyri": {
+    "iata": "AEY",
+    "country": "Iceland"
+  },
+  "Egilsstadir": {
+    "iata": "EGS",
+    "country": "Iceland"
+  },
+  "Grimsey": {
+    "iata": "GRY",
+    "country": "Iceland"
+  },
+  "Hornafjordur": {
+    "iata": "HFN",
+    "country": "Iceland"
+  },
+  "Isafjordur": {
+    "iata": "IFJ",
+    "country": "Iceland"
+  },
+  "Reykjavik": {
+    "iata": "KEF",
+    "country": "Iceland"
+  },
+  "Rosh Pina": {
+    "iata": "RPN",
+    "country": "Iceland"
+  },
+  "Thorshofn": {
+    "iata": "THO",
+    "country": "Iceland"
+  },
+  "Vestmannaeyjar": {
+    "iata": "VEY",
+    "country": "Iceland"
+  },
+  "Vopnafjordur": {
+    "iata": "VPN",
+    "country": "Iceland"
+  },
+  "Aleppo": {
+    "iata": "ALP",
+    "country": "Syrian Arab Republic"
+  },
+  "Damascus": {
+    "iata": "DAM",
+    "country": "Syrian Arab Republic"
+  },
+  "Kameshli": {
+    "iata": "KAC",
+    "country": "Syrian Arab Republic"
+  },
+  "Alexander Bay": {
+    "iata": "ALJ",
+    "country": "South Africa"
+  },
+  "Bloemfontein": {
+    "iata": "BFN",
+    "country": "South Africa"
+  },
+  "Cape Town": {
+    "iata": "CPT",
+    "country": "South Africa"
+  },
+  "Durban": {
+    "iata": "DUR",
+    "country": "South Africa"
+  },
+  "East London": {
+    "iata": "ELS",
+    "country": "South Africa"
+  },
+  "George": {
+    "iata": "GRJ",
+    "country": "South Africa"
+  },
+  "Hoedspruit": {
+    "iata": "HDS",
+    "country": "South Africa"
+  },
+  "Johannesburg": {
+    "iata": "JNB",
+    "country": "South Africa"
+  },
+  "Margate": {
+    "iata": "MGH",
+    "country": "South Africa"
+  },
+  "Nelspruit": {
+    "iata": "NLP",
+    "country": "South Africa"
+  },
+  "Phalaborwa": {
+    "iata": "PHW",
+    "country": "South Africa"
+  },
+  "Pietermaritzburg": {
+    "iata": "PZB",
+    "country": "South Africa"
+  },
+  "Pietersburb": {
+    "iata": "PTG",
+    "country": "South Africa"
+  },
+  "Plettenburg Bay": {
+    "iata": "PBZ",
+    "country": "South Africa"
+  },
+  "Port Elizabeth": {
+    "iata": "PLZ",
+    "country": "South Africa"
+  },
+  "Richards Bay": {
+    "iata": "RCB",
+    "country": "South Africa"
+  },
+  "Skukuza": {
+    "iata": "SZK",
+    "country": "South Africa"
+  },
+  "Sun City": {
+    "iata": "NTY",
+    "country": "South Africa"
+  },
+  "Ulundi": {
+    "iata": "ULD",
+    "country": "South Africa"
+  },
+  "Umtata": {
+    "iata": "UTT",
+    "country": "South Africa"
+  },
+  "Upington": {
+    "iata": "UTN",
+    "country": "South Africa"
+  },
+  "Alexandroupolis": {
+    "iata": "AXD",
+    "country": "Greece"
+  },
+  "Athens": {
+    "iata": "ATH",
+    "country": "Greece"
+  },
+  "Chania": {
+    "iata": "CHQ",
+    "country": "Greece"
+  },
+  "Heraklian": {
+    "iata": "HER",
+    "country": "Greece"
+  },
+  "Karpathos": {
+    "iata": "AOK",
+    "country": "Greece"
+  },
+  "Kavala": {
+    "iata": "KVA",
+    "country": "Greece"
+  },
+  "Kefallinia": {
+    "iata": "EFL",
+    "country": "Greece"
+  },
+  "Kerkyra": {
+    "iata": "CFU",
+    "country": "Greece"
+  },
+  "Lemnos": {
+    "iata": "LXS",
+    "country": "Greece"
+  },
+  "Mikonos": {
+    "iata": "JMK",
+    "country": "Greece"
+  },
+  "Mytilene": {
+    "iata": "MJT",
+    "country": "Greece"
+  },
+  "Patras": {
+    "iata": "GPA",
+    "country": "Greece"
+  },
+  "Preveza/Lefkas": {
+    "iata": "PVK",
+    "country": "Greece"
+  },
+  "Samos": {
+    "iata": "SMI",
+    "country": "Greece"
+  },
+  "Skiathos": {
+    "iata": "JSI",
+    "country": "Greece"
+  },
+  "Thessaloniki": {
+    "iata": "SKG",
+    "country": "Greece"
+  },
+  "Thira": {
+    "iata": "JTR",
+    "country": "Greece"
+  },
+  "Zakinthos Island": {
+    "iata": "ZTH",
+    "country": "Greece"
+  },
+  "Alghero": {
+    "iata": "AHO",
+    "country": "Italy"
+  },
+  "Ancona": {
+    "iata": "AOI",
+    "country": "Italy"
+  },
+  "Aosta": {
+    "iata": "AOT",
+    "country": "Italy"
+  },
+  "Bari": {
+    "iata": "BRI",
+    "country": "Italy"
+  },
+  "Bolzano": {
+    "iata": "BZO",
+    "country": "Italy"
+  },
+  "Brindisi": {
+    "iata": "BDS",
+    "country": "Italy"
+  },
+  "Cagliari": {
+    "iata": "CAG",
+    "country": "Italy"
+  },
+  "Catania": {
+    "iata": "CTA",
+    "country": "Italy"
+  },
+  "Crotone": {
+    "iata": "CRV",
+    "country": "Italy"
+  },
+  "Elat": {
+    "iata": "ETH",
+    "country": "Italy"
+  },
+  "Elba Island": {
+    "iata": "EBA",
+    "country": "Italy"
+  },
+  "Florence": {
+    "iata": "FLR",
+    "country": "Italy"
+  },
+  "Foggia": {
+    "iata": "FOG",
+    "country": "Italy"
+  },
+  "Genoa": {
+    "iata": "GOA",
+    "country": "Italy"
+  },
+  "Lamezia-Terme": {
+    "iata": "SUF",
+    "country": "Italy"
+  },
+  "Lampedusa": {
+    "iata": "LMP",
+    "country": "Italy"
+  },
+  "Milan": {
+    "iata": "PMF",
+    "country": "Italy"
+  },
+  "Naples": {
+    "iata": "NAP",
+    "country": "Italy"
+  },
+  "Olbia": {
+    "iata": "OLB",
+    "country": "Italy"
+  },
+  "Palermo": {
+    "iata": "PMO",
+    "country": "Italy"
+  },
+  "Pantelleria": {
+    "iata": "PNL",
+    "country": "Italy"
+  },
+  "Parma/Milan": {
+    "iata": "PMF",
+    "country": "Italy"
+  },
+  "Perugia": {
+    "iata": "PEG",
+    "country": "Italy"
+  },
+  "Pescara": {
+    "iata": "PSR",
+    "country": "Italy"
+  },
+  "Pisa": {
+    "iata": "PSA",
+    "country": "Italy"
+  },
+  "Reggio Calabria": {
+    "iata": "REG",
+    "country": "Italy"
+  },
+  "Rimini": {
+    "iata": "RMI",
+    "country": "Italy"
+  },
+  "Rome": {
+    "iata": "FCO",
+    "country": "Italy"
+  },
+  "Taranto": {
+    "iata": "TAR",
+    "country": "Italy"
+  },
+  "Tortoli": {
+    "iata": "TTB",
+    "country": "Italy"
+  },
+  "Trapani": {
+    "iata": "TPS",
+    "country": "Italy"
+  },
+  "Trieste": {
+    "iata": "TRS",
+    "country": "Italy"
+  },
+  "Turin": {
+    "iata": "TRN",
+    "country": "Italy"
+  },
+  "Venice": {
+    "iata": "TSF",
+    "country": "Italy"
+  },
+  "Verona": {
+    "iata": "VRN",
+    "country": "Italy"
+  },
+  "Alicante": {
+    "iata": "ALC",
+    "country": "Spain"
+  },
+  "Almeria": {
+    "iata": "LEI",
+    "country": "Spain"
+  },
+  "Badajcz": {
+    "iata": "BJZ",
+    "country": "Spain"
+  },
+  "Bilbao": {
+    "iata": "BIO",
+    "country": "Spain"
+  },
+  "Fuerteventura": {
+    "iata": "FUE",
+    "country": "Spain"
+  },
+  "Gerona": {
+    "iata": "GRO",
+    "country": "Spain"
+  },
+  "Granada": {
+    "iata": "GRX",
+    "country": "Spain"
+  },
+  "Ibiza": {
+    "iata": "IBZ",
+    "country": "Spain"
+  },
+  "Jerez De La Frontere": {
+    "iata": "XRY",
+    "country": "Spain"
+  },
+  "La Coruna": {
+    "iata": "LCG",
+    "country": "Spain"
+  },
+  "Lanzarote": {
+    "iata": "ACE",
+    "country": "Spain"
+  },
+  "Las Palmas": {
+    "iata": "LPA",
+    "country": "Spain"
+  },
+  "Madrid": {
+    "iata": "MAD",
+    "country": "Spain"
+  },
+  "Malaga": {
+    "iata": "AGP",
+    "country": "Spain"
+  },
+  "Melilla": {
+    "iata": "MLN",
+    "country": "Spain"
+  },
+  "Menorca": {
+    "iata": "MAH",
+    "country": "Spain"
+  },
+  "Murcia": {
+    "iata": "MJV",
+    "country": "Spain"
+  },
+  "Pamplona": {
+    "iata": "PNA",
+    "country": "Spain"
+  },
+  "Puerto del Rosario": {
+    "iata": "FUE",
+    "country": "Spain"
+  },
+  "San Sebastian": {
+    "iata": "EAS",
+    "country": "Spain"
+  },
+  "Vigo": {
+    "iata": "VGO",
+    "country": "Spain"
+  },
+  "Alor Island": {
+    "iata": "ARD",
+    "country": "Indonesia"
+  },
+  "Ambon": {
+    "iata": "AMQ",
+    "country": "Indonesia"
+  },
+  "Anggi": {
+    "iata": "AGD",
+    "country": "Indonesia"
+  },
+  "Ayawaki": {
+    "iata": "AYW",
+    "country": "Indonesia"
+  },
+  "Babo": {
+    "iata": "BXB",
+    "country": "Indonesia"
+  },
+  "Bade": {
+    "iata": "BXD",
+    "country": "Indonesia"
+  },
+  "Balikpapan": {
+    "iata": "BPN",
+    "country": "Indonesia"
+  },
+  "Banda Aceh": {
+    "iata": "BTJ",
+    "country": "Indonesia"
+  },
+  "Bandar Lampung": {
+    "iata": "TKG",
+    "country": "Indonesia"
+  },
+  "Bandung": {
+    "iata": "BDO",
+    "country": "Indonesia"
+  },
+  "Banjarmasin": {
+    "iata": "BDJ",
+    "country": "Indonesia"
+  },
+  "Batam": {
+    "iata": "BTH",
+    "country": "Indonesia"
+  },
+  "Batom": {
+    "iata": "BXM",
+    "country": "Indonesia"
+  },
+  "Bengkulu": {
+    "iata": "BKS",
+    "country": "Indonesia"
+  },
+  "Berau": {
+    "iata": "BEJ",
+    "country": "Indonesia"
+  },
+  "Biak": {
+    "iata": "BIK",
+    "country": "Indonesia"
+  },
+  "Bima": {
+    "iata": "BMU",
+    "country": "Indonesia"
+  },
+  "Bintuni": {
+    "iata": "NTI",
+    "country": "Indonesia"
+  },
+  "Bokondini": {
+    "iata": "BUI",
+    "country": "Indonesia"
+  },
+  "Dabra": {
+    "iata": "DRH",
+    "country": "Indonesia"
+  },
+  "Datadawai": {
+    "iata": "DTD",
+    "country": "Indonesia"
+  },
+  "Denpasar Bali": {
+    "iata": "DPS",
+    "country": "Indonesia"
+  },
+  "Dili": {
+    "iata": "DIL",
+    "country": "Indonesia"
+  },
+  "Dobo": {
+    "iata": "DOB",
+    "country": "Indonesia"
+  },
+  "Dumai": {
+    "iata": "DUM",
+    "country": "Indonesia"
+  },
+  "Enarotali": {
+    "iata": "EWI",
+    "country": "Indonesia"
+  },
+  "Ende": {
+    "iata": "ENE",
+    "country": "Indonesia"
+  },
+  "Ewer": {
+    "iata": "EWE",
+    "country": "Indonesia"
+  },
+  "Fak Fak": {
+    "iata": "FKQ",
+    "country": "Indonesia"
+  },
+  "Gebe": {
+    "iata": "GEB",
+    "country": "Indonesia"
+  },
+  "Gorontalo": {
+    "iata": "GTO",
+    "country": "Indonesia"
+  },
+  "Illaga": {
+    "iata": "ILA",
+    "country": "Indonesia"
+  },
+  "Ilu": {
+    "iata": "IUL",
+    "country": "Indonesia"
+  },
+  "Inanwatan": {
+    "iata": "INX",
+    "country": "Indonesia"
+  },
+  "Jakarta": {
+    "iata": "CGK",
+    "country": "Indonesia"
+  },
+  "Jayapura": {
+    "iata": "DJJ",
+    "country": "Indonesia"
+  },
+  "Kambuaya": {
+    "iata": "KBX",
+    "country": "Indonesia"
+  },
+  "Kamur": {
+    "iata": "KCD",
+    "country": "Indonesia"
+  },
+  "Karubaga": {
+    "iata": "KBF",
+    "country": "Indonesia"
+  },
+  "Kendari": {
+    "iata": "KDI",
+    "country": "Indonesia"
+  },
+  "Labuan Bajo": {
+    "iata": "LBJ",
+    "country": "Indonesia"
+  },
+  "Langguri": {
+    "iata": "LUV",
+    "country": "Indonesia"
+  },
+  "Larantuka": {
+    "iata": "LKA",
+    "country": "Indonesia"
+  },
+  "Long Apung": {
+    "iata": "LPU",
+    "country": "Indonesia"
+  },
+  "Long Bawan": {
+    "iata": "LBW",
+    "country": "Indonesia"
+  },
+  "Luwuk": {
+    "iata": "LUW",
+    "country": "Indonesia"
+  },
+  "Manado": {
+    "iata": "MDC",
+    "country": "Indonesia"
+  },
+  "Manokwari": {
+    "iata": "MKW",
+    "country": "Indonesia"
+  },
+  "Mataram": {
+    "iata": "AMI",
+    "country": "Indonesia"
+  },
+  "Maumere": {
+    "iata": "MOF",
+    "country": "Indonesia"
+  },
+  "Medan": {
+    "iata": "MES",
+    "country": "Indonesia"
+  },
+  "Merauke": {
+    "iata": "MKQ",
+    "country": "Indonesia"
+  },
+  "Merdey": {
+    "iata": "RDE",
+    "country": "Indonesia"
+  },
+  "Mindiptana": {
+    "iata": "MDP",
+    "country": "Indonesia"
+  },
+  "Moanamani": {
+    "iata": "ONI",
+    "country": "Indonesia"
+  },
+  "Mulia": {
+    "iata": "LII",
+    "country": "Indonesia"
+  },
+  "Nabire": {
+    "iata": "NBX",
+    "country": "Indonesia"
+  },
+  "Nunukan": {
+    "iata": "NNX",
+    "country": "Indonesia"
+  },
+  "Obano": {
+    "iata": "OBD",
+    "country": "Indonesia"
+  },
+  "Oksibil": {
+    "iata": "OKL",
+    "country": "Indonesia"
+  },
+  "Padang": {
+    "iata": "PDG",
+    "country": "Indonesia"
+  },
+  "Palang Karaya": {
+    "iata": "PKY",
+    "country": "Indonesia"
+  },
+  "Palembang": {
+    "iata": "PLM",
+    "country": "Indonesia"
+  },
+  "Palu": {
+    "iata": "PLW",
+    "country": "Indonesia"
+  },
+  "Pangkalanboun": {
+    "iata": "PKN",
+    "country": "Indonesia"
+  },
+  "Pangkalpinang": {
+    "iata": "PGK",
+    "country": "Indonesia"
+  },
+  "Pekanbaru": {
+    "iata": "PKU",
+    "country": "Indonesia"
+  },
+  "Pontianak": {
+    "iata": "PNK",
+    "country": "Indonesia"
+  },
+  "Putussibau": {
+    "iata": "PSU",
+    "country": "Indonesia"
+  },
+  "Sarmi": {
+    "iata": "ZRM",
+    "country": "Indonesia"
+  },
+  "Saumlaki": {
+    "iata": "SXK",
+    "country": "Indonesia"
+  },
+  "Semarang": {
+    "iata": "SRG",
+    "country": "Indonesia"
+  },
+  "Senggo": {
+    "iata": "ZEG",
+    "country": "Indonesia"
+  },
+  "Servi": {
+    "iata": "ZRI",
+    "country": "Indonesia"
+  },
+  "Sinak": {
+    "iata": "NKD",
+    "country": "Indonesia"
+  },
+  "Sintang": {
+    "iata": "SQG",
+    "country": "Indonesia"
+  },
+  "Solo City": {
+    "iata": "SOC",
+    "country": "Indonesia"
+  },
+  "Surabaya": {
+    "iata": "SUB",
+    "country": "Indonesia"
+  },
+  "Tambolaka": {
+    "iata": "TMC",
+    "country": "Indonesia"
+  },
+  "Tanahmerah": {
+    "iata": "TMH",
+    "country": "Indonesia"
+  },
+  "Tanjung Pandan": {
+    "iata": "TJQ",
+    "country": "Indonesia"
+  },
+  "Tanjung Selor": {
+    "iata": "TJS",
+    "country": "Indonesia"
+  },
+  "Tarakan": {
+    "iata": "TRK",
+    "country": "Indonesia"
+  },
+  "Tembagapura": {
+    "iata": "TIM",
+    "country": "Indonesia"
+  },
+  "Teminabuan": {
+    "iata": "TXM",
+    "country": "Indonesia"
+  },
+  "Ternate": {
+    "iata": "TTE",
+    "country": "Indonesia"
+  },
+  "Udaipur": {
+    "iata": "UDR",
+    "country": "Indonesia"
+  },
+  "Ujung Pandang": {
+    "iata": "UPG",
+    "country": "Indonesia"
+  },
+  "Wagethe": {
+    "iata": "WET",
+    "country": "Indonesia"
+  },
+  "Wahai": {
+    "iata": "WBA",
+    "country": "Indonesia"
+  },
+  "Waingapo": {
+    "iata": "WGP",
+    "country": "Indonesia"
+  },
+  "Wamena": {
+    "iata": "WMX",
+    "country": "Indonesia"
+  },
+  "Wasior": {
+    "iata": "WSR",
+    "country": "Indonesia"
+  },
+  "Yogyakarta": {
+    "iata": "JOG",
+    "country": "Indonesia"
+  },
+  "Zugapa": {
+    "iata": "UGU",
+    "country": "Indonesia"
+  },
+  "Alorsetar": {
+    "iata": "AOR",
+    "country": "Malaysia"
+  },
+  "Bario": {
+    "iata": "BBN",
+    "country": "Malaysia"
+  },
+  "Bintulu": {
+    "iata": "BTU",
+    "country": "Malaysia"
+  },
+  "Bukoba": {
+    "iata": "BKZ",
+    "country": "Malaysia"
+  },
+  "Ipoh": {
+    "iata": "IPH",
+    "country": "Malaysia"
+  },
+  "Johor": {
+    "iata": "JHB",
+    "country": "Malaysia"
+  },
+  "Kota Bharu": {
+    "iata": "KBR",
+    "country": "Malaysia"
+  },
+  "Kota Kinabalu": {
+    "iata": "BKI",
+    "country": "Malaysia"
+  },
+  "Kuala Lumpur": {
+    "iata": "KUL",
+    "country": "Malaysia"
+  },
+  "Kuala Terengganu": {
+    "iata": "TGG",
+    "country": "Malaysia"
+  },
+  "Kuantan": {
+    "iata": "KUA",
+    "country": "Malaysia"
+  },
+  "Kuching": {
+    "iata": "KCH",
+    "country": "Malaysia"
+  },
+  "Kudat": {
+    "iata": "KUD",
+    "country": "Malaysia"
+  },
+  "Labuan": {
+    "iata": "LBU",
+    "country": "Malaysia"
+  },
+  "Lahadbatu": {
+    "iata": "LDU",
+    "country": "Malaysia"
+  },
+  "Langkawi": {
+    "iata": "LGK",
+    "country": "Malaysia"
+  },
+  "Lawas": {
+    "iata": "LWY",
+    "country": "Malaysia"
+  },
+  "Limbang": {
+    "iata": "LMN",
+    "country": "Malaysia"
+  },
+  "Long Banga": {
+    "iata": "LBP",
+    "country": "Malaysia"
+  },
+  "Long Lellang": {
+    "iata": "LGL",
+    "country": "Malaysia"
+  },
+  "Long Seridan": {
+    "iata": "ODN",
+    "country": "Malaysia"
+  },
+  "Malacca": {
+    "iata": "MKZ",
+    "country": "Malaysia"
+  },
+  "Marudi": {
+    "iata": "MUR",
+    "country": "Malaysia"
+  },
+  "Miri": {
+    "iata": "MYY",
+    "country": "Malaysia"
+  },
+  "Mukan": {
+    "iata": "MKM",
+    "country": "Malaysia"
+  },
+  "Mulu": {
+    "iata": "MZV",
+    "country": "Malaysia"
+  },
+  "Penang": {
+    "iata": "PEN",
+    "country": "Malaysia"
+  },
+  "Tawau": {
+    "iata": "TWU",
+    "country": "Malaysia"
+  },
+  "Tioman": {
+    "iata": "TOD",
+    "country": "Malaysia"
+  },
+  "Tomanggong": {
+    "iata": "TMG",
+    "country": "Malaysia"
+  },
+  "Altamira": {
+    "iata": "ATM",
+    "country": "Brazil"
+  },
+  "Araca": {
+    "iata": "AJU",
+    "country": "Brazil"
+  },
+  "Aracatuba": {
+    "iata": "ARU",
+    "country": "Brazil"
+  },
+  "Araguaina": {
+    "iata": "AUX",
+    "country": "Brazil"
+  },
+  "Arapoti": {
+    "iata": "AAG",
+    "country": "Brazil"
+  },
+  "Barreiras": {
+    "iata": "BRA",
+    "country": "Brazil"
+  },
+  "Bauru": {
+    "iata": "BAU",
+    "country": "Brazil"
+  },
+  "Belem": {
+    "iata": "BEL",
+    "country": "Brazil"
+  },
+  "Belo Horizonte": {
+    "iata": "PLU",
+    "country": "Brazil"
+  },
+  "Blo Horizonte": {
+    "iata": "CNF",
+    "country": "Brazil"
+  },
+  "Boavista": {
+    "iata": "BVB",
+    "country": "Brazil"
+  },
+  "Brasilia": {
+    "iata": "BSB",
+    "country": "Brazil"
+  },
+  "Campina Grande": {
+    "iata": "CPV",
+    "country": "Brazil"
+  },
+  "Campinas": {
+    "iata": "CPQ",
+    "country": "Brazil"
+  },
+  "Campo Grande": {
+    "iata": "CGR",
+    "country": "Brazil"
+  },
+  "Campos": {
+    "iata": "CAW",
+    "country": "Brazil"
+  },
+  "Carajas": {
+    "iata": "CKS",
+    "country": "Brazil"
+  },
+  "Cascavel": {
+    "iata": "CAC",
+    "country": "Brazil"
+  },
+  "Caxias Do Sul": {
+    "iata": "CXJ",
+    "country": "Brazil"
+  },
+  "Chapeco": {
+    "iata": "XAP",
+    "country": "Brazil"
+  },
+  "Corumba": {
+    "iata": "CMG",
+    "country": "Brazil"
+  },
+  "Criciuma": {
+    "iata": "CCM",
+    "country": "Brazil"
+  },
+  "Cruzeiro Do Sul": {
+    "iata": "CZS",
+    "country": "Brazil"
+  },
+  "Cuiaba": {
+    "iata": "CGB",
+    "country": "Brazil"
+  },
+  "Curitiba": {
+    "iata": "CWB",
+    "country": "Brazil"
+  },
+  "Dourados": {
+    "iata": "DOU",
+    "country": "Brazil"
+  },
+  "Fernando De Noronha": {
+    "iata": "FEN",
+    "country": "Brazil"
+  },
+  "Florianopolis": {
+    "iata": "FLN",
+    "country": "Brazil"
+  },
+  "Fortaleza": {
+    "iata": "FOR",
+    "country": "Brazil"
+  },
+  "Franca": {
+    "iata": "FRC",
+    "country": "Brazil"
+  },
+  "Goiania": {
+    "iata": "GYN",
+    "country": "Brazil"
+  },
+  "Governador Valadares": {
+    "iata": "GVR",
+    "country": "Brazil"
+  },
+  "Iguassu Falls": {
+    "iata": "IGU",
+    "country": "Brazil"
+  },
+  "Ilheus": {
+    "iata": "IOS",
+    "country": "Brazil"
+  },
+  "Imperatriz": {
+    "iata": "IMP",
+    "country": "Brazil"
+  },
+  "Ipatinga": {
+    "iata": "IPN",
+    "country": "Brazil"
+  },
+  "Itaituba": {
+    "iata": "ITB",
+    "country": "Brazil"
+  },
+  "Jacareacanga": {
+    "iata": "JCR",
+    "country": "Brazil"
+  },
+  "Ji-Parana": {
+    "iata": "JPR",
+    "country": "Brazil"
+  },
+  "Joao Pessoa": {
+    "iata": "JPA",
+    "country": "Brazil"
+  },
+  "Joinville": {
+    "iata": "JOI",
+    "country": "Brazil"
+  },
+  "Juazeiro Do Norte": {
+    "iata": "JDO",
+    "country": "Brazil"
+  },
+  "Juiz De Fora": {
+    "iata": "JDF",
+    "country": "Brazil"
+  },
+  "Lages": {
+    "iata": "LAJ",
+    "country": "Brazil"
+  },
+  "Londrina": {
+    "iata": "LDB",
+    "country": "Brazil"
+  },
+  "Macapa": {
+    "iata": "MCP",
+    "country": "Brazil"
+  },
+  "Maceio": {
+    "iata": "MCZ",
+    "country": "Brazil"
+  },
+  "Manaus": {
+    "iata": "MAO",
+    "country": "Brazil"
+  },
+  "Maraba": {
+    "iata": "MAB",
+    "country": "Brazil"
+  },
+  "Marilia": {
+    "iata": "MII",
+    "country": "Brazil"
+  },
+  "Maringa": {
+    "iata": "MGF",
+    "country": "Brazil"
+  },
+  "Monte Dourado": {
+    "iata": "MEU",
+    "country": "Brazil"
+  },
+  "Montes Claros": {
+    "iata": "MOC",
+    "country": "Brazil"
+  },
+  "Mucuri": {
+    "iata": "MVS",
+    "country": "Brazil"
+  },
+  "Natal": {
+    "iata": "NAT",
+    "country": "Brazil"
+  },
+  "Navegantes": {
+    "iata": "NVT",
+    "country": "Brazil"
+  },
+  "Palmas": {
+    "iata": "PMW",
+    "country": "Brazil"
+  },
+  "Parnaiba": {
+    "iata": "PHB",
+    "country": "Brazil"
+  },
+  "Passo Fundo": {
+    "iata": "PFB",
+    "country": "Brazil"
+  },
+  "Pelotas": {
+    "iata": "PET",
+    "country": "Brazil"
+  },
+  "Petrolina": {
+    "iata": "PNZ",
+    "country": "Brazil"
+  },
+  "Ponta Pora": {
+    "iata": "PMG",
+    "country": "Brazil"
+  },
+  "Porto Alegre": {
+    "iata": "POA",
+    "country": "Brazil"
+  },
+  "Porto Seguro": {
+    "iata": "BPS",
+    "country": "Brazil"
+  },
+  "Porto Velho": {
+    "iata": "PVH",
+    "country": "Brazil"
+  },
+  "Presidente Prudente": {
+    "iata": "PPB",
+    "country": "Brazil"
+  },
+  "Recife": {
+    "iata": "REC",
+    "country": "Brazil"
+  },
+  "Ribeirao Preto": {
+    "iata": "RAO",
+    "country": "Brazil"
+  },
+  "Rio Branco": {
+    "iata": "RBR",
+    "country": "Brazil"
+  },
+  "Rio De Janeiro": {
+    "iata": "GIG",
+    "country": "Brazil"
+  },
+  "Rio Grande": {
+    "iata": "RGA",
+    "country": "Argentina"
+  },
+  "Rio Verde": {
+    "iata": "RVD",
+    "country": "Brazil"
+  },
+  "Salvadore": {
+    "iata": "SSA",
+    "country": "Brazil"
+  },
+  "Santa Maria": {
+    "iata": "SMA",
+    "country": "Portugal"
+  },
+  "Santarem": {
+    "iata": "STM",
+    "country": "Brazil"
+  },
+  "Santo Angelo": {
+    "iata": "GEL",
+    "country": "Brazil"
+  },
+  "Sao Paulo": {
+    "iata": "GRU",
+    "country": "Brazil"
+  },
+  "Sau Luiz": {
+    "iata": "SLZ",
+    "country": "Brazil"
+  },
+  "Sorocaba": {
+    "iata": "SOD",
+    "country": "Brazil"
+  },
+  "Tabatinga": {
+    "iata": "TBT",
+    "country": "Brazil"
+  },
+  "Tefe": {
+    "iata": "TFF",
+    "country": "Brazil"
+  },
+  "Teresina": {
+    "iata": "THE",
+    "country": "Brazil"
+  },
+  "Toledo": {
+    "iata": "TOW",
+    "country": "Brazil"
+  },
+  "Trombetas": {
+    "iata": "TMT",
+    "country": "Brazil"
+  },
+  "Tucurui": {
+    "iata": "TUR",
+    "country": "Brazil"
+  },
+  "Uberaba": {
+    "iata": "UBA",
+    "country": "Brazil"
+  },
+  "Uberlandia": {
+    "iata": "UDI",
+    "country": "Brazil"
+  },
+  "Uruguaiana": {
+    "iata": "URG",
+    "country": "Brazil"
+  },
+  "Varginha": {
+    "iata": "VAG",
+    "country": "Brazil"
+  },
+  "Vilhena": {
+    "iata": "BVH",
+    "country": "Brazil"
+  },
+  "Vitoria da Conquista": {
+    "iata": "VDC",
+    "country": "Brazil"
+  },
+  "Altenrhein": {
+    "iata": "ACH",
+    "country": "Switzerland"
+  },
+  "Basel": {
+    "iata": "BSL",
+    "country": "Switzerland"
+  },
+  "Basel/Mulhouse Railway Station": {
+    "iata": "ZDH",
+    "country": "Switzerland"
+  },
+  "Berne": {
+    "iata": "ZDJ",
+    "country": "Switzerland"
+  },
+  "Geneva": {
+    "iata": "GVA",
+    "country": "Switzerland"
+  },
+  "Lugano": {
+    "iata": "LUG",
+    "country": "Switzerland"
+  },
+  "Zurich": {
+    "iata": "ZRH",
+    "country": "Switzerland"
+  },
+  "Alto Rio Senguerr": {
+    "iata": "ARR",
+    "country": "Argentina"
+  },
+  "Bahia Blanca": {
+    "iata": "BHI",
+    "country": "Argentina"
+  },
+  "Buenos Aires": {
+    "iata": "EZE",
+    "country": "Argentina"
+  },
+  "Camodoro": {
+    "iata": "CRD",
+    "country": "Argentina"
+  },
+  "Catamarca": {
+    "iata": "CTC",
+    "country": "Argentina"
+  },
+  "Concordia": {
+    "iata": "COC",
+    "country": "Argentina"
+  },
+  "Cordoba": {
+    "iata": "COR",
+    "country": "Argentina"
+  },
+  "Corrientes": {
+    "iata": "CNQ",
+    "country": "Argentina"
+  },
+  "El Bolsan": {
+    "iata": "EHL",
+    "country": "Argentina"
+  },
+  "El Maiten": {
+    "iata": "EMX",
+    "country": "Argentina"
+  },
+  "Esquel": {
+    "iata": "EQS",
+    "country": "Argentina"
+  },
+  "Formosa": {
+    "iata": "FMA",
+    "country": "Argentina"
+  },
+  "Gobernador Gregores": {
+    "iata": "GGS",
+    "country": "Argentina"
+  },
+  "Goya": {
+    "iata": "OYA",
+    "country": "Argentina"
+  },
+  "Iguazu": {
+    "iata": "IGR",
+    "country": "Argentina"
+  },
+  "Jose De San Martin": {
+    "iata": "JSM",
+    "country": "Argentina"
+  },
+  "Jujuy": {
+    "iata": "JUJ",
+    "country": "Argentina"
+  },
+  "La Rioja": {
+    "iata": "IRJ",
+    "country": "Argentina"
+  },
+  "Lago Argentina": {
+    "iata": "ING",
+    "country": "Argentina"
+  },
+  "Malargue": {
+    "iata": "LGS",
+    "country": "Argentina"
+  },
+  "Mar Del Plata": {
+    "iata": "MDQ",
+    "country": "Argentina"
+  },
+  "Mendoza": {
+    "iata": "MDZ",
+    "country": "Argentina"
+  },
+  "Neuquen": {
+    "iata": "NQN",
+    "country": "Argentina"
+  },
+  "Parana": {
+    "iata": "PRA",
+    "country": "Argentina"
+  },
+  "Paso de Los Libres": {
+    "iata": "AOL",
+    "country": "Argentina"
+  },
+  "Perito Moreno": {
+    "iata": "PMQ",
+    "country": "Argentina"
+  },
+  "Posadas": {
+    "iata": "PSS",
+    "country": "Argentina"
+  },
+  "Pres. Roque Saenz Pena": {
+    "iata": "PRQ",
+    "country": "Argentina"
+  },
+  "Puerto Deseado": {
+    "iata": "PUD",
+    "country": "Argentina"
+  },
+  "Puerto Madryn": {
+    "iata": "PMY",
+    "country": "Argentina"
+  },
+  "Reconquista": {
+    "iata": "RCQ",
+    "country": "Argentina"
+  },
+  "Resistencia": {
+    "iata": "RES",
+    "country": "Argentina"
+  },
+  "Rio Cuarto": {
+    "iata": "RCU",
+    "country": "Argentina"
+  },
+  "Rio Gallegos": {
+    "iata": "RGL",
+    "country": "Argentina"
+  },
+  "Rio Mayo": {
+    "iata": "ROY",
+    "country": "Argentina"
+  },
+  "Rosario": {
+    "iata": "ROS",
+    "country": "Argentina"
+  },
+  "San Antonio Oesta": {
+    "iata": "OES",
+    "country": "Argentina"
+  },
+  "San Carlos": {
+    "iata": "BRC",
+    "country": "Argentina"
+  },
+  "San Julian": {
+    "iata": "ULA",
+    "country": "Argentina"
+  },
+  "San Luis": {
+    "iata": "LUQ",
+    "country": "Argentina"
+  },
+  "San Martin De Los Andes": {
+    "iata": "CPC",
+    "country": "Argentina"
+  },
+  "San Rafael": {
+    "iata": "AFA",
+    "country": "Argentina"
+  },
+  "Santa Rosa": {
+    "iata": "RSA",
+    "country": "Argentina"
+  },
+  "Trelew": {
+    "iata": "REL",
+    "country": "Argentina"
+  },
+  "Tucuman": {
+    "iata": "TUC",
+    "country": "Argentina"
+  },
+  "Ushuaia": {
+    "iata": "USH",
+    "country": "Argentina"
+  },
+  "Viedma": {
+    "iata": "VDM",
+    "country": "Argentina"
+  },
+  "Villa Gesell": {
+    "iata": "VLG",
+    "country": "Argentina"
+  },
+  "Villa Mercedes": {
+    "iata": "VME",
+    "country": "Argentina"
+  },
+  "Ambanja": {
+    "iata": "IVA",
+    "country": "Madagascar"
+  },
+  "Ambatomainty": {
+    "iata": "AMY",
+    "country": "Madagascar"
+  },
+  "Ambatondrazaka": {
+    "iata": "WAM",
+    "country": "Madagascar"
+  },
+  "Analalava": {
+    "iata": "HVA",
+    "country": "Madagascar"
+  },
+  "Ankavandra": {
+    "iata": "JVA",
+    "country": "Madagascar"
+  },
+  "Antalaha": {
+    "iata": "ANM",
+    "country": "Madagascar"
+  },
+  "Antsalova": {
+    "iata": "WAQ",
+    "country": "Madagascar"
+  },
+  "Antsiranana": {
+    "iata": "DIE",
+    "country": "Madagascar"
+  },
+  "Antsohihy": {
+    "iata": "WAI",
+    "country": "Madagascar"
+  },
+  "Belo": {
+    "iata": "BMD",
+    "country": "Madagascar"
+  },
+  "Besalampy": {
+    "iata": "BPY",
+    "country": "Madagascar"
+  },
+  "Farafangana": {
+    "iata": "RVA",
+    "country": "Madagascar"
+  },
+  "Fianarantsoa": {
+    "iata": "WFI",
+    "country": "Madagascar"
+  },
+  "Fort Dauphin": {
+    "iata": "FTU",
+    "country": "Madagascar"
+  },
+  "Mahanoro": {
+    "iata": "VVB",
+    "country": "Madagascar"
+  },
+  "Maintirano": {
+    "iata": "MXT",
+    "country": "Madagascar"
+  },
+  "Majunga": {
+    "iata": "MJN",
+    "country": "Madagascar"
+  },
+  "Mampikony": {
+    "iata": "WMP",
+    "country": "Madagascar"
+  },
+  "Manakara": {
+    "iata": "WVK",
+    "country": "Madagascar"
+  },
+  "Mananara": {
+    "iata": "WMR",
+    "country": "Madagascar"
+  },
+  "Mananjary": {
+    "iata": "MNJ",
+    "country": "Madagascar"
+  },
+  "Mandritsara": {
+    "iata": "WMA",
+    "country": "Madagascar"
+  },
+  "Manja": {
+    "iata": "MJA",
+    "country": "Madagascar"
+  },
+  "Maroantsetra": {
+    "iata": "WMN",
+    "country": "Madagascar"
+  },
+  "Miandrivazo": {
+    "iata": "ZVA",
+    "country": "Madagascar"
+  },
+  "Morafenobe": {
+    "iata": "TVA",
+    "country": "Madagascar"
+  },
+  "Morambe": {
+    "iata": "MXM",
+    "country": "Madagascar"
+  },
+  "Morondava": {
+    "iata": "MOQ",
+    "country": "Madagascar"
+  },
+  "Nossi-be": {
+    "iata": "NOS",
+    "country": "Madagascar"
+  },
+  "Port Berge": {
+    "iata": "WPB",
+    "country": "Madagascar"
+  },
+  "Sambaua": {
+    "iata": "SVB",
+    "country": "Madagascar"
+  },
+  "Sante Marie": {
+    "iata": "SMS",
+    "country": "Madagascar"
+  },
+  "Soalala": {
+    "iata": "DWB",
+    "country": "Madagascar"
+  },
+  "Tamatave": {
+    "iata": "TMM",
+    "country": "Madagascar"
+  },
+  "Tsaratanana": {
+    "iata": "TTS",
+    "country": "Madagascar"
+  },
+  "Tsiroanomandidy": {
+    "iata": "WTS",
+    "country": "Madagascar"
+  },
+  "Tulear": {
+    "iata": "TLE",
+    "country": "Madagascar"
+  },
+  "Vatomatry": {
+    "iata": "VAT",
+    "country": "Madagascar"
+  },
+  "Vohemar": {
+    "iata": "VOH",
+    "country": "Madagascar"
+  },
+  "Amboseli": {
+    "iata": "ASV",
+    "country": "Kenya"
+  },
+  "Eldoret": {
+    "iata": "EDL",
+    "country": "Kenya"
+  },
+  "Kiwayu": {
+    "iata": "KWY",
+    "country": "Kenya"
+  },
+  "Lamu": {
+    "iata": "LAU",
+    "country": "Kenya"
+  },
+  "Malindi": {
+    "iata": "MYD",
+    "country": "Kenya"
+  },
+  "Mara Lodges": {
+    "iata": "MRE",
+    "country": "Kenya"
+  },
+  "Mombasa": {
+    "iata": "MBA",
+    "country": "Kenya"
+  },
+  "Nairobi": {
+    "iata": "WIL",
+    "country": "Kenya"
+  },
+  "Nanyuki": {
+    "iata": "NYK",
+    "country": "Kenya"
+  },
+  "Samburu": {
+    "iata": "UAS",
+    "country": "Kenya"
+  },
+  "Amman": {
+    "iata": "ADJ",
+    "country": "Jordan"
+  },
+  "Aqaba": {
+    "iata": "AQJ",
+    "country": "Jordan"
+  },
+  "Amsterdam": {
+    "iata": "AMS",
+    "country": "Netherlands"
+  },
+  "Eindhoven": {
+    "iata": "EIN",
+    "country": "Netherlands"
+  },
+  "Groningen": {
+    "iata": "GRQ",
+    "country": "Netherlands"
+  },
+  "Maastricht": {
+    "iata": "MST",
+    "country": "Netherlands"
+  },
+  "Rotterdam": {
+    "iata": "RTM",
+    "country": "Netherlands"
+  },
+  "Andizhan": {
+    "iata": "AZN",
+    "country": "Uzbekistan"
+  },
+  "Bukhara": {
+    "iata": "BHK",
+    "country": "Uzbekistan"
+  },
+  "Fergana": {
+    "iata": "FEG",
+    "country": "Uzbekistan"
+  },
+  "Namangan": {
+    "iata": "NMA",
+    "country": "Uzbekistan"
+  },
+  "Nukus": {
+    "iata": "NCU",
+    "country": "Uzbekistan"
+  },
+  "Tashkent": {
+    "iata": "TAS",
+    "country": "Uzbekistan"
+  },
+  "Termez": {
+    "iata": "TMJ",
+    "country": "Uzbekistan"
+  },
+  "Urgench": {
+    "iata": "UGC",
+    "country": "Uzbekistan"
+  },
+  "Andros": {
+    "iata": "ASD",
+    "country": "Bahamas"
+  },
+  "Arthur's Town": {
+    "iata": "ATC",
+    "country": "Bahamas"
+  },
+  "Bimini": {
+    "iata": "NSB",
+    "country": "Bahamas"
+  },
+  "Crooked Island": {
+    "iata": "CRI",
+    "country": "Bahamas"
+  },
+  "Eleuthera Island": {
+    "iata": "ELH",
+    "country": "Bahamas"
+  },
+  "Freeport": {
+    "iata": "FPO",
+    "country": "Bahamas"
+  },
+  "George Town": {
+    "iata": "GGT",
+    "country": "Bahamas"
+  },
+  "Governors Harbour": {
+    "iata": "GHB",
+    "country": "Bahamas"
+  },
+  "Inagua": {
+    "iata": "IGA",
+    "country": "Bahamas"
+  },
+  "Long Island/Deadmans Cay": {
+    "iata": "LGI",
+    "country": "Bahamas"
+  },
+  "Mangrove Cay": {
+    "iata": "MAY",
+    "country": "Bahamas"
+  },
+  "Marsh Harbour": {
+    "iata": "MHH",
+    "country": "Bahamas"
+  },
+  "Mayaguana": {
+    "iata": "MYG",
+    "country": "Bahamas"
+  },
+  "Nassau": {
+    "iata": "PID",
+    "country": "Bahamas"
+  },
+  "North Eleuthera": {
+    "iata": "ELH",
+    "country": "Bahamas"
+  },
+  "Paradise Island": {
+    "iata": "PID",
+    "country": "Bahamas"
+  },
+  "Rock Sound": {
+    "iata": "RSD",
+    "country": "Bahamas"
+  },
+  "San Salvador": {
+    "iata": "SAL",
+    "country": "El Salvador"
+  },
+  "South Andros": {
+    "iata": "TZN",
+    "country": "Bahamas"
+  },
+  "Spring Point": {
+    "iata": "AXP",
+    "country": "Bahamas"
+  },
+  "Stella Maris": {
+    "iata": "SML",
+    "country": "Bahamas"
+  },
+  "The Bight": {
+    "iata": "TBI",
+    "country": "Bahamas"
+  },
+  "Treasure Cay": {
+    "iata": "TCB",
+    "country": "Bahamas"
+  },
+  "Aneityum": {
+    "iata": "AUY",
+    "country": "Vanuatu"
+  },
+  "Aniwa": {
+    "iata": "AWD",
+    "country": "Vanuatu"
+  },
+  "Craig Cove": {
+    "iata": "CCV",
+    "country": "Vanuatu"
+  },
+  "Espiritu Santo": {
+    "iata": "SON",
+    "country": "Vanuatu"
+  },
+  "Futuna Island": {
+    "iata": "FUT",
+    "country": "Wallis and Futuna Islands"
+  },
+  "Gaua": {
+    "iata": "ZGU",
+    "country": "Vanuatu"
+  },
+  "Ipota": {
+    "iata": "IPA",
+    "country": "Vanuatu"
+  },
+  "Lamap": {
+    "iata": "LPM",
+    "country": "Vanuatu"
+  },
+  "Lamen Bay": {
+    "iata": "LNB",
+    "country": "Vanuatu"
+  },
+  "Longana": {
+    "iata": "LOD",
+    "country": "Vanuatu"
+  },
+  "Lonorore": {
+    "iata": "LNE",
+    "country": "Vanuatu"
+  },
+  "Maewo": {
+    "iata": "MWF",
+    "country": "Vanuatu"
+  },
+  "Mota Lava": {
+    "iata": "MTV",
+    "country": "Vanuatu"
+  },
+  "Norsup": {
+    "iata": "NUS",
+    "country": "Vanuatu"
+  },
+  "Olpoi": {
+    "iata": "OLJ",
+    "country": "Vanuatu"
+  },
+  "Paama": {
+    "iata": "PBJ",
+    "country": "Vanuatu"
+  },
+  "Port Vila": {
+    "iata": "VLI",
+    "country": "Vanuatu"
+  },
+  "Sara": {
+    "iata": "SSR",
+    "country": "Vanuatu"
+  },
+  "Tanna": {
+    "iata": "TAH",
+    "country": "Vanuatu"
+  },
+  "Tongoa": {
+    "iata": "TGH",
+    "country": "Vanuatu"
+  },
+  "Torres": {
+    "iata": "TOH",
+    "country": "Vanuatu"
+  },
+  "Ulei": {
+    "iata": "ULB",
+    "country": "Vanuatu"
+  },
+  "Valesdir": {
+    "iata": "VLS",
+    "country": "Vanuatu"
+  },
+  "Walaha": {
+    "iata": "WLH",
+    "country": "Vanuatu"
+  },
+  "Angelholm/Helsingborg": {
+    "iata": "JHE",
+    "country": "Sweden"
+  },
+  "Argelholm/Helsingborg": {
+    "iata": "AGH",
+    "country": "Sweden"
+  },
+  "Arvidsjaur": {
+    "iata": "AJR",
+    "country": "Sweden"
+  },
+  "Borlange": {
+    "iata": "BLE",
+    "country": "Sweden"
+  },
+  "Gallivare": {
+    "iata": "GEV",
+    "country": "Sweden"
+  },
+  "Gothenburg": {
+    "iata": "GSE",
+    "country": "Sweden"
+  },
+  "Hagfors": {
+    "iata": "HFS",
+    "country": "Sweden"
+  },
+  "Halmstad": {
+    "iata": "HAD",
+    "country": "Sweden"
+  },
+  "Hermavan": {
+    "iata": "HMV",
+    "country": "Sweden"
+  },
+  "Hudiksvall": {
+    "iata": "HUV",
+    "country": "Sweden"
+  },
+  "Hultsfred": {
+    "iata": "HLF",
+    "country": "Sweden"
+  },
+  "Jonkoping": {
+    "iata": "JKG",
+    "country": "Sweden"
+  },
+  "Linkoping": {
+    "iata": "LPI",
+    "country": "Sweden"
+  },
+  "Lulea": {
+    "iata": "LLA",
+    "country": "Sweden"
+  },
+  "Lyoksele": {
+    "iata": "LYC",
+    "country": "Sweden"
+  },
+  "Malmo": {
+    "iata": "MMX",
+    "country": "Sweden"
+  },
+  "Mora": {
+    "iata": "MXX",
+    "country": "Sweden"
+  },
+  "Norrkoping": {
+    "iata": "NRK",
+    "country": "Sweden"
+  },
+  "Ornskoldsvik": {
+    "iata": "OER",
+    "country": "Sweden"
+  },
+  "Oskarshamn": {
+    "iata": "OSK",
+    "country": "Sweden"
+  },
+  "Ostersund": {
+    "iata": "OSD",
+    "country": "Sweden"
+  },
+  "Ronneby": {
+    "iata": "RNB",
+    "country": "Sweden"
+  },
+  "Skovde": {
+    "iata": "KVB",
+    "country": "Sweden"
+  },
+  "Soderham": {
+    "iata": "SOO",
+    "country": "Sweden"
+  },
+  "Stockholm": {
+    "iata": "BMA",
+    "country": "Sweden"
+  },
+  "Storuman": {
+    "iata": "SQO",
+    "country": "Sweden"
+  },
+  "Sveg": {
+    "iata": "EVG",
+    "country": "Sweden"
+  },
+  "Torsby": {
+    "iata": "TYF",
+    "country": "Sweden"
+  },
+  "Trollhattan": {
+    "iata": "THN",
+    "country": "Sweden"
+  },
+  "Umea": {
+    "iata": "UME",
+    "country": "Sweden"
+  },
+  "Vasteras": {
+    "iata": "VST",
+    "country": "Sweden"
+  },
+  "Vaxjo": {
+    "iata": "VXO",
+    "country": "Sweden"
+  },
+  "Vilhelmina": {
+    "iata": "VHM",
+    "country": "Sweden"
+  },
+  "Visby": {
+    "iata": "VBY",
+    "country": "Sweden"
+  },
+  "Anguilla": {
+    "iata": "AXA",
+    "country": "Anguilla"
+  },
+  "Antaninvarivo": {
+    "iata": "TNR",
+    "country": "Madgascar"
+  },
+  "Antigua": {
+    "iata": "ANU",
+    "country": "Antigua and Barbuda"
+  },
+  "Antofagasta": {
+    "iata": "ANF",
+    "country": "Chile"
+  },
+  "Arica": {
+    "iata": "ARI",
+    "country": "Chile"
+  },
+  "Balmaceda": {
+    "iata": "BBA",
+    "country": "Chile"
+  },
+  "Calama": {
+    "iata": "CJC",
+    "country": "Chile"
+  },
+  "Chillan": {
+    "iata": "YAI",
+    "country": "Chile"
+  },
+  "Concepcion": {
+    "iata": "CCP",
+    "country": "Chile"
+  },
+  "Copiapo": {
+    "iata": "CPO",
+    "country": "Chile"
+  },
+  "El Salvador": {
+    "iata": "ESR",
+    "country": "Chile"
+  },
+  "Iquique": {
+    "iata": "IQQ",
+    "country": "Chile"
+  },
+  "La Serena": {
+    "iata": "LSC",
+    "country": "Chile"
+  },
+  "Puerto Montt": {
+    "iata": "PMC",
+    "country": "Chile"
+  },
+  "Punta Arenas": {
+    "iata": "PUQ",
+    "country": "Chile"
+  },
+  "Santiago": {
+    "iata": "STI",
+    "country": "Dominican Republic"
+  },
+  "Temuco": {
+    "iata": "ZCO",
+    "country": "Chile"
+  },
+  "Valdivia": {
+    "iata": "ZAL",
+    "country": "Chile"
+  },
+  "Antwerp": {
+    "iata": "ZAY",
+    "country": "Belgium"
+  },
+  "Brussels": {
+    "iata": "CRL",
+    "country": "Belguim"
+  },
+  "Liege": {
+    "iata": "LGG",
+    "country": "Belgium"
+  },
+  "Apartado": {
+    "iata": "APO",
+    "country": "Colombia"
+  },
+  "Arauca": {
+    "iata": "AUC",
+    "country": "Colombia"
+  },
+  "Armenia": {
+    "iata": "AXM",
+    "country": "Colombia"
+  },
+  "Bahia Solano": {
+    "iata": "BSC",
+    "country": "Colombia"
+  },
+  "Barran Cabermeja": {
+    "iata": "EJA",
+    "country": "Colombia"
+  },
+  "Barranquilla": {
+    "iata": "BAQ",
+    "country": "Colombia"
+  },
+  "Bogota": {
+    "iata": "BOG",
+    "country": "Colombia"
+  },
+  "Bucaramanga": {
+    "iata": "BGA",
+    "country": "Colombia"
+  },
+  "Cali": {
+    "iata": "CLO",
+    "country": "Colombia"
+  },
+  "Cartagena": {
+    "iata": "CTG",
+    "country": "Colombia"
+  },
+  "Caucasia": {
+    "iata": "CAQ",
+    "country": "Colombia"
+  },
+  "Condoto": {
+    "iata": "COG",
+    "country": "Colombia"
+  },
+  "Cucata": {
+    "iata": "CUC",
+    "country": "Colombia"
+  },
+  "El Yopal": {
+    "iata": "EYP",
+    "country": "Colombia"
+  },
+  "Florencia": {
+    "iata": "FLA",
+    "country": "Colombia"
+  },
+  "Ibague": {
+    "iata": "IBE",
+    "country": "Colombia"
+  },
+  "Ipiales": {
+    "iata": "IPI",
+    "country": "Colombia"
+  },
+  "Leticia": {
+    "iata": "LET",
+    "country": "Colombia"
+  },
+  "Manizales": {
+    "iata": "MZL",
+    "country": "Colombia"
+  },
+  "Medellin": {
+    "iata": "MDE",
+    "country": "Colombia"
+  },
+  "Monteria": {
+    "iata": "MTR",
+    "country": "Colombia"
+  },
+  "Neiva": {
+    "iata": "NVA",
+    "country": "Colombia"
+  },
+  "Otu": {
+    "iata": "OTU",
+    "country": "Colombia"
+  },
+  "Pasto": {
+    "iata": "PSO",
+    "country": "Colombia"
+  },
+  "Pereira": {
+    "iata": "PEI",
+    "country": "Colombia"
+  },
+  "Puerto Berria": {
+    "iata": "PBE",
+    "country": "Colombia"
+  },
+  "Quibdo": {
+    "iata": "UIB",
+    "country": "Colombia"
+  },
+  "Riohacha": {
+    "iata": "RCH",
+    "country": "Colombia"
+  },
+  "San Andres Island": {
+    "iata": "ADZ",
+    "country": "Colombia"
+  },
+  "Santa Marta": {
+    "iata": "SMR",
+    "country": "Colombia"
+  },
+  "Tumaco": {
+    "iata": "TCO",
+    "country": "Colombia"
+  },
+  "Valledupar": {
+    "iata": "VUP",
+    "country": "Colombia"
+  },
+  "Apia": {
+    "iata": "FGI",
+    "country": "Western Samoa"
+  },
+  "Maota Savaii Is": {
+    "iata": "MXS",
+    "country": "Western Samoa"
+  },
+  "Arad": {
+    "iata": "ARW",
+    "country": "Romania"
+  },
+  "Baia Mare": {
+    "iata": "BAY",
+    "country": "Romania"
+  },
+  "Bucharest": {
+    "iata": "OTP",
+    "country": "Romania"
+  },
+  "Cluj": {
+    "iata": "CLJ",
+    "country": "Romania"
+  },
+  "Constanta": {
+    "iata": "CND",
+    "country": "Romania"
+  },
+  "Iasi": {
+    "iata": "IAS",
+    "country": "Romania"
+  },
+  "Oradea": {
+    "iata": "OMR",
+    "country": "Romania"
+  },
+  "Satu Mare": {
+    "iata": "SUJ",
+    "country": "Romania"
+  },
+  "Timosoara": {
+    "iata": "TSR",
+    "country": "Romania"
+  },
+  "Tirgu Mures": {
+    "iata": "TGM",
+    "country": "Romania"
+  },
+  "Arba Mintch": {
+    "iata": "AMH",
+    "country": "Ethiopia"
+  },
+  "Baharpar": {
+    "iata": "BJR",
+    "country": "Ethiopia"
+  },
+  "Beica": {
+    "iata": "BEI",
+    "country": "Ethiopia"
+  },
+  "Debra Marcos": {
+    "iata": "DBM",
+    "country": "Ethiopia"
+  },
+  "Debra Tabor": {
+    "iata": "DBT",
+    "country": "Ethiopia"
+  },
+  "Dembidollo": {
+    "iata": "DEM",
+    "country": "Ethiopia"
+  },
+  "Dessie": {
+    "iata": "DSE",
+    "country": "Ethiopia"
+  },
+  "Dire Dawa": {
+    "iata": "DIR",
+    "country": "Ethiopia"
+  },
+  "Gambela": {
+    "iata": "GMB",
+    "country": "Ethiopia"
+  },
+  "Goba": {
+    "iata": "GOB",
+    "country": "Ethiopia"
+  },
+  "Gondari": {
+    "iata": "GDQ",
+    "country": "Ethiopia"
+  },
+  "Gore": {
+    "iata": "GOR",
+    "country": "Ethiopia"
+  },
+  "Jijiga": {
+    "iata": "JIJ",
+    "country": "Ethiopia"
+  },
+  "Jimma": {
+    "iata": "JIM",
+    "country": "Ethiopia"
+  },
+  "Jinka": {
+    "iata": "BCO",
+    "country": "Ethiopia"
+  },
+  "Kabri Dar": {
+    "iata": "ABK",
+    "country": "Ethiopia"
+  },
+  "Lalibela": {
+    "iata": "LLI",
+    "country": "Ethiopia"
+  },
+  "Makale": {
+    "iata": "MQX",
+    "country": "Ethiopia"
+  },
+  "Mekane Selam": {
+    "iata": "MKS",
+    "country": "Ethiopia"
+  },
+  "Mizan Teferi": {
+    "iata": "MTF",
+    "country": "Ethiopia"
+  },
+  "Neghelli": {
+    "iata": "EGL",
+    "country": "Ethiopia"
+  },
+  "Shillavo": {
+    "iata": "HIL",
+    "country": "Ethiopia"
+  },
+  "Tippi": {
+    "iata": "TIE",
+    "country": "Ethiopia"
+  },
+  "Tum": {
+    "iata": "TUJ",
+    "country": "Ethiopia"
+  },
+  "Arequipa": {
+    "iata": "AQP",
+    "country": "Peru"
+  },
+  "Cajamarca": {
+    "iata": "CJA",
+    "country": "Peru"
+  },
+  "Chicayo": {
+    "iata": "CIX",
+    "country": "Peru"
+  },
+  "Cuzco": {
+    "iata": "CUZ",
+    "country": "Peru"
+  },
+  "Iquitos": {
+    "iata": "IQT",
+    "country": "Peru"
+  },
+  "Juliaca": {
+    "iata": "JUL",
+    "country": "Peru"
+  },
+  "Lima": {
+    "iata": "LIM",
+    "country": "Peru"
+  },
+  "Piura": {
+    "iata": "PIU",
+    "country": "Peru"
+  },
+  "Pucallpa": {
+    "iata": "PCL",
+    "country": "Peru"
+  },
+  "Puerto Maldonado": {
+    "iata": "PEM",
+    "country": "Peru"
+  },
+  "Tacna": {
+    "iata": "TCQ",
+    "country": "Peru"
+  },
+  "Tarapoto": {
+    "iata": "TPP",
+    "country": "Peru"
+  },
+  "Trujillo": {
+    "iata": "TJI",
+    "country": "Honduras"
+  },
+  "Tumbes": {
+    "iata": "TBP",
+    "country": "Peru"
+  },
+  "Arua": {
+    "iata": "RUA",
+    "country": "Uganda"
+  },
+  "Entebbe": {
+    "iata": "EBB",
+    "country": "Uganda"
+  },
+  "Gulu": {
+    "iata": "ULU",
+    "country": "Uganda"
+  },
+  "Jinja": {
+    "iata": "JIN",
+    "country": "Uganda"
+  },
+  "Lugansk": {
+    "iata": "VSG",
+    "country": "Uganda"
+  },
+  "Pakuba": {
+    "iata": "PAF",
+    "country": "Uganda"
+  },
+  "Aruba": {
+    "iata": "AUA",
+    "country": "Aruba"
+  },
+  "Arusha": {
+    "iata": "ARK",
+    "country": "Tanzania"
+  },
+  "Dar Es Salaam": {
+    "iata": "DAR",
+    "country": "Tanzania"
+  },
+  "Dodoma": {
+    "iata": "DOD",
+    "country": "Tanzania"
+  },
+  "Kigoma": {
+    "iata": "TKQ",
+    "country": "Tanzania"
+  },
+  "Kilimanjaro": {
+    "iata": "JRO",
+    "country": "Tanzania"
+  },
+  "Lindi": {
+    "iata": "LDI",
+    "country": "Tanzania"
+  },
+  "Mafia": {
+    "iata": "MFA",
+    "country": "Tanzania"
+  },
+  "Mtwara": {
+    "iata": "MYW",
+    "country": "Tanzania"
+  },
+  "Musoma": {
+    "iata": "MUZ",
+    "country": "Tanzania"
+  },
+  "Mwanza": {
+    "iata": "MWZ",
+    "country": "Tanzania"
+  },
+  "Pemba": {
+    "iata": "POL",
+    "country": "Mozambique"
+  },
+  "Tabora": {
+    "iata": "TBO",
+    "country": "Tanzania"
+  },
+  "Zanzibar": {
+    "iata": "ZNZ",
+    "country": "Tanzania"
+  },
+  "Ashgabat": {
+    "iata": "ASB",
+    "country": "Turkmenistan"
+  },
+  "Asmara": {
+    "iata": "ASM",
+    "country": "Eritrea"
+  },
+  "Asturias": {
+    "iata": "OVD",
+    "country": "Spain and Canary Islands"
+  },
+  "Ceuta": {
+    "iata": "JCU",
+    "country": "Spain and Canary Islands"
+  },
+  "Palma Mallorca": {
+    "iata": "PMI",
+    "country": "Spain and Canary Islands"
+  },
+  "Reus": {
+    "iata": "REU",
+    "country": "Spain and Canary Islands"
+  },
+  "Santa Cruz De La Palma": {
+    "iata": "SPC",
+    "country": "Spain and Canary Islands"
+  },
+  "Sevilla": {
+    "iata": "SVQ",
+    "country": "Spain and Canary Islands"
+  },
+  "Tenerife": {
+    "iata": "TFS",
+    "country": "Spain and the Canary Islands"
+  },
+  "Valladolid": {
+    "iata": "VLL",
+    "country": "Spain and Canary Islands"
+  },
+  "Valverde": {
+    "iata": "VDE",
+    "country": "Spain and Canary Islands"
+  },
+  "Vitoria": {
+    "iata": "VIT",
+    "country": "Spain and Canary Islands"
+  },
+  "Zaragoza": {
+    "iata": "ZAZ",
+    "country": "Spain and Canary Islands"
+  },
+  "Asuncion": {
+    "iata": "ASU",
+    "country": "Paraguay"
+  },
+  "Ciudad del Este": {
+    "iata": "AGT",
+    "country": "Paraguay"
+  },
+  "Atoifi": {
+    "iata": "ATD",
+    "country": "Solomon Islands"
+  },
+  "Auki": {
+    "iata": "AKS",
+    "country": "Solomon Islands"
+  },
+  "Balalae": {
+    "iata": "BAS",
+    "country": "Solomon Islands"
+  },
+  "Batuna": {
+    "iata": "BPF",
+    "country": "Solomon Islands"
+  },
+  "Bellona": {
+    "iata": "BNY",
+    "country": "Solomon Islands"
+  },
+  "Choiseul Bay": {
+    "iata": "CHY",
+    "country": "Solomon Islands"
+  },
+  "Fera Island": {
+    "iata": "FRE",
+    "country": "Solomon Islands"
+  },
+  "Gizo": {
+    "iata": "GZO",
+    "country": "Solomon Islands"
+  },
+  "Honiara": {
+    "iata": "HIR",
+    "country": "Solomon Islands"
+  },
+  "Kirakira": {
+    "iata": "IRA",
+    "country": "Solomon Islands"
+  },
+  "Mono": {
+    "iata": "MNY",
+    "country": "Solomon Islands"
+  },
+  "Munda": {
+    "iata": "MUA",
+    "country": "Solomon Islands"
+  },
+  "Parasi": {
+    "iata": "PRS",
+    "country": "Solomon Islands"
+  },
+  "Ramato": {
+    "iata": "RBV",
+    "country": "Solomon Islands"
+  },
+  "Rennell": {
+    "iata": "RNL",
+    "country": "Solomon Islands"
+  },
+  "Santa Ana": {
+    "iata": "NNB",
+    "country": "Solomon Islands"
+  },
+  "Sege": {
+    "iata": "EGM",
+    "country": "Solomon Islands"
+  },
+  "Suavanao": {
+    "iata": "VAO",
+    "country": "Solomon Islands"
+  },
+  "Yandina": {
+    "iata": "XYA",
+    "country": "Solomon Islands"
+  },
+  "Atuona": {
+    "iata": "AUQ",
+    "country": "French Polynesia"
+  },
+  "Bora Bora": {
+    "iata": "BOB",
+    "country": "French Polynesia"
+  },
+  "Fakarava": {
+    "iata": "FAV",
+    "country": "French Polynesia"
+  },
+  "Huahine": {
+    "iata": "HUH",
+    "country": "French Polynesia"
+  },
+  "Huanuco": {
+    "iata": "HUU",
+    "country": "French Polynesia"
+  },
+  "Manihi": {
+    "iata": "XMH",
+    "country": "French Polynesia"
+  },
+  "Maupiti": {
+    "iata": "MAU",
+    "country": "French Polynesia"
+  },
+  "Moorea": {
+    "iata": "MOZ",
+    "country": "French Polynesia"
+  },
+  "Nuku Hiva": {
+    "iata": "NHV",
+    "country": "French Polynesia"
+  },
+  "Papeete": {
+    "iata": "PPT",
+    "country": "French Polynesia"
+  },
+  "Raiatea": {
+    "iata": "RFP",
+    "country": "French Polynesia"
+  },
+  "Rorutu": {
+    "iata": "RUR",
+    "country": "French Polynesia"
+  },
+  "Tikehau Atoll": {
+    "iata": "TIH",
+    "country": "French Polynesia"
+  },
+  "Tubuai": {
+    "iata": "TUB",
+    "country": "French Polynesia"
+  },
+  "Auckland": {
+    "iata": "AKL",
+    "country": "New Zealand"
+  },
+  "Blenheim": {
+    "iata": "BHE",
+    "country": "New Zealand"
+  },
+  "Chatham Island": {
+    "iata": "CHT",
+    "country": "New Zealand"
+  },
+  "Christchurch": {
+    "iata": "CHC",
+    "country": "New Zealand"
+  },
+  "Dunedin": {
+    "iata": "DUD",
+    "country": "New Zealand"
+  },
+  "Gisborne": {
+    "iata": "GIS",
+    "country": "New Zealand"
+  },
+  "Hamilton": {
+    "iata": "BDA",
+    "country": "Bermuda"
+  },
+  "Hokitika": {
+    "iata": "HKK",
+    "country": "New Zealand"
+  },
+  "Invercargill": {
+    "iata": "IVC",
+    "country": "New Zealand"
+  },
+  "Kaitaia": {
+    "iata": "KAT",
+    "country": "New Zealand"
+  },
+  "Mount Cook": {
+    "iata": "MON",
+    "country": "New Zealand"
+  },
+  "Napier-Hastings": {
+    "iata": "NPE",
+    "country": "New Zealand"
+  },
+  "Nelso": {
+    "iata": "NSN",
+    "country": "New Zealand"
+  },
+  "New Plymouth": {
+    "iata": "NPL",
+    "country": "New Zealand"
+  },
+  "Palmerston North": {
+    "iata": "PMR",
+    "country": "New Zealand"
+  },
+  "Queenstown": {
+    "iata": "ZQN",
+    "country": "New Zealand"
+  },
+  "Rotorua": {
+    "iata": "ROT",
+    "country": "New Zealand"
+  },
+  "Taupo": {
+    "iata": "TUO",
+    "country": "New Zealand"
+  },
+  "Tauranga": {
+    "iata": "TRG",
+    "country": "New Zealand"
+  },
+  "Te Anau": {
+    "iata": "TEU",
+    "country": "New Zealand"
+  },
+  "Timaru": {
+    "iata": "TIU",
+    "country": "New Zealand"
+  },
+  "Wanaka": {
+    "iata": "WKA",
+    "country": "New Zealand"
+  },
+  "Wanganui": {
+    "iata": "WAG",
+    "country": "New Zealand"
+  },
+  "Wellington": {
+    "iata": "WLG",
+    "country": "New Zealand"
+  },
+  "Westport": {
+    "iata": "WSZ",
+    "country": "New Zealand"
+  },
+  "Whakatane": {
+    "iata": "WHK",
+    "country": "New Zealand"
+  },
+  "Whangarei": {
+    "iata": "WRE",
+    "country": "New Zealand"
+  },
+  "Augsburg/Munich": {
+    "iata": "AGB",
+    "country": "Germany"
+  },
+  "Berlin": {
+    "iata": "SXF",
+    "country": "Germany"
+  },
+  "Bonn": {
+    "iata": "BNJ",
+    "country": "Germany"
+  },
+  "Bremen": {
+    "iata": "BRE",
+    "country": "Germany"
+  },
+  "Cologne": {
+    "iata": "CGN",
+    "country": "Germany"
+  },
+  "Dortmund": {
+    "iata": "DTM",
+    "country": "Germany"
+  },
+  "Dresden": {
+    "iata": "DRS",
+    "country": "Germany"
+  },
+  "Dusseldorf": {
+    "iata": "QDU",
+    "country": "Germany"
+  },
+  "Erfurt": {
+    "iata": "ERF",
+    "country": "Germany"
+  },
+  "Finkenwerder": {
+    "iata": "XFW",
+    "country": "Germany"
+  },
+  "Frankfurt": {
+    "iata": "FRA",
+    "country": "Germany"
+  },
+  "Friedrichshafer": {
+    "iata": "FDH",
+    "country": "Germany"
+  },
+  "Halberstadt": {
+    "iata": "ZHQ",
+    "country": "Germany"
+  },
+  "Hamburg": {
+    "iata": "HAM",
+    "country": "Germany"
+  },
+  "Hanover": {
+    "iata": "HAJ",
+    "country": "Germany"
+  },
+  "Karlsruhe/Badern Baden": {
+    "iata": "FKB",
+    "country": "Germany"
+  },
+  "Leipzig": {
+    "iata": "LEJ",
+    "country": "Germany"
+  },
+  "Mannheim": {
+    "iata": "MHG",
+    "country": "Germany"
+  },
+  "Muenster": {
+    "iata": "FMO",
+    "country": "Germany"
+  },
+  "Munich": {
+    "iata": "MUC",
+    "country": "Germany"
+  },
+  "Nuremberg": {
+    "iata": "NUE",
+    "country": "Germany"
+  },
+  "Paderborn": {
+    "iata": "PAD",
+    "country": "Germany"
+  },
+  "Stuttgart": {
+    "iata": "STR",
+    "country": "Germany"
+  },
+  "Bacolod": {
+    "iata": "BCD",
+    "country": "Philippines"
+  },
+  "Basco": {
+    "iata": "BSO",
+    "country": "Philippines"
+  },
+  "Butuan": {
+    "iata": "BXU",
+    "country": "Philippines"
+  },
+  "Cagayan De Oro": {
+    "iata": "CGY",
+    "country": "Philippines"
+  },
+  "Cebu": {
+    "iata": "CEB",
+    "country": "Philippines"
+  },
+  "Cotabato": {
+    "iata": "CBO",
+    "country": "Philippines"
+  },
+  "Dipolog": {
+    "iata": "DPL",
+    "country": "Philippines"
+  },
+  "Dumaguete": {
+    "iata": "DGT",
+    "country": "Philippines"
+  },
+  "General Santos": {
+    "iata": "GES",
+    "country": "Philippines"
+  },
+  "Iloilo": {
+    "iata": "ILO",
+    "country": "Philippines"
+  },
+  "Ipil": {
+    "iata": "IPE",
+    "country": "Philippines"
+  },
+  "Laoag": {
+    "iata": "LAO",
+    "country": "Philippines"
+  },
+  "Legaspi": {
+    "iata": "LGP",
+    "country": "Philippines"
+  },
+  "Manila": {
+    "iata": "MNL",
+    "country": "Philippines"
+  },
+  "Masbate": {
+    "iata": "MBT",
+    "country": "Philippines"
+  },
+  "Naga": {
+    "iata": "WNP",
+    "country": "Philippines"
+  },
+  "Puerto Princesa": {
+    "iata": "PPS",
+    "country": "Philippines"
+  },
+  "Tacloban": {
+    "iata": "TAC",
+    "country": "Philippines"
+  },
+  "Tuguegarao": {
+    "iata": "TUG",
+    "country": "Philippines"
+  },
+  "Zamboanga": {
+    "iata": "ZAM",
+    "country": "Philippines"
+  },
+  "Bahawalpur": {
+    "iata": "BHV",
+    "country": "Pakistan"
+  },
+  "Bannu": {
+    "iata": "BNP",
+    "country": "Pakistan"
+  },
+  "Chitral": {
+    "iata": "CJL",
+    "country": "Pakistan"
+  },
+  "Dera Ghazi": {
+    "iata": "DEA",
+    "country": "Pakistan"
+  },
+  "Dera Ismail Khan": {
+    "iata": "DSK",
+    "country": "Pakistan"
+  },
+  "Faisalabad": {
+    "iata": "LYP",
+    "country": "Pakistan"
+  },
+  "Gilgit": {
+    "iata": "GIL",
+    "country": "Pakistan"
+  },
+  "Gwadar": {
+    "iata": "GWD",
+    "country": "Pakistan"
+  },
+  "Islamabad": {
+    "iata": "ISB",
+    "country": "Pakistan"
+  },
+  "Jacobabad": {
+    "iata": "JAG",
+    "country": "Pakistan"
+  },
+  "Jiwani": {
+    "iata": "JIW",
+    "country": "Pakistan"
+  },
+  "Kadanwari": {
+    "iata": "KCF",
+    "country": "Pakistan"
+  },
+  "Karachi": {
+    "iata": "KHI",
+    "country": "Pakistan"
+  },
+  "Khuzdar": {
+    "iata": "KDD",
+    "country": "Pakistan"
+  },
+  "Lahore": {
+    "iata": "LHE",
+    "country": "Pakistan"
+  },
+  "Multan": {
+    "iata": "MUX",
+    "country": "Pakistan"
+  },
+  "Muzaffarabad": {
+    "iata": "MFG",
+    "country": "Pakistan"
+  },
+  "Nawabshah": {
+    "iata": "WNS",
+    "country": "Pakistan"
+  },
+  "Ormara": {
+    "iata": "ORW",
+    "country": "Pakistan"
+  },
+  "Panjger": {
+    "iata": "PJG",
+    "country": "Pakistan"
+  },
+  "Para Chinar": {
+    "iata": "PAJ",
+    "country": "Pakistan"
+  },
+  "Pasni": {
+    "iata": "PSI",
+    "country": "Pakistan"
+  },
+  "Peshawar": {
+    "iata": "PEW",
+    "country": "Pakistan"
+  },
+  "Quetta": {
+    "iata": "UET",
+    "country": "Pakistan"
+  },
+  "Rawala Kot": {
+    "iata": "RAZ",
+    "country": "Pakistan"
+  },
+  "Sui": {
+    "iata": "SUL",
+    "country": "Pakistan"
+  },
+  "Turbat": {
+    "iata": "TUK",
+    "country": "Pakistan"
+  },
+  "Zhob": {
+    "iata": "PZH",
+    "country": "Pakistan"
+  },
+  "Bahia Pinas": {
+    "iata": "BFQ",
+    "country": "Panama"
+  },
+  "Bocas Del Toro": {
+    "iata": "BOC",
+    "country": "Panama"
+  },
+  "Changuinda": {
+    "iata": "CHX",
+    "country": "Panama"
+  },
+  "Chitre": {
+    "iata": "CTD",
+    "country": "Panama"
+  },
+  "Colon": {
+    "iata": "ONX",
+    "country": "Panama"
+  },
+  "Contadora": {
+    "iata": "OTD",
+    "country": "Panama"
+  },
+  "David": {
+    "iata": "DAV",
+    "country": "Panama"
+  },
+  "El Real": {
+    "iata": "ELE",
+    "country": "Panama"
+  },
+  "Garachine": {
+    "iata": "GHE",
+    "country": "Panama"
+  },
+  "Jaque": {
+    "iata": "JQE",
+    "country": "Panama"
+  },
+  "La Palma": {
+    "iata": "PLP",
+    "country": "Panama"
+  },
+  "Panama City": {
+    "iata": "PAC",
+    "country": "Panama"
+  },
+  "San Miguel": {
+    "iata": "NMG",
+    "country": "Panama"
+  },
+  "Bahrain": {
+    "iata": "BAH",
+    "country": "Bahrain"
+  },
+  "Baku": {
+    "iata": "BAK",
+    "country": "Azerbaijan"
+  },
+  "Gyandzha": {
+    "iata": "KVD",
+    "country": "Azerbaijan"
+  },
+  "Nakhichevan": {
+    "iata": "NAJ",
+    "country": "Azerbaijan"
+  },
+  "Bamako": {
+    "iata": "BKO",
+    "country": "Mali"
+  },
+  "Goundam": {
+    "iata": "GUD",
+    "country": "Mali"
+  },
+  "Mopti": {
+    "iata": "MZI",
+    "country": "Mali"
+  },
+  "Tombouctou": {
+    "iata": "TOM",
+    "country": "Mali"
+  },
+  "Yelimane": {
+    "iata": "EYL",
+    "country": "Mali"
+  },
+  "Bandar Seri Begawan": {
+    "iata": "BWN",
+    "country": "Brunei"
+  },
+  "Bangkok": {
+    "iata": "BKK",
+    "country": "Thailand"
+  },
+  "Buri Ram": {
+    "iata": "BFV",
+    "country": "Thailand"
+  },
+  "Chiang Mai": {
+    "iata": "CNX",
+    "country": "Thailand"
+  },
+  "Chiang Rai": {
+    "iata": "CEI",
+    "country": "Thailand"
+  },
+  "Hat Yai": {
+    "iata": "HDY",
+    "country": "Thailand"
+  },
+  "Hualtin": {
+    "iata": "HHQ",
+    "country": "Thailand"
+  },
+  "Koh Samui": {
+    "iata": "USM",
+    "country": "Thailand"
+  },
+  "Krabi": {
+    "iata": "KBV",
+    "country": "Thailand"
+  },
+  "Lampang": {
+    "iata": "LPI",
+    "country": "Thailand"
+  },
+  "Mae Hong Son": {
+    "iata": "HGN",
+    "country": "Thailand"
+  },
+  "Mae Sot": {
+    "iata": "MAQ",
+    "country": "Thailand"
+  },
+  "Nakhon Ratchosima": {
+    "iata": "NAK",
+    "country": "Thailand"
+  },
+  "Nakhon Si Thammarat": {
+    "iata": "NST",
+    "country": "Thailand"
+  },
+  "Nan": {
+    "iata": "NNT",
+    "country": "Thailand"
+  },
+  "Narathiwat": {
+    "iata": "NAW",
+    "country": "Thailand"
+  },
+  "Phitsanulok": {
+    "iata": "PHS",
+    "country": "Thailand"
+  },
+  "Phrae": {
+    "iata": "PRH",
+    "country": "Thailand"
+  },
+  "Phuket": {
+    "iata": "HKT",
+    "country": "Thailand"
+  },
+  "Ranong": {
+    "iata": "UNN",
+    "country": "Thailand"
+  },
+  "Sakon Nakhon": {
+    "iata": "SNO",
+    "country": "Thailand"
+  },
+  "Sukhotthai": {
+    "iata": "THS",
+    "country": "Thailand"
+  },
+  "Surat Thani": {
+    "iata": "URT",
+    "country": "Thailand"
+  },
+  "Trang": {
+    "iata": "TST",
+    "country": "Thailand"
+  },
+  "Ubon Ratchathani": {
+    "iata": "UBP",
+    "country": "Thailand"
+  },
+  "Udon Thani": {
+    "iata": "UTH",
+    "country": "Thailand"
+  },
+  "Utapao": {
+    "iata": "UTP",
+    "country": "Thailand"
+  },
+  "Banja Luka": {
+    "iata": "BNX",
+    "country": "Bosnia Herzegovina"
+  },
+  "Banjul": {
+    "iata": "BJL",
+    "country": "Gambia"
+  },
+  "Banmethuot": {
+    "iata": "BMV",
+    "country": "Viet Nam"
+  },
+  "Da Nang": {
+    "iata": "DAD",
+    "country": "Viet Nam"
+  },
+  "Dalat": {
+    "iata": "Dalat, Viet Nam - Lienkhang DLI",
+    "country": "Viet Nam"
+  },
+  "Dien Bien Phu": {
+    "iata": "DIN",
+    "country": "Viet Nam"
+  },
+  "Haiphong": {
+    "iata": "HPH",
+    "country": "Viet Nam"
+  },
+  "Hanoi": {
+    "iata": "HAN",
+    "country": "Viet Nam"
+  },
+  "Ho Chi Minh City": {
+    "iata": "SGN",
+    "country": "Viet Nam"
+  },
+  "Hue": {
+    "iata": "HUI",
+    "country": "Viet Nam"
+  },
+  "Nha Trang": {
+    "iata": "NHA",
+    "country": "Viet Nam"
+  },
+  "Phu Quoc": {
+    "iata": "PQC",
+    "country": "Viet Nam"
+  },
+  "Pleiku": {
+    "iata": "PXU",
+    "country": "Viet Nam"
+  },
+  "Qui Nhon": {
+    "iata": "UIH",
+    "country": "Viet Nam"
+  },
+  "Rach Gia": {
+    "iata": "VKG",
+    "country": "Viet Nam"
+  },
+  "Roch Gia": {
+    "iata": "VKG",
+    "country": "Viet Nam"
+  },
+  "Son-La": {
+    "iata": "SQH",
+    "country": "Viet Nam"
+  },
+  "Vinh City": {
+    "iata": "VII",
+    "country": "Viet Nam"
+  },
+  "Banqui": {
+    "iata": "BGF",
+    "country": "Central African Republic"
+  },
+  "Baracoa": {
+    "iata": "BCA",
+    "country": "Cuba"
+  },
+  "Bayamo": {
+    "iata": "BYM",
+    "country": "Cuba"
+  },
+  "Camaguey": {
+    "iata": "CMW",
+    "country": "Cuba"
+  },
+  "Cayo Largo Del Sur": {
+    "iata": "CYO",
+    "country": "Cuba"
+  },
+  "Ciego De Avila": {
+    "iata": "AVI",
+    "country": "Cuba"
+  },
+  "Guantanamo": {
+    "iata": "GAO",
+    "country": "Cuba"
+  },
+  "Havana": {
+    "iata": "HAV",
+    "country": "Cuba"
+  },
+  "Holguin": {
+    "iata": "HOG",
+    "country": "Cuba"
+  },
+  "Moa": {
+    "iata": "MOA",
+    "country": "Cuba"
+  },
+  "Nueva Gerona": {
+    "iata": "GER",
+    "country": "Cuba"
+  },
+  "Varadero": {
+    "iata": "VRA",
+    "country": "Cuba"
+  },
+  "Barisal": {
+    "iata": "BZL",
+    "country": "Bangladesh"
+  },
+  "Chittagong": {
+    "iata": "CGP",
+    "country": "Bangladesh"
+  },
+  "Cox's Bazar": {
+    "iata": "CXB",
+    "country": "Bangladesh"
+  },
+  "Jessore": {
+    "iata": "JSR",
+    "country": "Bangladesh"
+  },
+  "Rajshahi": {
+    "iata": "RJH",
+    "country": "Bangladesh"
+  },
+  "Sylhet": {
+    "iata": "ZYL",
+    "country": "Bangladesh"
+  },
+  "Barra Colorado": {
+    "iata": "BCL",
+    "country": "Costa Rica"
+  },
+  "Carrillo": {
+    "iata": "RIK",
+    "country": "Costa Rica"
+  },
+  "Golfito": {
+    "iata": "GLF",
+    "country": "Costa Rica"
+  },
+  "Liberia": {
+    "iata": "LIR",
+    "country": "Costa Rica"
+  },
+  "Nosara Beach": {
+    "iata": "NOB",
+    "country": "Costa Rica"
+  },
+  "Palmar": {
+    "iata": "PMZ",
+    "country": "Costa Rica"
+  },
+  "Puerto Jimenez": {
+    "iata": "PJM",
+    "country": "Costa Rica"
+  },
+  "Punta Islita": {
+    "iata": "PBP",
+    "country": "Costa Rica"
+  },
+  "Quepos": {
+    "iata": "XQP",
+    "country": "Costa Rica"
+  },
+  "San Jose": {
+    "iata": "SYQ",
+    "country": "Costa Rica"
+  },
+  "Tamarindo": {
+    "iata": "TNO",
+    "country": "Costa Rica"
+  },
+  "Tambor": {
+    "iata": "TMU",
+    "country": "Costa Rica"
+  },
+  "Tortuquero": {
+    "iata": "TTQ",
+    "country": "Costa Rica"
+  },
+  "Battambang": {
+    "iata": "BBM",
+    "country": "Cambodia"
+  },
+  "Cayman Brac Is": {
+    "iata": "CYB",
+    "country": "Cambodia"
+  },
+  "Phnom Penh": {
+    "iata": "PNH",
+    "country": "Cambodia"
+  },
+  "Ratanakiri": {
+    "iata": "RBE",
+    "country": "Cambodia"
+  },
+  "Siem Reap": {
+    "iata": "REP",
+    "country": "Cambodia"
+  },
+  "Stung Treng": {
+    "iata": "TNX",
+    "country": "Cambodia"
+  },
+  "Batumi": {
+    "iata": "BUS",
+    "country": "Georgia"
+  },
+  "Kutaisi": {
+    "iata": "KUT",
+    "country": "Georgia"
+  },
+  "Tbilisi": {
+    "iata": "TBS",
+    "country": "Georgia"
+  },
+  "Beef Island": {
+    "iata": "EIS",
+    "country": "British Virgin Islands"
+  },
+  "Tortola": {
+    "iata": "TOV",
+    "country": "British Virgin Islands"
+  },
+  "Virgin Gorda": {
+    "iata": "VIJ",
+    "country": "British Virgin Islands"
+  },
+  "Beida": {
+    "iata": "LAQ",
+    "country": "Libya"
+  },
+  "Benghazi": {
+    "iata": "BEN",
+    "country": "Libya"
+  },
+  "Brack": {
+    "iata": "BCQ",
+    "country": "Libya"
+  },
+  "Ghadames": {
+    "iata": "LTD",
+    "country": "Libya"
+  },
+  "Ghat": {
+    "iata": "GHT",
+    "country": "Libya"
+  },
+  "Houn": {
+    "iata": "HUQ",
+    "country": "Libya"
+  },
+  "Kufrah": {
+    "iata": "AKF",
+    "country": "Libya"
+  },
+  "Misurata": {
+    "iata": "MRA",
+    "country": "Libya"
+  },
+  "Tobruk": {
+    "iata": "TOB",
+    "country": "Libya"
+  },
+  "Beira": {
+    "iata": "BEW",
+    "country": "Mozambique"
+  },
+  "Belaga": {
+    "iata": "BLG",
+    "country": "Mozambique"
+  },
+  "Lichinga": {
+    "iata": "VXC",
+    "country": "Mozambique"
+  },
+  "Maputo": {
+    "iata": "MPM",
+    "country": "Mozambique"
+  },
+  "Nacala": {
+    "iata": "MNC",
+    "country": "Mozambique"
+  },
+  "Nampula": {
+    "iata": "APL",
+    "country": "Mozambique"
+  },
+  "Quelimane": {
+    "iata": "UEL",
+    "country": "Mozambique"
+  },
+  "Tete": {
+    "iata": "TET",
+    "country": "Mozambique"
+  },
+  "Vilanculos": {
+    "iata": "VNX",
+    "country": "Mozambique"
+  },
+  "Beirut": {
+    "iata": "BEY",
+    "country": "Lebanon"
+  },
+  "Belep Island": {
+    "iata": "BMY",
+    "country": "New Caledonia"
+  },
+  "Ile Des Pins": {
+    "iata": "ILP",
+    "country": "New Caledonia"
+  },
+  "Lifa": {
+    "iata": "LIF",
+    "country": "New Caledonia"
+  },
+  "Mare": {
+    "iata": "MEE",
+    "country": "New Caledonia"
+  },
+  "Noumea": {
+    "iata": "GEA",
+    "country": "New Caledonia"
+  },
+  "Ouvea": {
+    "iata": "UVE",
+    "country": "New Caledonia"
+  },
+  "Tiga": {
+    "iata": "TGJ",
+    "country": "New Caledonia"
+  },
+  "Touho": {
+    "iata": "TOU",
+    "country": "New Caledonia"
+  },
+  "Belgrade": {
+    "iata": "BEG",
+    "country": "Serbia and Montenegro"
+  },
+  "Podgoriea": {
+    "iata": "TGD",
+    "country": "Serbia and Montenegro"
+  },
+  "Pristina": {
+    "iata": "PRN",
+    "country": "Serbia and Montenegro"
+  },
+  "Tivat": {
+    "iata": "TIV",
+    "country": "Serbia and Montenegro"
+  },
+  "Belize City": {
+    "iata": "TZA",
+    "country": "Belize"
+  },
+  "Corozal": {
+    "iata": "CZH",
+    "country": "Belize"
+  },
+  "Dangriga": {
+    "iata": "DGA",
+    "country": "Belize"
+  },
+  "Placencia": {
+    "iata": "PLJ",
+    "country": "Belize"
+  },
+  "Punta Gorda": {
+    "iata": "PND",
+    "country": "Belize"
+  },
+  "Berbera": {
+    "iata": "BBO",
+    "country": "Somalia"
+  },
+  "Bossaro": {
+    "iata": "BSA",
+    "country": "Somalia"
+  },
+  "Burao": {
+    "iata": "BUO",
+    "country": "Somalia"
+  },
+  "Mogadishu": {
+    "iata": "MGQ",
+    "country": "Somalia"
+  },
+  "Bermuda": {
+    "iata": "BDA",
+    "country": "Bermuda"
+  },
+  "Bhadrapur": {
+    "iata": "BDP",
+    "country": "Nepal"
+  },
+  "Bhairawa": {
+    "iata": "BWA",
+    "country": "Nepal"
+  },
+  "Bharatpur": {
+    "iata": "BHR",
+    "country": "Nepal"
+  },
+  "Biratragar": {
+    "iata": "BIR",
+    "country": "Nepal"
+  },
+  "Janakpur": {
+    "iata": "JKR",
+    "country": "Nepal"
+  },
+  "Jomsom": {
+    "iata": "JMO",
+    "country": "Nepal"
+  },
+  "Kathmandu": {
+    "iata": "KTM",
+    "country": "Nepal"
+  },
+  "Lukla": {
+    "iata": "LUA",
+    "country": "Nepal"
+  },
+  "Manang": {
+    "iata": "NGX",
+    "country": "Nepal"
+  },
+  "Pokhara": {
+    "iata": "PKR",
+    "country": "Nepal"
+  },
+  "Bhamo": {
+    "iata": "BMO",
+    "country": "Myanmar"
+  },
+  "Dawe": {
+    "iata": "TVY",
+    "country": "Myanmar"
+  },
+  "Heno": {
+    "iata": "HEH",
+    "country": "Myanmar"
+  },
+  "Kawthaung": {
+    "iata": "KAW",
+    "country": "Myanmar"
+  },
+  "Mandalay": {
+    "iata": "MDL",
+    "country": "Myanmar"
+  },
+  "Maulmyine": {
+    "iata": "MNU",
+    "country": "Myanmar"
+  },
+  "Myeik": {
+    "iata": "MGZ",
+    "country": "Myanmar"
+  },
+  "Myitkyina": {
+    "iata": "MYT",
+    "country": "Myanmar"
+  },
+  "Nyaung": {
+    "iata": "NYU",
+    "country": "Myanmar"
+  },
+  "Sittwe": {
+    "iata": "AKY",
+    "country": "Myanmar"
+  },
+  "Tachilek": {
+    "iata": "THL",
+    "country": "Myanmar"
+  },
+  "Thandwe": {
+    "iata": "SNW",
+    "country": "Myanmar"
+  },
+  "Yangon": {
+    "iata": "RGN",
+    "country": "Myanmar"
+  },
+  "Bishkek": {
+    "iata": "FRU",
+    "country": "Kyrgyzstan"
+  },
+  "Bissau": {
+    "iata": "OXB",
+    "country": "Guinea-Bissau"
+  },
+  "Blantyre": {
+    "iata": "BLZ",
+    "country": "Malawi"
+  },
+  "Club Makokola": {
+    "iata": "CMK",
+    "country": "Malawi"
+  },
+  "Lilongwe": {
+    "iata": "LLW",
+    "country": "Malawi"
+  },
+  "Mzuzu": {
+    "iata": "ZZU",
+    "country": "Malawi"
+  },
+  "Boa Vista": {
+    "iata": "BVC",
+    "country": "Cape Verde"
+  },
+  "Maio": {
+    "iata": "MMO",
+    "country": "Cape Verde"
+  },
+  "Praia": {
+    "iata": "RAI",
+    "country": "Cape Verde"
+  },
+  "Santo Antao": {
+    "iata": "NTO",
+    "country": "Cape Verde"
+  },
+  "Sao Nicolau": {
+    "iata": "SNE",
+    "country": "Cape Verde"
+  },
+  "Sao Vicente": {
+    "iata": "VXE",
+    "country": "Cape Verde"
+  },
+  "Bol": {
+    "iata": "BWK",
+    "country": "Croatia"
+  },
+  "Dubrovnik": {
+    "iata": "DBV",
+    "country": "Croatia"
+  },
+  "Osijek": {
+    "iata": "OSI",
+    "country": "Croatia"
+  },
+  "Pula": {
+    "iata": "PUY",
+    "country": "Croatia"
+  },
+  "Rijeka": {
+    "iata": "RJK",
+    "country": "Croatia"
+  },
+  "Split": {
+    "iata": "SPU",
+    "country": "Croatia"
+  },
+  "Zadar": {
+    "iata": "ZAD",
+    "country": "Croatia"
+  },
+  "Zagreb": {
+    "iata": "ZAG",
+    "country": "Croatia"
+  },
+  "Boma": {
+    "iata": "BOA",
+    "country": "Congo"
+  },
+  "Brazzaville": {
+    "iata": "BZV",
+    "country": "Congo"
+  },
+  "Kinshasa": {
+    "iata": "FIH",
+    "country": "Congo"
+  },
+  "Lumbashi": {
+    "iata": "FBM",
+    "country": "Congo"
+  },
+  "Mbandaka": {
+    "iata": "MDK",
+    "country": "Congo"
+  },
+  "Mbuji Mayi": {
+    "iata": "MJM",
+    "country": "Congo"
+  },
+  "Moanda": {
+    "iata": "MFF",
+    "country": "Gabon"
+  },
+  "Natadi": {
+    "iata": "MAT",
+    "country": "Congo"
+  },
+  "Nioko": {
+    "iata": "NIX",
+    "country": "Congo"
+  },
+  "Pointe Noire": {
+    "iata": "PNR",
+    "country": "Congo"
+  },
+  "Bonaire": {
+    "iata": "BON",
+    "country": "Netherlands Antilles"
+  },
+  "Curacao": {
+    "iata": "CUR",
+    "country": "Netherlands Antilles"
+  },
+  "Saint Maarten": {
+    "iata": "SXM",
+    "country": "Netherlands Antilles"
+  },
+  "St. Eustatius": {
+    "iata": "EUX",
+    "country": "Netherlands Antilles"
+  },
+  "Bourgas": {
+    "iata": "BOJ",
+    "country": "Bulgaria"
+  },
+  "Sofia": {
+    "iata": "SOF",
+    "country": "Bulgaria"
+  },
+  "Varna": {
+    "iata": "VAR",
+    "country": "Bulgaria"
+  },
+  "Bratislava": {
+    "iata": "BTS",
+    "country": "Slovakia"
+  },
+  "Popraol/Tatry": {
+    "iata": "TAT",
+    "country": "Slovakia"
+  },
+  "Bridgetown": {
+    "iata": "BGI",
+    "country": "Barbados"
+  },
+  "Brno": {
+    "iata": "ZDN",
+    "country": "Czech Republic"
+  },
+  "Ostrava": {
+    "iata": "OSR",
+    "country": "Czech Republic"
+  },
+  "Prague": {
+    "iata": "PRG",
+    "country": "Czech Republic"
+  },
+  "Brus Laguna": {
+    "iata": "BHG",
+    "country": "Honduras"
+  },
+  "Guanaja": {
+    "iata": "GJA",
+    "country": "Honduras"
+  },
+  "La Ceiba": {
+    "iata": "LCE",
+    "country": "Honduras"
+  },
+  "Palacios": {
+    "iata": "PCH",
+    "country": "Honduras"
+  },
+  "Puerto Lempira": {
+    "iata": "PEU",
+    "country": "Honduras"
+  },
+  "Roatan": {
+    "iata": "RTB",
+    "country": "Honduras"
+  },
+  "San Pedro Sula": {
+    "iata": "SAP",
+    "country": "Honduras"
+  },
+  "Tegucigalpa": {
+    "iata": "TGU",
+    "country": "Honduras"
+  },
+  "Utila": {
+    "iata": "UII",
+    "country": "Honduras"
+  },
+  "Budapest": {
+    "iata": "BUD",
+    "country": "Hungary"
+  },
+  "Bujumbura": {
+    "iata": "BJM",
+    "country": "Burundi"
+  },
+  "Bulawayo": {
+    "iata": "BUQ",
+    "country": "Zimbabwe"
+  },
+  "Harare": {
+    "iata": "HRE",
+    "country": "Zimbabwe"
+  },
+  "Hwange Nat Park": {
+    "iata": "HWN",
+    "country": "Zimbabwe"
+  },
+  "Kariba": {
+    "iata": "KAB",
+    "country": "Zimbabwe"
+  },
+  "Victoria Falls": {
+    "iata": "VFA",
+    "country": "Zimbabwe"
+  },
+  "Bureta": {
+    "iata": "LEV",
+    "country": "Fiji"
+  },
+  "Castaway": {
+    "iata": "CST",
+    "country": "Fiji"
+  },
+  "Cicia": {
+    "iata": "ICI",
+    "country": "Fiji"
+  },
+  "Labasa": {
+    "iata": "LBS",
+    "country": "Fiji"
+  },
+  "Lakeba": {
+    "iata": "LKB",
+    "country": "Fiji"
+  },
+  "Laucala Island": {
+    "iata": "LUC",
+    "country": "Fiji"
+  },
+  "Malololailai": {
+    "iata": "PTF",
+    "country": "Fiji"
+  },
+  "Mana Island": {
+    "iata": "MNF",
+    "country": "Fiji"
+  },
+  "Moala": {
+    "iata": "MFJ",
+    "country": "Fiji"
+  },
+  "Nadi": {
+    "iata": "NAN",
+    "country": "Fiji"
+  },
+  "Ngau Island": {
+    "iata": "NGI",
+    "country": "Fiji"
+  },
+  "Savusavu": {
+    "iata": "SVU",
+    "country": "Fiji"
+  },
+  "Suva": {
+    "iata": "SUV",
+    "country": "Fiji"
+  },
+  "Taveuni": {
+    "iata": "TVU",
+    "country": "Fiji"
+  },
+  "Vanuabalavu": {
+    "iata": "VBV",
+    "country": "Fiji"
+  },
+  "Busan": {
+    "iata": "PUS",
+    "country": "South Korea"
+  },
+  "Cheongju": {
+    "iata": "CJJ",
+    "country": "South Korea"
+  },
+  "Daegu": {
+    "iata": "TAE",
+    "country": "South Korea"
+  },
+  "Gangneung": {
+    "iata": "KAG",
+    "country": "South Korea"
+  },
+  "Gunsan": {
+    "iata": "KUV",
+    "country": "South Korea"
+  },
+  "Gwangju": {
+    "iata": "KWJ",
+    "country": "South Korea"
+  },
+  "Jinju": {
+    "iata": "HIN",
+    "country": "South Korea"
+  },
+  "Mokpo": {
+    "iata": "MPK",
+    "country": "South Korea"
+  },
+  "Seoul": {
+    "iata": "ICN",
+    "country": "South Korea"
+  },
+  "Ulsan": {
+    "iata": "USN",
+    "country": "South Korea"
+  },
+  "WonJu": {
+    "iata": "WJU",
+    "country": "South Korea"
+  },
+  "Yeosu": {
+    "iata": "RSU",
+    "country": "South Korea"
+  },
+  "Bydgoszcz": {
+    "iata": "BZG",
+    "country": "Poland"
+  },
+  "Gdansk": {
+    "iata": "GDN",
+    "country": "Poland"
+  },
+  "Katowice": {
+    "iata": "KTW",
+    "country": "Poland"
+  },
+  "Kolobrzeg": {
+    "iata": "QJY",
+    "country": "Poland"
+  },
+  "Koszalin": {
+    "iata": "OSZ",
+    "country": "Poland"
+  },
+  "Krakow": {
+    "iata": "KRK",
+    "country": "Poland"
+  },
+  "Poznan": {
+    "iata": "POZ",
+    "country": "Poland"
+  },
+  "Szczecin": {
+    "iata": "SZZ",
+    "country": "Poland"
+  },
+  "Warsaw": {
+    "iata": "WAW",
+    "country": "Poland"
+  },
+  "Wroclaw": {
+    "iata": "WRO",
+    "country": "Poland"
+  },
+  "Zielana": {
+    "iata": "IEG",
+    "country": "Poland"
+  },
+  "Canouan": {
+    "iata": "CIW",
+    "country": "Saint Vincent and the Grenadines"
+  },
+  "St Vincent": {
+    "iata": "SVD",
+    "country": "Saint Vincent and the Grenadines"
+  },
+  "Cap Haitien": {
+    "iata": "CAP",
+    "country": "Haiti"
+  },
+  "Port Au Prince": {
+    "iata": "PAP",
+    "country": "Haiti"
+  },
+  "Cayenne": {
+    "iata": "CAY",
+    "country": "French Guiana"
+  },
+  "Chi Mei": {
+    "iata": "CMJ",
+    "country": "Taiwan"
+  },
+  "Chiayi": {
+    "iata": "CYI",
+    "country": "Taiwan"
+  },
+  "Hualien": {
+    "iata": "HUN",
+    "country": "Taiwan"
+  },
+  "Makung": {
+    "iata": "MZG",
+    "country": "Taiwan"
+  },
+  "Pingtung": {
+    "iata": "PIF",
+    "country": "Taiwan"
+  },
+  "Taichung": {
+    "iata": "TXG",
+    "country": "Taiwan"
+  },
+  "Tainan": {
+    "iata": "TNN",
+    "country": "Taiwan"
+  },
+  "Taipei": {
+    "iata": "TPE",
+    "country": "Taiwan"
+  },
+  "Taitung": {
+    "iata": "TTT",
+    "country": "Taiwan"
+  },
+  "Wonan": {
+    "iata": "WOT",
+    "country": "Taiwan"
+  },
+  "Chipata": {
+    "iata": "CIP",
+    "country": "Zambia"
+  },
+  "Kasaba Bay": {
+    "iata": "ZKB",
+    "country": "Zambia"
+  },
+  "Kasama": {
+    "iata": "KAA",
+    "country": "Zambia"
+  },
+  "Livingstone": {
+    "iata": "LVI",
+    "country": "Zambia"
+  },
+  "Lusaka": {
+    "iata": "LUN",
+    "country": "Zambia"
+  },
+  "Mangu": {
+    "iata": "MNR",
+    "country": "Zambia"
+  },
+  "Mfume": {
+    "iata": "MFU",
+    "country": "Zambia"
+  },
+  "Ndola": {
+    "iata": "NLA",
+    "country": "Zambia"
+  },
+  "Chisinau": {
+    "iata": "KIV",
+    "country": "Republic of Moldova"
+  },
+  "Christmas Island": {
+    "iata": "XCH",
+    "country": "Christmas Island"
+  },
+  "Cobija": {
+    "iata": "CIJ",
+    "country": "Bolivia"
+  },
+  "Cochabamba": {
+    "iata": "CBB",
+    "country": "Bolivia"
+  },
+  "Guayaramerin": {
+    "iata": "GYA",
+    "country": "Bolivia"
+  },
+  "Puerto Suarez": {
+    "iata": "PSZ",
+    "country": "Bolivia"
+  },
+  "Riberalta": {
+    "iata": "RIB",
+    "country": "Bolivia"
+  },
+  "Santa Cruz": {
+    "iata": "VVI",
+    "country": "Bolivia"
+  },
+  "Sucre": {
+    "iata": "SRE",
+    "country": "Bolivia"
+  },
+  "Tarija": {
+    "iata": "TJA",
+    "country": "Bolivia"
+  },
+  "Trinidad": {
+    "iata": "POS",
+    "country": "Trinidad and Tobago"
+  },
+  "Cocos Islands": {
+    "iata": "Keeling",
+    "country": "Cocos"
+  },
+  "Colombo": {
+    "iata": "CMB",
+    "country": "Sri Lanka"
+  },
+  "Conakry": {
+    "iata": "CKY",
+    "country": "Guinea"
+  },
+  "Lanzhau": {
+    "iata": "LHW",
+    "country": "Guinea"
+  },
+  "Cork": {
+    "iata": "ORK",
+    "country": "Ireland"
+  },
+  "Donegal": {
+    "iata": "CFN",
+    "country": "Ireland"
+  },
+  "Dublin": {
+    "iata": "DUB",
+    "country": "Ireland"
+  },
+  "Galway": {
+    "iata": "GWY",
+    "country": "Ireland"
+  },
+  "Knock": {
+    "iata": "NOC",
+    "country": "Ireland"
+  },
+  "Shannon": {
+    "iata": "SNN",
+    "country": "Ireland"
+  },
+  "Sligo": {
+    "iata": "SXL",
+    "country": "Ireland"
+  },
+  "Waterford": {
+    "iata": "WAT",
+    "country": "Ireland"
+  },
+  "Corvo Island": {
+    "iata": "CVU",
+    "country": "Portugal"
+  },
+  "Faro": {
+    "iata": "FAO",
+    "country": "Portugal"
+  },
+  "Flores Island": {
+    "iata": "FLW",
+    "country": "Portugal"
+  },
+  "Funchal": {
+    "iata": "FNC",
+    "country": "Portugal"
+  },
+  "Graciosa Island": {
+    "iata": "GRW",
+    "country": "Portugal"
+  },
+  "Horta": {
+    "iata": "HOR",
+    "country": "Portugal"
+  },
+  "Lisbon": {
+    "iata": "LIS",
+    "country": "Portugal"
+  },
+  "Pico Island": {
+    "iata": "PIX",
+    "country": "Portugal"
+  },
+  "Ponta Delgada": {
+    "iata": "PDL",
+    "country": "Portugal"
+  },
+  "Porto Santo": {
+    "iata": "PXO",
+    "country": "Portugal"
+  },
+  "Porto": {
+    "iata": "OPO",
+    "country": "Portugal"
+  },
+  "Terceira Island": {
+    "iata": "TER",
+    "country": "Portugal"
+  },
+  "Cotarou": {
+    "iata": "COC",
+    "country": "Benin"
+  },
+  "Cuenca": {
+    "iata": "CUE",
+    "country": "Ecuador"
+  },
+  "Esmeraldas": {
+    "iata": "ESM",
+    "country": "Ecuador"
+  },
+  "Galapagos": {
+    "iata": "GPS",
+    "country": "Ecuador"
+  },
+  "Guayaquil": {
+    "iata": "GYE",
+    "country": "Ecuador"
+  },
+  "Lago Agrio": {
+    "iata": "LGQ",
+    "country": "Ecuador"
+  },
+  "Loja": {
+    "iata": "LOH",
+    "country": "Ecuador"
+  },
+  "Macas": {
+    "iata": "XMS",
+    "country": "Ecuador"
+  },
+  "Machala": {
+    "iata": "MCH",
+    "country": "Ecuador"
+  },
+  "Manta": {
+    "iata": "MEC",
+    "country": "Ecuador"
+  },
+  "Portoviejo": {
+    "iata": "PVO",
+    "country": "Ecuador"
+  },
+  "Quito": {
+    "iata": "UIO",
+    "country": "Ecuador"
+  },
+  "Tulcan": {
+    "iata": "TUA",
+    "country": "Ecuador"
+  },
+  "Dakar": {
+    "iata": "DKR",
+    "country": "Senegal"
+  },
+  "Davao": {
+    "iata": "DVO",
+    "country": "Philipines"
+  },
+  "Deirezzor": {
+    "iata": "DEZ",
+    "country": "Syria"
+  },
+  "Latakia": {
+    "iata": "LTK",
+    "country": "Syria"
+  },
+  "Dhaka": {
+    "iata": "DAC",
+    "country": "Bangledesh"
+  },
+  "Dillons Bay": {
+    "iata": "DLY",
+    "country": "Vanuata"
+  },
+  "Emae": {
+    "iata": "EAE",
+    "country": "Vanuata"
+  },
+  "Djerba": {
+    "iata": "DJE",
+    "country": "Tunisia"
+  },
+  "Gafsa": {
+    "iata": "GAF",
+    "country": "Tunisia"
+  },
+  "Monastir": {
+    "iata": "MIR",
+    "country": "Tunisia"
+  },
+  "Tabarka": {
+    "iata": "TBJ",
+    "country": "Tunisia"
+  },
+  "Tozeur": {
+    "iata": "TOE",
+    "country": "Tunisia"
+  },
+  "Tunis": {
+    "iata": "TUN",
+    "country": "Tunisia"
+  },
+  "Djibouti": {
+    "iata": "JIB",
+    "country": "Djibouti"
+  },
+  "Dnepropetrovsk": {
+    "iata": "DNK",
+    "country": "Ukraine"
+  },
+  "Donetsk": {
+    "iata": "DOK",
+    "country": "Ukraine"
+  },
+  "Ivano-Frankovsk": {
+    "iata": "IFO",
+    "country": "Ukraine"
+  },
+  "Kharkov": {
+    "iata": "HRK",
+    "country": "Ukraine"
+  },
+  "Kiev": {
+    "iata": "KBP",
+    "country": "Ukraine"
+  },
+  "Krivoy Rog": {
+    "iata": "KWG",
+    "country": "Ukraine"
+  },
+  "Lvov": {
+    "iata": "LWO",
+    "country": "Ukraine"
+  },
+  "Mariupol": {
+    "iata": "MPW",
+    "country": "Ukraine"
+  },
+  "Odessa": {
+    "iata": "ODS",
+    "country": "Ukraine"
+  },
+  "Poltava": {
+    "iata": "PLV",
+    "country": "Ukraine"
+  },
+  "Uzhgorod": {
+    "iata": "UDJ",
+    "country": "Ukraine"
+  },
+  "Zaporozhye": {
+    "iata": "OZH",
+    "country": "Ukraine"
+  },
+  "Doha": {
+    "iata": "DOH",
+    "country": "Qatar"
+  },
+  "Dominica": {
+    "iata": "DOM",
+    "country": "Dominica"
+  },
+  "Dongola": {
+    "iata": "DOG",
+    "country": "Sudan"
+  },
+  "El Fasher": {
+    "iata": "ELF",
+    "country": "Sudan"
+  },
+  "El Obeid": {
+    "iata": "EBD",
+    "country": "Sudan"
+  },
+  "Geneina": {
+    "iata": "EGN",
+    "country": "Sudan"
+  },
+  "Malakai": {
+    "iata": "MAK",
+    "country": "Sudan"
+  },
+  "Merave": {
+    "iata": "MWE",
+    "country": "Sudan"
+  },
+  "Nyala": {
+    "iata": "UYL",
+    "country": "Sudan"
+  },
+  "Port Sudan": {
+    "iata": "PZU",
+    "country": "Sudan"
+  },
+  "Wadi Halfa": {
+    "iata": "WHF",
+    "country": "Sudan"
+  },
+  "Dovala": {
+    "iata": "DLA",
+    "country": "Cameroon"
+  },
+  "Garoua": {
+    "iata": "GOV",
+    "country": "Cameroon"
+  },
+  "Marova": {
+    "iata": "MVR",
+    "country": "Cameroon"
+  },
+  "Ngaoundere": {
+    "iata": "NGE",
+    "country": "Cameroon"
+  },
+  "Yaounde": {
+    "iata": "YAO",
+    "country": "Cameroon"
+  },
+  "Dushanbe": {
+    "iata": "DYU",
+    "country": "Tajikistan"
+  },
+  "Khudzhand": {
+    "iata": "LBD",
+    "country": "Tajikistan"
+  },
+  "Dzaoudzi": {
+    "iata": "DZA",
+    "country": "Mayotte"
+  },
+  "El Portillo/Samana": {
+    "iata": "EPS",
+    "country": "Dominician Republic"
+  },
+  "Enontekio": {
+    "iata": "ENF",
+    "country": "Finland"
+  },
+  "Helsinki": {
+    "iata": "HEL",
+    "country": "Finland"
+  },
+  "Ivalo": {
+    "iata": "IVL",
+    "country": "Finland"
+  },
+  "Joensuu": {
+    "iata": "JOE",
+    "country": "Finland"
+  },
+  "Jyvaskyla": {
+    "iata": "JYV",
+    "country": "Finland"
+  },
+  "Kajaani": {
+    "iata": "KAJ",
+    "country": "Finland"
+  },
+  "Kittila": {
+    "iata": "KTT",
+    "country": "Finland"
+  },
+  "Kuopio": {
+    "iata": "KUO",
+    "country": "Finland"
+  },
+  "Kuusamo": {
+    "iata": "KAO",
+    "country": "Finland"
+  },
+  "Lappeenranta": {
+    "iata": "LPP",
+    "country": "Finland"
+  },
+  "Mariehamn": {
+    "iata": "MHQ",
+    "country": "Finland"
+  },
+  "Mikkeli": {
+    "iata": "MIK",
+    "country": "Finland"
+  },
+  "Oulu": {
+    "iata": "OUL",
+    "country": "Finland"
+  },
+  "Pori": {
+    "iata": "POR",
+    "country": "Finland"
+  },
+  "Rovaniemi": {
+    "iata": "RVN",
+    "country": "Finland"
+  },
+  "Savonlinna": {
+    "iata": "SVL",
+    "country": "Finland"
+  },
+  "Tampere": {
+    "iata": "TMP",
+    "country": "Finland"
+  },
+  "Turku": {
+    "iata": "TKU",
+    "country": "Finland"
+  },
+  "Vaasa": {
+    "iata": "VAA",
+    "country": "Finland"
+  },
+  "Varkaus": {
+    "iata": "VRK",
+    "country": "Finland"
+  },
+  "Ercan": {
+    "iata": "ECN",
+    "country": "Cyprus"
+  },
+  "Larnaca": {
+    "iata": "LCA",
+    "country": "Cyprus"
+  },
+  "Nicosia": {
+    "iata": "NIC",
+    "country": "Cyprus"
+  },
+  "Paphos": {
+    "iata": "PFO",
+    "country": "Cyprus"
+  },
+  "Faroe Islands": {
+    "iata": "FAE",
+    "country": "Faroe Islands"
+  },
+  "Flores": {
+    "iata": "FRS",
+    "country": "Guatemala"
+  },
+  "Guatemala City": {
+    "iata": "GUA",
+    "country": "Guatemala"
+  },
+  "Fort De France": {
+    "iata": "FDF",
+    "country": "Martinique"
+  },
+  "Franceville": {
+    "iata": "MVB",
+    "country": "Gabon"
+  },
+  "Gamba": {
+    "iata": "GAX",
+    "country": "Gabon"
+  },
+  "Libreville": {
+    "iata": "LBV",
+    "country": "Gabon"
+  },
+  "Makokou": {
+    "iata": "MKU",
+    "country": "Gabon"
+  },
+  "Mouila": {
+    "iata": "MJL",
+    "country": "Gabon"
+  },
+  "Omboue": {
+    "iata": "OMB",
+    "country": "Gabon"
+  },
+  "Oyem": {
+    "iata": "OYE",
+    "country": "Gabon"
+  },
+  "Port Gentil": {
+    "iata": "POG",
+    "country": "Gabon"
+  },
+  "Rhodes": {
+    "iata": "RHO",
+    "country": "Gabon"
+  },
+  "Tchibanga": {
+    "iata": "TCH",
+    "country": "Gabon"
+  },
+  "Francistown": {
+    "iata": "FRW",
+    "country": "Botswana"
+  },
+  "Gaborone": {
+    "iata": "GBE",
+    "country": "Botswana"
+  },
+  "Kasane": {
+    "iata": "BBK",
+    "country": "Botswana"
+  },
+  "Maun": {
+    "iata": "MUB",
+    "country": "Botswana"
+  },
+  "Freetown": {
+    "iata": "FNA",
+    "country": "Sierra Leone"
+  },
+  "Funafuti Atol": {
+    "iata": "FUN",
+    "country": "Tuvalu"
+  },
+  "Wallis Island": {
+    "iata": "WLS",
+    "country": "Wallis and Futuna Islands"
+  },
+  "Gagnoa": {
+    "iata": "GGN",
+    "country": "Cote D'Ivoire"
+  },
+  "Gan Island": {
+    "iata": "GAN",
+    "country": "Maldives"
+  },
+  "Hanimaadhoo": {
+    "iata": "HAQ",
+    "country": "Maldives"
+  },
+  "Kaadedhdhoo": {
+    "iata": "KDM",
+    "country": "Maldives"
+  },
+  "Kadhonoo": {
+    "iata": "KDO",
+    "country": "Maldives"
+  },
+  "Male": {
+    "iata": "MLE",
+    "country": "Maldives"
+  },
+  "Gaza City": {
+    "iata": "GZA",
+    "country": "Occupied Palestinian Territory"
+  },
+  "Georgetown": {
+    "iata": "GEO",
+    "country": "Guyana"
+  },
+  "Geraldton": {
+    "iata": "GET",
+    "country": "(GET"
+  },
+  "Gibraltar": {
+    "iata": "GIB",
+    "country": "Gibraltar"
+  },
+  "Gozo": {
+    "iata": "GZM",
+    "country": "Malta"
+  },
+  "Malta": {
+    "iata": "MLA",
+    "country": "Malta"
+  },
+  "Grand Cayman": {
+    "iata": "GCM",
+    "country": "Cayman Islands"
+  },
+  "Grand Turk Island": {
+    "iata": "GDT",
+    "country": "Turks and Caicos Islands"
+  },
+  "North Caicos": {
+    "iata": "NCA",
+    "country": "Turks and Caicos Islands"
+  },
+  "Providenciales": {
+    "iata": "PLS",
+    "country": "Turks and Caicos Islands"
+  },
+  "Salt Cay": {
+    "iata": "SLX",
+    "country": "Turks and Caicos Islands"
+  },
+  "South Caicos": {
+    "iata": "XSC",
+    "country": "Turks and Caicos Islands"
+  },
+  "Graz": {
+    "iata": "GRZ",
+    "country": "Austria"
+  },
+  "Innsbruck": {
+    "iata": "INN",
+    "country": "Austria"
+  },
+  "Linz": {
+    "iata": "LNZ",
+    "country": "Austria"
+  },
+  "Salzburg": {
+    "iata": "SZG",
+    "country": "Austria"
+  },
+  "Vienna": {
+    "iata": "VIE",
+    "country": "Austria"
+  },
+  "Grenada": {
+    "iata": "GND",
+    "country": "(GND"
+  },
+  "Guam (GUM": {
+    "iata": "GUM",
+    "country": "Guam"
+  },
+  "Gyourmri": {
+    "iata": "LWN",
+    "country": "Armenia"
+  },
+  "Yerevan": {
+    "iata": "EVN",
+    "country": "Armenia"
+  },
+  "HaApa": {
+    "iata": "HPA",
+    "country": "Tonga"
+  },
+  "Niuafo'ou": {
+    "iata": "NFO",
+    "country": "Tonga"
+  },
+  "Niuatoputapu": {
+    "iata": "NTT",
+    "country": "Tonga"
+  },
+  "Nuku'Alofa": {
+    "iata": "TBU",
+    "country": "Tonga"
+  },
+  "Vava'u": {
+    "iata": "VAV",
+    "country": "Tonga"
+  },
+  "Haifa": {
+    "iata": "HFA",
+    "country": "Israel"
+  },
+  "Ovda": {
+    "iata": "VDA",
+    "country": "Israel"
+  },
+  "Tel Aviv": {
+    "iata": "TLV",
+    "country": "Israel"
+  },
+  "Hargeisa": {
+    "iata": "HGA",
+    "country": "Somolia"
+  },
+  "Hong Kong": {
+    "iata": "HKG",
+    "country": "Hong Kong"
+  },
+  "Horn Island Australia (HID": {
+    "iata": "HID",
+    "country": "Horn"
+  },
+  "Houeisay": {
+    "iata": "HOE",
+    "country": "Laos"
+  },
+  "Luang Namtha": {
+    "iata": "LXG",
+    "country": "Laos"
+  },
+  "Luang Prabang": {
+    "iata": "LPQ",
+    "country": "Laos"
+  },
+  "Oudomxay": {
+    "iata": "ODY",
+    "country": "Laos"
+  },
+  "Pakse": {
+    "iata": "PKZ",
+    "country": "Laos"
+  },
+  "Savannakhet": {
+    "iata": "ZVK",
+    "country": "Laos"
+  },
+  "Sayaboury": {
+    "iata": "ZBY",
+    "country": "Laos"
+  },
+  "Vientiane": {
+    "iata": "VTE",
+    "country": "Laos"
+  },
+  "Xieng Khouang": {
+    "iata": "XKH",
+    "country": "Laos"
+  },
+  "Island Lake/Garden Hill": {
+    "iata": "YIV",
+    "country": "Canada"
+  },
+  "Kimmirut/Lake Harbour": {
+    "iata": "YLC",
+    "country": "Canada"
+  },
+  "Jambi. Indonesia (DJB": {
+    "iata": "DJB",
+    "country": "Jambi."
+  },
+  "Jeju": {
+    "iata": "CJU",
+    "country": "metro area"
+  },
+  "Johnston Island": {
+    "iata": "JON",
+    "country": "US Minor Outlying Islands"
+  },
+  "Midway Island": {
+    "iata": "MDY",
+    "country": "US Minor Outlying Islands"
+  },
+  "Kabul": {
+    "iata": "KBL",
+    "country": "Afghanistan"
+  },
+  "Kardia": {
+    "iata": "KDL",
+    "country": "Estonia"
+  },
+  "Tallinn": {
+    "iata": "TLL",
+    "country": "Estonia"
+  },
+  "Kaunas": {
+    "iata": "KUN",
+    "country": "Lithuania"
+  },
+  "Palanga": {
+    "iata": "PLQ",
+    "country": "Lithuania"
+  },
+  "Vilnius": {
+    "iata": "VNO",
+    "country": "Lithuania"
+  },
+  "Kigali": {
+    "iata": "KGL",
+    "country": "Rwanda"
+  },
+  "Kingston": {
+    "iata": "KTP",
+    "country": "Jamaica"
+  },
+  "Montego Bay": {
+    "iata": "MBJ",
+    "country": "Jamaica"
+  },
+  "Negril": {
+    "iata": "NEG",
+    "country": "Jamaica"
+  },
+  "Ocho Rios": {
+    "iata": "OCJ",
+    "country": "Jamaica"
+  },
+  "Port Antonio": {
+    "iata": "POT",
+    "country": "Jamaica"
+  },
+  "Koror": {
+    "iata": "ROR",
+    "country": "Palau"
+  },
+  "Kundiawa": {
+    "iata": "CMU",
+    "country": "Papau New Guinea"
+  },
+  "Kuwait": {
+    "iata": "KWI",
+    "country": "Kuwait"
+  },
+  "La Romana": {
+    "iata": "LRM",
+    "country": "Dominican Republic"
+  },
+  "Puerto Plata": {
+    "iata": "POP",
+    "country": "Dominican Republic"
+  },
+  "Punta Cana": {
+    "iata": "PUJ",
+    "country": "Dominican Republic"
+  },
+  "Luanda": {
+    "iata": "LAD",
+    "country": "Angola"
+  },
+  "Ljubliana": {
+    "iata": "LJU",
+    "country": "Slovenia"
+  },
+  "Maribor": {
+    "iata": "MBX",
+    "country": "Slovenia"
+  },
+  "Lome": {
+    "iata": "LFW",
+    "country": "Togo"
+  },
+  "Longyearbyen": {
+    "iata": "LYR",
+    "country": "Svalbard & Jan Mayen Island"
+  },
+  "Luderitz": {
+    "iata": "LUD",
+    "country": "Namibia"
+  },
+  "Mokuti Lodge": {
+    "iata": "OKU",
+    "country": "Namibia"
+  },
+  "Mpacha": {
+    "iata": "MPA",
+    "country": "Namibia"
+  },
+  "Ondangwa": {
+    "iata": "OND",
+    "country": "Namibia"
+  },
+  "Oranjemund": {
+    "iata": "OMD",
+    "country": "Namibia"
+  },
+  "Sesriem": {
+    "iata": "SZM",
+    "country": "Namibia"
+  },
+  "Tsumeb": {
+    "iata": "TSB",
+    "country": "Namibia"
+  },
+  "Walvis Bay": {
+    "iata": "WVB",
+    "country": "Namibia"
+  },
+  "Luxembourg": {
+    "iata": "LUX",
+    "country": "Luxembourg"
+  },
+  "Mahe Island": {
+    "iata": "SEZ",
+    "country": "Seychelles"
+  },
+  "Malabo": {
+    "iata": "SSG",
+    "country": "Equatorial Guinea"
+  },
+  "Managua": {
+    "iata": "MGA",
+    "country": "Nicaragua"
+  },
+  "Manzini": {
+    "iata": "MTS",
+    "country": "Swaziland"
+  },
+  "Mao": {
+    "iata": "AMO",
+    "country": "Chad"
+  },
+  "Ndjamena": {
+    "iata": "NDJ",
+    "country": "Chad"
+  },
+  "Maseru": {
+    "iata": "MSU",
+    "country": "Lesotho"
+  },
+  "Mauritius": {
+    "iata": "MRU",
+    "country": "Mauritius"
+  },
+  "Rodrigues Island": {
+    "iata": "RRG",
+    "country": "Mauritius"
+  },
+  "Middle Caicos": {
+    "iata": "MDS",
+    "country": "Turks and Caicos"
+  },
+  "Minsk": {
+    "iata": "MSQ",
+    "country": "Belarus"
+  },
+  "Vitebsk": {
+    "iata": "VTB",
+    "country": "Belarus"
+  },
+  "Monrovia": {
+    "iata": "ROB",
+    "country": "Liberia"
+  },
+  "Monte Carlo": {
+    "iata": "MCM",
+    "country": "Monaco"
+  },
+  "Montevideo": {
+    "iata": "MVD",
+    "country": "Uruguay"
+  },
+  "Punta Del Este": {
+    "iata": "PDP",
+    "country": "Uruguay"
+  },
+  "Montserrat": {
+    "iata": "MNI",
+    "country": "Montserrat"
+  },
+  "Moroni": {
+    "iata": "HAH",
+    "country": "Comoros"
+  },
+  "Mostar": {
+    "iata": "OMO",
+    "country": "Bosnia and Herzegovina"
+  },
+  "Mount Pleasant": {
+    "iata": "MPN",
+    "country": "Falkland Islands"
+  },
+  "Port Stanley": {
+    "iata": "PSY",
+    "country": "Falkland Islands"
+  },
+  "Muscat": {
+    "iata": "MCT",
+    "country": "Oman"
+  },
+  "Nauru Island": {
+    "iata": "INU",
+    "country": "Nauru"
+  },
+  "Nevis": {
+    "iata": "NEV",
+    "country": "St. Kitts and Nevis"
+  },
+  "New London/Groton (GON": {
+    "iata": "GON",
+    "country": "New"
+  },
+  "Niamey": {
+    "iata": "NIM",
+    "country": "Niger"
+  },
+  "Niue Island": {
+    "iata": "IUE",
+    "country": "Niue"
+  },
+  "Norfolk Island": {
+    "iata": "NLK",
+    "country": "Norfolk Island"
+  },
+  "Ohrid": {
+    "iata": "OHD",
+    "country": "Macedonia"
+  },
+  "Skopie": {
+    "iata": "FYROM",
+    "country": "Macedonia"
+  },
+  "Okaba": {
+    "iata": "OKQ",
+    "country": "Indonedia"
+  },
+  "Orebro": {
+    "iata": "ORB",
+    "country": "Sweeden"
+  },
+  "Ouagadougou": {
+    "iata": "OUA",
+    "country": "Burkina Faso"
+  },
+  "Pago Pago": {
+    "iata": "PPG",
+    "country": "American Samoa"
+  },
+  "Paramaribo": {
+    "iata": "ORG",
+    "country": "Suriname"
+  },
+  "Paro": {
+    "iata": "PBH",
+    "country": "Bhutan"
+  },
+  "Pohnpei": {
+    "iata": "PNI",
+    "country": "Micronesia"
+  },
+  "Truk": {
+    "iata": "TKK",
+    "country": "Micronesia"
+  },
+  "Ulithi": {
+    "iata": "ULI",
+    "country": "Micronesia"
+  },
+  "Yap": {
+    "iata": "YAP",
+    "country": "Micronesia"
+  },
+  "Pointe-a-Pitre": {
+    "iata": "PTP",
+    "country": "Guadeloupe"
+  },
+  "Port of Spain": {
+    "iata": "POS",
+    "country": "Trinidad"
+  },
+  "Pyongyang": {
+    "iata": "FNJ",
+    "country": "North Korea"
+  },
+  "Riga": {
+    "iata": "RIX",
+    "country": "Latvia"
+  },
+  "Tripoli": {
+    "iata": "TIP",
+    "country": "Latvia"
+  },
+  "Rota": {
+    "iata": "ROP",
+    "country": "Northern Mariana Islands"
+  },
+  "Saipan": {
+    "iata": "SPN",
+    "country": "Northern Mariana Islands"
+  },
+  "Tinian": {
+    "iata": "TIQ",
+    "country": "Northern Mariana Islands"
+  },
+  "Saint Croix": {
+    "iata": "STX",
+    "country": "U.S. Virgin Islands"
+  },
+  "Saint Thomas": {
+    "iata": "STT",
+    "country": "U.S. Virgin Islands"
+  },
+  "St. Croix Island": {
+    "iata": "STX",
+    "country": "U.S. Virgin Islands"
+  },
+  "St. Thomas Island": {
+    "iata": "STT",
+    "country": "U.S. Virgin Islands"
+  },
+  "Saint Lucia": {
+    "iata": "SLU",
+    "country": "ST. LUCIA"
+  },
+  "San Marino": {
+    "iata": "SAI",
+    "country": "San Marino"
+  },
+  "Sao Tome Is.": {
+    "iata": "TMS",
+    "country": "Sao Tome and Principe"
+  },
+  "Singapore": {
+    "iata": "XSP",
+    "country": "Singapore"
+  },
+  "St Denis de la Reunion": {
+    "iata": "RUN",
+    "country": "Reunion"
+  },
+  "St. Pierre de la Reunion": {
+    "iata": "ZSE",
+    "country": "Reunion"
+  },
+  "St Kitts": {
+    "iata": "SKB",
+    "country": "St Kitts and Nevis"
+  },
+  "St Pierre": {
+    "iata": "FSP",
+    "country": "St Pierre and Miquelon"
+  },
+  "St. Lucia": {
+    "iata": "UVF",
+    "country": "St. Lucia"
+  },
+  "Tambohorano": {
+    "iata": "WTA",
+    "country": "Madagasca"
+  },
+  "Tarawa": {
+    "iata": "TRW",
+    "country": "Kiribati"
+  },
+  "Tirana": {
+    "iata": "TIA",
+    "country": "Albania"
+  },
+  "Tobago": {
+    "iata": "TAB",
+    "country": "Trinidad and Tobago"
+  },
+  "Ulaanbaatar": {
+    "iata": "ULN",
+    "country": "Mongolia"
+  },
+  "Uliastai": {
+    "iata": "ULY",
+    "country": "Mongolia"
+  },
+  "Uummannaq": {
+    "iata": "UMD",
+    "country": "Greeland"
+  },
+  "Vancouver": {
+    "iata": "YVR",
+    "country": "BC"
+  },
+  "V.C. Bird International": {
+    "iata": "ANU",
+    "country": "Antigua & Barbuda"
+  }
+}

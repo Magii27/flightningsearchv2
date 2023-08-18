@@ -1,0 +1,10454 @@
+{
+  "Denmark": [
+    {
+      "iata": "AAL",
+      "city": "Aalborg"
+    },
+    {
+      "iata": "ZID",
+      "city": "Aarhus"
+    },
+    {
+      "iata": "AAR",
+      "city": "Aarhus"
+    },
+    {
+      "iata": "BLL",
+      "city": "Billund"
+    },
+    {
+      "iata": "RNN",
+      "city": "Bornholm"
+    },
+    {
+      "iata": "BWE",
+      "city": "Braunschweig"
+    },
+    {
+      "iata": "CPH",
+      "city": "Copenhagen"
+    },
+    {
+      "iata": "EBJ",
+      "city": "Esbjerg"
+    },
+    {
+      "iata": "ZBB",
+      "city": "Esbjerg"
+    },
+    {
+      "iata": "ZBJ",
+      "city": "Fredericia"
+    },
+    {
+      "iata": "XAK",
+      "city": "Herning"
+    },
+    {
+      "iata": "MJD",
+      "city": "Mohenjodaro"
+    },
+    {
+      "iata": "ZBQ",
+      "city": "Odense"
+    }
+  ],
+  "Norway": [
+    {
+      "iata": "AES",
+      "city": "Aalesund"
+    },
+    {
+      "iata": "ALF",
+      "city": "Alta"
+    },
+    {
+      "iata": "ANX",
+      "city": "Andenes"
+    },
+    {
+      "iata": "BDU",
+      "city": "Bardufoss"
+    },
+    {
+      "iata": "BJF",
+      "city": "Batsfijord"
+    },
+    {
+      "iata": "BGO",
+      "city": "Bergen"
+    },
+    {
+      "iata": "BVG",
+      "city": "Berlevag"
+    },
+    {
+      "iata": "BOO",
+      "city": "Bodo"
+    },
+    {
+      "iata": "BNN",
+      "city": "Bronnoysund"
+    },
+    {
+      "iata": "VDB",
+      "city": "Fagernes"
+    },
+    {
+      "iata": "FRO",
+      "city": "Floro"
+    },
+    {
+      "iata": "FDE",
+      "city": "Forde"
+    },
+    {
+      "iata": "HFT",
+      "city": "Hammerfest"
+    },
+    {
+      "iata": "EVE",
+      "city": "Harstad-Narvik"
+    },
+    {
+      "iata": "HAA",
+      "city": "Hasvik"
+    },
+    {
+      "iata": "HAU",
+      "city": "Haugesund"
+    },
+    {
+      "iata": "HVG",
+      "city": "Honningsvag"
+    },
+    {
+      "iata": "LKL",
+      "city": "Lakselv"
+    },
+    {
+      "iata": "LKN",
+      "city": "Leknes"
+    },
+    {
+      "iata": "MEH",
+      "city": "Mehamn"
+    },
+    {
+      "iata": "MQN",
+      "city": "Mo I Rana"
+    },
+    {
+      "iata": "MOL",
+      "city": "Molde"
+    },
+    {
+      "iata": "MJF",
+      "city": "Mosjoen"
+    },
+    {
+      "iata": "OSY",
+      "city": "Namsos"
+    },
+    {
+      "iata": "NVK",
+      "city": "Narvik"
+    },
+    {
+      "iata": "HOV",
+      "city": "Orsta-Volda"
+    },
+    {
+      "iata": "OSL",
+      "city": "Oslo"
+    },
+    {
+      "iata": "TRF",
+      "city": "Oslo"
+    },
+    {
+      "iata": "RVK",
+      "city": "Roervik"
+    },
+    {
+      "iata": "ZXM",
+      "city": "Rognan"
+    },
+    {
+      "iata": "RRS",
+      "city": "Roros"
+    },
+    {
+      "iata": "RET",
+      "city": "Rost"
+    },
+    {
+      "iata": "QFK",
+      "city": "Selje"
+    },
+    {
+      "iata": "SOG",
+      "city": "Sognolal"
+    },
+    {
+      "iata": "SOJ",
+      "city": "Sorkjosen"
+    },
+    {
+      "iata": "SVG",
+      "city": "Stavanger"
+    },
+    {
+      "iata": "SVJ",
+      "city": "Svolvaer"
+    },
+    {
+      "iata": "TOS",
+      "city": "Tromso"
+    },
+    {
+      "iata": "TRD",
+      "city": "Trondheim"
+    },
+    {
+      "iata": "VDS",
+      "city": "Vadso"
+    },
+    {
+      "iata": "VAW",
+      "city": "Vardoe"
+    }
+  ],
+  "Greenland": [
+    {
+      "iata": "JEG",
+      "city": "Aasiaat"
+    },
+    {
+      "iata": "JGR",
+      "city": "Groennedal"
+    },
+    {
+      "iata": "JAV",
+      "city": "Ilulissat"
+    },
+    {
+      "iata": "KUS",
+      "city": "Kulusuk"
+    },
+    {
+      "iata": "JSU",
+      "city": "Mariitsoq"
+    },
+    {
+      "iata": "JNN",
+      "city": "Nanortalik"
+    },
+    {
+      "iata": "JNS",
+      "city": "Narsaq"
+    },
+    {
+      "iata": "UAK",
+      "city": "Narsarsuaq"
+    },
+    {
+      "iata": "CNP",
+      "city": "Neerlerit Inaat"
+    },
+    {
+      "iata": "GOH",
+      "city": "Nuuk"
+    },
+    {
+      "iata": "JFR",
+      "city": "Paamiut"
+    },
+    {
+      "iata": "THU",
+      "city": "Pituffik"
+    },
+    {
+      "iata": "JJU",
+      "city": "Qaqortoq"
+    },
+    {
+      "iata": "JHS",
+      "city": "Sisimiut"
+    },
+    {
+      "iata": "JUV",
+      "city": "Upernavik"
+    }
+  ],
+  "Iran": [
+    {
+      "iata": "ABD",
+      "city": "Abadan"
+    },
+    {
+      "iata": "AWZ",
+      "city": "Ahwaz"
+    },
+    {
+      "iata": "ADU",
+      "city": "Ardabil"
+    },
+    {
+      "iata": "BXR",
+      "city": "Bam"
+    },
+    {
+      "iata": "BND",
+      "city": "Bandar Abbas"
+    },
+    {
+      "iata": "BDH",
+      "city": "Bandar Lengeh"
+    },
+    {
+      "iata": "BUZ",
+      "city": "Bashehr"
+    },
+    {
+      "iata": "BJB",
+      "city": "Bojnord"
+    },
+    {
+      "iata": "ZBR",
+      "city": "Chah-Bahar"
+    },
+    {
+      "iata": "IFN",
+      "city": "Isfahan"
+    },
+    {
+      "iata": "MHD",
+      "city": "Mashad"
+    },
+    {
+      "iata": "RJN",
+      "city": "Rafsanjan"
+    },
+    {
+      "iata": "RAS",
+      "city": "Rasht"
+    },
+    {
+      "iata": "SYZ",
+      "city": "Shiraz"
+    },
+    {
+      "iata": "TBZ",
+      "city": "Tabriz"
+    },
+    {
+      "iata": "THR",
+      "city": "Tehran"
+    },
+    {
+      "iata": "OMH",
+      "city": "Urmieh"
+    },
+    {
+      "iata": "AZD",
+      "city": "Yazd"
+    },
+    {
+      "iata": "ZAH",
+      "city": "Zahedan"
+    }
+  ],
+  "Russia": [
+    {
+      "iata": "ABA",
+      "city": "Abakan"
+    },
+    {
+      "iata": "AER",
+      "city": "Adler/Sochi"
+    },
+    {
+      "iata": "AMV",
+      "city": "Amderma"
+    },
+    {
+      "iata": "DYR",
+      "city": "Anadyr"
+    },
+    {
+      "iata": "AAQ",
+      "city": "Anapa"
+    },
+    {
+      "iata": "ARH",
+      "city": "Arkangelsk"
+    },
+    {
+      "iata": "ASF",
+      "city": "Astrakhan"
+    },
+    {
+      "iata": "BAX",
+      "city": "Barnaul"
+    },
+    {
+      "iata": "EGO",
+      "city": "Belgorod"
+    },
+    {
+      "iata": "BQS",
+      "city": "Blagoveschensk"
+    },
+    {
+      "iata": "BTK",
+      "city": "Bratsk"
+    },
+    {
+      "iata": "UUA",
+      "city": "Bugulma"
+    },
+    {
+      "iata": "UUA",
+      "city": "Bulgulma"
+    },
+    {
+      "iata": "CSY",
+      "city": "Cheboksary"
+    },
+    {
+      "iata": "CEK",
+      "city": "Chelybinsk"
+    },
+    {
+      "iata": "CEE",
+      "city": "Cherepovets"
+    },
+    {
+      "iata": "CEE",
+      "city": "Chevepovets"
+    },
+    {
+      "iata": "HTA",
+      "city": "Chita"
+    },
+    {
+      "iata": "SVX",
+      "city": "Ekaterinburg"
+    },
+    {
+      "iata": "ESL",
+      "city": "Elista"
+    },
+    {
+      "iata": "GDZ",
+      "city": "Gelendzik"
+    },
+    {
+      "iata": "IAA",
+      "city": "Igarka"
+    },
+    {
+      "iata": "INA",
+      "city": "Inta"
+    },
+    {
+      "iata": "IKT",
+      "city": "Irkutsk"
+    },
+    {
+      "iata": "KGD",
+      "city": "Kaliningrad"
+    },
+    {
+      "iata": "KZN",
+      "city": "Kazan"
+    },
+    {
+      "iata": "KXK",
+      "city": "Komsomolsk Na Amure"
+    },
+    {
+      "iata": "KYZ",
+      "city": "Kyzyl"
+    },
+    {
+      "iata": "GDX",
+      "city": "Magadan"
+    },
+    {
+      "iata": "MQF",
+      "city": "Magnitogorsk"
+    },
+    {
+      "iata": "MCX",
+      "city": "Makhachkala"
+    },
+    {
+      "iata": "MRV",
+      "city": "Mineralnye Vody"
+    },
+    {
+      "iata": "MJZ",
+      "city": "Mirnyj"
+    },
+    {
+      "iata": "MOW",
+      "city": "Moscow"
+    },
+    {
+      "iata": "BKA",
+      "city": "Moscow"
+    },
+    {
+      "iata": "DME",
+      "city": "Moscow"
+    },
+    {
+      "iata": "SVO",
+      "city": "Moscow"
+    },
+    {
+      "iata": "VKO",
+      "city": "Moscow"
+    },
+    {
+      "iata": "MMK",
+      "city": "Murmansk"
+    },
+    {
+      "iata": "NYM",
+      "city": "Nadym"
+    },
+    {
+      "iata": "NAL",
+      "city": "Nalchik"
+    },
+    {
+      "iata": "NNM",
+      "city": "Naryan-Mar"
+    },
+    {
+      "iata": "NUX",
+      "city": "NayUrengoy"
+    },
+    {
+      "iata": "NFG",
+      "city": "Nefteyugansk"
+    },
+    {
+      "iata": "NER",
+      "city": "Neryjungri"
+    },
+    {
+      "iata": "NJC",
+      "city": "Nizhnevartovsk"
+    },
+    {
+      "iata": "GOJ",
+      "city": "Nizhniy Novgorod"
+    },
+    {
+      "iata": "NOJ",
+      "city": "Nojabrxsk"
+    },
+    {
+      "iata": "NSK",
+      "city": "Noril'sk"
+    },
+    {
+      "iata": "NVR",
+      "city": "Novgorod"
+    },
+    {
+      "iata": "NOZ",
+      "city": "Novokuznetsk"
+    },
+    {
+      "iata": "OVB",
+      "city": "Novosibirsk"
+    },
+    {
+      "iata": "OHO",
+      "city": "Okhotsk"
+    },
+    {
+      "iata": "OMS",
+      "city": "Omsk"
+    },
+    {
+      "iata": "REN",
+      "city": "Orenburg"
+    },
+    {
+      "iata": "OSW",
+      "city": "Orsk"
+    },
+    {
+      "iata": "PEX",
+      "city": "Pechora"
+    },
+    {
+      "iata": "PEE",
+      "city": "Perm"
+    },
+    {
+      "iata": "PKC",
+      "city": "Petropaulousk-Kamchats"
+    },
+    {
+      "iata": "PES",
+      "city": "Petrozavodsk"
+    },
+    {
+      "iata": "PYJ",
+      "city": "Polyarnyj"
+    },
+    {
+      "iata": "RAT",
+      "city": "Raduzhnyi"
+    },
+    {
+      "iata": "ROV",
+      "city": "Rostov"
+    },
+    {
+      "iata": "LED",
+      "city": "Saint Petersburg"
+    },
+    {
+      "iata": "SLY",
+      "city": "Salehard"
+    },
+    {
+      "iata": "KUF",
+      "city": "Samara"
+    },
+    {
+      "iata": "RTW",
+      "city": "Saratov"
+    },
+    {
+      "iata": "LED",
+      "city": "St. Petersburg"
+    },
+    {
+      "iata": "STW",
+      "city": "Stavropol"
+    },
+    {
+      "iata": "IKS",
+      "city": "Tiksi"
+    },
+    {
+      "iata": "TOF",
+      "city": "Tomsk"
+    },
+    {
+      "iata": "TJM",
+      "city": "Tyumen"
+    },
+    {
+      "iata": "UFA",
+      "city": "Ufa"
+    },
+    {
+      "iata": "UCT",
+      "city": "Ukhta"
+    },
+    {
+      "iata": "UUD",
+      "city": "Ulan-Ude"
+    },
+    {
+      "iata": "URJ",
+      "city": "Uraj"
+    },
+    {
+      "iata": "USK",
+      "city": "Usinsk"
+    },
+    {
+      "iata": "UIK",
+      "city": "Ust-Ilimsk"
+    },
+    {
+      "iata": "OGZ",
+      "city": "Vladikavkaz"
+    },
+    {
+      "iata": "VVO",
+      "city": "Vladivostok"
+    },
+    {
+      "iata": "VLK",
+      "city": "Volgodonsk"
+    },
+    {
+      "iata": "VOG",
+      "city": "Volgograd"
+    },
+    {
+      "iata": "VKT",
+      "city": "Vorkuta"
+    },
+    {
+      "iata": "VOZ",
+      "city": "Voronezh"
+    },
+    {
+      "iata": "YKS",
+      "city": "Yakutsk"
+    },
+    {
+      "iata": "IAR",
+      "city": "Yaroslavl"
+    },
+    {
+      "iata": "UUS",
+      "city": "Yuzhno-Sakhalinsk"
+    }
+  ],
+  "United Kingdom": [
+    {
+      "iata": "ABZ",
+      "city": "Aberdeen"
+    },
+    {
+      "iata": "ACI",
+      "city": "Alderney"
+    },
+    {
+      "iata": "BRR",
+      "city": "Barra"
+    },
+    {
+      "iata": "BFS",
+      "city": "Belfast"
+    },
+    {
+      "iata": "BHD",
+      "city": "Belfast"
+    },
+    {
+      "iata": "BEB",
+      "city": "Benbecula"
+    },
+    {
+      "iata": "BHX",
+      "city": "Birmingham"
+    },
+    {
+      "iata": "BLK",
+      "city": "Blackpool"
+    },
+    {
+      "iata": "BOH",
+      "city": "Bournemouth"
+    },
+    {
+      "iata": "BRS",
+      "city": "Bristol"
+    },
+    {
+      "iata": "CBG",
+      "city": "Cambridge"
+    },
+    {
+      "iata": "CAL",
+      "city": "Campbeltown"
+    },
+    {
+      "iata": "CWL",
+      "city": "Cardiff"
+    },
+    {
+      "iata": "CEG",
+      "city": "Chester"
+    },
+    {
+      "iata": "DND",
+      "city": "Dundee"
+    },
+    {
+      "iata": "EOI",
+      "city": "Eday"
+    },
+    {
+      "iata": "EDI",
+      "city": "Edinburgh"
+    },
+    {
+      "iata": "EXT",
+      "city": "Eveter"
+    },
+    {
+      "iata": "FIE",
+      "city": "Fair Isle"
+    },
+    {
+      "iata": "FZO",
+      "city": "Filton"
+    },
+    {
+      "iata": "GLA",
+      "city": "Glasgow"
+    },
+    {
+      "iata": "PIK",
+      "city": "Glasgow"
+    },
+    {
+      "iata": "GCI",
+      "city": "Guernsey"
+    },
+    {
+      "iata": "HUY",
+      "city": "Humberside"
+    },
+    {
+      "iata": "INV",
+      "city": "Inverness"
+    },
+    {
+      "iata": "ILY",
+      "city": "Islay"
+    },
+    {
+      "iata": "IOM",
+      "city": "Isle of Man"
+    },
+    {
+      "iata": "ISC",
+      "city": "Isles of Scilly"
+    },
+    {
+      "iata": "TSO",
+      "city": "Isles of Scilly"
+    },
+    {
+      "iata": "JER",
+      "city": "Jersey"
+    },
+    {
+      "iata": "LEQ",
+      "city": "Lands End"
+    },
+    {
+      "iata": "LBA",
+      "city": "Leeds"
+    },
+    {
+      "iata": "LPL",
+      "city": "Liverpool"
+    },
+    {
+      "iata": "LON",
+      "city": "London"
+    },
+    {
+      "iata": "BQH",
+      "city": "London"
+    },
+    {
+      "iata": "LGW",
+      "city": "London"
+    },
+    {
+      "iata": "LHR",
+      "city": "London"
+    },
+    {
+      "iata": "LCY",
+      "city": "London"
+    },
+    {
+      "iata": "LTN",
+      "city": "London"
+    },
+    {
+      "iata": "STN",
+      "city": "London"
+    },
+    {
+      "iata": "LDY",
+      "city": "Londonderry"
+    },
+    {
+      "iata": "QQP",
+      "city": "London-Paddington"
+    },
+    {
+      "iata": "MAN",
+      "city": "Manchester"
+    },
+    {
+      "iata": "MSE",
+      "city": "Manston"
+    },
+    {
+      "iata": "NCL",
+      "city": "Newcastle"
+    },
+    {
+      "iata": "NQY",
+      "city": "Newquay"
+    },
+    {
+      "iata": "NRL",
+      "city": "North Ronaldsay"
+    },
+    {
+      "iata": "NWI",
+      "city": "Norwich"
+    },
+    {
+      "iata": "EMA",
+      "city": "Nottingham"
+    },
+    {
+      "iata": "PPW",
+      "city": "Papa Westray"
+    },
+    {
+      "iata": "PZE",
+      "city": "Penzance"
+    },
+    {
+      "iata": "PLH",
+      "city": "Plymouth"
+    },
+    {
+      "iata": "NDY",
+      "city": "Sanday"
+    },
+    {
+      "iata": "SZD",
+      "city": "Sheffield"
+    },
+    {
+      "iata": "LWK",
+      "city": "Shetland Islands"
+    },
+    {
+      "iata": "LSI",
+      "city": "Shetland Islands"
+    },
+    {
+      "iata": "SOU",
+      "city": "South Hampton"
+    },
+    {
+      "iata": "SYY",
+      "city": "Stornoway"
+    },
+    {
+      "iata": "SOY",
+      "city": "Stronsay"
+    },
+    {
+      "iata": "MME",
+      "city": "Teesside"
+    },
+    {
+      "iata": "TRE",
+      "city": "Tiree"
+    },
+    {
+      "iata": "WRY",
+      "city": "Westray"
+    },
+    {
+      "iata": "WIC",
+      "city": "Wick"
+    }
+  ],
+  "Saudi Arabia": [
+    {
+      "iata": "AHB",
+      "city": "Abha"
+    },
+    {
+      "iata": "ABT",
+      "city": "Al-Baha"
+    },
+    {
+      "iata": "RAE",
+      "city": "Arar"
+    },
+    {
+      "iata": "BHH",
+      "city": "Bisha"
+    },
+    {
+      "iata": "DMM",
+      "city": "Dammam"
+    },
+    {
+      "iata": "ELQ",
+      "city": "Gassim"
+    },
+    {
+      "iata": "GIZ",
+      "city": "Gizan"
+    },
+    {
+      "iata": "URY",
+      "city": "Gurayat"
+    },
+    {
+      "iata": "HAS",
+      "city": "Hail"
+    },
+    {
+      "iata": "HOF",
+      "city": "Hofuf"
+    },
+    {
+      "iata": "JED",
+      "city": "Jeddah"
+    },
+    {
+      "iata": "AJF",
+      "city": "Jouf"
+    },
+    {
+      "iata": "MED",
+      "city": "Madinah"
+    },
+    {
+      "iata": "EAM",
+      "city": "Nejran"
+    },
+    {
+      "iata": "AQI",
+      "city": "Qaisumah"
+    },
+    {
+      "iata": "RAH",
+      "city": "Rafha"
+    },
+    {
+      "iata": "RUH",
+      "city": "Riyadh"
+    },
+    {
+      "iata": "TUU",
+      "city": "Tabuk"
+    },
+    {
+      "iata": "TIF",
+      "city": "Taif"
+    },
+    {
+      "iata": "TUI",
+      "city": "Turaif"
+    },
+    {
+      "iata": "WAE",
+      "city": "Wadi Ad Dawasir"
+    },
+    {
+      "iata": "EJH",
+      "city": "Wedjh"
+    },
+    {
+      "iata": "YNB",
+      "city": "Yanbu"
+    }
+  ],
+  "Cote d'Ivoire": [
+    {
+      "iata": "ABJ",
+      "city": "Abidjan"
+    }
+  ],
+  "United Arab Emirates": [
+    {
+      "iata": "AUH",
+      "city": "Abu Dhabi"
+    },
+    {
+      "iata": "AAN",
+      "city": "Al Ain"
+    },
+    {
+      "iata": "FJR",
+      "city": "Al-Fujairah"
+    },
+    {
+      "iata": "DXB",
+      "city": "Dubai"
+    },
+    {
+      "iata": "RKT",
+      "city": "Ras Al Khaimah"
+    }
+  ],
+  "Egypt": [
+    {
+      "iata": "ABS",
+      "city": "Abu Simbel"
+    },
+    {
+      "iata": "AAC",
+      "city": "Al Arish"
+    },
+    {
+      "iata": "ALY",
+      "city": "Alexandria"
+    },
+    {
+      "iata": "ATZ",
+      "city": "Assiut"
+    },
+    {
+      "iata": "ASW",
+      "city": "Aswan"
+    },
+    {
+      "iata": "HBE",
+      "city": "Borg El Arab"
+    },
+    {
+      "iata": "CAI",
+      "city": "Cairo"
+    },
+    {
+      "iata": "HRG",
+      "city": "Hurghada"
+    },
+    {
+      "iata": "UVL",
+      "city": "Kharga"
+    },
+    {
+      "iata": "LXR",
+      "city": "Luxor"
+    },
+    {
+      "iata": "MUH",
+      "city": "Mersa Matruh"
+    },
+    {
+      "iata": "SSH",
+      "city": "Sharm El Sheikh"
+    },
+    {
+      "iata": "TCP",
+      "city": "Taba"
+    }
+  ],
+  "Nigeria": [
+    {
+      "iata": "ABV",
+      "city": "Abuja"
+    },
+    {
+      "iata": "CBQ",
+      "city": "Calabar"
+    },
+    {
+      "iata": "ENU",
+      "city": "Enugu"
+    },
+    {
+      "iata": "KAN",
+      "city": "Kano"
+    },
+    {
+      "iata": "LOS",
+      "city": "Lagos"
+    },
+    {
+      "iata": "PHC",
+      "city": "Port Harcourt"
+    }
+  ],
+  "Mexico": [
+    {
+      "iata": "ACA",
+      "city": "Acapulco"
+    },
+    {
+      "iata": "AGU",
+      "city": "Aguascalientes"
+    },
+    {
+      "iata": "SJD",
+      "city": "Cabo San Lucas"
+    },
+    {
+      "iata": "CPE",
+      "city": "Campeche"
+    },
+    {
+      "iata": "CUN",
+      "city": "Cancun"
+    },
+    {
+      "iata": "CTM",
+      "city": "Chetumal"
+    },
+    {
+      "iata": "CUU",
+      "city": "Chihuahua"
+    },
+    {
+      "iata": "CME",
+      "city": "Ciudad Del Carmen"
+    },
+    {
+      "iata": "CJS",
+      "city": "Ciudad Juarez"
+    },
+    {
+      "iata": "CEN",
+      "city": "Ciudad Obregon"
+    },
+    {
+      "iata": "CVM",
+      "city": "Ciudad Victoria"
+    },
+    {
+      "iata": "CLQ",
+      "city": "Colima"
+    },
+    {
+      "iata": "CZM",
+      "city": "Cozumel"
+    },
+    {
+      "iata": "CVJ",
+      "city": "Cuernavaca"
+    },
+    {
+      "iata": "CUL",
+      "city": "Culiacan"
+    },
+    {
+      "iata": "DGO",
+      "city": "Durango"
+    },
+    {
+      "iata": "GDL",
+      "city": "Guadalajara"
+    },
+    {
+      "iata": "BJX",
+      "city": "Guanajuato"
+    },
+    {
+      "iata": "GYM",
+      "city": "Guaymas"
+    },
+    {
+      "iata": "GUB",
+      "city": "Guerrero Negro"
+    },
+    {
+      "iata": "HMO",
+      "city": "Hermosillo"
+    },
+    {
+      "iata": "HUX",
+      "city": "Huatulco"
+    },
+    {
+      "iata": "ZIH",
+      "city": "Ixtapa"
+    },
+    {
+      "iata": "IZT",
+      "city": "Ixtepec"
+    },
+    {
+      "iata": "JAL",
+      "city": "Jalapa"
+    },
+    {
+      "iata": "LAP",
+      "city": "La Paz"
+    },
+    {
+      "iata": "BJX",
+      "city": "Leon"
+    },
+    {
+      "iata": "LTO",
+      "city": "Loreto"
+    },
+    {
+      "iata": "SJD",
+      "city": "Los Cabos"
+    },
+    {
+      "iata": "LMM",
+      "city": "Los Mochis"
+    },
+    {
+      "iata": "LZC",
+      "city": "Lozaro Cardenas"
+    },
+    {
+      "iata": "ZLO",
+      "city": "Manzanillo"
+    },
+    {
+      "iata": "MAM",
+      "city": "Matamoros"
+    },
+    {
+      "iata": "MZT",
+      "city": "Mazatlan"
+    },
+    {
+      "iata": "MID",
+      "city": "Merida"
+    },
+    {
+      "iata": "MXL",
+      "city": "Mexicali"
+    },
+    {
+      "iata": "MEX",
+      "city": "Mexico City"
+    },
+    {
+      "iata": "MTT",
+      "city": "Minatitla"
+    },
+    {
+      "iata": "LOV",
+      "city": "Monclova"
+    },
+    {
+      "iata": "MTY",
+      "city": "Monterrey"
+    },
+    {
+      "iata": "MLM",
+      "city": "Morelia"
+    },
+    {
+      "iata": "NLD",
+      "city": "Nuevo Laredo"
+    },
+    {
+      "iata": "OAX",
+      "city": "Oaxaca"
+    },
+    {
+      "iata": "PQM",
+      "city": "Palenque"
+    },
+    {
+      "iata": "PDS",
+      "city": "Piedras Negras"
+    },
+    {
+      "iata": "PAZ",
+      "city": "Poza Rico"
+    },
+    {
+      "iata": "PBC",
+      "city": "Puebla"
+    },
+    {
+      "iata": "PXM",
+      "city": "Puerto Escondido"
+    },
+    {
+      "iata": "PVR",
+      "city": "Puerto Vallarta"
+    },
+    {
+      "iata": "QRO",
+      "city": "Queretaro"
+    },
+    {
+      "iata": "REX",
+      "city": "Reynossa"
+    },
+    {
+      "iata": "SZT",
+      "city": "S. Cristobal del Casas"
+    },
+    {
+      "iata": "SLW",
+      "city": "Saltillo"
+    },
+    {
+      "iata": "SLP",
+      "city": "San Luis Potosi"
+    },
+    {
+      "iata": "TAM",
+      "city": "Tampico"
+    },
+    {
+      "iata": "TAP",
+      "city": "Tapachula"
+    },
+    {
+      "iata": "TPQ",
+      "city": "Tepic"
+    },
+    {
+      "iata": "TIJ",
+      "city": "Tijuana"
+    },
+    {
+      "iata": "TLC",
+      "city": "Toluco"
+    },
+    {
+      "iata": "TRC",
+      "city": "Torreon"
+    },
+    {
+      "iata": "TGZ",
+      "city": "Tuxtla Gutierrez"
+    },
+    {
+      "iata": "UPN",
+      "city": "Uruapan"
+    },
+    {
+      "iata": "VER",
+      "city": "Veracruz"
+    },
+    {
+      "iata": "VSA",
+      "city": "Villahermosa"
+    },
+    {
+      "iata": "ZIH",
+      "city": "Zihuatanejo/Ixtapa"
+    }
+  ],
+  "Venezuela": [
+    {
+      "iata": "AGV",
+      "city": "Acarigua"
+    },
+    {
+      "iata": "BLA",
+      "city": "Barcelona"
+    },
+    {
+      "iata": "BNS",
+      "city": "Barinas"
+    },
+    {
+      "iata": "BRM",
+      "city": "Barquisimeto"
+    },
+    {
+      "iata": "CAS",
+      "city": "Canaima"
+    },
+    {
+      "iata": "CCS",
+      "city": "Caracas"
+    },
+    {
+      "iata": "CUP",
+      "city": "Carupani"
+    },
+    {
+      "iata": "CBL",
+      "city": "Ciudad Bolivar"
+    },
+    {
+      "iata": "CZE",
+      "city": "Coro"
+    },
+    {
+      "iata": "CUM",
+      "city": "Cumana"
+    },
+    {
+      "iata": "VIG",
+      "city": "El Vigia"
+    },
+    {
+      "iata": "GUI",
+      "city": "Guiria"
+    },
+    {
+      "iata": "LSP",
+      "city": "Las Piedras"
+    },
+    {
+      "iata": "MAR",
+      "city": "Maracaibo"
+    },
+    {
+      "iata": "MYC",
+      "city": "Maracay"
+    },
+    {
+      "iata": "MUN",
+      "city": "Maturin"
+    },
+    {
+      "iata": "MRD",
+      "city": "Merida"
+    },
+    {
+      "iata": "PMV",
+      "city": "Porlamar"
+    },
+    {
+      "iata": "PYH",
+      "city": "Puerto Ayacucha"
+    },
+    {
+      "iata": "PZO",
+      "city": "Puerto Ordaz"
+    },
+    {
+      "iata": "SVZ",
+      "city": "San Antonio"
+    },
+    {
+      "iata": "STB",
+      "city": "Santa Barbara"
+    },
+    {
+      "iata": "STD",
+      "city": "Santo Domingo"
+    },
+    {
+      "iata": "TUV",
+      "city": "Tucupita"
+    },
+    {
+      "iata": "VLN",
+      "city": "Valencia"
+    },
+    {
+      "iata": "VLV",
+      "city": "Valera"
+    }
+  ],
+  "Ghana": [
+    {
+      "iata": "ACC",
+      "city": "Accra"
+    }
+  ],
+  "Turkey": [
+    {
+      "iata": "ADA",
+      "city": "Adana"
+    },
+    {
+      "iata": "AJI",
+      "city": "Agri"
+    },
+    {
+      "iata": "ESB",
+      "city": "Ankara"
+    },
+    {
+      "iata": "ANK",
+      "city": "Ankara"
+    },
+    {
+      "iata": "AYT",
+      "city": "Antalya"
+    },
+    {
+      "iata": "BZI",
+      "city": "Balikesir"
+    },
+    {
+      "iata": "BAL",
+      "city": "Batman"
+    },
+    {
+      "iata": "BJV",
+      "city": "Bodrum"
+    },
+    {
+      "iata": "DLM",
+      "city": "Dalaman"
+    },
+    {
+      "iata": "DNZ",
+      "city": "Denizli"
+    },
+    {
+      "iata": "DIY",
+      "city": "Diyarbakir"
+    },
+    {
+      "iata": "EDO",
+      "city": "Edremit"
+    },
+    {
+      "iata": "EZS",
+      "city": "Elazig"
+    },
+    {
+      "iata": "ERC",
+      "city": "Erzincan"
+    },
+    {
+      "iata": "ERZ",
+      "city": "Erzurum"
+    },
+    {
+      "iata": "GZT",
+      "city": "Gaziatep"
+    },
+    {
+      "iata": "IST",
+      "city": "Istanbul"
+    },
+    {
+      "iata": "ADB",
+      "city": "Izmir"
+    },
+    {
+      "iata": "ASR",
+      "city": "Kayseri"
+    },
+    {
+      "iata": "KYA",
+      "city": "Konya"
+    },
+    {
+      "iata": "KCM",
+      "city": "Kahramanmaras"
+    },
+    {
+      "iata": "MLX",
+      "city": "Malatya"
+    },
+    {
+      "iata": "MSR",
+      "city": "Mus"
+    },
+    {
+      "iata": "VAS",
+      "city": "Sivas"
+    },
+    {
+      "iata": "TZX",
+      "city": "Trabzon"
+    },
+    {
+      "iata": "VAN",
+      "city": "Van"
+    }
+  ],
+  "Ethopia": [
+    {
+      "iata": "ADD",
+      "city": "Addis Ababa"
+    },
+    {
+      "iata": "ASO",
+      "city": "Asosa"
+    },
+    {
+      "iata": "GDE",
+      "city": "Gode/Iddidole"
+    }
+  ],
+  "Australia": [
+    {
+      "iata": "ADL",
+      "city": "Adelaide"
+    },
+    {
+      "iata": "ABX",
+      "city": "Albury"
+    },
+    {
+      "iata": "ASP",
+      "city": "Alice Springs"
+    },
+    {
+      "iata": "GYL",
+      "city": "Argyle"
+    },
+    {
+      "iata": "ARM",
+      "city": "Armidale"
+    },
+    {
+      "iata": "AUU",
+      "city": "Aurukun"
+    },
+    {
+      "iata": "AYQ",
+      "city": "Ayers Rock"
+    },
+    {
+      "iata": "BDD",
+      "city": "Badu Island"
+    },
+    {
+      "iata": "BNK",
+      "city": "Ballina"
+    },
+    {
+      "iata": "ABM",
+      "city": "Bamaga"
+    },
+    {
+      "iata": "BCI",
+      "city": "Barcaldine"
+    },
+    {
+      "iata": "BRT",
+      "city": "Bathurst Island"
+    },
+    {
+      "iata": "BHS",
+      "city": "Bathurst"
+    },
+    {
+      "iata": "BEU",
+      "city": "Bedourie"
+    },
+    {
+      "iata": "BVI",
+      "city": "Birdsville"
+    },
+    {
+      "iata": "BKQ",
+      "city": "Blackall"
+    },
+    {
+      "iata": "BLT",
+      "city": "Blackwater"
+    },
+    {
+      "iata": "GIC",
+      "city": "Boiju Island"
+    },
+    {
+      "iata": "BOX",
+      "city": "Borroloola"
+    },
+    {
+      "iata": "BQL",
+      "city": "Boulia"
+    },
+    {
+      "iata": "BRK",
+      "city": "Bourke"
+    },
+    {
+      "iata": "BMP",
+      "city": "Brampton Island"
+    },
+    {
+      "iata": "BWQ",
+      "city": "Brewarrina"
+    },
+    {
+      "iata": "BNE",
+      "city": "Brisbane"
+    },
+    {
+      "iata": "BHQ",
+      "city": "Broken Hill"
+    },
+    {
+      "iata": "BME",
+      "city": "Broome"
+    },
+    {
+      "iata": "BDB",
+      "city": "Bundaberg"
+    },
+    {
+      "iata": "BUC",
+      "city": "Burketown"
+    },
+    {
+      "iata": "BWT",
+      "city": "Burnie"
+    },
+    {
+      "iata": "CNS",
+      "city": "Cairns"
+    },
+    {
+      "iata": "CBR",
+      "city": "Canberra"
+    },
+    {
+      "iata": "CVQ",
+      "city": "Carnarvon"
+    },
+    {
+      "iata": "CSI",
+      "city": "Casino"
+    },
+    {
+      "iata": "CED",
+      "city": "Cedun"
+    },
+    {
+      "iata": "CTL",
+      "city": "Charleville"
+    },
+    {
+      "iata": "CVC",
+      "city": "Cleve"
+    },
+    {
+      "iata": "CNJ",
+      "city": "Cloncurry"
+    },
+    {
+      "iata": "CAZ",
+      "city": "Cobar"
+    },
+    {
+      "iata": "CNC",
+      "city": "Coconut Island"
+    },
+    {
+      "iata": "CUQ",
+      "city": "Coen"
+    },
+    {
+      "iata": "CFS",
+      "city": "Coffs Harbor"
+    },
+    {
+      "iata": "CPD",
+      "city": "Coober Pedy"
+    },
+    {
+      "iata": "CTN",
+      "city": "Cooktown"
+    },
+    {
+      "iata": "OOM",
+      "city": "Cooma"
+    },
+    {
+      "iata": "CNB",
+      "city": "Coonamble"
+    },
+    {
+      "iata": "CKI",
+      "city": "Croker Island"
+    },
+    {
+      "iata": "CMA",
+      "city": "Cunnamulla"
+    },
+    {
+      "iata": "NLF",
+      "city": "Darnley Island"
+    },
+    {
+      "iata": "DRW",
+      "city": "Darwin"
+    },
+    {
+      "iata": "DDI",
+      "city": "Daydream Is"
+    },
+    {
+      "iata": "DNM",
+      "city": "Denham"
+    },
+    {
+      "iata": "DRB",
+      "city": "Derby"
+    },
+    {
+      "iata": "DPO",
+      "city": "Devonport"
+    },
+    {
+      "iata": "DMD",
+      "city": "Doomadgee"
+    },
+    {
+      "iata": "DBO",
+      "city": "Dubbo"
+    },
+    {
+      "iata": "DKI",
+      "city": "Dunk Island"
+    },
+    {
+      "iata": "EDR",
+      "city": "Edward River"
+    },
+    {
+      "iata": "ELC",
+      "city": "Elcho Island"
+    },
+    {
+      "iata": "EMD",
+      "city": "Emerald"
+    },
+    {
+      "iata": "EPR",
+      "city": "Esperance"
+    },
+    {
+      "iata": "EXM",
+      "city": "Exmouth Gulf"
+    },
+    {
+      "iata": "FIZ",
+      "city": "Fitzroy Crossing"
+    },
+    {
+      "iata": "GPN",
+      "city": "Garden Point"
+    },
+    {
+      "iata": "GLT",
+      "city": "Gladstone"
+    },
+    {
+      "iata": "GLI",
+      "city": "Glen Innes"
+    },
+    {
+      "iata": "OOL",
+      "city": "Gold Coast"
+    },
+    {
+      "iata": "GBL",
+      "city": "Goulburn Island"
+    },
+    {
+      "iata": "GOV",
+      "city": "Gove"
+    },
+    {
+      "iata": "GFN",
+      "city": "Grafton"
+    },
+    {
+      "iata": "GFF",
+      "city": "Griffith"
+    },
+    {
+      "iata": "GTE",
+      "city": "Groofe Eylandt"
+    },
+    {
+      "iata": "HCQ",
+      "city": "Halls Creek"
+    },
+    {
+      "iata": "HTI",
+      "city": "Hamilton Island"
+    },
+    {
+      "iata": "HIS",
+      "city": "Hayman Island"
+    },
+    {
+      "iata": "HVB",
+      "city": "Hervey Bay"
+    },
+    {
+      "iata": "HBA",
+      "city": "Hobart"
+    },
+    {
+      "iata": "HOK",
+      "city": "Hooker"
+    },
+    {
+      "iata": "HGD",
+      "city": "Hughenden"
+    },
+    {
+      "iata": "IVR",
+      "city": "Inverell"
+    },
+    {
+      "iata": "JCK",
+      "city": "Julia Creek"
+    },
+    {
+      "iata": "KAX",
+      "city": "Kalbarri"
+    },
+    {
+      "iata": "KTR",
+      "city": "Katherine"
+    },
+    {
+      "iata": "KWM",
+      "city": "Kowanyama"
+    },
+    {
+      "iata": "KUG",
+      "city": "Kubin Island"
+    },
+    {
+      "iata": "LST",
+      "city": "Launceston"
+    },
+    {
+      "iata": "LVO",
+      "city": "Laverton"
+    },
+    {
+      "iata": "LEA",
+      "city": "Learmonth"
+    },
+    {
+      "iata": "LER",
+      "city": "Leinster"
+    },
+    {
+      "iata": "LNO",
+      "city": "Leonora"
+    },
+    {
+      "iata": "LHG",
+      "city": "Lightning Ridge"
+    },
+    {
+      "iata": "LDC",
+      "city": "Lindeman Island"
+    },
+    {
+      "iata": "LSY",
+      "city": "Lismore"
+    },
+    {
+      "iata": "LZR",
+      "city": "Lizard Island"
+    },
+    {
+      "iata": "IRG",
+      "city": "Lockhart River"
+    },
+    {
+      "iata": "HAP",
+      "city": "Long Island"
+    },
+    {
+      "iata": "LRE",
+      "city": "Longreach"
+    },
+    {
+      "iata": "LDH",
+      "city": "Lord Howe Island"
+    },
+    {
+      "iata": "UBB",
+      "city": "Mabuiag Island"
+    },
+    {
+      "iata": "MKY",
+      "city": "Mackay"
+    },
+    {
+      "iata": "MNG",
+      "city": "Maningrioa"
+    },
+    {
+      "iata": "MBH",
+      "city": "Maryborough"
+    },
+    {
+      "iata": "MCV",
+      "city": "Mcarthur River"
+    },
+    {
+      "iata": "MKR",
+      "city": "Meekatharra"
+    },
+    {
+      "iata": "MEL",
+      "city": "Melbourne"
+    },
+    {
+      "iata": "MIM",
+      "city": "Merimbula"
+    },
+    {
+      "iata": "MQL",
+      "city": "Mildura"
+    },
+    {
+      "iata": "MGT",
+      "city": "Milingimbi"
+    },
+    {
+      "iata": "MJK",
+      "city": "Monkey Mia"
+    },
+    {
+      "iata": "MOV",
+      "city": "Moranbah"
+    },
+    {
+      "iata": "MRZ",
+      "city": "Moree"
+    },
+    {
+      "iata": "ONG",
+      "city": "Mornington"
+    },
+    {
+      "iata": "MYA",
+      "city": "Moruya"
+    },
+    {
+      "iata": "MGB",
+      "city": "Mount Gambier"
+    },
+    {
+      "iata": "MHU",
+      "city": "Mount Hotham"
+    },
+    {
+      "iata": "ISA",
+      "city": "Mount Isa"
+    },
+    {
+      "iata": "WME",
+      "city": "Mount Keith"
+    },
+    {
+      "iata": "MMG",
+      "city": "Mount Magnet"
+    },
+    {
+      "iata": "DGE",
+      "city": "Mudgee"
+    },
+    {
+      "iata": "MYI",
+      "city": "Murray Island"
+    },
+    {
+      "iata": "NAA",
+      "city": "Narrabri"
+    },
+    {
+      "iata": "NTL",
+      "city": "Newcastle"
+    },
+    {
+      "iata": "ZNE",
+      "city": "Newman"
+    },
+    {
+      "iata": "RPM",
+      "city": "Ngukurr"
+    },
+    {
+      "iata": "NTN",
+      "city": "Normanton"
+    },
+    {
+      "iata": "NUB",
+      "city": "Numbulwar"
+    },
+    {
+      "iata": "NYN",
+      "city": "Nyngan"
+    },
+    {
+      "iata": "OLP",
+      "city": "Olympic Dam"
+    },
+    {
+      "iata": "OAG",
+      "city": "Orange"
+    },
+    {
+      "iata": "PBO",
+      "city": "Paraburdoo"
+    },
+    {
+      "iata": "PER",
+      "city": "Perth"
+    },
+    {
+      "iata": "PUG",
+      "city": "Port Augusta"
+    },
+    {
+      "iata": "PHE",
+      "city": "Port Headland"
+    },
+    {
+      "iata": "PLO",
+      "city": "Port Lincoln"
+    },
+    {
+      "iata": "PQQ",
+      "city": "Port Macquarie"
+    },
+    {
+      "iata": "PTJ",
+      "city": "Portland"
+    },
+    {
+      "iata": "PPP",
+      "city": "Proserpine"
+    },
+    {
+      "iata": "ULP",
+      "city": "Quipi"
+    },
+    {
+      "iata": "RAM",
+      "city": "Ramingining"
+    },
+    {
+      "iata": "RCM",
+      "city": "Richmond"
+    },
+    {
+      "iata": "ROK",
+      "city": "Rockhampton"
+    },
+    {
+      "iata": "RMA",
+      "city": "Roma"
+    },
+    {
+      "iata": "JHQ",
+      "city": "Shute Harbor"
+    },
+    {
+      "iata": "SOI",
+      "city": "South Molle Island"
+    },
+    {
+      "iata": "SYU",
+      "city": "Sue Island"
+    },
+    {
+      "iata": "MCY",
+      "city": "Sunshine Coast"
+    },
+    {
+      "iata": "SYD",
+      "city": "Sydney"
+    },
+    {
+      "iata": "TMW",
+      "city": "Tamworth"
+    },
+    {
+      "iata": "TRO",
+      "city": "Taree"
+    },
+    {
+      "iata": "TCA",
+      "city": "Tennant Creek"
+    },
+    {
+      "iata": "THG",
+      "city": "Thangool"
+    },
+    {
+      "iata": "XTG",
+      "city": "Thargomindah"
+    },
+    {
+      "iata": "TIS",
+      "city": "Thursday Island"
+    },
+    {
+      "iata": "TPR",
+      "city": "Tom Price"
+    },
+    {
+      "iata": "TWB",
+      "city": "Toowoomba"
+    },
+    {
+      "iata": "TSV",
+      "city": "Townsville"
+    },
+    {
+      "iata": "TGN",
+      "city": "Traralgon"
+    },
+    {
+      "iata": "USL",
+      "city": "Useless Loop"
+    },
+    {
+      "iata": "VCD",
+      "city": "Victoria River Downs"
+    },
+    {
+      "iata": "WGA",
+      "city": "Wagga Wagga"
+    },
+    {
+      "iata": "WGE",
+      "city": "Walgett"
+    },
+    {
+      "iata": "WEI",
+      "city": "Weipa"
+    },
+    {
+      "iata": "WYA",
+      "city": "Whyalla"
+    },
+    {
+      "iata": "WUN",
+      "city": "Wiluna"
+    },
+    {
+      "iata": "WNR",
+      "city": "Windarra"
+    },
+    {
+      "iata": "WIN",
+      "city": "Winton"
+    },
+    {
+      "iata": "WUD",
+      "city": "Wudinna"
+    },
+    {
+      "iata": "WYN",
+      "city": "Wyndham"
+    },
+    {
+      "iata": "XMY",
+      "city": "Yam Island"
+    },
+    {
+      "iata": "OKR",
+      "city": "Yorke Island"
+    }
+  ],
+  "Yemen": [
+    {
+      "iata": "ADE",
+      "city": "Aden"
+    },
+    {
+      "iata": "AAY",
+      "city": "Al Ghaydah"
+    },
+    {
+      "iata": "AXK",
+      "city": "Ataq"
+    },
+    {
+      "iata": "HOD",
+      "city": "Hodeidah"
+    },
+    {
+      "iata": "RIY",
+      "city": "Riyan Mukalla"
+    },
+    {
+      "iata": "SAH",
+      "city": "Sana'a"
+    },
+    {
+      "iata": "GXF",
+      "city": "Seiyun"
+    },
+    {
+      "iata": "TAI",
+      "city": "Taiz"
+    }
+  ],
+  "Algeria": [
+    {
+      "iata": "AZR",
+      "city": "Adrar"
+    },
+    {
+      "iata": "ALG",
+      "city": "Algiers"
+    },
+    {
+      "iata": "AAE",
+      "city": "Annaba"
+    },
+    {
+      "iata": "BLJ",
+      "city": "Batna"
+    },
+    {
+      "iata": "CBH",
+      "city": "Bechar"
+    },
+    {
+      "iata": "BJA",
+      "city": "Bejaia"
+    },
+    {
+      "iata": "BSK",
+      "city": "Biskra"
+    },
+    {
+      "iata": "CZL",
+      "city": "Constantine"
+    },
+    {
+      "iata": "DJG",
+      "city": "Djanet"
+    },
+    {
+      "iata": "ELU",
+      "city": "El Oved"
+    },
+    {
+      "iata": "GHA",
+      "city": "Ghardala"
+    },
+    {
+      "iata": "HME",
+      "city": "Hassi Messaoud"
+    },
+    {
+      "iata": "IAM",
+      "city": "In Amenas"
+    },
+    {
+      "iata": "GJL",
+      "city": "Jijel"
+    },
+    {
+      "iata": "ORN",
+      "city": "Oran"
+    },
+    {
+      "iata": "OGX",
+      "city": "Ouargla"
+    },
+    {
+      "iata": "TMR",
+      "city": "Tamanrasset"
+    },
+    {
+      "iata": "TEE",
+      "city": "Tbessa"
+    },
+    {
+      "iata": "TID",
+      "city": "Tiaret"
+    },
+    {
+      "iata": "TMX",
+      "city": "Timimoun"
+    },
+    {
+      "iata": "TIN",
+      "city": "Tindouf"
+    },
+    {
+      "iata": "TLM",
+      "city": "Tlemcen"
+    }
+  ],
+  "Soloman Islands": [
+    {
+      "iata": "AFT",
+      "city": "Afutara"
+    }
+  ],
+  "Morocco": [
+    {
+      "iata": "AGA",
+      "city": "Agadir"
+    },
+    {
+      "iata": "AHU",
+      "city": "Al Hoceima"
+    },
+    {
+      "iata": "CAS",
+      "city": "Casablanca"
+    },
+    {
+      "iata": "CMN",
+      "city": "Casablanca"
+    },
+    {
+      "iata": "VIL",
+      "city": "Dakhla"
+    },
+    {
+      "iata": "FEZ",
+      "city": "Fez"
+    },
+    {
+      "iata": "EUN",
+      "city": "Laayoune"
+    },
+    {
+      "iata": "NDR",
+      "city": "Nadar"
+    },
+    {
+      "iata": "OZZ",
+      "city": "Ouarzazate"
+    },
+    {
+      "iata": "OUD",
+      "city": "Oujda"
+    },
+    {
+      "iata": "RBA",
+      "city": "Rabat"
+    },
+    {
+      "iata": "TNG",
+      "city": "Tangier"
+    },
+    {
+      "iata": "TTU",
+      "city": "Tetuan"
+    }
+  ],
+  "India": [
+    {
+      "iata": "IXA",
+      "city": "Agartala"
+    },
+    {
+      "iata": "AGR",
+      "city": "Agra"
+    },
+    {
+      "iata": "AMD",
+      "city": "Ahmedabad"
+    },
+    {
+      "iata": "AJL",
+      "city": "Aizawl"
+    },
+    {
+      "iata": "ATQ",
+      "city": "Amritsar"
+    },
+    {
+      "iata": "IXU",
+      "city": "Aurangabad"
+    },
+    {
+      "iata": "IXB",
+      "city": "Bagdogra"
+    },
+    {
+      "iata": "BLR",
+      "city": "Bangalore"
+    },
+    {
+      "iata": "BHU",
+      "city": "Bhavnagar"
+    },
+    {
+      "iata": "BHO",
+      "city": "Bhopal"
+    },
+    {
+      "iata": "BBI",
+      "city": "Bhubaneswar"
+    },
+    {
+      "iata": "BHJ",
+      "city": "Bhuj"
+    },
+    {
+      "iata": "BOM",
+      "city": "Bombay"
+    },
+    {
+      "iata": "CCU",
+      "city": "Calcutta"
+    },
+    {
+      "iata": "IXC",
+      "city": "Chandigarh"
+    },
+    {
+      "iata": "MAA",
+      "city": "Chennai"
+    },
+    {
+      "iata": "COK",
+      "city": "Cochin"
+    },
+    {
+      "iata": "CJB",
+      "city": "Coimbatore"
+    },
+    {
+      "iata": "DEL",
+      "city": "Delhi"
+    },
+    {
+      "iata": "DIB",
+      "city": "Dibrugarn"
+    },
+    {
+      "iata": "DMU",
+      "city": "Dimapur"
+    },
+    {
+      "iata": "DIU",
+      "city": "Div"
+    },
+    {
+      "iata": "GAU",
+      "city": "Gawahati"
+    },
+    {
+      "iata": "GOI",
+      "city": "Goa"
+    },
+    {
+      "iata": "GWL",
+      "city": "Gwalior"
+    },
+    {
+      "iata": "HYD",
+      "city": "Hyderabad"
+    },
+    {
+      "iata": "IMF",
+      "city": "Imphal"
+    },
+    {
+      "iata": "IDR",
+      "city": "Indore"
+    },
+    {
+      "iata": "JAI",
+      "city": "Jaipur"
+    },
+    {
+      "iata": "JGA",
+      "city": "Jamnagar"
+    },
+    {
+      "iata": "JDH",
+      "city": "Jodhpur"
+    },
+    {
+      "iata": "IXJ",
+      "city": "Jommu"
+    },
+    {
+      "iata": "JRH",
+      "city": "Jorhat"
+    },
+    {
+      "iata": "HJR",
+      "city": "Khajuraho"
+    },
+    {
+      "iata": "CCU",
+      "city": "Kolkata"
+    },
+    {
+      "iata": "CCJ",
+      "city": "Kozhikode"
+    },
+    {
+      "iata": "IXL",
+      "city": "Leh"
+    },
+    {
+      "iata": "LKO",
+      "city": "Lucknow"
+    },
+    {
+      "iata": "IXM",
+      "city": "Madurai"
+    },
+    {
+      "iata": "IXE",
+      "city": "Mangalore"
+    },
+    {
+      "iata": "BOM",
+      "city": "Mumbai"
+    },
+    {
+      "iata": "NAG",
+      "city": "Nagpur"
+    },
+    {
+      "iata": "PAT",
+      "city": "Patna"
+    },
+    {
+      "iata": "PBD",
+      "city": "Porbandar"
+    },
+    {
+      "iata": "IXZ",
+      "city": "Port Blair"
+    },
+    {
+      "iata": "PNQ",
+      "city": "Pune"
+    },
+    {
+      "iata": "PUT",
+      "city": "Puttaparthi"
+    },
+    {
+      "iata": "RAJ",
+      "city": "Rajkot"
+    },
+    {
+      "iata": "IXR",
+      "city": "Ranchi"
+    },
+    {
+      "iata": "IXS",
+      "city": "Silchar"
+    },
+    {
+      "iata": "SXR",
+      "city": "Srinagar"
+    },
+    {
+      "iata": "TEZ",
+      "city": "Tezpur"
+    },
+    {
+      "iata": "TRV",
+      "city": "Thiruvananthapuram"
+    },
+    {
+      "iata": "TRZ",
+      "city": "Tiruchirapally"
+    },
+    {
+      "iata": "TIR",
+      "city": "Tirupati"
+    },
+    {
+      "iata": "BDQ",
+      "city": "Vadodara"
+    },
+    {
+      "iata": "VNS",
+      "city": "Varanasi"
+    },
+    {
+      "iata": "VTZ",
+      "city": "Vishakhapatnam"
+    }
+  ],
+  "Papua New Guinea": [
+    {
+      "iata": "AUP",
+      "city": "Agaun"
+    },
+    {
+      "iata": "GUR",
+      "city": "Alotau"
+    },
+    {
+      "iata": "AZB",
+      "city": "Amazon Bay"
+    },
+    {
+      "iata": "ARP",
+      "city": "Aragip"
+    },
+    {
+      "iata": "VMU",
+      "city": "Baimuru"
+    },
+    {
+      "iata": "OPU",
+      "city": "Balimo"
+    },
+    {
+      "iata": "BOV",
+      "city": "Boang"
+    },
+    {
+      "iata": "BUA",
+      "city": "Buka"
+    },
+    {
+      "iata": "BXZ",
+      "city": "Bunsil"
+    },
+    {
+      "iata": "CPI",
+      "city": "Cape Orford"
+    },
+    {
+      "iata": "CVL",
+      "city": "Cape Vogel"
+    },
+    {
+      "iata": "DAU",
+      "city": "Daru"
+    },
+    {
+      "iata": "DER",
+      "city": "Derim"
+    },
+    {
+      "iata": "DDM",
+      "city": "Dodoima"
+    },
+    {
+      "iata": "EMS",
+      "city": "Embessa"
+    },
+    {
+      "iata": "EMO",
+      "city": "Emo"
+    },
+    {
+      "iata": "GAR",
+      "city": "Garaina"
+    },
+    {
+      "iata": "GRL",
+      "city": "Garasa"
+    },
+    {
+      "iata": "GOE",
+      "city": "Gonalia"
+    },
+    {
+      "iata": "GKA",
+      "city": "Goroka"
+    },
+    {
+      "iata": "HIT",
+      "city": "Hivaro"
+    },
+    {
+      "iata": "HKN",
+      "city": "Hoskins"
+    },
+    {
+      "iata": "IHU",
+      "city": "Ihu"
+    },
+    {
+      "iata": "IDN",
+      "city": "Indagen"
+    },
+    {
+      "iata": "IOP",
+      "city": "Ioma"
+    },
+    {
+      "iata": "ITK",
+      "city": "Itokama"
+    },
+    {
+      "iata": "JAQ",
+      "city": "Jacquinot Bay"
+    },
+    {
+      "iata": "KBM",
+      "city": "Kabwun"
+    },
+    {
+      "iata": "KZF",
+      "city": "Kaintiba"
+    },
+    {
+      "iata": "KUY",
+      "city": "Kamusi"
+    },
+    {
+      "iata": "KVG",
+      "city": "Kavieng"
+    },
+    {
+      "iata": "UNG",
+      "city": "Kiunga"
+    },
+    {
+      "iata": "KUQ",
+      "city": "Kuri"
+    },
+    {
+      "iata": "LAB",
+      "city": "Lablab"
+    },
+    {
+      "iata": "LAE",
+      "city": "Lae"
+    },
+    {
+      "iata": "LNV",
+      "city": "Lihir Island"
+    },
+    {
+      "iata": "LSA",
+      "city": "Losuia"
+    },
+    {
+      "iata": "MAG",
+      "city": "Madang"
+    },
+    {
+      "iata": "MFO",
+      "city": "Manguna"
+    },
+    {
+      "iata": "MAS",
+      "city": "Manus Island"
+    },
+    {
+      "iata": "MDU",
+      "city": "Mendi"
+    },
+    {
+      "iata": "MYX",
+      "city": "Menyamya"
+    },
+    {
+      "iata": "MIS",
+      "city": "Misima Island"
+    },
+    {
+      "iata": "MXH",
+      "city": "Moro"
+    },
+    {
+      "iata": "HGU",
+      "city": "Mount Hagen"
+    },
+    {
+      "iata": "ATN",
+      "city": "Namatana"
+    },
+    {
+      "iata": "NDI",
+      "city": "Namudi"
+    },
+    {
+      "iata": "PNP",
+      "city": "Popondetta"
+    },
+    {
+      "iata": "POM",
+      "city": "Port Moresby"
+    },
+    {
+      "iata": "RBP",
+      "city": "Rabaraba"
+    },
+    {
+      "iata": "RAB",
+      "city": "Rabaul"
+    },
+    {
+      "iata": "SWG",
+      "city": "Satwag"
+    },
+    {
+      "iata": "TBG",
+      "city": "Tabubil"
+    },
+    {
+      "iata": "TIZ",
+      "city": "Tari"
+    },
+    {
+      "iata": "TKB",
+      "city": "Tekadu"
+    },
+    {
+      "iata": "TDB",
+      "city": "Tetabedi"
+    },
+    {
+      "iata": "TFI",
+      "city": "Tufi"
+    },
+    {
+      "iata": "URU",
+      "city": "Uroubi"
+    },
+    {
+      "iata": "VAI",
+      "city": "Vanimo"
+    },
+    {
+      "iata": "VIV",
+      "city": "Vivigani"
+    },
+    {
+      "iata": "AGL",
+      "city": "Wanigela"
+    },
+    {
+      "iata": "WSU",
+      "city": "Wasu"
+    },
+    {
+      "iata": "WUG",
+      "city": "Wau"
+    },
+    {
+      "iata": "WED",
+      "city": "Wedau"
+    },
+    {
+      "iata": "WWK",
+      "city": "Wewak"
+    },
+    {
+      "iata": "KYX",
+      "city": "Yalumet"
+    }
+  ],
+  "France": [
+    {
+      "iata": "AGF",
+      "city": "Agen"
+    },
+    {
+      "iata": "AJA",
+      "city": "Ajaccio"
+    },
+    {
+      "iata": "ANE",
+      "city": "Angers"
+    },
+    {
+      "iata": "QXG",
+      "city": "Angers"
+    },
+    {
+      "iata": "ANG",
+      "city": "Angouleme"
+    },
+    {
+      "iata": "NCY",
+      "city": "Annecy"
+    },
+    {
+      "iata": "AUR",
+      "city": "Aurillac"
+    },
+    {
+      "iata": "AVN",
+      "city": "Avignon"
+    },
+    {
+      "iata": "BIA",
+      "city": "Bastia"
+    },
+    {
+      "iata": "EGC",
+      "city": "Bergerac"
+    },
+    {
+      "iata": "BZR",
+      "city": "Beziers"
+    },
+    {
+      "iata": "BIQ",
+      "city": "Biarritz"
+    },
+    {
+      "iata": "BOD",
+      "city": "Bordeaux"
+    },
+    {
+      "iata": "BES",
+      "city": "Brest"
+    },
+    {
+      "iata": "BVE",
+      "city": "Brive-La-Gaillarde"
+    },
+    {
+      "iata": "CFR",
+      "city": "Caen"
+    },
+    {
+      "iata": "CLY",
+      "city": "Calvi"
+    },
+    {
+      "iata": "CEQ",
+      "city": "Cannes"
+    },
+    {
+      "iata": "JCA",
+      "city": "Cannes"
+    },
+    {
+      "iata": "QYW",
+      "city": "Cannes"
+    },
+    {
+      "iata": "CCF",
+      "city": "Carcassonne"
+    },
+    {
+      "iata": "DCM",
+      "city": "Castres"
+    },
+    {
+      "iata": "CMF",
+      "city": "Chambery"
+    },
+    {
+      "iata": "CFE",
+      "city": "Clermont-ferrand"
+    },
+    {
+      "iata": "DOL",
+      "city": "Deauville"
+    },
+    {
+      "iata": "DIJ",
+      "city": "Dijon"
+    },
+    {
+      "iata": "DNR",
+      "city": "Dinard"
+    },
+    {
+      "iata": "EPL",
+      "city": "Epinal"
+    },
+    {
+      "iata": "FSC",
+      "city": "Figari"
+    },
+    {
+      "iata": "GNB",
+      "city": "Grenoble"
+    },
+    {
+      "iata": "LAI",
+      "city": "Lannion"
+    },
+    {
+      "iata": "LRH",
+      "city": "Larochelle"
+    },
+    {
+      "iata": "LEH",
+      "city": "Le Havre"
+    },
+    {
+      "iata": "ZLN",
+      "city": "Le Mans"
+    },
+    {
+      "iata": "LPY",
+      "city": "Le Puy"
+    },
+    {
+      "iata": "LTQ",
+      "city": "Le Touquet"
+    },
+    {
+      "iata": "LIL",
+      "city": "Lille"
+    },
+    {
+      "iata": "XDB",
+      "city": "Lille"
+    },
+    {
+      "iata": "LIG",
+      "city": "Limoges"
+    },
+    {
+      "iata": "LRT",
+      "city": "Lorient"
+    },
+    {
+      "iata": "LDE",
+      "city": "Lourdes/Tarbes"
+    },
+    {
+      "iata": "LYS",
+      "city": "Lyon"
+    },
+    {
+      "iata": "XYD",
+      "city": "Lyon"
+    },
+    {
+      "iata": "MRS",
+      "city": "Marseille"
+    },
+    {
+      "iata": "ETZ",
+      "city": "Metz/Nancy"
+    },
+    {
+      "iata": "MPL",
+      "city": "Montpellier"
+    },
+    {
+      "iata": "MLH",
+      "city": "Mulhouse"
+    },
+    {
+      "iata": "NTE",
+      "city": "Nantes"
+    },
+    {
+      "iata": "QJZ",
+      "city": "Nantes"
+    },
+    {
+      "iata": "NCE",
+      "city": "Nice"
+    },
+    {
+      "iata": "FNI",
+      "city": "Nimes"
+    },
+    {
+      "iata": "PAR",
+      "city": "Paris"
+    },
+    {
+      "iata": "CDG",
+      "city": "Paris"
+    },
+    {
+      "iata": "ORY",
+      "city": "Paris"
+    },
+    {
+      "iata": "BVA",
+      "city": "Paris"
+    },
+    {
+      "iata": "PUF",
+      "city": "Pau"
+    },
+    {
+      "iata": "PGX",
+      "city": "Perigueux"
+    },
+    {
+      "iata": "PGF",
+      "city": "Perpignan"
+    },
+    {
+      "iata": "PIS",
+      "city": "Poitiers"
+    },
+    {
+      "iata": "XOP",
+      "city": "Poitiers"
+    },
+    {
+      "iata": "UIP",
+      "city": "Quimper"
+    },
+    {
+      "iata": "RNS",
+      "city": "Rennes"
+    },
+    {
+      "iata": "RNE",
+      "city": "Roane"
+    },
+    {
+      "iata": "RDZ",
+      "city": "Rodez"
+    },
+    {
+      "iata": "URO",
+      "city": "Rouen"
+    },
+    {
+      "iata": "LTT",
+      "city": "Saint Tropez"
+    },
+    {
+      "iata": "XPZ",
+      "city": "Saint Tropez"
+    },
+    {
+      "iata": "EBU",
+      "city": "St. Etienne"
+    },
+    {
+      "iata": "XER",
+      "city": "Strasbourg"
+    },
+    {
+      "iata": "SXB",
+      "city": "Strasbourg"
+    },
+    {
+      "iata": "TLN",
+      "city": "Toulon"
+    },
+    {
+      "iata": "TLS",
+      "city": "Toulouse"
+    },
+    {
+      "iata": "TUF",
+      "city": "Tours"
+    },
+    {
+      "iata": "XSH",
+      "city": "Tours"
+    },
+    {
+      "iata": "XVS",
+      "city": "Valenciennes"
+    }
+  ],
+  "Puerto Rico": [
+    {
+      "iata": "BQN",
+      "city": "Aguadilla"
+    },
+    {
+      "iata": "FAJ",
+      "city": "Fajard"
+    },
+    {
+      "iata": "MAZ",
+      "city": "Mayaguez"
+    },
+    {
+      "iata": "PSE",
+      "city": "Ponce"
+    },
+    {
+      "iata": "SJU",
+      "city": "San Juan"
+    },
+    {
+      "iata": "VQS",
+      "city": "Vieques"
+    }
+  ],
+  "Japan": [
+    {
+      "iata": "AGJ",
+      "city": "Aguni"
+    },
+    {
+      "iata": "AXT",
+      "city": "Akita"
+    },
+    {
+      "iata": "ASJ",
+      "city": "Amami O Shima"
+    },
+    {
+      "iata": "AOJ",
+      "city": "Aomori"
+    },
+    {
+      "iata": "AKJ",
+      "city": "Asahikawa"
+    },
+    {
+      "iata": "FUK",
+      "city": "Fukuoka"
+    },
+    {
+      "iata": "FUJ",
+      "city": "Fukue"
+    },
+    {
+      "iata": "FKS",
+      "city": "Fukushima"
+    },
+    {
+      "iata": "HAC",
+      "city": "Hachijo Jima"
+    },
+    {
+      "iata": "HKD",
+      "city": "Hakodate"
+    },
+    {
+      "iata": "HTR",
+      "city": "Hateruma"
+    },
+    {
+      "iata": "HIJ",
+      "city": "Hiroshima"
+    },
+    {
+      "iata": "HIW",
+      "city": "Hiroshima"
+    },
+    {
+      "iata": "ISG",
+      "city": "Ishigakij"
+    },
+    {
+      "iata": "IWJ",
+      "city": "Iwami"
+    },
+    {
+      "iata": "IZO",
+      "city": "Izumo"
+    },
+    {
+      "iata": "KTD",
+      "city": "Kitadaito"
+    },
+    {
+      "iata": "KCZ",
+      "city": "Kochi"
+    },
+    {
+      "iata": "UEO",
+      "city": "Kumejima"
+    },
+    {
+      "iata": "KUH",
+      "city": "Kushiro"
+    },
+    {
+      "iata": "MMJ",
+      "city": "Matsumoto"
+    },
+    {
+      "iata": "MYJ",
+      "city": "Matsuyama"
+    },
+    {
+      "iata": "MMB",
+      "city": "Memanbetsu"
+    },
+    {
+      "iata": "MMD",
+      "city": "Minami Daito"
+    },
+    {
+      "iata": "MSJ",
+      "city": "Misawa"
+    },
+    {
+      "iata": "MYE",
+      "city": "MiyakeJima"
+    },
+    {
+      "iata": "MMY",
+      "city": "Miyako Jima"
+    },
+    {
+      "iata": "MBE",
+      "city": "Monbetsu"
+    },
+    {
+      "iata": "HNA",
+      "city": "Morioka"
+    },
+    {
+      "iata": "NGS",
+      "city": "Nagasaki"
+    },
+    {
+      "iata": "NGO",
+      "city": "Nagoya"
+    },
+    {
+      "iata": "OBO",
+      "city": "Obihiro"
+    },
+    {
+      "iata": "OIT",
+      "city": "Oita"
+    },
+    {
+      "iata": "OKJ",
+      "city": "Okayama"
+    },
+    {
+      "iata": "OKA",
+      "city": "Okinawa"
+    },
+    {
+      "iata": "OIR",
+      "city": "Okoshiri"
+    },
+    {
+      "iata": "OSA",
+      "city": "Osaka"
+    },
+    {
+      "iata": "ITM",
+      "city": "Osaka"
+    },
+    {
+      "iata": "KIX",
+      "city": "Osaka"
+    },
+    {
+      "iata": "OIM",
+      "city": "Oshima"
+    },
+    {
+      "iata": "RBJ",
+      "city": "Rebun"
+    },
+    {
+      "iata": "RIS",
+      "city": "Rishiri"
+    },
+    {
+      "iata": "CTS",
+      "city": "Sapporo"
+    },
+    {
+      "iata": "OKD",
+      "city": "Sapporo"
+    },
+    {
+      "iata": "SYO",
+      "city": "Shonai"
+    },
+    {
+      "iata": "TRA",
+      "city": "Taramajma"
+    },
+    {
+      "iata": "TKN",
+      "city": "Tokunoshima"
+    },
+    {
+      "iata": "TKS",
+      "city": "Tokushima"
+    },
+    {
+      "iata": "TYO",
+      "city": "Tokyo"
+    },
+    {
+      "iata": "HND",
+      "city": "Tokyo"
+    },
+    {
+      "iata": "NRT",
+      "city": "Tokyo"
+    },
+    {
+      "iata": "TTJ",
+      "city": "Tottori"
+    },
+    {
+      "iata": "TOY",
+      "city": "Toyama"
+    },
+    {
+      "iata": "TSJ",
+      "city": "Tsushima"
+    },
+    {
+      "iata": "UBJ",
+      "city": "Ube"
+    },
+    {
+      "iata": "WKJ",
+      "city": "Wakkanai"
+    },
+    {
+      "iata": "GAJ",
+      "city": "Yamagata"
+    },
+    {
+      "iata": "YGJ",
+      "city": "Yonago"
+    },
+    {
+      "iata": "OGN",
+      "city": "Yonaguni Jima"
+    },
+    {
+      "iata": "RNJ",
+      "city": "Yoronjima"
+    }
+  ],
+  "Marshall Islands": [
+    {
+      "iata": "AIM",
+      "city": "Ailuk Island"
+    },
+    {
+      "iata": "AIC",
+      "city": "Airok"
+    },
+    {
+      "iata": "AUL",
+      "city": "Aur Island"
+    },
+    {
+      "iata": "BII",
+      "city": "Bikini Atoll"
+    },
+    {
+      "iata": "EBO",
+      "city": "Ebon"
+    },
+    {
+      "iata": "ENT",
+      "city": "Enewetak Island"
+    },
+    {
+      "iata": "JAT",
+      "city": "Jabor"
+    },
+    {
+      "iata": "UIT",
+      "city": "Jaluit Island"
+    },
+    {
+      "iata": "JEJ",
+      "city": "Jeh"
+    },
+    {
+      "iata": "KBT",
+      "city": "Kaben"
+    },
+    {
+      "iata": "KWA",
+      "city": "Kwajalein"
+    },
+    {
+      "iata": "LML",
+      "city": "Lae Island"
+    },
+    {
+      "iata": "LIK",
+      "city": "Likiep Island"
+    },
+    {
+      "iata": "LOF",
+      "city": "Loen"
+    },
+    {
+      "iata": "MJE",
+      "city": "Majkin"
+    },
+    {
+      "iata": "MAJ",
+      "city": "Majuro"
+    },
+    {
+      "iata": "MAV",
+      "city": "Maloelap Island"
+    },
+    {
+      "iata": "MJB",
+      "city": "Mejit Island"
+    },
+    {
+      "iata": "MIJ",
+      "city": "Mili Island"
+    },
+    {
+      "iata": "NDK",
+      "city": "Namorik Island"
+    },
+    {
+      "iata": "RNP",
+      "city": "Rongelap Island"
+    },
+    {
+      "iata": "UJE",
+      "city": "Ujae Island"
+    },
+    {
+      "iata": "UTK",
+      "city": "Utirik Island"
+    },
+    {
+      "iata": "WJA",
+      "city": "Woja"
+    },
+    {
+      "iata": "WTO",
+      "city": "Wotho Island"
+    },
+    {
+      "iata": "WTE",
+      "city": "Wotje Island"
+    }
+  ],
+  "Mauritania": [
+    {
+      "iata": "AEO",
+      "city": "Aioun El Atrouss"
+    },
+    {
+      "iata": "EMN",
+      "city": "Nema"
+    },
+    {
+      "iata": "NDB",
+      "city": "Nouadhiba"
+    },
+    {
+      "iata": "NKC",
+      "city": "Nouakchott"
+    },
+    {
+      "iata": "TIY",
+      "city": "Tioljikja"
+    },
+    {
+      "iata": "OUZ",
+      "city": "Zouerate"
+    }
+  ],
+  "Cook Islands": [
+    {
+      "iata": "AIT",
+      "city": "Aitutaki"
+    },
+    {
+      "iata": "AIU",
+      "city": "Atiu Island"
+    },
+    {
+      "iata": "MGS",
+      "city": "Mangaia Island"
+    },
+    {
+      "iata": "MHX",
+      "city": "Manihiki Island"
+    },
+    {
+      "iata": "MUK",
+      "city": "Mauke Island"
+    },
+    {
+      "iata": "MOI",
+      "city": "Mitiaro Island"
+    },
+    {
+      "iata": "PYE",
+      "city": "Penrhyn Island"
+    },
+    {
+      "iata": "RAR",
+      "city": "Rarotonga"
+    }
+  ],
+  "China": [
+    {
+      "iata": "AKU",
+      "city": "Aksu"
+    },
+    {
+      "iata": "AAT",
+      "city": "Altay"
+    },
+    {
+      "iata": "AQG",
+      "city": "Anging"
+    },
+    {
+      "iata": "AKA",
+      "city": "Ankang"
+    },
+    {
+      "iata": "BPX",
+      "city": "Bangda"
+    },
+    {
+      "iata": "BSD",
+      "city": "Baoshan"
+    },
+    {
+      "iata": "BAV",
+      "city": "Baotou"
+    },
+    {
+      "iata": "BHY",
+      "city": "Beihai"
+    },
+    {
+      "iata": "PEK",
+      "city": "Beijing"
+    },
+    {
+      "iata": "CGQ",
+      "city": "Changchun"
+    },
+    {
+      "iata": "CGD",
+      "city": "Changde"
+    },
+    {
+      "iata": "CZX",
+      "city": "Changzhou"
+    },
+    {
+      "iata": "CHG",
+      "city": "Chaoyang"
+    },
+    {
+      "iata": "CTU",
+      "city": "Chergdu"
+    },
+    {
+      "iata": "CIF",
+      "city": "Chifeng"
+    },
+    {
+      "iata": "CKG",
+      "city": "Chongqing"
+    },
+    {
+      "iata": "DLU",
+      "city": "Dali City"
+    },
+    {
+      "iata": "DLC",
+      "city": "Dalian"
+    },
+    {
+      "iata": "DAX",
+      "city": "Daxian"
+    },
+    {
+      "iata": "DYG",
+      "city": "Dayang"
+    },
+    {
+      "iata": "DNH",
+      "city": "Dunhuang"
+    },
+    {
+      "iata": "ENH",
+      "city": "Enshi"
+    },
+    {
+      "iata": "FUG",
+      "city": "Fuyang"
+    },
+    {
+      "iata": "FOC",
+      "city": "Fuzhou"
+    },
+    {
+      "iata": "GOQ",
+      "city": "Golmud"
+    },
+    {
+      "iata": "CAN",
+      "city": "Guangzhou"
+    },
+    {
+      "iata": "KWL",
+      "city": "Guilin"
+    },
+    {
+      "iata": "KWE",
+      "city": "Gulyang"
+    },
+    {
+      "iata": "HAK",
+      "city": "Haikou"
+    },
+    {
+      "iata": "HLD",
+      "city": "Hailar"
+    },
+    {
+      "iata": "HGH",
+      "city": "Hangzhou"
+    },
+    {
+      "iata": "HZG",
+      "city": "Hanzhang"
+    },
+    {
+      "iata": "HRB",
+      "city": "Harbin"
+    },
+    {
+      "iata": "HFE",
+      "city": "Hefei"
+    },
+    {
+      "iata": "HET",
+      "city": "Hohhot"
+    },
+    {
+      "iata": "HTN",
+      "city": "Hotan"
+    },
+    {
+      "iata": "HYN",
+      "city": "Huargyan"
+    },
+    {
+      "iata": "JMU",
+      "city": "Jiamusi"
+    },
+    {
+      "iata": "JGN",
+      "city": "Jiayuguan"
+    },
+    {
+      "iata": "TNA",
+      "city": "Jinan"
+    },
+    {
+      "iata": "JDZ",
+      "city": "Jingdezhen"
+    },
+    {
+      "iata": "JHG",
+      "city": "Jinghong"
+    },
+    {
+      "iata": "JJN",
+      "city": "Jinjiang"
+    },
+    {
+      "iata": "JNZ",
+      "city": "Jinzhou"
+    },
+    {
+      "iata": "JUZ",
+      "city": "Juzha"
+    },
+    {
+      "iata": "ZGC",
+      "city": "Lanzhou"
+    },
+    {
+      "iata": "LXA",
+      "city": "Lhasa"
+    },
+    {
+      "iata": "LYG",
+      "city": "Lianyungang"
+    },
+    {
+      "iata": "LJG",
+      "city": "Lijiang City"
+    },
+    {
+      "iata": "LYI",
+      "city": "Linyi"
+    },
+    {
+      "iata": "LZH",
+      "city": "Liuzhou"
+    },
+    {
+      "iata": "LYA",
+      "city": "Luoyang"
+    },
+    {
+      "iata": "LUM",
+      "city": "Luxi"
+    },
+    {
+      "iata": "LZO",
+      "city": "Luzhou"
+    },
+    {
+      "iata": "MFM",
+      "city": "Macau"
+    },
+    {
+      "iata": "MXZ",
+      "city": "Meixian"
+    },
+    {
+      "iata": "MDG",
+      "city": "Mudanjiang"
+    },
+    {
+      "iata": "NAO",
+      "city": "Nanchong"
+    },
+    {
+      "iata": "NKG",
+      "city": "Nanking/Nanjing"
+    },
+    {
+      "iata": "NNG",
+      "city": "Nanning"
+    },
+    {
+      "iata": "NTG",
+      "city": "Nantong"
+    },
+    {
+      "iata": "NNY",
+      "city": "Nanyang"
+    },
+    {
+      "iata": "NGB",
+      "city": "Ningbo"
+    },
+    {
+      "iata": "IQM",
+      "city": "Qiemo"
+    },
+    {
+      "iata": "TAO",
+      "city": "Qingdao"
+    },
+    {
+      "iata": "NDG",
+      "city": "Qiqihar"
+    },
+    {
+      "iata": "SYX",
+      "city": "Sanya"
+    },
+    {
+      "iata": "PVG",
+      "city": "Shanghai"
+    },
+    {
+      "iata": "SWA",
+      "city": "Shantou"
+    },
+    {
+      "iata": "SZX",
+      "city": "Shenzhen"
+    },
+    {
+      "iata": "SYM",
+      "city": "Simao"
+    },
+    {
+      "iata": "TCG",
+      "city": "Tacheng"
+    },
+    {
+      "iata": "TYN",
+      "city": "Taiyuan"
+    },
+    {
+      "iata": "TSN",
+      "city": "Tianjn"
+    },
+    {
+      "iata": "TGO",
+      "city": "Tongliao"
+    },
+    {
+      "iata": "TXN",
+      "city": "Tunxi"
+    },
+    {
+      "iata": "HLH",
+      "city": "Ulanhot"
+    },
+    {
+      "iata": "URC",
+      "city": "Urumqi"
+    },
+    {
+      "iata": "WXN",
+      "city": "Wanxian"
+    },
+    {
+      "iata": "WEH",
+      "city": "Weihai"
+    },
+    {
+      "iata": "WNZ",
+      "city": "Wenzhou"
+    },
+    {
+      "iata": "WUH",
+      "city": "Wuhan"
+    },
+    {
+      "iata": "WUS",
+      "city": "Wuyishan"
+    },
+    {
+      "iata": "XMN",
+      "city": "Xiamen"
+    },
+    {
+      "iata": "XIY",
+      "city": "Xi An"
+    },
+    {
+      "iata": "XFN",
+      "city": "Xiangfan"
+    },
+    {
+      "iata": "XIC",
+      "city": "Xichang"
+    },
+    {
+      "iata": "XIL",
+      "city": "Xilinhot"
+    },
+    {
+      "iata": "XNN",
+      "city": "Xining"
+    },
+    {
+      "iata": "XUZ",
+      "city": "Xuzhou"
+    },
+    {
+      "iata": "ENY",
+      "city": "Yan'an"
+    },
+    {
+      "iata": "YNZ",
+      "city": "Yancheng"
+    },
+    {
+      "iata": "YNJ",
+      "city": "Yanji"
+    },
+    {
+      "iata": "YNT",
+      "city": "Yantai"
+    },
+    {
+      "iata": "YBP",
+      "city": "Yibin"
+    },
+    {
+      "iata": "YIH",
+      "city": "Yichang"
+    },
+    {
+      "iata": "INC",
+      "city": "Yinchuan"
+    },
+    {
+      "iata": "YIN",
+      "city": "Yining"
+    },
+    {
+      "iata": "YIW",
+      "city": "Yiwu"
+    },
+    {
+      "iata": "UYN",
+      "city": "Yulin"
+    },
+    {
+      "iata": "ZHA",
+      "city": "Zhanjiang"
+    },
+    {
+      "iata": "ZAT",
+      "city": "Zhaotong"
+    },
+    {
+      "iata": "CGO",
+      "city": "Zhengzha"
+    },
+    {
+      "iata": "HSN",
+      "city": "Zhoushan"
+    },
+    {
+      "iata": "ZUH",
+      "city": "Zhuhai"
+    }
+  ],
+  "Kazakhstan": [
+    {
+      "iata": "AKX",
+      "city": "Aktyubinsk"
+    },
+    {
+      "iata": "AKX",
+      "city": "Almaty"
+    },
+    {
+      "iata": "TSE",
+      "city": "Astana"
+    },
+    {
+      "iata": "GUW",
+      "city": "Atyrau"
+    },
+    {
+      "iata": "PWQ",
+      "city": "Pavlodar"
+    },
+    {
+      "iata": "CIT",
+      "city": "Shimkent"
+    },
+    {
+      "iata": "URA",
+      "city": "Uralsk"
+    },
+    {
+      "iata": "UKK",
+      "city": "Ust-Kamenogorsk"
+    }
+  ],
+  "Iceland": [
+    {
+      "iata": "AEY",
+      "city": "Akureyri"
+    },
+    {
+      "iata": "EGS",
+      "city": "Egilsstadir"
+    },
+    {
+      "iata": "GRY",
+      "city": "Grimsey"
+    },
+    {
+      "iata": "HFN",
+      "city": "Hornafjordur"
+    },
+    {
+      "iata": "IFJ",
+      "city": "Isafjordur"
+    },
+    {
+      "iata": "KEF",
+      "city": "Reykjavik"
+    },
+    {
+      "iata": "RPN",
+      "city": "Rosh Pina"
+    },
+    {
+      "iata": "THO",
+      "city": "Thorshofn"
+    },
+    {
+      "iata": "VEY",
+      "city": "Vestmannaeyjar"
+    },
+    {
+      "iata": "VPN",
+      "city": "Vopnafjordur"
+    }
+  ],
+  "Syrian Arab Republic": [
+    {
+      "iata": "ALP",
+      "city": "Aleppo"
+    },
+    {
+      "iata": "DAM",
+      "city": "Damascus"
+    },
+    {
+      "iata": "KAC",
+      "city": "Kameshli"
+    }
+  ],
+  "South Africa": [
+    {
+      "iata": "ALJ",
+      "city": "Alexander Bay"
+    },
+    {
+      "iata": "BFN",
+      "city": "Bloemfontein"
+    },
+    {
+      "iata": "CPT",
+      "city": "Cape Town"
+    },
+    {
+      "iata": "DUR",
+      "city": "Durban"
+    },
+    {
+      "iata": "ELS",
+      "city": "East London"
+    },
+    {
+      "iata": "GRJ",
+      "city": "George"
+    },
+    {
+      "iata": "HDS",
+      "city": "Hoedspruit"
+    },
+    {
+      "iata": "JNB",
+      "city": "Johannesburg"
+    },
+    {
+      "iata": "MGH",
+      "city": "Margate"
+    },
+    {
+      "iata": "NLP",
+      "city": "Nelspruit"
+    },
+    {
+      "iata": "PHW",
+      "city": "Phalaborwa"
+    },
+    {
+      "iata": "PZB",
+      "city": "Pietermaritzburg"
+    },
+    {
+      "iata": "PTG",
+      "city": "Pietersburb"
+    },
+    {
+      "iata": "PBZ",
+      "city": "Plettenburg Bay"
+    },
+    {
+      "iata": "PLZ",
+      "city": "Port Elizabeth"
+    },
+    {
+      "iata": "RCB",
+      "city": "Richards Bay"
+    },
+    {
+      "iata": "SZK",
+      "city": "Skukuza"
+    },
+    {
+      "iata": "NTY",
+      "city": "Sun City"
+    },
+    {
+      "iata": "ULD",
+      "city": "Ulundi"
+    },
+    {
+      "iata": "UTT",
+      "city": "Umtata"
+    },
+    {
+      "iata": "UTN",
+      "city": "Upington"
+    }
+  ],
+  "Greece": [
+    {
+      "iata": "AXD",
+      "city": "Alexandroupolis"
+    },
+    {
+      "iata": "ATH",
+      "city": "Athens"
+    },
+    {
+      "iata": "CHQ",
+      "city": "Chania"
+    },
+    {
+      "iata": "HER",
+      "city": "Heraklian"
+    },
+    {
+      "iata": "AOK",
+      "city": "Karpathos"
+    },
+    {
+      "iata": "KVA",
+      "city": "Kavala"
+    },
+    {
+      "iata": "EFL",
+      "city": "Kefallinia"
+    },
+    {
+      "iata": "CFU",
+      "city": "Kerkyra"
+    },
+    {
+      "iata": "LXS",
+      "city": "Lemnos"
+    },
+    {
+      "iata": "JMK",
+      "city": "Mikonos"
+    },
+    {
+      "iata": "MJT",
+      "city": "Mytilene"
+    },
+    {
+      "iata": "GPA",
+      "city": "Patras"
+    },
+    {
+      "iata": "PVK",
+      "city": "Preveza/Lefkas"
+    },
+    {
+      "iata": "SMI",
+      "city": "Samos"
+    },
+    {
+      "iata": "JSI",
+      "city": "Skiathos"
+    },
+    {
+      "iata": "SKG",
+      "city": "Thessaloniki"
+    },
+    {
+      "iata": "JTR",
+      "city": "Thira"
+    },
+    {
+      "iata": "ZTH",
+      "city": "Zakinthos Island"
+    }
+  ],
+  "Italy": [
+    {
+      "iata": "AHO",
+      "city": "Alghero"
+    },
+    {
+      "iata": "AOI",
+      "city": "Ancona"
+    },
+    {
+      "iata": "AOT",
+      "city": "Aosta"
+    },
+    {
+      "iata": "BRI",
+      "city": "Bari"
+    },
+    {
+      "iata": "BZO",
+      "city": "Bolzano"
+    },
+    {
+      "iata": "BDS",
+      "city": "Brindisi"
+    },
+    {
+      "iata": "CAG",
+      "city": "Cagliari"
+    },
+    {
+      "iata": "CTA",
+      "city": "Catania"
+    },
+    {
+      "iata": "CRV",
+      "city": "Crotone"
+    },
+    {
+      "iata": "ETH",
+      "city": "Elat"
+    },
+    {
+      "iata": "EBA",
+      "city": "Elba Island"
+    },
+    {
+      "iata": "PSA",
+      "city": "Florence"
+    },
+    {
+      "iata": "FLR",
+      "city": "Florence"
+    },
+    {
+      "iata": "FOG",
+      "city": "Foggia"
+    },
+    {
+      "iata": "GOA",
+      "city": "Genoa"
+    },
+    {
+      "iata": "SUF",
+      "city": "Lamezia-Terme"
+    },
+    {
+      "iata": "LMP",
+      "city": "Lampedusa"
+    },
+    {
+      "iata": "BGY",
+      "city": "Milan"
+    },
+    {
+      "iata": "LIN",
+      "city": "Milan"
+    },
+    {
+      "iata": "MXP",
+      "city": "Milan"
+    },
+    {
+      "iata": "PMF",
+      "city": "Milan"
+    },
+    {
+      "iata": "NAP",
+      "city": "Naples"
+    },
+    {
+      "iata": "OLB",
+      "city": "Olbia"
+    },
+    {
+      "iata": "PMO",
+      "city": "Palermo"
+    },
+    {
+      "iata": "PNL",
+      "city": "Pantelleria"
+    },
+    {
+      "iata": "PMF",
+      "city": "Parma/Milan"
+    },
+    {
+      "iata": "PEG",
+      "city": "Perugia"
+    },
+    {
+      "iata": "PSR",
+      "city": "Pescara"
+    },
+    {
+      "iata": "PSA",
+      "city": "Pisa"
+    },
+    {
+      "iata": "REG",
+      "city": "Reggio Calabria"
+    },
+    {
+      "iata": "RMI",
+      "city": "Rimini"
+    },
+    {
+      "iata": "ROM",
+      "city": "Rome"
+    },
+    {
+      "iata": "CIA",
+      "city": "Rome"
+    },
+    {
+      "iata": "FCO",
+      "city": "Rome"
+    },
+    {
+      "iata": "TAR",
+      "city": "Taranto"
+    },
+    {
+      "iata": "TTB",
+      "city": "Tortoli"
+    },
+    {
+      "iata": "TPS",
+      "city": "Trapani"
+    },
+    {
+      "iata": "TRS",
+      "city": "Trieste"
+    },
+    {
+      "iata": "TRN",
+      "city": "Turin"
+    },
+    {
+      "iata": "VCE",
+      "city": "Venice"
+    },
+    {
+      "iata": "TSF",
+      "city": "Venice"
+    },
+    {
+      "iata": "VRN",
+      "city": "Verona"
+    }
+  ],
+  "Spain": [
+    {
+      "iata": "ALC",
+      "city": "Alicante"
+    },
+    {
+      "iata": "LEI",
+      "city": "Almeria"
+    },
+    {
+      "iata": "BJZ",
+      "city": "Badajcz"
+    },
+    {
+      "iata": "BCN",
+      "city": "Barcelona"
+    },
+    {
+      "iata": "BIO",
+      "city": "Bilbao"
+    },
+    {
+      "iata": "FUE",
+      "city": "Fuerteventura"
+    },
+    {
+      "iata": "GRO",
+      "city": "Gerona"
+    },
+    {
+      "iata": "GRX",
+      "city": "Granada"
+    },
+    {
+      "iata": "IBZ",
+      "city": "Ibiza"
+    },
+    {
+      "iata": "XRY",
+      "city": "Jerez De La Frontere"
+    },
+    {
+      "iata": "LCG",
+      "city": "La Coruna"
+    },
+    {
+      "iata": "ACE",
+      "city": "Lanzarote"
+    },
+    {
+      "iata": "LPA",
+      "city": "Las Palmas"
+    },
+    {
+      "iata": "MAD",
+      "city": "Madrid"
+    },
+    {
+      "iata": "AGP",
+      "city": "Malaga"
+    },
+    {
+      "iata": "MLN",
+      "city": "Melilla"
+    },
+    {
+      "iata": "MAH",
+      "city": "Menorca"
+    },
+    {
+      "iata": "MJV",
+      "city": "Murcia"
+    },
+    {
+      "iata": "PNA",
+      "city": "Pamplona"
+    },
+    {
+      "iata": "FUE",
+      "city": "Puerto del Rosario"
+    },
+    {
+      "iata": "EAS",
+      "city": "San Sebastian"
+    },
+    {
+      "iata": "VLC",
+      "city": "Valencia"
+    },
+    {
+      "iata": "VGO",
+      "city": "Vigo"
+    }
+  ],
+  "Indonesia": [
+    {
+      "iata": "ARD",
+      "city": "Alor Island"
+    },
+    {
+      "iata": "AMQ",
+      "city": "Ambon"
+    },
+    {
+      "iata": "AGD",
+      "city": "Anggi"
+    },
+    {
+      "iata": "AYW",
+      "city": "Ayawaki"
+    },
+    {
+      "iata": "BXB",
+      "city": "Babo"
+    },
+    {
+      "iata": "BXD",
+      "city": "Bade"
+    },
+    {
+      "iata": "BPN",
+      "city": "Balikpapan"
+    },
+    {
+      "iata": "BTJ",
+      "city": "Banda Aceh"
+    },
+    {
+      "iata": "TKG",
+      "city": "Bandar Lampung"
+    },
+    {
+      "iata": "BDO",
+      "city": "Bandung"
+    },
+    {
+      "iata": "BDJ",
+      "city": "Banjarmasin"
+    },
+    {
+      "iata": "BTH",
+      "city": "Batam"
+    },
+    {
+      "iata": "BXM",
+      "city": "Batom"
+    },
+    {
+      "iata": "BKS",
+      "city": "Bengkulu"
+    },
+    {
+      "iata": "BEJ",
+      "city": "Berau"
+    },
+    {
+      "iata": "BIK",
+      "city": "Biak"
+    },
+    {
+      "iata": "BMU",
+      "city": "Bima"
+    },
+    {
+      "iata": "NTI",
+      "city": "Bintuni"
+    },
+    {
+      "iata": "BUI",
+      "city": "Bokondini"
+    },
+    {
+      "iata": "DRH",
+      "city": "Dabra"
+    },
+    {
+      "iata": "DTD",
+      "city": "Datadawai"
+    },
+    {
+      "iata": "DPS",
+      "city": "Denpasar Bali"
+    },
+    {
+      "iata": "DIL",
+      "city": "Dili"
+    },
+    {
+      "iata": "DOB",
+      "city": "Dobo"
+    },
+    {
+      "iata": "DUM",
+      "city": "Dumai"
+    },
+    {
+      "iata": "EWI",
+      "city": "Enarotali"
+    },
+    {
+      "iata": "ENE",
+      "city": "Ende"
+    },
+    {
+      "iata": "EWE",
+      "city": "Ewer"
+    },
+    {
+      "iata": "FKQ",
+      "city": "Fak Fak"
+    },
+    {
+      "iata": "GEB",
+      "city": "Gebe"
+    },
+    {
+      "iata": "GTO",
+      "city": "Gorontalo"
+    },
+    {
+      "iata": "ILA",
+      "city": "Illaga"
+    },
+    {
+      "iata": "IUL",
+      "city": "Ilu"
+    },
+    {
+      "iata": "INX",
+      "city": "Inanwatan"
+    },
+    {
+      "iata": "CGK",
+      "city": "Jakarta"
+    },
+    {
+      "iata": "DJJ",
+      "city": "Jayapura"
+    },
+    {
+      "iata": "KBX",
+      "city": "Kambuaya"
+    },
+    {
+      "iata": "KCD",
+      "city": "Kamur"
+    },
+    {
+      "iata": "KBF",
+      "city": "Karubaga"
+    },
+    {
+      "iata": "KDI",
+      "city": "Kendari"
+    },
+    {
+      "iata": "LBJ",
+      "city": "Labuan Bajo"
+    },
+    {
+      "iata": "LUV",
+      "city": "Langguri"
+    },
+    {
+      "iata": "LKA",
+      "city": "Larantuka"
+    },
+    {
+      "iata": "LPU",
+      "city": "Long Apung"
+    },
+    {
+      "iata": "LBW",
+      "city": "Long Bawan"
+    },
+    {
+      "iata": "LUW",
+      "city": "Luwuk"
+    },
+    {
+      "iata": "MDC",
+      "city": "Manado"
+    },
+    {
+      "iata": "MKW",
+      "city": "Manokwari"
+    },
+    {
+      "iata": "AMI",
+      "city": "Mataram"
+    },
+    {
+      "iata": "MOF",
+      "city": "Maumere"
+    },
+    {
+      "iata": "MES",
+      "city": "Medan"
+    },
+    {
+      "iata": "MKQ",
+      "city": "Merauke"
+    },
+    {
+      "iata": "RDE",
+      "city": "Merdey"
+    },
+    {
+      "iata": "MDP",
+      "city": "Mindiptana"
+    },
+    {
+      "iata": "ONI",
+      "city": "Moanamani"
+    },
+    {
+      "iata": "LII",
+      "city": "Mulia"
+    },
+    {
+      "iata": "NBX",
+      "city": "Nabire"
+    },
+    {
+      "iata": "NNX",
+      "city": "Nunukan"
+    },
+    {
+      "iata": "OBD",
+      "city": "Obano"
+    },
+    {
+      "iata": "OKL",
+      "city": "Oksibil"
+    },
+    {
+      "iata": "PDG",
+      "city": "Padang"
+    },
+    {
+      "iata": "PKY",
+      "city": "Palang Karaya"
+    },
+    {
+      "iata": "PLM",
+      "city": "Palembang"
+    },
+    {
+      "iata": "PLW",
+      "city": "Palu"
+    },
+    {
+      "iata": "PKN",
+      "city": "Pangkalanboun"
+    },
+    {
+      "iata": "PGK",
+      "city": "Pangkalpinang"
+    },
+    {
+      "iata": "PKU",
+      "city": "Pekanbaru"
+    },
+    {
+      "iata": "PNK",
+      "city": "Pontianak"
+    },
+    {
+      "iata": "PSU",
+      "city": "Putussibau"
+    },
+    {
+      "iata": "ZRM",
+      "city": "Sarmi"
+    },
+    {
+      "iata": "SXK",
+      "city": "Saumlaki"
+    },
+    {
+      "iata": "SRG",
+      "city": "Semarang"
+    },
+    {
+      "iata": "ZEG",
+      "city": "Senggo"
+    },
+    {
+      "iata": "ZRI",
+      "city": "Servi"
+    },
+    {
+      "iata": "NKD",
+      "city": "Sinak"
+    },
+    {
+      "iata": "SQG",
+      "city": "Sintang"
+    },
+    {
+      "iata": "SOC",
+      "city": "Solo City"
+    },
+    {
+      "iata": "SUB",
+      "city": "Surabaya"
+    },
+    {
+      "iata": "TMC",
+      "city": "Tambolaka"
+    },
+    {
+      "iata": "TMH",
+      "city": "Tanahmerah"
+    },
+    {
+      "iata": "TJQ",
+      "city": "Tanjung Pandan"
+    },
+    {
+      "iata": "TJS",
+      "city": "Tanjung Selor"
+    },
+    {
+      "iata": "TRK",
+      "city": "Tarakan"
+    },
+    {
+      "iata": "TIM",
+      "city": "Tembagapura"
+    },
+    {
+      "iata": "TXM",
+      "city": "Teminabuan"
+    },
+    {
+      "iata": "TTE",
+      "city": "Ternate"
+    },
+    {
+      "iata": "UDR",
+      "city": "Udaipur"
+    },
+    {
+      "iata": "UPG",
+      "city": "Ujung Pandang"
+    },
+    {
+      "iata": "WET",
+      "city": "Wagethe"
+    },
+    {
+      "iata": "WBA",
+      "city": "Wahai"
+    },
+    {
+      "iata": "WGP",
+      "city": "Waingapo"
+    },
+    {
+      "iata": "WMX",
+      "city": "Wamena"
+    },
+    {
+      "iata": "WSR",
+      "city": "Wasior"
+    },
+    {
+      "iata": "JOG",
+      "city": "Yogyakarta"
+    },
+    {
+      "iata": "UGU",
+      "city": "Zugapa"
+    }
+  ],
+  "Malaysia": [
+    {
+      "iata": "AOR",
+      "city": "Alorsetar"
+    },
+    {
+      "iata": "BBN",
+      "city": "Bario"
+    },
+    {
+      "iata": "BTU",
+      "city": "Bintulu"
+    },
+    {
+      "iata": "BKZ",
+      "city": "Bukoba"
+    },
+    {
+      "iata": "IPH",
+      "city": "Ipoh"
+    },
+    {
+      "iata": "JHB",
+      "city": "Johor"
+    },
+    {
+      "iata": "KBR",
+      "city": "Kota Bharu"
+    },
+    {
+      "iata": "BKI",
+      "city": "Kota Kinabalu"
+    },
+    {
+      "iata": "KUL",
+      "city": "Kuala Lumpur"
+    },
+    {
+      "iata": "TGG",
+      "city": "Kuala Terengganu"
+    },
+    {
+      "iata": "KUA",
+      "city": "Kuantan"
+    },
+    {
+      "iata": "KCH",
+      "city": "Kuching"
+    },
+    {
+      "iata": "KUD",
+      "city": "Kudat"
+    },
+    {
+      "iata": "LBU",
+      "city": "Labuan"
+    },
+    {
+      "iata": "LDU",
+      "city": "Lahadbatu"
+    },
+    {
+      "iata": "LGK",
+      "city": "Langkawi"
+    },
+    {
+      "iata": "LWY",
+      "city": "Lawas"
+    },
+    {
+      "iata": "LMN",
+      "city": "Limbang"
+    },
+    {
+      "iata": "LBP",
+      "city": "Long Banga"
+    },
+    {
+      "iata": "LGL",
+      "city": "Long Lellang"
+    },
+    {
+      "iata": "ODN",
+      "city": "Long Seridan"
+    },
+    {
+      "iata": "MKZ",
+      "city": "Malacca"
+    },
+    {
+      "iata": "MUR",
+      "city": "Marudi"
+    },
+    {
+      "iata": "MYY",
+      "city": "Miri"
+    },
+    {
+      "iata": "MKM",
+      "city": "Mukan"
+    },
+    {
+      "iata": "MZV",
+      "city": "Mulu"
+    },
+    {
+      "iata": "PEN",
+      "city": "Penang"
+    },
+    {
+      "iata": "TWU",
+      "city": "Tawau"
+    },
+    {
+      "iata": "TOD",
+      "city": "Tioman"
+    },
+    {
+      "iata": "TMG",
+      "city": "Tomanggong"
+    }
+  ],
+  "Brazil": [
+    {
+      "iata": "ATM",
+      "city": "Altamira"
+    },
+    {
+      "iata": "AJU",
+      "city": "Araca"
+    },
+    {
+      "iata": "ARU",
+      "city": "Aracatuba"
+    },
+    {
+      "iata": "AUX",
+      "city": "Araguaina"
+    },
+    {
+      "iata": "AAG",
+      "city": "Arapoti"
+    },
+    {
+      "iata": "BRA",
+      "city": "Barreiras"
+    },
+    {
+      "iata": "BAU",
+      "city": "Bauru"
+    },
+    {
+      "iata": "BEL",
+      "city": "Belem"
+    },
+    {
+      "iata": "CNF",
+      "city": "Belo Horizonte"
+    },
+    {
+      "iata": "PLU",
+      "city": "Belo Horizonte"
+    },
+    {
+      "iata": "CNF",
+      "city": "Blo Horizonte"
+    },
+    {
+      "iata": "BVB",
+      "city": "Boavista"
+    },
+    {
+      "iata": "BSB",
+      "city": "Brasilia"
+    },
+    {
+      "iata": "CPV",
+      "city": "Campina Grande"
+    },
+    {
+      "iata": "CPQ",
+      "city": "Campinas"
+    },
+    {
+      "iata": "CGR",
+      "city": "Campo Grande"
+    },
+    {
+      "iata": "CAW",
+      "city": "Campos"
+    },
+    {
+      "iata": "CKS",
+      "city": "Carajas"
+    },
+    {
+      "iata": "CAC",
+      "city": "Cascavel"
+    },
+    {
+      "iata": "CXJ",
+      "city": "Caxias Do Sul"
+    },
+    {
+      "iata": "XAP",
+      "city": "Chapeco"
+    },
+    {
+      "iata": "CMG",
+      "city": "Corumba"
+    },
+    {
+      "iata": "CCM",
+      "city": "Criciuma"
+    },
+    {
+      "iata": "CZS",
+      "city": "Cruzeiro Do Sul"
+    },
+    {
+      "iata": "CGB",
+      "city": "Cuiaba"
+    },
+    {
+      "iata": "CWB",
+      "city": "Curitiba"
+    },
+    {
+      "iata": "DOU",
+      "city": "Dourados"
+    },
+    {
+      "iata": "FEN",
+      "city": "Fernando De Noronha"
+    },
+    {
+      "iata": "FLN",
+      "city": "Florianopolis"
+    },
+    {
+      "iata": "FOR",
+      "city": "Fortaleza"
+    },
+    {
+      "iata": "FRC",
+      "city": "Franca"
+    },
+    {
+      "iata": "GYN",
+      "city": "Goiania"
+    },
+    {
+      "iata": "GVR",
+      "city": "Governador Valadares"
+    },
+    {
+      "iata": "IGU",
+      "city": "Iguassu Falls"
+    },
+    {
+      "iata": "IOS",
+      "city": "Ilheus"
+    },
+    {
+      "iata": "IMP",
+      "city": "Imperatriz"
+    },
+    {
+      "iata": "IPN",
+      "city": "Ipatinga"
+    },
+    {
+      "iata": "ITB",
+      "city": "Itaituba"
+    },
+    {
+      "iata": "JCR",
+      "city": "Jacareacanga"
+    },
+    {
+      "iata": "JPR",
+      "city": "Ji-Parana"
+    },
+    {
+      "iata": "JPA",
+      "city": "Joao Pessoa"
+    },
+    {
+      "iata": "JOI",
+      "city": "Joinville"
+    },
+    {
+      "iata": "JDO",
+      "city": "Juazeiro Do Norte"
+    },
+    {
+      "iata": "JDF",
+      "city": "Juiz De Fora"
+    },
+    {
+      "iata": "LAJ",
+      "city": "Lages"
+    },
+    {
+      "iata": "LDB",
+      "city": "Londrina"
+    },
+    {
+      "iata": "MCP",
+      "city": "Macapa"
+    },
+    {
+      "iata": "MCZ",
+      "city": "Maceio"
+    },
+    {
+      "iata": "MAO",
+      "city": "Manaus"
+    },
+    {
+      "iata": "MAB",
+      "city": "Maraba"
+    },
+    {
+      "iata": "MII",
+      "city": "Marilia"
+    },
+    {
+      "iata": "MGF",
+      "city": "Maringa"
+    },
+    {
+      "iata": "MEU",
+      "city": "Monte Dourado"
+    },
+    {
+      "iata": "MOC",
+      "city": "Montes Claros"
+    },
+    {
+      "iata": "MVS",
+      "city": "Mucuri"
+    },
+    {
+      "iata": "NAT",
+      "city": "Natal"
+    },
+    {
+      "iata": "NVT",
+      "city": "Navegantes"
+    },
+    {
+      "iata": "PMW",
+      "city": "Palmas"
+    },
+    {
+      "iata": "PHB",
+      "city": "Parnaiba"
+    },
+    {
+      "iata": "PFB",
+      "city": "Passo Fundo"
+    },
+    {
+      "iata": "PET",
+      "city": "Pelotas"
+    },
+    {
+      "iata": "PNZ",
+      "city": "Petrolina"
+    },
+    {
+      "iata": "PMG",
+      "city": "Ponta Pora"
+    },
+    {
+      "iata": "POA",
+      "city": "Porto Alegre"
+    },
+    {
+      "iata": "BPS",
+      "city": "Porto Seguro"
+    },
+    {
+      "iata": "PVH",
+      "city": "Porto Velho"
+    },
+    {
+      "iata": "PPB",
+      "city": "Presidente Prudente"
+    },
+    {
+      "iata": "REC",
+      "city": "Recife"
+    },
+    {
+      "iata": "RAO",
+      "city": "Ribeirao Preto"
+    },
+    {
+      "iata": "RBR",
+      "city": "Rio Branco"
+    },
+    {
+      "iata": "GIG",
+      "city": "Rio De Janeiro"
+    },
+    {
+      "iata": "RIG",
+      "city": "Rio Grande"
+    },
+    {
+      "iata": "RVD",
+      "city": "Rio Verde"
+    },
+    {
+      "iata": "SSA",
+      "city": "Salvadore"
+    },
+    {
+      "iata": "RIA",
+      "city": "Santa Maria"
+    },
+    {
+      "iata": "STM",
+      "city": "Santarem"
+    },
+    {
+      "iata": "GEL",
+      "city": "Santo Angelo"
+    },
+    {
+      "iata": "CGH",
+      "city": "Sao Paulo"
+    },
+    {
+      "iata": "VCP",
+      "city": "Sao Paulo"
+    },
+    {
+      "iata": "GRU",
+      "city": "Sao Paulo"
+    },
+    {
+      "iata": "SLZ",
+      "city": "Sau Luiz"
+    },
+    {
+      "iata": "SOD",
+      "city": "Sorocaba"
+    },
+    {
+      "iata": "TBT",
+      "city": "Tabatinga"
+    },
+    {
+      "iata": "TFF",
+      "city": "Tefe"
+    },
+    {
+      "iata": "THE",
+      "city": "Teresina"
+    },
+    {
+      "iata": "TOW",
+      "city": "Toledo"
+    },
+    {
+      "iata": "TMT",
+      "city": "Trombetas"
+    },
+    {
+      "iata": "TUR",
+      "city": "Tucurui"
+    },
+    {
+      "iata": "UBA",
+      "city": "Uberaba"
+    },
+    {
+      "iata": "UDI",
+      "city": "Uberlandia"
+    },
+    {
+      "iata": "URG",
+      "city": "Uruguaiana"
+    },
+    {
+      "iata": "VAG",
+      "city": "Varginha"
+    },
+    {
+      "iata": "BVH",
+      "city": "Vilhena"
+    },
+    {
+      "iata": "VDC",
+      "city": "Vitoria da Conquista"
+    }
+  ],
+  "Switzerland": [
+    {
+      "iata": "ACH",
+      "city": "Altenrhein"
+    },
+    {
+      "iata": "BSL",
+      "city": "Basel"
+    },
+    {
+      "iata": "ZDH",
+      "city": "Basel/Mulhouse Railway Station"
+    },
+    {
+      "iata": "BRN",
+      "city": "Berne"
+    },
+    {
+      "iata": "ZDJ",
+      "city": "Berne"
+    },
+    {
+      "iata": "GVA",
+      "city": "Geneva"
+    },
+    {
+      "iata": "LUG",
+      "city": "Lugano"
+    },
+    {
+      "iata": "ZRH",
+      "city": "Zurich"
+    }
+  ],
+  "Argentina": [
+    {
+      "iata": "ARR",
+      "city": "Alto Rio Senguerr"
+    },
+    {
+      "iata": "BHI",
+      "city": "Bahia Blanca"
+    },
+    {
+      "iata": "AEP",
+      "city": "Buenos Aires"
+    },
+    {
+      "iata": "EZE",
+      "city": "Buenos Aires"
+    },
+    {
+      "iata": "CRD",
+      "city": "Camodoro"
+    },
+    {
+      "iata": "CTC",
+      "city": "Catamarca"
+    },
+    {
+      "iata": "COC",
+      "city": "Concordia"
+    },
+    {
+      "iata": "COR",
+      "city": "Cordoba"
+    },
+    {
+      "iata": "CNQ",
+      "city": "Corrientes"
+    },
+    {
+      "iata": "EHL",
+      "city": "El Bolsan"
+    },
+    {
+      "iata": "EMX",
+      "city": "El Maiten"
+    },
+    {
+      "iata": "EQS",
+      "city": "Esquel"
+    },
+    {
+      "iata": "FMA",
+      "city": "Formosa"
+    },
+    {
+      "iata": "GGS",
+      "city": "Gobernador Gregores"
+    },
+    {
+      "iata": "OYA",
+      "city": "Goya"
+    },
+    {
+      "iata": "IGR",
+      "city": "Iguazu"
+    },
+    {
+      "iata": "JSM",
+      "city": "Jose De San Martin"
+    },
+    {
+      "iata": "JUJ",
+      "city": "Jujuy"
+    },
+    {
+      "iata": "IRJ",
+      "city": "La Rioja"
+    },
+    {
+      "iata": "ING",
+      "city": "Lago Argentina"
+    },
+    {
+      "iata": "LGS",
+      "city": "Malargue"
+    },
+    {
+      "iata": "MDQ",
+      "city": "Mar Del Plata"
+    },
+    {
+      "iata": "MDZ",
+      "city": "Mendoza"
+    },
+    {
+      "iata": "NQN",
+      "city": "Neuquen"
+    },
+    {
+      "iata": "PRA",
+      "city": "Parana"
+    },
+    {
+      "iata": "AOL",
+      "city": "Paso de Los Libres"
+    },
+    {
+      "iata": "PMQ",
+      "city": "Perito Moreno"
+    },
+    {
+      "iata": "PSS",
+      "city": "Posadas"
+    },
+    {
+      "iata": "PRQ",
+      "city": "Pres. Roque Saenz Pena"
+    },
+    {
+      "iata": "PUD",
+      "city": "Puerto Deseado"
+    },
+    {
+      "iata": "PMY",
+      "city": "Puerto Madryn"
+    },
+    {
+      "iata": "RCQ",
+      "city": "Reconquista"
+    },
+    {
+      "iata": "RES",
+      "city": "Resistencia"
+    },
+    {
+      "iata": "RCU",
+      "city": "Rio Cuarto"
+    },
+    {
+      "iata": "RGL",
+      "city": "Rio Gallegos"
+    },
+    {
+      "iata": "RGA",
+      "city": "Rio Grande"
+    },
+    {
+      "iata": "ROY",
+      "city": "Rio Mayo"
+    },
+    {
+      "iata": "ROS",
+      "city": "Rosario"
+    },
+    {
+      "iata": "OES",
+      "city": "San Antonio Oesta"
+    },
+    {
+      "iata": "BRC",
+      "city": "San Carlos"
+    },
+    {
+      "iata": "UAQ",
+      "city": "San Juan"
+    },
+    {
+      "iata": "ULA",
+      "city": "San Julian"
+    },
+    {
+      "iata": "LUQ",
+      "city": "San Luis"
+    },
+    {
+      "iata": "CPC",
+      "city": "San Martin De Los Andes"
+    },
+    {
+      "iata": "AFA",
+      "city": "San Rafael"
+    },
+    {
+      "iata": "RSA",
+      "city": "Santa Rosa"
+    },
+    {
+      "iata": "REL",
+      "city": "Trelew"
+    },
+    {
+      "iata": "TUC",
+      "city": "Tucuman"
+    },
+    {
+      "iata": "USH",
+      "city": "Ushuaia"
+    },
+    {
+      "iata": "VDM",
+      "city": "Viedma"
+    },
+    {
+      "iata": "VLG",
+      "city": "Villa Gesell"
+    },
+    {
+      "iata": "VME",
+      "city": "Villa Mercedes"
+    }
+  ],
+  "Madagascar": [
+    {
+      "iata": "IVA",
+      "city": "Ambanja"
+    },
+    {
+      "iata": "AMY",
+      "city": "Ambatomainty"
+    },
+    {
+      "iata": "WAM",
+      "city": "Ambatondrazaka"
+    },
+    {
+      "iata": "HVA",
+      "city": "Analalava"
+    },
+    {
+      "iata": "JVA",
+      "city": "Ankavandra"
+    },
+    {
+      "iata": "ANM",
+      "city": "Antalaha"
+    },
+    {
+      "iata": "WAQ",
+      "city": "Antsalova"
+    },
+    {
+      "iata": "DIE",
+      "city": "Antsiranana"
+    },
+    {
+      "iata": "WAI",
+      "city": "Antsohihy"
+    },
+    {
+      "iata": "BMD",
+      "city": "Belo"
+    },
+    {
+      "iata": "BPY",
+      "city": "Besalampy"
+    },
+    {
+      "iata": "RVA",
+      "city": "Farafangana"
+    },
+    {
+      "iata": "WFI",
+      "city": "Fianarantsoa"
+    },
+    {
+      "iata": "FTU",
+      "city": "Fort Dauphin"
+    },
+    {
+      "iata": "VVB",
+      "city": "Mahanoro"
+    },
+    {
+      "iata": "MXT",
+      "city": "Maintirano"
+    },
+    {
+      "iata": "MJN",
+      "city": "Majunga"
+    },
+    {
+      "iata": "WMP",
+      "city": "Mampikony"
+    },
+    {
+      "iata": "WVK",
+      "city": "Manakara"
+    },
+    {
+      "iata": "WMR",
+      "city": "Mananara"
+    },
+    {
+      "iata": "MNJ",
+      "city": "Mananjary"
+    },
+    {
+      "iata": "WMA",
+      "city": "Mandritsara"
+    },
+    {
+      "iata": "MJA",
+      "city": "Manja"
+    },
+    {
+      "iata": "WMN",
+      "city": "Maroantsetra"
+    },
+    {
+      "iata": "ZVA",
+      "city": "Miandrivazo"
+    },
+    {
+      "iata": "TVA",
+      "city": "Morafenobe"
+    },
+    {
+      "iata": "MXM",
+      "city": "Morambe"
+    },
+    {
+      "iata": "MOQ",
+      "city": "Morondava"
+    },
+    {
+      "iata": "NOS",
+      "city": "Nossi-be"
+    },
+    {
+      "iata": "WPB",
+      "city": "Port Berge"
+    },
+    {
+      "iata": "SVB",
+      "city": "Sambaua"
+    },
+    {
+      "iata": "SMS",
+      "city": "Sante Marie"
+    },
+    {
+      "iata": "DWB",
+      "city": "Soalala"
+    },
+    {
+      "iata": "TMM",
+      "city": "Tamatave"
+    },
+    {
+      "iata": "TTS",
+      "city": "Tsaratanana"
+    },
+    {
+      "iata": "WTS",
+      "city": "Tsiroanomandidy"
+    },
+    {
+      "iata": "TLE",
+      "city": "Tulear"
+    },
+    {
+      "iata": "VAT",
+      "city": "Vatomatry"
+    },
+    {
+      "iata": "VOH",
+      "city": "Vohemar"
+    }
+  ],
+  "Kenya": [
+    {
+      "iata": "ASV",
+      "city": "Amboseli"
+    },
+    {
+      "iata": "EDL",
+      "city": "Eldoret"
+    },
+    {
+      "iata": "KWY",
+      "city": "Kiwayu"
+    },
+    {
+      "iata": "LAU",
+      "city": "Lamu"
+    },
+    {
+      "iata": "MYD",
+      "city": "Malindi"
+    },
+    {
+      "iata": "MRE",
+      "city": "Mara Lodges"
+    },
+    {
+      "iata": "MBA",
+      "city": "Mombasa"
+    },
+    {
+      "iata": "NBO",
+      "city": "Nairobi"
+    },
+    {
+      "iata": "WIL",
+      "city": "Nairobi"
+    },
+    {
+      "iata": "NYK",
+      "city": "Nanyuki"
+    },
+    {
+      "iata": "UAS",
+      "city": "Samburu"
+    }
+  ],
+  "Jordan": [
+    {
+      "iata": "AMM",
+      "city": "Amman"
+    },
+    {
+      "iata": "ADJ",
+      "city": "Amman"
+    },
+    {
+      "iata": "AQJ",
+      "city": "Aqaba"
+    }
+  ],
+  "Netherlands": [
+    {
+      "iata": "AMS",
+      "city": "Amsterdam"
+    },
+    {
+      "iata": "EIN",
+      "city": "Eindhoven"
+    },
+    {
+      "iata": "GRQ",
+      "city": "Groningen"
+    },
+    {
+      "iata": "MST",
+      "city": "Maastricht"
+    },
+    {
+      "iata": "RTM",
+      "city": "Rotterdam"
+    }
+  ],
+  "Uzbekistan": [
+    {
+      "iata": "AZN",
+      "city": "Andizhan"
+    },
+    {
+      "iata": "BHK",
+      "city": "Bukhara"
+    },
+    {
+      "iata": "FEG",
+      "city": "Fergana"
+    },
+    {
+      "iata": "NMA",
+      "city": "Namangan"
+    },
+    {
+      "iata": "NCU",
+      "city": "Nukus"
+    },
+    {
+      "iata": "TAS",
+      "city": "Tashkent"
+    },
+    {
+      "iata": "TMJ",
+      "city": "Termez"
+    },
+    {
+      "iata": "UGC",
+      "city": "Urgench"
+    }
+  ],
+  "Bahamas": [
+    {
+      "iata": "ASD",
+      "city": "Andros"
+    },
+    {
+      "iata": "ATC",
+      "city": "Arthur's Town"
+    },
+    {
+      "iata": "BIM",
+      "city": "Bimini"
+    },
+    {
+      "iata": "NSB",
+      "city": "Bimini"
+    },
+    {
+      "iata": "CRI",
+      "city": "Crooked Island"
+    },
+    {
+      "iata": "ELH",
+      "city": "Eleuthera Island"
+    },
+    {
+      "iata": "FPO",
+      "city": "Freeport"
+    },
+    {
+      "iata": "GGT",
+      "city": "George Town"
+    },
+    {
+      "iata": "GHB",
+      "city": "Governors Harbour"
+    },
+    {
+      "iata": "IGA",
+      "city": "Inagua"
+    },
+    {
+      "iata": "LGI",
+      "city": "Long Island/Deadmans Cay"
+    },
+    {
+      "iata": "MAY",
+      "city": "Mangrove Cay"
+    },
+    {
+      "iata": "MHH",
+      "city": "Marsh Harbour"
+    },
+    {
+      "iata": "MYG",
+      "city": "Mayaguana"
+    },
+    {
+      "iata": "NAS",
+      "city": "Nassau"
+    },
+    {
+      "iata": "PID",
+      "city": "Nassau"
+    },
+    {
+      "iata": "ELH",
+      "city": "North Eleuthera"
+    },
+    {
+      "iata": "PID",
+      "city": "Paradise Island"
+    },
+    {
+      "iata": "RSD",
+      "city": "Rock Sound"
+    },
+    {
+      "iata": "ZSA",
+      "city": "San Salvador"
+    },
+    {
+      "iata": "TZN",
+      "city": "South Andros"
+    },
+    {
+      "iata": "AXP",
+      "city": "Spring Point"
+    },
+    {
+      "iata": "SML",
+      "city": "Stella Maris"
+    },
+    {
+      "iata": "TBI",
+      "city": "The Bight"
+    },
+    {
+      "iata": "TCB",
+      "city": "Treasure Cay"
+    }
+  ],
+  "Vanuatu": [
+    {
+      "iata": "AUY",
+      "city": "Aneityum"
+    },
+    {
+      "iata": "AWD",
+      "city": "Aniwa"
+    },
+    {
+      "iata": "CCV",
+      "city": "Craig Cove"
+    },
+    {
+      "iata": "SON",
+      "city": "Espiritu Santo"
+    },
+    {
+      "iata": "FTA",
+      "city": "Futuna Island"
+    },
+    {
+      "iata": "ZGU",
+      "city": "Gaua"
+    },
+    {
+      "iata": "IPA",
+      "city": "Ipota"
+    },
+    {
+      "iata": "LPM",
+      "city": "Lamap"
+    },
+    {
+      "iata": "LNB",
+      "city": "Lamen Bay"
+    },
+    {
+      "iata": "LOD",
+      "city": "Longana"
+    },
+    {
+      "iata": "LNE",
+      "city": "Lonorore"
+    },
+    {
+      "iata": "MWF",
+      "city": "Maewo"
+    },
+    {
+      "iata": "MTV",
+      "city": "Mota Lava"
+    },
+    {
+      "iata": "NUS",
+      "city": "Norsup"
+    },
+    {
+      "iata": "OLJ",
+      "city": "Olpoi"
+    },
+    {
+      "iata": "PBJ",
+      "city": "Paama"
+    },
+    {
+      "iata": "VLI",
+      "city": "Port Vila"
+    },
+    {
+      "iata": "SSR",
+      "city": "Sara"
+    },
+    {
+      "iata": "TAH",
+      "city": "Tanna"
+    },
+    {
+      "iata": "TGH",
+      "city": "Tongoa"
+    },
+    {
+      "iata": "TOH",
+      "city": "Torres"
+    },
+    {
+      "iata": "ULB",
+      "city": "Ulei"
+    },
+    {
+      "iata": "VLS",
+      "city": "Valesdir"
+    },
+    {
+      "iata": "WLH",
+      "city": "Walaha"
+    }
+  ],
+  "Sweden": [
+    {
+      "iata": "JHE",
+      "city": "Angelholm/Helsingborg"
+    },
+    {
+      "iata": "AGH",
+      "city": "Argelholm/Helsingborg"
+    },
+    {
+      "iata": "AJR",
+      "city": "Arvidsjaur"
+    },
+    {
+      "iata": "BLE",
+      "city": "Borlange"
+    },
+    {
+      "iata": "GEV",
+      "city": "Gallivare"
+    },
+    {
+      "iata": "GOT",
+      "city": "Gothenburg"
+    },
+    {
+      "iata": "GSE",
+      "city": "Gothenburg"
+    },
+    {
+      "iata": "HFS",
+      "city": "Hagfors"
+    },
+    {
+      "iata": "HAD",
+      "city": "Halmstad"
+    },
+    {
+      "iata": "HMV",
+      "city": "Hermavan"
+    },
+    {
+      "iata": "HUV",
+      "city": "Hudiksvall"
+    },
+    {
+      "iata": "HLF",
+      "city": "Hultsfred"
+    },
+    {
+      "iata": "JKG",
+      "city": "Jonkoping"
+    },
+    {
+      "iata": "LPI",
+      "city": "Linkoping"
+    },
+    {
+      "iata": "LLA",
+      "city": "Lulea"
+    },
+    {
+      "iata": "LYC",
+      "city": "Lyoksele"
+    },
+    {
+      "iata": "MMX",
+      "city": "Malmo"
+    },
+    {
+      "iata": "MXX",
+      "city": "Mora"
+    },
+    {
+      "iata": "NRK",
+      "city": "Norrkoping"
+    },
+    {
+      "iata": "OER",
+      "city": "Ornskoldsvik"
+    },
+    {
+      "iata": "OSK",
+      "city": "Oskarshamn"
+    },
+    {
+      "iata": "OSD",
+      "city": "Ostersund"
+    },
+    {
+      "iata": "RNB",
+      "city": "Ronneby"
+    },
+    {
+      "iata": "KVB",
+      "city": "Skovde"
+    },
+    {
+      "iata": "SOO",
+      "city": "Soderham"
+    },
+    {
+      "iata": "STO",
+      "city": "Stockholm"
+    },
+    {
+      "iata": "ARN",
+      "city": "Stockholm"
+    },
+    {
+      "iata": "BMA",
+      "city": "Stockholm"
+    },
+    {
+      "iata": "SQO",
+      "city": "Storuman"
+    },
+    {
+      "iata": "EVG",
+      "city": "Sveg"
+    },
+    {
+      "iata": "TYF",
+      "city": "Torsby"
+    },
+    {
+      "iata": "THN",
+      "city": "Trollhattan"
+    },
+    {
+      "iata": "UME",
+      "city": "Umea"
+    },
+    {
+      "iata": "VST",
+      "city": "Vasteras"
+    },
+    {
+      "iata": "VXO",
+      "city": "Vaxjo"
+    },
+    {
+      "iata": "VHM",
+      "city": "Vilhelmina"
+    },
+    {
+      "iata": "VBY",
+      "city": "Visby"
+    }
+  ],
+  "Anguilla": [
+    {
+      "iata": "AXA",
+      "city": "Anguilla"
+    }
+  ],
+  "Madgascar": [
+    {
+      "iata": "TNR",
+      "city": "Antaninvarivo"
+    }
+  ],
+  "Antigua and Barbuda": [
+    {
+      "iata": "ANU",
+      "city": "Antigua"
+    }
+  ],
+  "Chile": [
+    {
+      "iata": "ANF",
+      "city": "Antofagasta"
+    },
+    {
+      "iata": "ARI",
+      "city": "Arica"
+    },
+    {
+      "iata": "BBA",
+      "city": "Balmaceda"
+    },
+    {
+      "iata": "CJC",
+      "city": "Calama"
+    },
+    {
+      "iata": "YAI",
+      "city": "Chillan"
+    },
+    {
+      "iata": "CCP",
+      "city": "Concepcion"
+    },
+    {
+      "iata": "CPO",
+      "city": "Copiapo"
+    },
+    {
+      "iata": "ESR",
+      "city": "El Salvador"
+    },
+    {
+      "iata": "IQQ",
+      "city": "Iquique"
+    },
+    {
+      "iata": "LSC",
+      "city": "La Serena"
+    },
+    {
+      "iata": "PMC",
+      "city": "Puerto Montt"
+    },
+    {
+      "iata": "PUQ",
+      "city": "Punta Arenas"
+    },
+    {
+      "iata": "SCL",
+      "city": "Santiago"
+    },
+    {
+      "iata": "ZCO",
+      "city": "Temuco"
+    },
+    {
+      "iata": "ZAL",
+      "city": "Valdivia"
+    }
+  ],
+  "Belgium": [
+    {
+      "iata": "ANR",
+      "city": "Antwerp"
+    },
+    {
+      "iata": "ZAY",
+      "city": "Antwerp"
+    },
+    {
+      "iata": "BRU",
+      "city": "Brussels"
+    },
+    {
+      "iata": "ZYR",
+      "city": "Brussels"
+    },
+    {
+      "iata": "LGG",
+      "city": "Liege"
+    }
+  ],
+  "Colombia": [
+    {
+      "iata": "APO",
+      "city": "Apartado"
+    },
+    {
+      "iata": "AUC",
+      "city": "Arauca"
+    },
+    {
+      "iata": "AXM",
+      "city": "Armenia"
+    },
+    {
+      "iata": "BSC",
+      "city": "Bahia Solano"
+    },
+    {
+      "iata": "EJA",
+      "city": "Barran Cabermeja"
+    },
+    {
+      "iata": "BAQ",
+      "city": "Barranquilla"
+    },
+    {
+      "iata": "BOG",
+      "city": "Bogota"
+    },
+    {
+      "iata": "BGA",
+      "city": "Bucaramanga"
+    },
+    {
+      "iata": "CLO",
+      "city": "Cali"
+    },
+    {
+      "iata": "CTG",
+      "city": "Cartagena"
+    },
+    {
+      "iata": "CAQ",
+      "city": "Caucasia"
+    },
+    {
+      "iata": "COG",
+      "city": "Condoto"
+    },
+    {
+      "iata": "CUC",
+      "city": "Cucata"
+    },
+    {
+      "iata": "EYP",
+      "city": "El Yopal"
+    },
+    {
+      "iata": "FLA",
+      "city": "Florencia"
+    },
+    {
+      "iata": "IBE",
+      "city": "Ibague"
+    },
+    {
+      "iata": "IPI",
+      "city": "Ipiales"
+    },
+    {
+      "iata": "LET",
+      "city": "Leticia"
+    },
+    {
+      "iata": "MZL",
+      "city": "Manizales"
+    },
+    {
+      "iata": "EOH",
+      "city": "Medellin"
+    },
+    {
+      "iata": "MDE",
+      "city": "Medellin"
+    },
+    {
+      "iata": "MTR",
+      "city": "Monteria"
+    },
+    {
+      "iata": "NVA",
+      "city": "Neiva"
+    },
+    {
+      "iata": "OTU",
+      "city": "Otu"
+    },
+    {
+      "iata": "PSO",
+      "city": "Pasto"
+    },
+    {
+      "iata": "PEI",
+      "city": "Pereira"
+    },
+    {
+      "iata": "PBE",
+      "city": "Puerto Berria"
+    },
+    {
+      "iata": "UIB",
+      "city": "Quibdo"
+    },
+    {
+      "iata": "RCH",
+      "city": "Riohacha"
+    },
+    {
+      "iata": "ADZ",
+      "city": "San Andres Island"
+    },
+    {
+      "iata": "SMR",
+      "city": "Santa Marta"
+    },
+    {
+      "iata": "TCO",
+      "city": "Tumaco"
+    },
+    {
+      "iata": "VUP",
+      "city": "Valledupar"
+    }
+  ],
+  "Western Samoa": [
+    {
+      "iata": "APW",
+      "city": "Apia"
+    },
+    {
+      "iata": "FGI",
+      "city": "Apia"
+    },
+    {
+      "iata": "MXS",
+      "city": "Maota Savaii Is"
+    }
+  ],
+  "Romania": [
+    {
+      "iata": "ARW",
+      "city": "Arad"
+    },
+    {
+      "iata": "BAY",
+      "city": "Baia Mare"
+    },
+    {
+      "iata": "BBU",
+      "city": "Bucharest"
+    },
+    {
+      "iata": "OTP",
+      "city": "Bucharest"
+    },
+    {
+      "iata": "CLJ",
+      "city": "Cluj"
+    },
+    {
+      "iata": "CND",
+      "city": "Constanta"
+    },
+    {
+      "iata": "IAS",
+      "city": "Iasi"
+    },
+    {
+      "iata": "OMR",
+      "city": "Oradea"
+    },
+    {
+      "iata": "SUJ",
+      "city": "Satu Mare"
+    },
+    {
+      "iata": "TSR",
+      "city": "Timosoara"
+    },
+    {
+      "iata": "TGM",
+      "city": "Tirgu Mures"
+    }
+  ],
+  "Ethiopia": [
+    {
+      "iata": "AMH",
+      "city": "Arba Mintch"
+    },
+    {
+      "iata": "BJR",
+      "city": "Baharpar"
+    },
+    {
+      "iata": "BEI",
+      "city": "Beica"
+    },
+    {
+      "iata": "DBM",
+      "city": "Debra Marcos"
+    },
+    {
+      "iata": "DBT",
+      "city": "Debra Tabor"
+    },
+    {
+      "iata": "DEM",
+      "city": "Dembidollo"
+    },
+    {
+      "iata": "DSE",
+      "city": "Dessie"
+    },
+    {
+      "iata": "DIR",
+      "city": "Dire Dawa"
+    },
+    {
+      "iata": "GMB",
+      "city": "Gambela"
+    },
+    {
+      "iata": "GOB",
+      "city": "Goba"
+    },
+    {
+      "iata": "GDQ",
+      "city": "Gondari"
+    },
+    {
+      "iata": "GOR",
+      "city": "Gore"
+    },
+    {
+      "iata": "JIJ",
+      "city": "Jijiga"
+    },
+    {
+      "iata": "JIM",
+      "city": "Jimma"
+    },
+    {
+      "iata": "BCO",
+      "city": "Jinka"
+    },
+    {
+      "iata": "ABK",
+      "city": "Kabri Dar"
+    },
+    {
+      "iata": "LLI",
+      "city": "Lalibela"
+    },
+    {
+      "iata": "MQX",
+      "city": "Makale"
+    },
+    {
+      "iata": "MKS",
+      "city": "Mekane Selam"
+    },
+    {
+      "iata": "NDM",
+      "city": "Mendi"
+    },
+    {
+      "iata": "MTF",
+      "city": "Mizan Teferi"
+    },
+    {
+      "iata": "EGL",
+      "city": "Neghelli"
+    },
+    {
+      "iata": "HIL",
+      "city": "Shillavo"
+    },
+    {
+      "iata": "TIE",
+      "city": "Tippi"
+    },
+    {
+      "iata": "TUJ",
+      "city": "Tum"
+    }
+  ],
+  "Peru": [
+    {
+      "iata": "AQP",
+      "city": "Arequipa"
+    },
+    {
+      "iata": "CJA",
+      "city": "Cajamarca"
+    },
+    {
+      "iata": "CIX",
+      "city": "Chicayo"
+    },
+    {
+      "iata": "CUZ",
+      "city": "Cuzco"
+    },
+    {
+      "iata": "IQT",
+      "city": "Iquitos"
+    },
+    {
+      "iata": "JUL",
+      "city": "Juliaca"
+    },
+    {
+      "iata": "LIM",
+      "city": "Lima"
+    },
+    {
+      "iata": "PIU",
+      "city": "Piura"
+    },
+    {
+      "iata": "PCL",
+      "city": "Pucallpa"
+    },
+    {
+      "iata": "PEM",
+      "city": "Puerto Maldonado"
+    },
+    {
+      "iata": "TCQ",
+      "city": "Tacna"
+    },
+    {
+      "iata": "TPP",
+      "city": "Tarapoto"
+    },
+    {
+      "iata": "TRU",
+      "city": "Trujillo"
+    },
+    {
+      "iata": "TBP",
+      "city": "Tumbes"
+    }
+  ],
+  "Uganda": [
+    {
+      "iata": "RUA",
+      "city": "Arua"
+    },
+    {
+      "iata": "EBB",
+      "city": "Entebbe"
+    },
+    {
+      "iata": "ULU",
+      "city": "Gulu"
+    },
+    {
+      "iata": "JIN",
+      "city": "Jinja"
+    },
+    {
+      "iata": "VSG",
+      "city": "Lugansk"
+    },
+    {
+      "iata": "PAF",
+      "city": "Pakuba"
+    }
+  ],
+  "Aruba": [
+    {
+      "iata": "AUA",
+      "city": "Aruba"
+    }
+  ],
+  "Tanzania": [
+    {
+      "iata": "ARK",
+      "city": "Arusha"
+    },
+    {
+      "iata": "DAR",
+      "city": "Dar Es Salaam"
+    },
+    {
+      "iata": "DOD",
+      "city": "Dodoma"
+    },
+    {
+      "iata": "TKQ",
+      "city": "Kigoma"
+    },
+    {
+      "iata": "JRO",
+      "city": "Kilimanjaro"
+    },
+    {
+      "iata": "LDI",
+      "city": "Lindi"
+    },
+    {
+      "iata": "MFA",
+      "city": "Mafia"
+    },
+    {
+      "iata": "MYW",
+      "city": "Mtwara"
+    },
+    {
+      "iata": "MUZ",
+      "city": "Musoma"
+    },
+    {
+      "iata": "MWZ",
+      "city": "Mwanza"
+    },
+    {
+      "iata": "PMA",
+      "city": "Pemba"
+    },
+    {
+      "iata": "TBO",
+      "city": "Tabora"
+    },
+    {
+      "iata": "ZNZ",
+      "city": "Zanzibar"
+    }
+  ],
+  "Turkmenistan": [
+    {
+      "iata": "ASB",
+      "city": "Ashgabat"
+    }
+  ],
+  "Eritrea": [
+    {
+      "iata": "ASM",
+      "city": "Asmara"
+    }
+  ],
+  "Spain and Canary Islands": [
+    {
+      "iata": "OVD",
+      "city": "Asturias"
+    },
+    {
+      "iata": "JCU",
+      "city": "Ceuta"
+    },
+    {
+      "iata": "PMI",
+      "city": "Palma Mallorca"
+    },
+    {
+      "iata": "REU",
+      "city": "Reus"
+    },
+    {
+      "iata": "SPC",
+      "city": "Santa Cruz De La Palma"
+    },
+    {
+      "iata": "SVQ",
+      "city": "Sevilla"
+    },
+    {
+      "iata": "TFN",
+      "city": "Tenerife"
+    },
+    {
+      "iata": "VLL",
+      "city": "Valladolid"
+    },
+    {
+      "iata": "VDE",
+      "city": "Valverde"
+    },
+    {
+      "iata": "VIT",
+      "city": "Vitoria"
+    },
+    {
+      "iata": "ZAZ",
+      "city": "Zaragoza"
+    }
+  ],
+  "Paraguay": [
+    {
+      "iata": "ASU",
+      "city": "Asuncion"
+    },
+    {
+      "iata": "AGT",
+      "city": "Ciudad del Este"
+    }
+  ],
+  "Solomon Islands": [
+    {
+      "iata": "ATD",
+      "city": "Atoifi"
+    },
+    {
+      "iata": "AKS",
+      "city": "Auki"
+    },
+    {
+      "iata": "BAS",
+      "city": "Balalae"
+    },
+    {
+      "iata": "BPF",
+      "city": "Batuna"
+    },
+    {
+      "iata": "BNY",
+      "city": "Bellona"
+    },
+    {
+      "iata": "CHY",
+      "city": "Choiseul Bay"
+    },
+    {
+      "iata": "FRE",
+      "city": "Fera Island"
+    },
+    {
+      "iata": "GZO",
+      "city": "Gizo"
+    },
+    {
+      "iata": "HIR",
+      "city": "Honiara"
+    },
+    {
+      "iata": "IRA",
+      "city": "Kirakira"
+    },
+    {
+      "iata": "MNY",
+      "city": "Mono"
+    },
+    {
+      "iata": "MUA",
+      "city": "Munda"
+    },
+    {
+      "iata": "PRS",
+      "city": "Parasi"
+    },
+    {
+      "iata": "RBV",
+      "city": "Ramato"
+    },
+    {
+      "iata": "RNL",
+      "city": "Rennell"
+    },
+    {
+      "iata": "NNB",
+      "city": "Santa Ana"
+    },
+    {
+      "iata": "EGM",
+      "city": "Sege"
+    },
+    {
+      "iata": "VAO",
+      "city": "Suavanao"
+    },
+    {
+      "iata": "XYA",
+      "city": "Yandina"
+    }
+  ],
+  "French Polynesia": [
+    {
+      "iata": "AUQ",
+      "city": "Atuona"
+    },
+    {
+      "iata": "BOB",
+      "city": "Bora Bora"
+    },
+    {
+      "iata": "FAV",
+      "city": "Fakarava"
+    },
+    {
+      "iata": "HUH",
+      "city": "Huahine"
+    },
+    {
+      "iata": "HUU",
+      "city": "Huanuco"
+    },
+    {
+      "iata": "XMH",
+      "city": "Manihi"
+    },
+    {
+      "iata": "MAU",
+      "city": "Maupiti"
+    },
+    {
+      "iata": "MOZ",
+      "city": "Moorea"
+    },
+    {
+      "iata": "NHV",
+      "city": "Nuku Hiva"
+    },
+    {
+      "iata": "PPT",
+      "city": "Papeete"
+    },
+    {
+      "iata": "RFP",
+      "city": "Raiatea"
+    },
+    {
+      "iata": "RUR",
+      "city": "Rorutu"
+    },
+    {
+      "iata": "TIH",
+      "city": "Tikehau Atoll"
+    },
+    {
+      "iata": "TUB",
+      "city": "Tubuai"
+    }
+  ],
+  "New Zealand": [
+    {
+      "iata": "AKL",
+      "city": "Auckland"
+    },
+    {
+      "iata": "BHE",
+      "city": "Blenheim"
+    },
+    {
+      "iata": "CHT",
+      "city": "Chatham Island"
+    },
+    {
+      "iata": "CHC",
+      "city": "Christchurch"
+    },
+    {
+      "iata": "DUD",
+      "city": "Dunedin"
+    },
+    {
+      "iata": "GIS",
+      "city": "Gisborne"
+    },
+    {
+      "iata": "HLZ",
+      "city": "Hamilton"
+    },
+    {
+      "iata": "HKK",
+      "city": "Hokitika"
+    },
+    {
+      "iata": "IVC",
+      "city": "Invercargill"
+    },
+    {
+      "iata": "KAT",
+      "city": "Kaitaia"
+    },
+    {
+      "iata": "MON",
+      "city": "Mount Cook"
+    },
+    {
+      "iata": "NPE",
+      "city": "Napier-Hastings"
+    },
+    {
+      "iata": "NSN",
+      "city": "Nelso"
+    },
+    {
+      "iata": "NPL",
+      "city": "New Plymouth"
+    },
+    {
+      "iata": "PMR",
+      "city": "Palmerston North"
+    },
+    {
+      "iata": "ZQN",
+      "city": "Queenstown"
+    },
+    {
+      "iata": "ROT",
+      "city": "Rotorua"
+    },
+    {
+      "iata": "TUO",
+      "city": "Taupo"
+    },
+    {
+      "iata": "TRG",
+      "city": "Tauranga"
+    },
+    {
+      "iata": "TEU",
+      "city": "Te Anau"
+    },
+    {
+      "iata": "TIU",
+      "city": "Timaru"
+    },
+    {
+      "iata": "WKA",
+      "city": "Wanaka"
+    },
+    {
+      "iata": "WAG",
+      "city": "Wanganui"
+    },
+    {
+      "iata": "WLG",
+      "city": "Wellington"
+    },
+    {
+      "iata": "WSZ",
+      "city": "Westport"
+    },
+    {
+      "iata": "WHK",
+      "city": "Whakatane"
+    },
+    {
+      "iata": "WRE",
+      "city": "Whangarei"
+    }
+  ],
+  "Germany": [
+    {
+      "iata": "AGB",
+      "city": "Augsburg/Munich"
+    },
+    {
+      "iata": "BER",
+      "city": "Berlin"
+    },
+    {
+      "iata": "TXL",
+      "city": "Berlin"
+    },
+    {
+      "iata": "THF",
+      "city": "Berlin"
+    },
+    {
+      "iata": "SXF",
+      "city": "Berlin"
+    },
+    {
+      "iata": "BNJ",
+      "city": "Bonn"
+    },
+    {
+      "iata": "BRE",
+      "city": "Bremen"
+    },
+    {
+      "iata": "CGN",
+      "city": "Cologne"
+    },
+    {
+      "iata": "DTM",
+      "city": "Dortmund"
+    },
+    {
+      "iata": "DRS",
+      "city": "Dresden"
+    },
+    {
+      "iata": "DUS",
+      "city": "Dusseldorf"
+    },
+    {
+      "iata": "QDU",
+      "city": "Dusseldorf"
+    },
+    {
+      "iata": "ERF",
+      "city": "Erfurt"
+    },
+    {
+      "iata": "XFW",
+      "city": "Finkenwerder"
+    },
+    {
+      "iata": "HHN",
+      "city": "Frankfurt"
+    },
+    {
+      "iata": "FRA",
+      "city": "Frankfurt"
+    },
+    {
+      "iata": "FDH",
+      "city": "Friedrichshafer"
+    },
+    {
+      "iata": "ZHQ",
+      "city": "Halberstadt"
+    },
+    {
+      "iata": "HAM",
+      "city": "Hamburg"
+    },
+    {
+      "iata": "HAJ",
+      "city": "Hanover"
+    },
+    {
+      "iata": "FKB",
+      "city": "Karlsruhe/Badern Baden"
+    },
+    {
+      "iata": "LEJ",
+      "city": "Leipzig"
+    },
+    {
+      "iata": "MHG",
+      "city": "Mannheim"
+    },
+    {
+      "iata": "FMO",
+      "city": "Muenster"
+    },
+    {
+      "iata": "MUC",
+      "city": "Munich"
+    },
+    {
+      "iata": "NUE",
+      "city": "Nuremberg"
+    },
+    {
+      "iata": "PAD",
+      "city": "Paderborn"
+    },
+    {
+      "iata": "STR",
+      "city": "Stuttgart"
+    }
+  ],
+  "Philippines": [
+    {
+      "iata": "BCD",
+      "city": "Bacolod"
+    },
+    {
+      "iata": "BSO",
+      "city": "Basco"
+    },
+    {
+      "iata": "BXU",
+      "city": "Butuan"
+    },
+    {
+      "iata": "CGY",
+      "city": "Cagayan De Oro"
+    },
+    {
+      "iata": "CEB",
+      "city": "Cebu"
+    },
+    {
+      "iata": "CBO",
+      "city": "Cotabato"
+    },
+    {
+      "iata": "DPL",
+      "city": "Dipolog"
+    },
+    {
+      "iata": "DGT",
+      "city": "Dumaguete"
+    },
+    {
+      "iata": "GES",
+      "city": "General Santos"
+    },
+    {
+      "iata": "ILO",
+      "city": "Iloilo"
+    },
+    {
+      "iata": "IPE",
+      "city": "Ipil"
+    },
+    {
+      "iata": "LAO",
+      "city": "Laoag"
+    },
+    {
+      "iata": "LGP",
+      "city": "Legaspi"
+    },
+    {
+      "iata": "MNL",
+      "city": "Manila"
+    },
+    {
+      "iata": "MBT",
+      "city": "Masbate"
+    },
+    {
+      "iata": "WNP",
+      "city": "Naga"
+    },
+    {
+      "iata": "PPS",
+      "city": "Puerto Princesa"
+    },
+    {
+      "iata": "TAC",
+      "city": "Tacloban"
+    },
+    {
+      "iata": "TUG",
+      "city": "Tuguegarao"
+    },
+    {
+      "iata": "ZAM",
+      "city": "Zamboanga"
+    }
+  ],
+  "Pakistan": [
+    {
+      "iata": "BHV",
+      "city": "Bahawalpur"
+    },
+    {
+      "iata": "BNP",
+      "city": "Bannu"
+    },
+    {
+      "iata": "CJL",
+      "city": "Chitral"
+    },
+    {
+      "iata": "DEA",
+      "city": "Dera Ghazi"
+    },
+    {
+      "iata": "DSK",
+      "city": "Dera Ismail Khan"
+    },
+    {
+      "iata": "LYP",
+      "city": "Faisalabad"
+    },
+    {
+      "iata": "GIL",
+      "city": "Gilgit"
+    },
+    {
+      "iata": "GWD",
+      "city": "Gwadar"
+    },
+    {
+      "iata": "ISB",
+      "city": "Islamabad"
+    },
+    {
+      "iata": "JAG",
+      "city": "Jacobabad"
+    },
+    {
+      "iata": "JIW",
+      "city": "Jiwani"
+    },
+    {
+      "iata": "KCF",
+      "city": "Kadanwari"
+    },
+    {
+      "iata": "KHI",
+      "city": "Karachi"
+    },
+    {
+      "iata": "KDD",
+      "city": "Khuzdar"
+    },
+    {
+      "iata": "LHE",
+      "city": "Lahore"
+    },
+    {
+      "iata": "MUX",
+      "city": "Multan"
+    },
+    {
+      "iata": "MFG",
+      "city": "Muzaffarabad"
+    },
+    {
+      "iata": "WNS",
+      "city": "Nawabshah"
+    },
+    {
+      "iata": "ORW",
+      "city": "Ormara"
+    },
+    {
+      "iata": "PJG",
+      "city": "Panjger"
+    },
+    {
+      "iata": "PAJ",
+      "city": "Para Chinar"
+    },
+    {
+      "iata": "PSI",
+      "city": "Pasni"
+    },
+    {
+      "iata": "PEW",
+      "city": "Peshawar"
+    },
+    {
+      "iata": "UET",
+      "city": "Quetta"
+    },
+    {
+      "iata": "RAZ",
+      "city": "Rawala Kot"
+    },
+    {
+      "iata": "SUL",
+      "city": "Sui"
+    },
+    {
+      "iata": "TUK",
+      "city": "Turbat"
+    },
+    {
+      "iata": "PZH",
+      "city": "Zhob"
+    }
+  ],
+  "Panama": [
+    {
+      "iata": "BFQ",
+      "city": "Bahia Pinas"
+    },
+    {
+      "iata": "BOC",
+      "city": "Bocas Del Toro"
+    },
+    {
+      "iata": "CHX",
+      "city": "Changuinda"
+    },
+    {
+      "iata": "CTD",
+      "city": "Chitre"
+    },
+    {
+      "iata": "ONX",
+      "city": "Colon"
+    },
+    {
+      "iata": "OTD",
+      "city": "Contadora"
+    },
+    {
+      "iata": "DAV",
+      "city": "David"
+    },
+    {
+      "iata": "ELE",
+      "city": "El Real"
+    },
+    {
+      "iata": "GHE",
+      "city": "Garachine"
+    },
+    {
+      "iata": "JQE",
+      "city": "Jaque"
+    },
+    {
+      "iata": "PLP",
+      "city": "La Palma"
+    },
+    {
+      "iata": "PTY",
+      "city": "Panama City"
+    },
+    {
+      "iata": "PAC",
+      "city": "Panama City"
+    },
+    {
+      "iata": "NMG",
+      "city": "San Miguel"
+    }
+  ],
+  "Bahrain": [
+    {
+      "iata": "BAH",
+      "city": "Bahrain"
+    }
+  ],
+  "Azerbaijan": [
+    {
+      "iata": "BAK",
+      "city": "Baku"
+    },
+    {
+      "iata": "KVD",
+      "city": "Gyandzha"
+    },
+    {
+      "iata": "NAJ",
+      "city": "Nakhichevan"
+    }
+  ],
+  "Mali": [
+    {
+      "iata": "BKO",
+      "city": "Bamako"
+    },
+    {
+      "iata": "GUD",
+      "city": "Goundam"
+    },
+    {
+      "iata": "MZI",
+      "city": "Mopti"
+    },
+    {
+      "iata": "TOM",
+      "city": "Tombouctou"
+    },
+    {
+      "iata": "EYL",
+      "city": "Yelimane"
+    }
+  ],
+  "Brunei": [
+    {
+      "iata": "BWN",
+      "city": "Bandar Seri Begawan"
+    }
+  ],
+  "Thailand": [
+    {
+      "iata": "BKK",
+      "city": "Bangkok"
+    },
+    {
+      "iata": "BFV",
+      "city": "Buri Ram"
+    },
+    {
+      "iata": "CNX",
+      "city": "Chiang Mai"
+    },
+    {
+      "iata": "CEI",
+      "city": "Chiang Rai"
+    },
+    {
+      "iata": "HDY",
+      "city": "Hat Yai"
+    },
+    {
+      "iata": "HHQ",
+      "city": "Hualtin"
+    },
+    {
+      "iata": "USM",
+      "city": "Koh Samui"
+    },
+    {
+      "iata": "KBV",
+      "city": "Krabi"
+    },
+    {
+      "iata": "LPI",
+      "city": "Lampang"
+    },
+    {
+      "iata": "HGN",
+      "city": "Mae Hong Son"
+    },
+    {
+      "iata": "MAQ",
+      "city": "Mae Sot"
+    },
+    {
+      "iata": "NAK",
+      "city": "Nakhon Ratchosima"
+    },
+    {
+      "iata": "NST",
+      "city": "Nakhon Si Thammarat"
+    },
+    {
+      "iata": "NNT",
+      "city": "Nan"
+    },
+    {
+      "iata": "NAW",
+      "city": "Narathiwat"
+    },
+    {
+      "iata": "PHS",
+      "city": "Phitsanulok"
+    },
+    {
+      "iata": "PRH",
+      "city": "Phrae"
+    },
+    {
+      "iata": "HKT",
+      "city": "Phuket"
+    },
+    {
+      "iata": "UNN",
+      "city": "Ranong"
+    },
+    {
+      "iata": "SNO",
+      "city": "Sakon Nakhon"
+    },
+    {
+      "iata": "THS",
+      "city": "Sukhotthai"
+    },
+    {
+      "iata": "URT",
+      "city": "Surat Thani"
+    },
+    {
+      "iata": "TST",
+      "city": "Trang"
+    },
+    {
+      "iata": "UBP",
+      "city": "Ubon Ratchathani"
+    },
+    {
+      "iata": "UTH",
+      "city": "Udon Thani"
+    },
+    {
+      "iata": "UTP",
+      "city": "Utapao"
+    }
+  ],
+  "Bosnia Herzegovina": [
+    {
+      "iata": "BNX",
+      "city": "Banja Luka"
+    }
+  ],
+  "Gambia": [
+    {
+      "iata": "BJL",
+      "city": "Banjul"
+    }
+  ],
+  "Viet Nam": [
+    {
+      "iata": "BMV",
+      "city": "Banmethuot"
+    },
+    {
+      "iata": "DAD",
+      "city": "Da Nang"
+    },
+    {
+      "iata": "Dalat, Viet Nam - Lienkhang DLI",
+      "city": "Dalat"
+    },
+    {
+      "iata": "DIN",
+      "city": "Dien Bien Phu"
+    },
+    {
+      "iata": "HPH",
+      "city": "Haiphong"
+    },
+    {
+      "iata": "HAN",
+      "city": "Hanoi"
+    },
+    {
+      "iata": "SGN",
+      "city": "Ho Chi Minh City"
+    },
+    {
+      "iata": "HUI",
+      "city": "Hue"
+    },
+    {
+      "iata": "NHA",
+      "city": "Nha Trang"
+    },
+    {
+      "iata": "PQC",
+      "city": "Phu Quoc"
+    },
+    {
+      "iata": "PXU",
+      "city": "Pleiku"
+    },
+    {
+      "iata": "UIH",
+      "city": "Qui Nhon"
+    },
+    {
+      "iata": "VKG",
+      "city": "Rach Gia"
+    },
+    {
+      "iata": "VKG",
+      "city": "Roch Gia"
+    },
+    {
+      "iata": "SQH",
+      "city": "Son-La"
+    },
+    {
+      "iata": "VII",
+      "city": "Vinh City"
+    }
+  ],
+  "Central African Republic": [
+    {
+      "iata": "BGF",
+      "city": "Banqui"
+    }
+  ],
+  "Cuba": [
+    {
+      "iata": "BCA",
+      "city": "Baracoa"
+    },
+    {
+      "iata": "BYM",
+      "city": "Bayamo"
+    },
+    {
+      "iata": "CMW",
+      "city": "Camaguey"
+    },
+    {
+      "iata": "CYO",
+      "city": "Cayo Largo Del Sur"
+    },
+    {
+      "iata": "AVI",
+      "city": "Ciego De Avila"
+    },
+    {
+      "iata": "GAO",
+      "city": "Guantanamo"
+    },
+    {
+      "iata": "HAV",
+      "city": "Havana"
+    },
+    {
+      "iata": "HOG",
+      "city": "Holguin"
+    },
+    {
+      "iata": "MZO",
+      "city": "Manzanillo"
+    },
+    {
+      "iata": "MOA",
+      "city": "Moa"
+    },
+    {
+      "iata": "GER",
+      "city": "Nueva Gerona"
+    },
+    {
+      "iata": "VRA",
+      "city": "Varadero"
+    }
+  ],
+  "Bangladesh": [
+    {
+      "iata": "BZL",
+      "city": "Barisal"
+    },
+    {
+      "iata": "CGP",
+      "city": "Chittagong"
+    },
+    {
+      "iata": "CXB",
+      "city": "Cox's Bazar"
+    },
+    {
+      "iata": "JSR",
+      "city": "Jessore"
+    },
+    {
+      "iata": "RJH",
+      "city": "Rajshahi"
+    },
+    {
+      "iata": "ZYL",
+      "city": "Sylhet"
+    }
+  ],
+  "Costa Rica": [
+    {
+      "iata": "BCL",
+      "city": "Barra Colorado"
+    },
+    {
+      "iata": "RIK",
+      "city": "Carrillo"
+    },
+    {
+      "iata": "GLF",
+      "city": "Golfito"
+    },
+    {
+      "iata": "LIR",
+      "city": "Liberia"
+    },
+    {
+      "iata": "NOB",
+      "city": "Nosara Beach"
+    },
+    {
+      "iata": "PMZ",
+      "city": "Palmar"
+    },
+    {
+      "iata": "PJM",
+      "city": "Puerto Jimenez"
+    },
+    {
+      "iata": "PBP",
+      "city": "Punta Islita"
+    },
+    {
+      "iata": "XQP",
+      "city": "Quepos"
+    },
+    {
+      "iata": "SJO",
+      "city": "San Jose"
+    },
+    {
+      "iata": "SYQ",
+      "city": "San Jose"
+    },
+    {
+      "iata": "TNO",
+      "city": "Tamarindo"
+    },
+    {
+      "iata": "TMU",
+      "city": "Tambor"
+    },
+    {
+      "iata": "TTQ",
+      "city": "Tortuquero"
+    }
+  ],
+  "Cambodia": [
+    {
+      "iata": "BBM",
+      "city": "Battambang"
+    },
+    {
+      "iata": "CYB",
+      "city": "Cayman Brac Is"
+    },
+    {
+      "iata": "PNH",
+      "city": "Phnom Penh"
+    },
+    {
+      "iata": "RBE",
+      "city": "Ratanakiri"
+    },
+    {
+      "iata": "REP",
+      "city": "Siem Reap"
+    },
+    {
+      "iata": "TNX",
+      "city": "Stung Treng"
+    }
+  ],
+  "Georgia": [
+    {
+      "iata": "BUS",
+      "city": "Batumi"
+    },
+    {
+      "iata": "KUT",
+      "city": "Kutaisi"
+    },
+    {
+      "iata": "TBS",
+      "city": "Tbilisi"
+    }
+  ],
+  "British Virgin Islands": [
+    {
+      "iata": "EIS",
+      "city": "Beef Island"
+    },
+    {
+      "iata": "TOV",
+      "city": "Tortola"
+    },
+    {
+      "iata": "VIJ",
+      "city": "Virgin Gorda"
+    }
+  ],
+  "Libya": [
+    {
+      "iata": "LAQ",
+      "city": "Beida"
+    },
+    {
+      "iata": "BEN",
+      "city": "Benghazi"
+    },
+    {
+      "iata": "BCQ",
+      "city": "Brack"
+    },
+    {
+      "iata": "LTD",
+      "city": "Ghadames"
+    },
+    {
+      "iata": "GHT",
+      "city": "Ghat"
+    },
+    {
+      "iata": "HUQ",
+      "city": "Houn"
+    },
+    {
+      "iata": "AKF",
+      "city": "Kufrah"
+    },
+    {
+      "iata": "MRA",
+      "city": "Misurata"
+    },
+    {
+      "iata": "TOB",
+      "city": "Tobruk"
+    }
+  ],
+  "Mozambique": [
+    {
+      "iata": "BEW",
+      "city": "Beira"
+    },
+    {
+      "iata": "BLG",
+      "city": "Belaga"
+    },
+    {
+      "iata": "VXC",
+      "city": "Lichinga"
+    },
+    {
+      "iata": "MPM",
+      "city": "Maputo"
+    },
+    {
+      "iata": "MNC",
+      "city": "Nacala"
+    },
+    {
+      "iata": "APL",
+      "city": "Nampula"
+    },
+    {
+      "iata": "POL",
+      "city": "Pemba"
+    },
+    {
+      "iata": "UEL",
+      "city": "Quelimane"
+    },
+    {
+      "iata": "TET",
+      "city": "Tete"
+    },
+    {
+      "iata": "VNX",
+      "city": "Vilanculos"
+    }
+  ],
+  "Lebanon": [
+    {
+      "iata": "BEY",
+      "city": "Beirut"
+    }
+  ],
+  "New Caledonia": [
+    {
+      "iata": "BMY",
+      "city": "Belep Island"
+    },
+    {
+      "iata": "ILP",
+      "city": "Ile Des Pins"
+    },
+    {
+      "iata": "LIF",
+      "city": "Lifa"
+    },
+    {
+      "iata": "MEE",
+      "city": "Mare"
+    },
+    {
+      "iata": "NOU",
+      "city": "Noumea"
+    },
+    {
+      "iata": "GEA",
+      "city": "Noumea"
+    },
+    {
+      "iata": "UVE",
+      "city": "Ouvea"
+    },
+    {
+      "iata": "TGJ",
+      "city": "Tiga"
+    },
+    {
+      "iata": "TOU",
+      "city": "Touho"
+    }
+  ],
+  "Serbia and Montenegro": [
+    {
+      "iata": "BEG",
+      "city": "Belgrade"
+    },
+    {
+      "iata": "TGD",
+      "city": "Podgoriea"
+    },
+    {
+      "iata": "PRN",
+      "city": "Pristina"
+    },
+    {
+      "iata": "TIV",
+      "city": "Tivat"
+    }
+  ],
+  "Belize": [
+    {
+      "iata": "BZE",
+      "city": "Belize City"
+    },
+    {
+      "iata": "TZA",
+      "city": "Belize City"
+    },
+    {
+      "iata": "CZH",
+      "city": "Corozal"
+    },
+    {
+      "iata": "DGA",
+      "city": "Dangriga"
+    },
+    {
+      "iata": "PLJ",
+      "city": "Placencia"
+    },
+    {
+      "iata": "PND",
+      "city": "Punta Gorda"
+    }
+  ],
+  "Somalia": [
+    {
+      "iata": "BBO",
+      "city": "Berbera"
+    },
+    {
+      "iata": "BSA",
+      "city": "Bossaro"
+    },
+    {
+      "iata": "BUO",
+      "city": "Burao"
+    },
+    {
+      "iata": "MGQ",
+      "city": "Mogadishu"
+    }
+  ],
+  "Bermuda": [
+    {
+      "iata": "BDA",
+      "city": "Bermuda"
+    },
+    {
+      "iata": "BDA",
+      "city": "Hamilton"
+    }
+  ],
+  "Nepal": [
+    {
+      "iata": "BDP",
+      "city": "Bhadrapur"
+    },
+    {
+      "iata": "BWA",
+      "city": "Bhairawa"
+    },
+    {
+      "iata": "BHR",
+      "city": "Bharatpur"
+    },
+    {
+      "iata": "BIR",
+      "city": "Biratragar"
+    },
+    {
+      "iata": "JKR",
+      "city": "Janakpur"
+    },
+    {
+      "iata": "JMO",
+      "city": "Jomsom"
+    },
+    {
+      "iata": "KTM",
+      "city": "Kathmandu"
+    },
+    {
+      "iata": "LUA",
+      "city": "Lukla"
+    },
+    {
+      "iata": "NGX",
+      "city": "Manang"
+    },
+    {
+      "iata": "PKR",
+      "city": "Pokhara"
+    }
+  ],
+  "Myanmar": [
+    {
+      "iata": "BMO",
+      "city": "Bhamo"
+    },
+    {
+      "iata": "TVY",
+      "city": "Dawe"
+    },
+    {
+      "iata": "HEH",
+      "city": "Heno"
+    },
+    {
+      "iata": "KAW",
+      "city": "Kawthaung"
+    },
+    {
+      "iata": "MDL",
+      "city": "Mandalay"
+    },
+    {
+      "iata": "MNU",
+      "city": "Maulmyine"
+    },
+    {
+      "iata": "MGZ",
+      "city": "Myeik"
+    },
+    {
+      "iata": "MYT",
+      "city": "Myitkyina"
+    },
+    {
+      "iata": "NYU",
+      "city": "Nyaung"
+    },
+    {
+      "iata": "AKY",
+      "city": "Sittwe"
+    },
+    {
+      "iata": "THL",
+      "city": "Tachilek"
+    },
+    {
+      "iata": "SNW",
+      "city": "Thandwe"
+    },
+    {
+      "iata": "RGN",
+      "city": "Yangon"
+    }
+  ],
+  "Kyrgyzstan": [
+    {
+      "iata": "FRU",
+      "city": "Bishkek"
+    }
+  ],
+  "Guinea-Bissau": [
+    {
+      "iata": "OXB",
+      "city": "Bissau"
+    }
+  ],
+  "Malawi": [
+    {
+      "iata": "BLZ",
+      "city": "Blantyre"
+    },
+    {
+      "iata": "CMK",
+      "city": "Club Makokola"
+    },
+    {
+      "iata": "LLW",
+      "city": "Lilongwe"
+    },
+    {
+      "iata": "ZZU",
+      "city": "Mzuzu"
+    }
+  ],
+  "Cape Verde": [
+    {
+      "iata": "BVC",
+      "city": "Boa Vista"
+    },
+    {
+      "iata": "MMO",
+      "city": "Maio"
+    },
+    {
+      "iata": "RAI",
+      "city": "Praia"
+    },
+    {
+      "iata": "NTO",
+      "city": "Santo Antao"
+    },
+    {
+      "iata": "SNE",
+      "city": "Sao Nicolau"
+    },
+    {
+      "iata": "VXE",
+      "city": "Sao Vicente"
+    }
+  ],
+  "Croatia": [
+    {
+      "iata": "BWK",
+      "city": "Bol"
+    },
+    {
+      "iata": "DBV",
+      "city": "Dubrovnik"
+    },
+    {
+      "iata": "OSI",
+      "city": "Osijek"
+    },
+    {
+      "iata": "PUY",
+      "city": "Pula"
+    },
+    {
+      "iata": "RJK",
+      "city": "Rijeka"
+    },
+    {
+      "iata": "SPU",
+      "city": "Split"
+    },
+    {
+      "iata": "ZAD",
+      "city": "Zadar"
+    },
+    {
+      "iata": "ZAG",
+      "city": "Zagreb"
+    }
+  ],
+  "Congo": [
+    {
+      "iata": "BOA",
+      "city": "Boma"
+    },
+    {
+      "iata": "BZV",
+      "city": "Brazzaville"
+    },
+    {
+      "iata": "FIH",
+      "city": "Kinshasa"
+    },
+    {
+      "iata": "FBM",
+      "city": "Lumbashi"
+    },
+    {
+      "iata": "MDK",
+      "city": "Mbandaka"
+    },
+    {
+      "iata": "MJM",
+      "city": "Mbuji Mayi"
+    },
+    {
+      "iata": "MNB",
+      "city": "Moanda"
+    },
+    {
+      "iata": "MAT",
+      "city": "Natadi"
+    },
+    {
+      "iata": "NIX",
+      "city": "Nioko"
+    },
+    {
+      "iata": "PNR",
+      "city": "Pointe Noire"
+    }
+  ],
+  "Netherlands Antilles": [
+    {
+      "iata": "BON",
+      "city": "Bonaire"
+    },
+    {
+      "iata": "CUR",
+      "city": "Curacao"
+    },
+    {
+      "iata": "SXM",
+      "city": "Saint Maarten"
+    },
+    {
+      "iata": "EUX",
+      "city": "St. Eustatius"
+    }
+  ],
+  "Bulgaria": [
+    {
+      "iata": "BOJ",
+      "city": "Bourgas"
+    },
+    {
+      "iata": "SOF",
+      "city": "Sofia"
+    },
+    {
+      "iata": "VAR",
+      "city": "Varna"
+    }
+  ],
+  "Slovakia": [
+    {
+      "iata": "BTS",
+      "city": "Bratislava"
+    },
+    {
+      "iata": "TAT",
+      "city": "Popraol/Tatry"
+    }
+  ],
+  "Barbados": [
+    {
+      "iata": "BGI",
+      "city": "Bridgetown"
+    }
+  ],
+  "Czech Republic": [
+    {
+      "iata": "BRQ",
+      "city": "Brno"
+    },
+    {
+      "iata": "ZDN",
+      "city": "Brno"
+    },
+    {
+      "iata": "OSR",
+      "city": "Ostrava"
+    },
+    {
+      "iata": "PRG",
+      "city": "Prague"
+    }
+  ],
+  "Honduras": [
+    {
+      "iata": "BHG",
+      "city": "Brus Laguna"
+    },
+    {
+      "iata": "GJA",
+      "city": "Guanaja"
+    },
+    {
+      "iata": "LCE",
+      "city": "La Ceiba"
+    },
+    {
+      "iata": "PCH",
+      "city": "Palacios"
+    },
+    {
+      "iata": "PEU",
+      "city": "Puerto Lempira"
+    },
+    {
+      "iata": "RTB",
+      "city": "Roatan"
+    },
+    {
+      "iata": "SAP",
+      "city": "San Pedro Sula"
+    },
+    {
+      "iata": "TGU",
+      "city": "Tegucigalpa"
+    },
+    {
+      "iata": "TJI",
+      "city": "Trujillo"
+    },
+    {
+      "iata": "UII",
+      "city": "Utila"
+    }
+  ],
+  "Belguim": [
+    {
+      "iata": "CRL",
+      "city": "Brussels"
+    }
+  ],
+  "Hungary": [
+    {
+      "iata": "BUD",
+      "city": "Budapest"
+    }
+  ],
+  "Burundi": [
+    {
+      "iata": "BJM",
+      "city": "Bujumbura"
+    }
+  ],
+  "Zimbabwe": [
+    {
+      "iata": "BUQ",
+      "city": "Bulawayo"
+    },
+    {
+      "iata": "HRE",
+      "city": "Harare"
+    },
+    {
+      "iata": "HWN",
+      "city": "Hwange Nat Park"
+    },
+    {
+      "iata": "KAB",
+      "city": "Kariba"
+    },
+    {
+      "iata": "VFA",
+      "city": "Victoria Falls"
+    }
+  ],
+  "Fiji": [
+    {
+      "iata": "LEV",
+      "city": "Bureta"
+    },
+    {
+      "iata": "CST",
+      "city": "Castaway"
+    },
+    {
+      "iata": "ICI",
+      "city": "Cicia"
+    },
+    {
+      "iata": "LBS",
+      "city": "Labasa"
+    },
+    {
+      "iata": "LKB",
+      "city": "Lakeba"
+    },
+    {
+      "iata": "LUC",
+      "city": "Laucala Island"
+    },
+    {
+      "iata": "PTF",
+      "city": "Malololailai"
+    },
+    {
+      "iata": "MNF",
+      "city": "Mana Island"
+    },
+    {
+      "iata": "MFJ",
+      "city": "Moala"
+    },
+    {
+      "iata": "NAN",
+      "city": "Nadi"
+    },
+    {
+      "iata": "NGI",
+      "city": "Ngau Island"
+    },
+    {
+      "iata": "SVU",
+      "city": "Savusavu"
+    },
+    {
+      "iata": "SUV",
+      "city": "Suva"
+    },
+    {
+      "iata": "TVU",
+      "city": "Taveuni"
+    },
+    {
+      "iata": "VBV",
+      "city": "Vanuabalavu"
+    }
+  ],
+  "South Korea": [
+    {
+      "iata": "PUS",
+      "city": "Busan"
+    },
+    {
+      "iata": "CJJ",
+      "city": "Cheongju"
+    },
+    {
+      "iata": "TAE",
+      "city": "Daegu"
+    },
+    {
+      "iata": "KAG",
+      "city": "Gangneung"
+    },
+    {
+      "iata": "KUV",
+      "city": "Gunsan"
+    },
+    {
+      "iata": "KWJ",
+      "city": "Gwangju"
+    },
+    {
+      "iata": "HIN",
+      "city": "Jinju"
+    },
+    {
+      "iata": "MPK",
+      "city": "Mokpo"
+    },
+    {
+      "iata": "SEL",
+      "city": "Seoul"
+    },
+    {
+      "iata": "GMP",
+      "city": "Seoul"
+    },
+    {
+      "iata": "ICN",
+      "city": "Seoul"
+    },
+    {
+      "iata": "USN",
+      "city": "Ulsan"
+    },
+    {
+      "iata": "WJU",
+      "city": "WonJu"
+    },
+    {
+      "iata": "RSU",
+      "city": "Yeosu"
+    }
+  ],
+  "Poland": [
+    {
+      "iata": "BZG",
+      "city": "Bydgoszcz"
+    },
+    {
+      "iata": "GDN",
+      "city": "Gdansk"
+    },
+    {
+      "iata": "KTW",
+      "city": "Katowice"
+    },
+    {
+      "iata": "QJY",
+      "city": "Kolobrzeg"
+    },
+    {
+      "iata": "OSZ",
+      "city": "Koszalin"
+    },
+    {
+      "iata": "KRK",
+      "city": "Krakow"
+    },
+    {
+      "iata": "POZ",
+      "city": "Poznan"
+    },
+    {
+      "iata": "SZZ",
+      "city": "Szczecin"
+    },
+    {
+      "iata": "WAW",
+      "city": "Warsaw"
+    },
+    {
+      "iata": "WRO",
+      "city": "Wroclaw"
+    },
+    {
+      "iata": "IEG",
+      "city": "Zielana"
+    }
+  ],
+  "Saint Vincent and the Grenadines": [
+    {
+      "iata": "CIW",
+      "city": "Canouan"
+    },
+    {
+      "iata": "SVD",
+      "city": "St Vincent"
+    }
+  ],
+  "Haiti": [
+    {
+      "iata": "CAP",
+      "city": "Cap Haitien"
+    },
+    {
+      "iata": "PAP",
+      "city": "Port Au Prince"
+    }
+  ],
+  "French Guiana": [
+    {
+      "iata": "CAY",
+      "city": "Cayenne"
+    }
+  ],
+  "Taiwan": [
+    {
+      "iata": "CMJ",
+      "city": "Chi Mei"
+    },
+    {
+      "iata": "CYI",
+      "city": "Chiayi"
+    },
+    {
+      "iata": "HUN",
+      "city": "Hualien"
+    },
+    {
+      "iata": "MZG",
+      "city": "Makung"
+    },
+    {
+      "iata": "PIF",
+      "city": "Pingtung"
+    },
+    {
+      "iata": "TXG",
+      "city": "Taichung"
+    },
+    {
+      "iata": "TNN",
+      "city": "Tainan"
+    },
+    {
+      "iata": "TSA",
+      "city": "Taipei"
+    },
+    {
+      "iata": "TPE",
+      "city": "Taipei"
+    },
+    {
+      "iata": "TTT",
+      "city": "Taitung"
+    },
+    {
+      "iata": "WOT",
+      "city": "Wonan"
+    }
+  ],
+  "Zambia": [
+    {
+      "iata": "CIP",
+      "city": "Chipata"
+    },
+    {
+      "iata": "ZKB",
+      "city": "Kasaba Bay"
+    },
+    {
+      "iata": "KAA",
+      "city": "Kasama"
+    },
+    {
+      "iata": "LVI",
+      "city": "Livingstone"
+    },
+    {
+      "iata": "LUN",
+      "city": "Lusaka"
+    },
+    {
+      "iata": "MNR",
+      "city": "Mangu"
+    },
+    {
+      "iata": "MFU",
+      "city": "Mfume"
+    },
+    {
+      "iata": "NLA",
+      "city": "Ndola"
+    }
+  ],
+  "Republic of Moldova": [
+    {
+      "iata": "KIV",
+      "city": "Chisinau"
+    }
+  ],
+  "Christmas Island": [
+    {
+      "iata": "XCH",
+      "city": "Christmas Island"
+    }
+  ],
+  "Bolivia": [
+    {
+      "iata": "CIJ",
+      "city": "Cobija"
+    },
+    {
+      "iata": "CBB",
+      "city": "Cochabamba"
+    },
+    {
+      "iata": "GYA",
+      "city": "Guayaramerin"
+    },
+    {
+      "iata": "LPB",
+      "city": "La Paz"
+    },
+    {
+      "iata": "PSZ",
+      "city": "Puerto Suarez"
+    },
+    {
+      "iata": "RIB",
+      "city": "Riberalta"
+    },
+    {
+      "iata": "VVI",
+      "city": "Santa Cruz"
+    },
+    {
+      "iata": "SRE",
+      "city": "Sucre"
+    },
+    {
+      "iata": "TJA",
+      "city": "Tarija"
+    },
+    {
+      "iata": "TDD",
+      "city": "Trinidad"
+    }
+  ],
+  "Cocos": [
+    {
+      "iata": "Keeling",
+      "city": "Cocos Islands"
+    }
+  ],
+  "Sri Lanka": [
+    {
+      "iata": "CMB",
+      "city": "Colombo"
+    }
+  ],
+  "Guinea": [
+    {
+      "iata": "CKY",
+      "city": "Conakry"
+    },
+    {
+      "iata": "LHW",
+      "city": "Lanzhau"
+    }
+  ],
+  "Ireland": [
+    {
+      "iata": "ORK",
+      "city": "Cork"
+    },
+    {
+      "iata": "CFN",
+      "city": "Donegal"
+    },
+    {
+      "iata": "DUB",
+      "city": "Dublin"
+    },
+    {
+      "iata": "GWY",
+      "city": "Galway"
+    },
+    {
+      "iata": "NOC",
+      "city": "Knock"
+    },
+    {
+      "iata": "SNN",
+      "city": "Shannon"
+    },
+    {
+      "iata": "SXL",
+      "city": "Sligo"
+    },
+    {
+      "iata": "WAT",
+      "city": "Waterford"
+    }
+  ],
+  "Portugal": [
+    {
+      "iata": "CVU",
+      "city": "Corvo Island"
+    },
+    {
+      "iata": "FAO",
+      "city": "Faro"
+    },
+    {
+      "iata": "FLW",
+      "city": "Flores Island"
+    },
+    {
+      "iata": "FNC",
+      "city": "Funchal"
+    },
+    {
+      "iata": "GRW",
+      "city": "Graciosa Island"
+    },
+    {
+      "iata": "HOR",
+      "city": "Horta"
+    },
+    {
+      "iata": "LIS",
+      "city": "Lisbon"
+    },
+    {
+      "iata": "PIX",
+      "city": "Pico Island"
+    },
+    {
+      "iata": "PDL",
+      "city": "Ponta Delgada"
+    },
+    {
+      "iata": "PXO",
+      "city": "Porto Santo"
+    },
+    {
+      "iata": "OPO",
+      "city": "Porto"
+    },
+    {
+      "iata": "SMA",
+      "city": "Santa Maria"
+    },
+    {
+      "iata": "TER",
+      "city": "Terceira Island"
+    }
+  ],
+  "Benin": [
+    {
+      "iata": "COC",
+      "city": "Cotarou"
+    }
+  ],
+  "Ecuador": [
+    {
+      "iata": "CUE",
+      "city": "Cuenca"
+    },
+    {
+      "iata": "ESM",
+      "city": "Esmeraldas"
+    },
+    {
+      "iata": "GPS",
+      "city": "Galapagos"
+    },
+    {
+      "iata": "GYE",
+      "city": "Guayaquil"
+    },
+    {
+      "iata": "LGQ",
+      "city": "Lago Agrio"
+    },
+    {
+      "iata": "LOH",
+      "city": "Loja"
+    },
+    {
+      "iata": "XMS",
+      "city": "Macas"
+    },
+    {
+      "iata": "MCH",
+      "city": "Machala"
+    },
+    {
+      "iata": "MEC",
+      "city": "Manta"
+    },
+    {
+      "iata": "PVO",
+      "city": "Portoviejo"
+    },
+    {
+      "iata": "UIO",
+      "city": "Quito"
+    },
+    {
+      "iata": "TUA",
+      "city": "Tulcan"
+    }
+  ],
+  "Senegal": [
+    {
+      "iata": "DKR",
+      "city": "Dakar"
+    }
+  ],
+  "Philipines": [
+    {
+      "iata": "DVO",
+      "city": "Davao"
+    }
+  ],
+  "Syria": [
+    {
+      "iata": "DEZ",
+      "city": "Deirezzor"
+    },
+    {
+      "iata": "LTK",
+      "city": "Latakia"
+    }
+  ],
+  "Bangledesh": [
+    {
+      "iata": "DAC",
+      "city": "Dhaka"
+    }
+  ],
+  "Vanuata": [
+    {
+      "iata": "DLY",
+      "city": "Dillons Bay"
+    },
+    {
+      "iata": "EAE",
+      "city": "Emae"
+    }
+  ],
+  "Tunisia": [
+    {
+      "iata": "DJE",
+      "city": "Djerba"
+    },
+    {
+      "iata": "GAF",
+      "city": "Gafsa"
+    },
+    {
+      "iata": "MIR",
+      "city": "Monastir"
+    },
+    {
+      "iata": "TBJ",
+      "city": "Tabarka"
+    },
+    {
+      "iata": "TOE",
+      "city": "Tozeur"
+    },
+    {
+      "iata": "TUN",
+      "city": "Tunis"
+    }
+  ],
+  "Djibouti": [
+    {
+      "iata": "JIB",
+      "city": "Djibouti"
+    }
+  ],
+  "Ukraine": [
+    {
+      "iata": "DNK",
+      "city": "Dnepropetrovsk"
+    },
+    {
+      "iata": "DOK",
+      "city": "Donetsk"
+    },
+    {
+      "iata": "IFO",
+      "city": "Ivano-Frankovsk"
+    },
+    {
+      "iata": "HRK",
+      "city": "Kharkov"
+    },
+    {
+      "iata": "IEV",
+      "city": "Kiev"
+    },
+    {
+      "iata": "KBP",
+      "city": "Kiev"
+    },
+    {
+      "iata": "KWG",
+      "city": "Krivoy Rog"
+    },
+    {
+      "iata": "LWO",
+      "city": "Lvov"
+    },
+    {
+      "iata": "MPW",
+      "city": "Mariupol"
+    },
+    {
+      "iata": "ODS",
+      "city": "Odessa"
+    },
+    {
+      "iata": "PLV",
+      "city": "Poltava"
+    },
+    {
+      "iata": "UDJ",
+      "city": "Uzhgorod"
+    },
+    {
+      "iata": "OZH",
+      "city": "Zaporozhye"
+    }
+  ],
+  "Qatar": [
+    {
+      "iata": "DOH",
+      "city": "Doha"
+    }
+  ],
+  "Dominica": [
+    {
+      "iata": "DCF",
+      "city": "Dominica"
+    },
+    {
+      "iata": "DOM",
+      "city": "Dominica"
+    }
+  ],
+  "Sudan": [
+    {
+      "iata": "DOG",
+      "city": "Dongola"
+    },
+    {
+      "iata": "ELF",
+      "city": "El Fasher"
+    },
+    {
+      "iata": "EBD",
+      "city": "El Obeid"
+    },
+    {
+      "iata": "EGN",
+      "city": "Geneina"
+    },
+    {
+      "iata": "MAK",
+      "city": "Malakai"
+    },
+    {
+      "iata": "MWE",
+      "city": "Merave"
+    },
+    {
+      "iata": "UYL",
+      "city": "Nyala"
+    },
+    {
+      "iata": "PZU",
+      "city": "Port Sudan"
+    },
+    {
+      "iata": "WHF",
+      "city": "Wadi Halfa"
+    },
+    {
+      "iata": "WUU",
+      "city": "Wau"
+    }
+  ],
+  "Cameroon": [
+    {
+      "iata": "DLA",
+      "city": "Dovala"
+    },
+    {
+      "iata": "GOV",
+      "city": "Garoua"
+    },
+    {
+      "iata": "MVR",
+      "city": "Marova"
+    },
+    {
+      "iata": "NGE",
+      "city": "Ngaoundere"
+    },
+    {
+      "iata": "YAO",
+      "city": "Yaounde"
+    }
+  ],
+  "Tajikistan": [
+    {
+      "iata": "DYU",
+      "city": "Dushanbe"
+    },
+    {
+      "iata": "LBD",
+      "city": "Khudzhand"
+    }
+  ],
+  "Mayotte": [
+    {
+      "iata": "DZA",
+      "city": "Dzaoudzi"
+    }
+  ],
+  "Dominician Republic": [
+    {
+      "iata": "EPS",
+      "city": "El Portillo/Samana"
+    }
+  ],
+  "Finland": [
+    {
+      "iata": "ENF",
+      "city": "Enontekio"
+    },
+    {
+      "iata": "HEL",
+      "city": "Helsinki"
+    },
+    {
+      "iata": "IVL",
+      "city": "Ivalo"
+    },
+    {
+      "iata": "JOE",
+      "city": "Joensuu"
+    },
+    {
+      "iata": "JYV",
+      "city": "Jyvaskyla"
+    },
+    {
+      "iata": "KAJ",
+      "city": "Kajaani"
+    },
+    {
+      "iata": "KTT",
+      "city": "Kittila"
+    },
+    {
+      "iata": "KUO",
+      "city": "Kuopio"
+    },
+    {
+      "iata": "KAO",
+      "city": "Kuusamo"
+    },
+    {
+      "iata": "LPP",
+      "city": "Lappeenranta"
+    },
+    {
+      "iata": "MHQ",
+      "city": "Mariehamn"
+    },
+    {
+      "iata": "MIK",
+      "city": "Mikkeli"
+    },
+    {
+      "iata": "OUL",
+      "city": "Oulu"
+    },
+    {
+      "iata": "POR",
+      "city": "Pori"
+    },
+    {
+      "iata": "RVN",
+      "city": "Rovaniemi"
+    },
+    {
+      "iata": "SVL",
+      "city": "Savonlinna"
+    },
+    {
+      "iata": "TMP",
+      "city": "Tampere"
+    },
+    {
+      "iata": "TKU",
+      "city": "Turku"
+    },
+    {
+      "iata": "VAA",
+      "city": "Vaasa"
+    },
+    {
+      "iata": "VRK",
+      "city": "Varkaus"
+    }
+  ],
+  "Cyprus": [
+    {
+      "iata": "ECN",
+      "city": "Ercan"
+    },
+    {
+      "iata": "LCA",
+      "city": "Larnaca"
+    },
+    {
+      "iata": "NIC",
+      "city": "Nicosia"
+    },
+    {
+      "iata": "PFO",
+      "city": "Paphos"
+    }
+  ],
+  "Faroe Islands": [
+    {
+      "iata": "FAE",
+      "city": "Faroe Islands"
+    }
+  ],
+  "Guatemala": [
+    {
+      "iata": "FRS",
+      "city": "Flores"
+    },
+    {
+      "iata": "GUA",
+      "city": "Guatemala City"
+    }
+  ],
+  "Martinique": [
+    {
+      "iata": "FDF",
+      "city": "Fort De France"
+    }
+  ],
+  "Gabon": [
+    {
+      "iata": "MVB",
+      "city": "Franceville"
+    },
+    {
+      "iata": "GAX",
+      "city": "Gamba"
+    },
+    {
+      "iata": "LBV",
+      "city": "Libreville"
+    },
+    {
+      "iata": "MKU",
+      "city": "Makokou"
+    },
+    {
+      "iata": "MFF",
+      "city": "Moanda"
+    },
+    {
+      "iata": "MJL",
+      "city": "Mouila"
+    },
+    {
+      "iata": "OMB",
+      "city": "Omboue"
+    },
+    {
+      "iata": "OYE",
+      "city": "Oyem"
+    },
+    {
+      "iata": "POG",
+      "city": "Port Gentil"
+    },
+    {
+      "iata": "RHO",
+      "city": "Rhodes"
+    },
+    {
+      "iata": "TCH",
+      "city": "Tchibanga"
+    }
+  ],
+  "Botswana": [
+    {
+      "iata": "FRW",
+      "city": "Francistown"
+    },
+    {
+      "iata": "GBE",
+      "city": "Gaborone"
+    },
+    {
+      "iata": "BBK",
+      "city": "Kasane"
+    },
+    {
+      "iata": "MUB",
+      "city": "Maun"
+    }
+  ],
+  "Sierra Leone": [
+    {
+      "iata": "FNA",
+      "city": "Freetown"
+    }
+  ],
+  "Tuvalu": [
+    {
+      "iata": "FUN",
+      "city": "Funafuti Atol"
+    }
+  ],
+  "Wallis and Futuna Islands": [
+    {
+      "iata": "FUT",
+      "city": "Futuna Island"
+    },
+    {
+      "iata": "WLS",
+      "city": "Wallis Island"
+    }
+  ],
+  "Cote D'Ivoire": [
+    {
+      "iata": "GGN",
+      "city": "Gagnoa"
+    }
+  ],
+  "Maldives": [
+    {
+      "iata": "GAN",
+      "city": "Gan Island"
+    },
+    {
+      "iata": "HAQ",
+      "city": "Hanimaadhoo"
+    },
+    {
+      "iata": "KDM",
+      "city": "Kaadedhdhoo"
+    },
+    {
+      "iata": "KDO",
+      "city": "Kadhonoo"
+    },
+    {
+      "iata": "MLE",
+      "city": "Male"
+    }
+  ],
+  "Occupied Palestinian Territory": [
+    {
+      "iata": "GZA",
+      "city": "Gaza City"
+    }
+  ],
+  "Guyana": [
+    {
+      "iata": "GEO",
+      "city": "Georgetown"
+    }
+  ],
+  "(GET": [
+    {
+      "iata": "GET",
+      "city": "Geraldton"
+    }
+  ],
+  "Gibraltar": [
+    {
+      "iata": "GIB",
+      "city": "Gibraltar"
+    }
+  ],
+  "Malta": [
+    {
+      "iata": "GZM",
+      "city": "Gozo"
+    },
+    {
+      "iata": "MLA",
+      "city": "Malta"
+    }
+  ],
+  "Cayman Islands": [
+    {
+      "iata": "GCM",
+      "city": "Grand Cayman"
+    }
+  ],
+  "Turks and Caicos Islands": [
+    {
+      "iata": "GDT",
+      "city": "Grand Turk Island"
+    },
+    {
+      "iata": "NCA",
+      "city": "North Caicos"
+    },
+    {
+      "iata": "PLS",
+      "city": "Providenciales"
+    },
+    {
+      "iata": "SLX",
+      "city": "Salt Cay"
+    },
+    {
+      "iata": "XSC",
+      "city": "South Caicos"
+    }
+  ],
+  "Austria": [
+    {
+      "iata": "GRZ",
+      "city": "Graz"
+    },
+    {
+      "iata": "INN",
+      "city": "Innsbruck"
+    },
+    {
+      "iata": "LNZ",
+      "city": "Linz"
+    },
+    {
+      "iata": "SZG",
+      "city": "Salzburg"
+    },
+    {
+      "iata": "VIE",
+      "city": "Vienna"
+    }
+  ],
+  "(GND": [
+    {
+      "iata": "GND",
+      "city": "Grenada"
+    }
+  ],
+  "Guam": [
+    {
+      "iata": "GUM",
+      "city": "Guam (GUM"
+    }
+  ],
+  "Armenia": [
+    {
+      "iata": "LWN",
+      "city": "Gyourmri"
+    },
+    {
+      "iata": "EVN",
+      "city": "Yerevan"
+    }
+  ],
+  "Tonga": [
+    {
+      "iata": "HPA",
+      "city": "HaApa"
+    },
+    {
+      "iata": "NFO",
+      "city": "Niuafo'ou"
+    },
+    {
+      "iata": "NTT",
+      "city": "Niuatoputapu"
+    },
+    {
+      "iata": "TBU",
+      "city": "Nuku'Alofa"
+    },
+    {
+      "iata": "VAV",
+      "city": "Vava'u"
+    }
+  ],
+  "Israel": [
+    {
+      "iata": "HFA",
+      "city": "Haifa"
+    },
+    {
+      "iata": "VDA",
+      "city": "Ovda"
+    },
+    {
+      "iata": "TLV",
+      "city": "Tel Aviv"
+    }
+  ],
+  "Somolia": [
+    {
+      "iata": "HGA",
+      "city": "Hargeisa"
+    }
+  ],
+  "Hong Kong": [
+    {
+      "iata": "HKG",
+      "city": "Hong Kong"
+    }
+  ],
+  "Horn": [
+    {
+      "iata": "HID",
+      "city": "Horn Island Australia (HID"
+    }
+  ],
+  "Laos": [
+    {
+      "iata": "HOE",
+      "city": "Houeisay"
+    },
+    {
+      "iata": "LXG",
+      "city": "Luang Namtha"
+    },
+    {
+      "iata": "LPQ",
+      "city": "Luang Prabang"
+    },
+    {
+      "iata": "ODY",
+      "city": "Oudomxay"
+    },
+    {
+      "iata": "PKZ",
+      "city": "Pakse"
+    },
+    {
+      "iata": "ZVK",
+      "city": "Savannakhet"
+    },
+    {
+      "iata": "ZBY",
+      "city": "Sayaboury"
+    },
+    {
+      "iata": "VTE",
+      "city": "Vientiane"
+    },
+    {
+      "iata": "XKH",
+      "city": "Xieng Khouang"
+    }
+  ],
+  "Canada": [
+    {
+      "iata": "YIV",
+      "city": "Island Lake/Garden Hill"
+    },
+    {
+      "iata": "YLC",
+      "city": "Kimmirut/Lake Harbour"
+    }
+  ],
+  "Jambi.": [
+    {
+      "iata": "DJB",
+      "city": "Jambi. Indonesia (DJB"
+    }
+  ],
+  "metro area": [
+    {
+      "iata": "CJU",
+      "city": "Jeju"
+    }
+  ],
+  "US Minor Outlying Islands": [
+    {
+      "iata": "JON",
+      "city": "Johnston Island"
+    },
+    {
+      "iata": "MDY",
+      "city": "Midway Island"
+    }
+  ],
+  "Afghanistan": [
+    {
+      "iata": "KBL",
+      "city": "Kabul"
+    }
+  ],
+  "Estonia": [
+    {
+      "iata": "KDL",
+      "city": "Kardia"
+    },
+    {
+      "iata": "TLL",
+      "city": "Tallinn"
+    }
+  ],
+  "Lithuania": [
+    {
+      "iata": "KUN",
+      "city": "Kaunas"
+    },
+    {
+      "iata": "PLQ",
+      "city": "Palanga"
+    },
+    {
+      "iata": "VNO",
+      "city": "Vilnius"
+    }
+  ],
+  "Rwanda": [
+    {
+      "iata": "KGL",
+      "city": "Kigali"
+    }
+  ],
+  "Jamaica": [
+    {
+      "iata": "KIN",
+      "city": "Kingston"
+    },
+    {
+      "iata": "KTP",
+      "city": "Kingston"
+    },
+    {
+      "iata": "MBJ",
+      "city": "Montego Bay"
+    },
+    {
+      "iata": "NEG",
+      "city": "Negril"
+    },
+    {
+      "iata": "OCJ",
+      "city": "Ocho Rios"
+    },
+    {
+      "iata": "POT",
+      "city": "Port Antonio"
+    }
+  ],
+  "Palau": [
+    {
+      "iata": "ROR",
+      "city": "Koror"
+    }
+  ],
+  "Papau New Guinea": [
+    {
+      "iata": "CMU",
+      "city": "Kundiawa"
+    }
+  ],
+  "Kuwait": [
+    {
+      "iata": "KWI",
+      "city": "Kuwait"
+    }
+  ],
+  "Dominican Republic": [
+    {
+      "iata": "LRM",
+      "city": "La Romana"
+    },
+    {
+      "iata": "POP",
+      "city": "Puerto Plata"
+    },
+    {
+      "iata": "PUJ",
+      "city": "Punta Cana"
+    },
+    {
+      "iata": "STI",
+      "city": "Santiago"
+    },
+    {
+      "iata": "HEX",
+      "city": "Santo Domingo"
+    },
+    {
+      "iata": "SDQ",
+      "city": "Santo Domingo"
+    }
+  ],
+  "Angola": [
+    {
+      "iata": "LAD",
+      "city": "Luanda"
+    },
+    {
+      "iata": "LAD",
+      "city": "Luanda"
+    }
+  ],
+  "Slovenia": [
+    {
+      "iata": "LJU",
+      "city": "Ljubliana"
+    },
+    {
+      "iata": "MBX",
+      "city": "Maribor"
+    }
+  ],
+  "Togo": [
+    {
+      "iata": "LFW",
+      "city": "Lome"
+    }
+  ],
+  "Svalbard & Jan Mayen Island": [
+    {
+      "iata": "LYR",
+      "city": "Longyearbyen"
+    }
+  ],
+  "Namibia": [
+    {
+      "iata": "LUD",
+      "city": "Luderitz"
+    },
+    {
+      "iata": "OKU",
+      "city": "Mokuti Lodge"
+    },
+    {
+      "iata": "MPA",
+      "city": "Mpacha"
+    },
+    {
+      "iata": "OND",
+      "city": "Ondangwa"
+    },
+    {
+      "iata": "OMD",
+      "city": "Oranjemund"
+    },
+    {
+      "iata": "SZM",
+      "city": "Sesriem"
+    },
+    {
+      "iata": "TSB",
+      "city": "Tsumeb"
+    },
+    {
+      "iata": "WVB",
+      "city": "Walvis Bay"
+    }
+  ],
+  "Luxembourg": [
+    {
+      "iata": "LUX",
+      "city": "Luxembourg"
+    }
+  ],
+  "Seychelles": [
+    {
+      "iata": "SEZ",
+      "city": "Mahe Island"
+    }
+  ],
+  "Equatorial Guinea": [
+    {
+      "iata": "SSG",
+      "city": "Malabo"
+    }
+  ],
+  "Nicaragua": [
+    {
+      "iata": "MGA",
+      "city": "Managua"
+    }
+  ],
+  "Swaziland": [
+    {
+      "iata": "MTS",
+      "city": "Manzini"
+    }
+  ],
+  "Chad": [
+    {
+      "iata": "AMO",
+      "city": "Mao"
+    },
+    {
+      "iata": "NDJ",
+      "city": "Ndjamena"
+    }
+  ],
+  "Lesotho": [
+    {
+      "iata": "MSU",
+      "city": "Maseru"
+    }
+  ],
+  "Mauritius": [
+    {
+      "iata": "MRU",
+      "city": "Mauritius"
+    },
+    {
+      "iata": "RRG",
+      "city": "Rodrigues Island"
+    }
+  ],
+  "Turks and Caicos": [
+    {
+      "iata": "MDS",
+      "city": "Middle Caicos"
+    }
+  ],
+  "Belarus": [
+    {
+      "iata": "MHP",
+      "city": "Minsk"
+    },
+    {
+      "iata": "MSQ",
+      "city": "Minsk"
+    },
+    {
+      "iata": "VTB",
+      "city": "Vitebsk"
+    }
+  ],
+  "Liberia": [
+    {
+      "iata": "ROB",
+      "city": "Monrovia"
+    }
+  ],
+  "Monaco": [
+    {
+      "iata": "MCM",
+      "city": "Monte Carlo"
+    }
+  ],
+  "Uruguay": [
+    {
+      "iata": "MVD",
+      "city": "Montevideo"
+    },
+    {
+      "iata": "PDP",
+      "city": "Punta Del Este"
+    }
+  ],
+  "Montserrat": [
+    {
+      "iata": "MNI",
+      "city": "Montserrat"
+    }
+  ],
+  "Comoros": [
+    {
+      "iata": "HAH",
+      "city": "Moroni"
+    }
+  ],
+  "Bosnia and Herzegovina": [
+    {
+      "iata": "OMO",
+      "city": "Mostar"
+    }
+  ],
+  "Falkland Islands": [
+    {
+      "iata": "MPN",
+      "city": "Mount Pleasant"
+    },
+    {
+      "iata": "PSY",
+      "city": "Port Stanley"
+    }
+  ],
+  "Oman": [
+    {
+      "iata": "MCT",
+      "city": "Muscat"
+    }
+  ],
+  "Nauru": [
+    {
+      "iata": "INU",
+      "city": "Nauru Island"
+    }
+  ],
+  "St. Kitts and Nevis": [
+    {
+      "iata": "NEV",
+      "city": "Nevis"
+    }
+  ],
+  "New": [
+    {
+      "iata": "GON",
+      "city": "New London/Groton (GON"
+    }
+  ],
+  "Australia - Belmont": [
+    {
+      "iata": "BEO",
+      "city": "Newcastle"
+    }
+  ],
+  "Niger": [
+    {
+      "iata": "NIM",
+      "city": "Niamey"
+    }
+  ],
+  "Niue": [
+    {
+      "iata": "IUE",
+      "city": "Niue Island"
+    }
+  ],
+  "Norfolk Island": [
+    {
+      "iata": "NLK",
+      "city": "Norfolk Island"
+    }
+  ],
+  "Macedonia": [
+    {
+      "iata": "OHD",
+      "city": "Ohrid"
+    },
+    {
+      "iata": "FYROM",
+      "city": "Skopie"
+    }
+  ],
+  "Indonedia": [
+    {
+      "iata": "OKQ",
+      "city": "Okaba"
+    }
+  ],
+  "Sweeden": [
+    {
+      "iata": "ORB",
+      "city": "Orebro"
+    }
+  ],
+  "Burkina Faso": [
+    {
+      "iata": "OUA",
+      "city": "Ouagadougou"
+    }
+  ],
+  "American Samoa": [
+    {
+      "iata": "PPG",
+      "city": "Pago Pago"
+    }
+  ],
+  "Suriname": [
+    {
+      "iata": "PBM",
+      "city": "Paramaribo"
+    },
+    {
+      "iata": "ORG",
+      "city": "Paramaribo"
+    }
+  ],
+  "Bhutan": [
+    {
+      "iata": "PBH",
+      "city": "Paro"
+    }
+  ],
+  "Micronesia": [
+    {
+      "iata": "PNI",
+      "city": "Pohnpei"
+    },
+    {
+      "iata": "TKK",
+      "city": "Truk"
+    },
+    {
+      "iata": "ULI",
+      "city": "Ulithi"
+    },
+    {
+      "iata": "YAP",
+      "city": "Yap"
+    }
+  ],
+  "Guadeloupe": [
+    {
+      "iata": "PTP",
+      "city": "Pointe-a-Pitre"
+    }
+  ],
+  "Trinidad": [
+    {
+      "iata": "POS",
+      "city": "Port of Spain"
+    }
+  ],
+  "North Korea": [
+    {
+      "iata": "FNJ",
+      "city": "Pyongyang"
+    }
+  ],
+  "Latvia": [
+    {
+      "iata": "RIX",
+      "city": "Riga"
+    },
+    {
+      "iata": "TIP",
+      "city": "Tripoli"
+    }
+  ],
+  "Northern Mariana Islands": [
+    {
+      "iata": "ROP",
+      "city": "Rota"
+    },
+    {
+      "iata": "SPN",
+      "city": "Saipan"
+    },
+    {
+      "iata": "TIQ",
+      "city": "Tinian"
+    }
+  ],
+  "U.S. Virgin Islands": [
+    {
+      "iata": "STX",
+      "city": "Saint Croix"
+    },
+    {
+      "iata": "STT",
+      "city": "Saint Thomas"
+    },
+    {
+      "iata": "STX",
+      "city": "St. Croix Island"
+    },
+    {
+      "iata": "STT",
+      "city": "St. Thomas Island"
+    }
+  ],
+  "ST. LUCIA": [
+    {
+      "iata": "SLU",
+      "city": "Saint Lucia"
+    }
+  ],
+  "San Marino": [
+    {
+      "iata": "SAI",
+      "city": "San Marino"
+    }
+  ],
+  "El Salvador": [
+    {
+      "iata": "SAL",
+      "city": "San Salvador"
+    }
+  ],
+  "Sao Tome and Principe": [
+    {
+      "iata": "TMS",
+      "city": "Sao Tome Is."
+    }
+  ],
+  "Singapore": [
+    {
+      "iata": "SIN",
+      "city": "Singapore"
+    },
+    {
+      "iata": "XSP",
+      "city": "Singapore"
+    }
+  ],
+  "Reunion": [
+    {
+      "iata": "RUN",
+      "city": "St Denis de la Reunion"
+    },
+    {
+      "iata": "ZSE",
+      "city": "St. Pierre de la Reunion"
+    }
+  ],
+  "St Kitts and Nevis": [
+    {
+      "iata": "SKB",
+      "city": "St Kitts"
+    }
+  ],
+  "St Pierre and Miquelon": [
+    {
+      "iata": "FSP",
+      "city": "St Pierre"
+    }
+  ],
+  "St. Lucia": [
+    {
+      "iata": "UVF",
+      "city": "St. Lucia"
+    },
+    {
+      "iata": "UVF",
+      "city": "St. Lucia"
+    }
+  ],
+  "Madagasca": [
+    {
+      "iata": "WTA",
+      "city": "Tambohorano"
+    }
+  ],
+  "Kiribati": [
+    {
+      "iata": "TRW",
+      "city": "Tarawa"
+    }
+  ],
+  "Spain and the Canary Islands": [
+    {
+      "iata": "TFS",
+      "city": "Tenerife"
+    }
+  ],
+  "Albania": [
+    {
+      "iata": "TIA",
+      "city": "Tirana"
+    }
+  ],
+  "Trinidad and Tobago": [
+    {
+      "iata": "TAB",
+      "city": "Tobago"
+    },
+    {
+      "iata": "POS",
+      "city": "Trinidad"
+    }
+  ],
+  "Mongolia": [
+    {
+      "iata": "ULN",
+      "city": "Ulaanbaatar"
+    },
+    {
+      "iata": "ULY",
+      "city": "Uliastai"
+    }
+  ],
+  "Greeland": [
+    {
+      "iata": "UMD",
+      "city": "Uummannaq"
+    }
+  ],
+  "BC": [
+    {
+      "iata": "YVR",
+      "city": "Vancouver"
+    }
+  ],
+  "Antigua & Barbuda": [
+    {
+      "iata": "ANU",
+      "city": "V.C. Bird International"
+    }
+  ]
+}

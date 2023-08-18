@@ -1,0 +1,28 @@
+Erwachsene und Studierende über 18 => max. 9 insgesamt
+Unter 18 (Jugendliche, Kinder, Kleinkinder, Kleinkinder2) => max. 7 insgesamt
+
+start_date, end_date = 2023-09-30 Format YYYY-MM-DD
+count_children_lap = maximal die Anzahl wie Erwachsene
+flight_stops = 0 (Nonstop); 1 (1 Stop); 2 (2+ Stops); -0 (1 & 2+ Stops); -1 (Nonstop & 2+ Stops); -2 (Nonstop & 1 Stop)
+transportation = transportation_plane (nur Flug); transportation_flight_train (Flug und Zug); transportation_flight_bus (Flug und Bus); transportation_flight_train_bus (Flug, Zug und Bus);
+					-{name_transportation} (alle außer angegebene Tranportation); transportation_plane, transportation_flight_train, ... (2 oder 4 Auswahl)
+
+HIN- und RÜCKFLUG
+https://www.kayak.de/flights/{start_iata}-{end_iata}/{start_date}/{end_date}
+																			/{count_adults}adults
+																			/{count_students}students
+																			/children-{count_children_seat}S-{count_children_lap}L-{"11"*count_children_11}-{"17"*count_children_17}
+																				?sort=bestflight_a
+																				&fs=stops={flight_stops}
+																				&fs=transportation={transportation}
+																				&fs=price=-{max_budget}
+
+HINFLUG
+https://www.kayak.de/flights/{start_iata}-{end_iata}/{start_date}
+																/{count_adults}adults
+																/{count_students}students
+																/children-{count_children_seat}S-{count_children_lap}L-{"11"*count_children_11}-{"17"*count_children_17}
+																	?sort=bestflight_a
+																	&fs=stops={flight_stops}
+																	&fs=transportation={transportation}
+																	&fs=price=-{max_budget}
