@@ -27,7 +27,7 @@ class Scraper:
         self.__iatacodes = IataCodes()
         self.__useragent = RUserAgent()
 
-        self.__webdriver_service = Service(binary_path)
+        self.__webdriver_service = Service()
 
         if self.__debug:
             print("Settings:", self.__settings)
