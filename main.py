@@ -88,10 +88,16 @@ def main():
 
     exceljob = ExcelWriter()
 
-    if len(data_end[0]) == 0:
+    if len(data_end) == 0:
         print(" > Sorry! no flights were found!")
 
         return
+    
+    else:
+        if len(data_end[0]) == 0:
+            print(" > Sorry! no flights were found!")
+
+            return
 
     print("\n > writing flightdata to excel")
 
