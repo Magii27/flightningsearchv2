@@ -10,7 +10,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import NoSuchElementException, WebDriverException
 from bs4 import BeautifulSoup
-from chromedriver_py import binary_path
 
 from iata import IataCodes
 from RUserAngent import RUserAgent
