@@ -305,10 +305,10 @@ class Scraper:
                 else:
                     stops = int(stops[:1])
                     if stops == 1:
-                        stops = str(stops) + " Stopp"
+                        stops = str(stops) + " Stop"
 
                     else:
-                        stops = str(stops) + " Stopps"
+                        stops = str(stops) + " Stops"
 
                 return_stops = stops_[1].text
                 if "dir" in return_stops or "Nonstop" in return_stops:
@@ -317,14 +317,38 @@ class Scraper:
                 else:
                     return_stops = int(return_stops[:1])
                     if return_stops == 1:
-                        return_stops = str(return_stops) + " Stopp"
+                        return_stops = str(return_stops) + " Stop"
 
                     else:
-                        return_stops = str(return_stops) + " Stopps"
+                        return_stops = str(return_stops) + " Stops"
 
                 traveltime_ = item.find_all("div", {"class": re.compile(regex_traveltime)})
                 traveltime = traveltime_[0].text
                 return_traveltime = traveltime_[1].text
+
+                if "h" in traveltime:
+                    hours = int(traveltime[:traveltime.find("h")])
+                    minutes = int(traveltime[traveltime.find(" ") + 1:traveltime.find("m")])
+
+                    return_hours = int(return_traveltime[:return_traveltime.find("h")])
+                    return_minutes = int(return_traveltime[return_traveltime.find(" ") + 1:return_traveltime.find("m")])
+
+                elif "u" in traveltime:
+                    hours = int(traveltime[:traveltime.find("u")])
+                    minutes = int(traveltime[traveltime.find(" ") + 1:traveltime.find("m")])
+
+                    return_hours = int(return_traveltime[:return_traveltime.find("u")])
+                    return_minutes = int(return_traveltime[return_traveltime.find(" ") + 1:return_traveltime.find("m")])
+
+                else: #  "Std." in traveltime:
+                    hours = int(traveltime[:traveltime.find(":")])
+                    minutes = int(traveltime[traveltime.find(":") + 1:traveltime.find(" Std.")])
+
+                    return_hours = int(return_traveltime[:return_traveltime.find(":")])
+                    return_minutes = int(return_traveltime[return_traveltime.find(":") + 1:return_traveltime.find(" Std.")])
+
+                traveltime = f"{hours}:{minutes:02d}h"
+                return_traveltime = f"{return_hours}:{return_minutes:02d}h"
 
                 time = item.find_all("div", {"class": re.compile(regex_time)})
                 # special character "–"
@@ -418,12 +442,25 @@ class Scraper:
                 else:
                     stops = int(stops[:1])
                     if stops == 1:
-                        stops = str(stops) + " Stopp"
+                        stops = str(stops) + " Stop"
 
                     else:
-                        stops = str(stops) + " Stopps"
+                        stops = str(stops) + " Stops"
 
                 traveltime = item.find("div", {"class": re.compile(regex_traveltime)}).text
+                if "h" in traveltime:
+                    hours = int(traveltime[:traveltime.find("h")])
+                    minutes = int(traveltime[traveltime.find(" ") + 1:traveltime.find("m")])
+
+                elif "u" in traveltime:
+                    hours = int(traveltime[:traveltime.find("u")])
+                    minutes = int(traveltime[traveltime.find(" ") + 1:traveltime.find("m")])
+
+                else: #  "Std." in traveltime:
+                    hours = int(traveltime[:traveltime.find(":")])
+                    minutes = int(traveltime[traveltime.find(":") + 1:traveltime.find(" Std.")])
+
+                traveltime = f"{hours}:{minutes:02d}h"
 
                 time = item.find("div", {"class": re.compile(regex_time)}).text
                 # special character "–"
