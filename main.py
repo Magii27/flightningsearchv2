@@ -69,10 +69,12 @@ def main():
                 count = 1
 
             time.sleep(1)
-
-    print("\n\n > closing all threads")
+    
     for i in range(len(th)):
         th[i].join()
+
+        if i == 0:
+            print("\n\n > closing all threads")
 
     data = list(queue_put.queue)
     del queue_put, queue_get
