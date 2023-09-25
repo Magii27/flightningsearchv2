@@ -6,7 +6,11 @@ def createCityInfo(dictionary):
     for iteration, key in enumerate(dictionary):
         print(iteration, key)
         for info in dictionary[key]:
-            data[info["city"]] = {"iata": info["iata"], "country": key}
+            if info["city"] not in data:
+                data[info["city"]] = {"iata": [info["iata"]], "country": key}
+
+            else:
+                data[info["city"]]["iata"].append(info["iata"])
 
     with open("city_info.json", "w") as file:
         file.write(json.dumps(data))
