@@ -45,9 +45,11 @@ class IataCodes:
 
     def getIataCodeByCity(self, city):
         return_list = []
+        
         for cityname in self.__city_info:
             if city in cityname:
-                return_list.append(self.__city_info[cityname]["iata"])
+                for item in self.__city_info[cityname]["iata"]:
+                    return_list.append(item)
 
         return -1 if len(return_list) == 0 else return_list
 
